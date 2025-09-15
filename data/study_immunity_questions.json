@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "text": "What are the four types of hypersensitivity reactions in immunology?",
+    "options": [
+      "Type I: IgE-mediated, Type II: Cytotoxic, Type III: Immune complex, Type IV: Delayed-type",
+      "Type I: Antibody-mediated, Type II: Cell-mediated, Type III: Complement, Type IV: Inflammatory",
+      "Type I: Acute, Type II: Chronic, Type III: Autoimmune, Type IV: Allergic",
+      "Type I: Humoral, Type II: Cellular, Type III: Mixed, Type IV: Innate"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The four types of hypersensitivity reactions are classified based on their underlying mechanisms: Type I (IgE-mediated immediate reactions), Type II (cytotoxic antibody-mediated), Type III (immune complex-mediated), and Type IV (delayed-type cell-mediated reactions)."
+  },
+  {
+    "id": 2,
+    "text": "Which of the following is a prototype disease for Type IV hypersensitivity?",
+    "options": [
+      "Anaphylaxis",
+      "Hemolytic anemia",
+      "Contact dermatitis",
+      "Serum sickness"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Contact dermatitis is the classic example of Type IV delayed-type hypersensitivity, which is T cell-mediated and typically occurs 24-48 hours after exposure to the allergen."
+  },
+  {
+    "id": 3,
+    "text": "What characterizes the pathophysiology of HIV infection?",
+    "options": [
+      "Progressive destruction of CD4+ T helper cells",
+      "Overproduction of antibodies",
+      "Inflammation of blood vessels",
+      "Autoimmune attack on joints"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "HIV specifically targets and destroys CD4+ T helper cells, which are crucial for coordinating the immune response. This leads to progressive immunodeficiency and increased susceptibility to opportunistic infections."
+  },
+  {
+    "id": 4,
+    "text": "Which autoantibodies are most commonly associated with Systemic Lupus Erythematosus (SLE) diagnosis?",
+    "options": [
+      "Anti-nuclear antibodies (ANA) and Anti-dsDNA",
+      "Rheumatoid factor and anti-CCP",
+      "Anti-mitochondrial and anti-smooth muscle",
+      "Anti-thyroid peroxidase and anti-thyroglobulin"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "SLE is characterized by the presence of anti-nuclear antibodies (ANA), particularly anti-double-stranded DNA (anti-dsDNA) antibodies, which are highly specific for SLE and correlate with disease activity and kidney involvement."
+  }
+]

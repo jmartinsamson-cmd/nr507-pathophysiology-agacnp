@@ -1,0 +1,69 @@
+{
+  "topics": {
+    "immunity": {
+      "title": "🛡️ Immunity & Inflammation",
+      "description": "Hypersensitivity reactions, HIV, SLE, immunodeficiencies",
+      "question_file": "data/study_immunity_questions.json",
+      "question_count": 4,
+      "key_concepts": [
+        "Four types of hypersensitivity reactions",
+        "HIV pathophysiology and progression",
+        "SLE autoantibodies and clinical symptoms",
+        "Primary vs secondary immunodeficiency",
+        "Common variable immunodeficiency"
+      ]
+    },
+    "hematology": {
+      "title": "🩸 Hematological Pathologies",
+      "description": "Anemias, blood cell production, lab markers",
+      "question_file": "data/study_hematology_questions.json",
+      "question_count": 4,
+      "key_concepts": [
+        "Microcytic, macrocytic, and normocytic anemias",
+        "Iron deficiency anemia pathophysiology",
+        "Sickle cell anemia and genetic basis",
+        "Role of erythropoietin in RBC production",
+        "Laboratory markers for anemia diagnosis"
+      ]
+    },
+    "cardiovascular": {
+      "title": "❤️ Cardiovascular Pathologies",
+      "description": "CAD, heart failure, valve disorders",
+      "question_file": "data/study_cardiovascular_questions.json",
+      "question_count": 4,
+      "key_concepts": [
+        "Coronary artery disease pathophysiology",
+        "Modifiable and non-modifiable CAD risk factors",
+        "Left vs right-sided heart failure",
+        "Heart failure staging (ACC/AHA)",
+        "Ejection fraction significance"
+      ]
+    },
+    "pulmonary": {
+      "title": "🫁 Pulmonary Pathologies",
+      "description": "Obstructive/restrictive disorders, asthma, COPD",
+      "question_file": "data/study_pulmonary_questions.json",
+      "question_count": 3,
+      "key_concepts": [
+        "Obstructive vs restrictive patterns",
+        "Chronic bronchitis pathophysiology",
+        "Emphysema and alveolar destruction",
+        "Asthma pathophysiology and management",
+        "Pulmonary function test interpretation"
+      ]
+    },
+    "urinary": {
+      "title": "🫀 Urinary System Pathologies",
+      "description": "UTIs, renal failure, BPH, incontinence",
+      "question_file": "data/study_urinary_questions.json",
+      "question_count": 4,
+      "key_concepts": [
+        "UTI pathophysiology and risk factors",
+        "Complicated vs uncomplicated UTIs",
+        "Acute kidney injury classification",
+        "Chronic kidney disease staging",
+        "Uremic syndrome manifestations"
+      ]
+    }
+  }
+}

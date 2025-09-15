@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "text": "What characterizes the pathophysiology of a urinary tract infection (UTI)?",
+    "options": [
+      "Viral infection of the bladder wall",
+      "Bacterial ascension from urethra to bladder causing inflammation",
+      "Autoimmune attack on kidney tissue",
+      "Obstruction of urine flow causing backup"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "UTIs typically occur when bacteria (most commonly E. coli) ascend from the urethra to the bladder, causing inflammation of the bladder wall (cystitis). Women are more susceptible due to shorter urethral length and proximity to anal opening."
+  },
+  {
+    "id": 2,
+    "text": "What distinguishes complicated from uncomplicated UTIs?",
+    "options": [
+      "Complicated UTIs occur in males; uncomplicated occur in females",
+      "Complicated UTIs involve structural/functional urinary tract abnormalities or immunocompromised hosts",
+      "Complicated UTIs require surgery; uncomplicated do not",
+      "Complicated UTIs are chronic; uncomplicated are acute"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Complicated UTIs occur in patients with structural or functional genitourinary abnormalities, immunosuppression, pregnancy, or in males. Uncomplicated UTIs occur in healthy, non-pregnant women with normal urinary tract anatomy and function."
+  },
+  {
+    "id": 3,
+    "text": "What is the pathophysiology of acute kidney injury (AKI)?",
+    "options": [
+      "Gradual loss of kidney function over months to years",
+      "Sudden decrease in kidney function occurring over hours to days",
+      "Inflammation of the bladder causing urinary symptoms",
+      "Obstruction of urine flow at the urethral level"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "AKI is characterized by a rapid decline in kidney function occurring over hours to days, leading to accumulation of waste products and fluid/electrolyte imbalances. It can be classified as prerenal, intrinsic (intrarenal), or postrenal based on the underlying cause."
+  },
+  {
+    "id": 4,
+    "text": "What characterizes uremic syndrome in chronic kidney disease?",
+    "options": [
+      "High blood pressure only",
+      "Multi-system symptoms due to accumulation of uremic toxins affecting cardiovascular, neurologic, and other systems",
+      "Kidney stones causing pain",
+      "Simple electrolyte imbalances"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Uremic syndrome occurs in advanced chronic kidney disease when accumulated uremic toxins affect multiple organ systems, causing cardiovascular complications, neurologic symptoms (uremic encephalopathy), gastrointestinal issues, bone disease, and bleeding disorders."
+  }
+]

@@ -1,0 +1,501 @@
+[
+  {
+    "id": 1,
+    "text": "What term is used to describe the capacity of some erythrocytes to vary in size, especially in relationship to some anemias?",
+    "options": [
+      "Poikilocytosis",
+      "Anisocytosis",
+      "Microcytosis"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Additional descriptors of erythrocytes associated with some anemias include anisocytosis (assuming various sizes) or poikilocytosis (assuming various shapes) (see Figure 28-1). The remaining terms are not associated with this condition."
+  },
+  {
+    "id": 2,
+    "text": "What is the fundamental physiologic manifestation of anemia?",
+    "options": [
+      "Hypotension",
+      "Hypoxia",
+      "Ischemia"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The fundamental physiologic manifestation of anemia is a reduced oxygen-carrying capacity of the blood, resulting in tissue hypoxia."
+  },
+  {
+    "id": 3,
+    "text": "The paresthesia that occurs in vitamin B12 deficiency anemia is a result of which of the following?",
+    "options": [
+      "Reduction in acetylcholine receptors in the postsynaptic nerves",
+      "Myelin degeneration in the spinal cord",
+      "Destruction of myelin in peripheral nerves",
+      "Altered function of neurons in the parietal lobe"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Effects on the nervous system can occur if a vitamin B12 deficiency causes the anemia. Myelin degeneration may occur with the resultant loss of fibers in the spinal cord, producing paresthesia (numbness), gait disturbances, extreme weakness, spasticity, and reflex abnormalities. This selection is the only option that accurately describes the cause of paresthesia in such anemias."
+  },
+  {
+    "id": 4,
+    "text": "Which of the following describes how the body compensates for anemia?",
+    "options": [
+      "Increasing rate and depth of breathing",
+      "Decreasing capillary vasoconstriction",
+      "Hemoglobin holding more firmly onto oxygen",
+      "Kidneys releasing more erythropoietin"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Tissue hypoxia creates additional demands and compensatory actions on the pulmonary and hematologic systems. The rate and depth of breathing increase in an attempt to increase the availability of oxygen. This selection is the only option that accurately describes the compensation mechanism in such anemias."
+  },
+  {
+    "id": 5,
+    "text": "Which of the following is classified as a megaloblastic anemia?",
+    "options": [
+      "Iron deficiency",
+      "Sideroblastic",
+      "Hemolytic"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Pernicious anemia is the most common type of megaloblastic anemia. The remaining options are not classified as megaloblastic anemias."
+  },
+  {
+    "id": 6,
+    "text": "Deficiencies in folate and vitamin B12 alter the synthesis of which of the following?",
+    "options": [
+      "RNA",
+      "DNA",
+      "Mitochondria"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Deficiencies in folate and vitamin B12 result in defective erythrocyte precursor DNA synthesis. These deficiencies are not associated with alterations of the other options."
+  },
+  {
+    "id": 7,
+    "text": "The underlying disorder of which anemia is a result of the defective secretion of the intrinsic factor, which is essential for the absorption of vitamin B12?",
+    "options": [
+      "Microcytic",
+      "Hypochromic",
+      "Hemolytic"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Vitamin B12 deficiency causes pernicious anemia, the most common type of megaloblastic anemia."
+  },
+  {
+    "id": 8,
+    "text": "After a person has a subtotal gastrectomy for chronic gastritis, which type of anemia will result?",
+    "options": [
+      "Iron deficiency",
+      "Folic acid",
+      "Pernicious"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "From the options available, only pernicious anemia is caused by vitamin B12 deficiency, which is often associated with the end-stage type A chronic atrophic gastritis."
+  },
+  {
+    "id": 9,
+    "text": "What causes the atrophy of gastric mucosal cells that result in pernicious anemia?",
+    "options": [
+      "Erythrocyte destruction",
+      "Vitamin B12 malabsorption",
+      "Poor nutritional intake"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Deficiency in intrinsic factor (IF) secretion may be congenital or may result from adult onset gastric mucosal atrophy and the destruction of parietal cells. In older adults, virtually all vitamin B12-deficiency anemia is caused by a failure of IF-related absorption. This selection is the only option that accurately identifies the cause of gastric mucosal cell atrophy."
+  },
+  {
+    "id": 10,
+    "text": "Which statement best describes a Schilling test?",
+    "options": [
+      "Administration of radioactive cobalamin and the measurement of its excretion in the urine to test for vitamin B12 deficiency",
+      "Measurement of antigen-antibody immune complexes in the blood to test for hemolytic anemia",
+      "Measurement of serum ferritin and total iron-binding capacity in the blood to test for iron deficiency anemia",
+      "Administration of folate and measurement in 2 hours of its level in a blood sample to test for folic acid deficiency anemia."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The Schilling test indirectly evaluates vitamin B12 absorption by administering radioactive B12 and measuring excretion in the urine. This selection is the only option that accurately describes a Schilling test."
+  },
+  {
+    "id": 11,
+    "text": "What is the treatment of choice for pernicious anemia (PA)?",
+    "options": [
+      "Cyanocobalamin by oral intake",
+      "Vitamin B12 by injection",
+      "Ferrous fumarate by Z-track injection",
+      "Folate by oral intake"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Replacement of vitamin B12 (cobalamin) is the treatment of choice for PA. Initial injections of vitamin B12 are administered weekly until the deficiency is corrected, followed by monthly injections for the remainder of the individual's life. The other options are not treatments for PA."
+  },
+  {
+    "id": 12,
+    "text": "Which condition resulting from untreated pernicious anemia (PA) is fatal?",
+    "options": [
+      "Brain hypoxia",
+      "Heart failure",
+      "Renal failure"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Of the options available, untreated PA is fatal, usually because of heart failure."
+  },
+  {
+    "id": 13,
+    "text": "How is the effectiveness of vitamin B12 therapy measured?",
+    "options": [
+      "Reticulocyte count",
+      "Hemoglobin",
+      "Serum vitamin B12"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The effectiveness of cobalamin replacement therapy is determined by a rising reticulocyte count. The other options are not used as indicators of the effectiveness of vitamin B12 therapy"
+  },
+  {
+    "id": 14,
+    "text": "Which statement about folic acid is false?",
+    "options": [
+      "Folic acid absorption is dependent on the enzyme folacin.",
+      "Folic acid is stored in the liver.",
+      "Folic acid is essential for RNA and DNA synthesis within erythrocytes.",
+      "Folic acid is absorbed in the upper small intestine."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Folic acid absorption is not dependent on the enzyme folacin. The other options are true statements regarding folic acid."
+  },
+  {
+    "id": 15,
+    "text": "Which anemia produces small, pale erythrocytes?",
+    "options": [
+      "Folic acid",
+      "Iron deficiency",
+      "Pernicious"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The microcytic-hypochromic anemias, which include iron deficiency anemia (IDA), are characterized by erythrocytes that are abnormally small and contain abnormally reduced amounts of hemoglobin. This description is not true of the other options."
+  },
+  {
+    "id": 16,
+    "text": "Which type of anemia is characterized by fatigue, weakness, and dyspnea, as well as conjunctiva of the eyes and brittle, concave nails?",
+    "options": [
+      "Pernicious",
+      "Aplastic",
+      "Hemolytic"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Early symptoms of iron deficiency anemia (IDA) include fatigue, weakness, and shortness of breath. Pale earlobes, palms, and conjunctivae (see Figure 28-4) are also common signs. Progressive IDA causes more severe alterations, with structural and functional changes apparent in epithelial tissue (see Figure 28-4). The nails become brittle, thin, coarsely ridged, and spoon-shaped or concave (koilonychia) as a result of impaired capillary circulation. The tongue becomes red, sore, and painful. These symptoms are not associated with the other options."
+  },
+  {
+    "id": 17,
+    "text": "What is the most common cause of iron deficiency anemia (IDA)?",
+    "options": [
+      "Decreased dietary intake",
+      "Vitamin deficiency",
+      "Autoimmune disease"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The most common cause of IDA in well-developed countries is pregnancy and chronic blood loss."
+  },
+  {
+    "id": 18,
+    "text": "Continued therapy of pernicious anemia (PA) generally lasts how long?",
+    "options": [
+      "6 to 8 weeks",
+      "Until the iron level is normal",
+      "The rest of one's life"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Because PA cannot be cured, maintenance therapy is a life-long endeavor."
+  },
+  {
+    "id": 19,
+    "text": "Sideroblastic anemia can occasionally result from an autosomal recessive transmission inherited from which relative?",
+    "options": [
+      "Mother",
+      "Grandfather",
+      "Grandmother"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "An occasional autosomal recessive transmission occurs only with mitochondrial mutations from the mother."
+  },
+  {
+    "id": 20,
+    "text": "Clinical manifestations of mild-to-moderate splenomegaly and hepatomegaly, bronze-colored skin, and cardiac dysrhythmias are indicative of which anemia?",
+    "options": [
+      "Iron deficiency",
+      "Sideroblastic",
+      "Aplastic"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Of the options available, only sideroblastic anemia exhibits mild-to-moderate enlargement of the spleen (splenomegaly) and liver (hepatomegaly), as well as abnormal skin pigmentation (bronze colored). Heart rhythm disturbances, along with congestive heart failure, are major life-threatening complications related to cardiac iron overload."
+  },
+  {
+    "id": 21,
+    "text": "Considering sideroblastic anemia, what would be the expected effect on the plasma iron levels?",
+    "options": [
+      "Plasma iron levels would be high.",
+      "Levels would be low.",
+      "Levels would be normal.",
+      "Levels would be only minimally affected."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Plasma iron levels would be high (see Table 28-3)."
+  },
+  {
+    "id": 22,
+    "text": "In aplastic anemia (AA), pancytopenia develops as a result of which of the following?",
+    "options": [
+      "Suppression of erythropoietin to produce adequate amounts of erythrocytes",
+      "Suppression of the bone marrow to produce adequate amounts of erythrocytes, leukocytes, and thrombocytes",
+      "Lack of DNA to form sufficient quantities of erythrocytes, leukocytes, and thrombocytes",
+      "Lack of stem cells to form sufficient quantities of leukocytes"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "AA is a critical condition characterized by pancytopenia, which is a reduction or absence of all three blood cell types, resulting from the failure or suppression of bone marrow to produce adequate amounts of blood cells. This selection is the only option that accurately identifies the cause of pancytopenia."
+  },
+  {
+    "id": 23,
+    "text": "What is the most common pathophysiologic process that triggers aplastic anemia (AA)?",
+    "options": [
+      "Autoimmune disease against hematopoiesis by activated cytotoxic T (Tc) cells",
+      "Malignancy of the bone marrow in which unregulated proliferation of erythrocytes crowd out other blood cells",
+      "Autoimmune disease against hematopoiesis by activated immunoglobulins",
+      "Inherited genetic disorder with recessive X-linked transmission"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Most cases of AA result from an autoimmune disease directed against hematopoietic stem cells. Tc cells appear to be the main culprits. None of the remaining options is considered a common trigger of AA."
+  },
+  {
+    "id": 24,
+    "text": "An allogenic bone marrow transplantation remains the preferred method for treating which anemia?",
+    "options": [
+      "Polycythemia vera",
+      "Sideroblastic",
+      "Anemia of chronic disease (ACD)"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Of the options available, bone marrow and, most recently, peripheral blood stem cell transplantation from a histocompatible sibling are the preferred treatments for the underlying bone marrow failure observed in aplastic anemias."
+  },
+  {
+    "id": 25,
+    "text": "Which statement is true regarding warm autoimmune hemolytic anemia?",
+    "options": [
+      "Warm autoimmune hemolytic anemia occurs primarily in men.",
+      "It is self-limiting and rarely produces hemolysis.",
+      "Erythrocytes are bound to macrophages and sequestered in the spleen.",
+      "Immunoglobulin M coats erythrocytes and binds them to receptors on monocytes."
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The immunoglobulin G–coated red blood cells bind to the Fc receptors on monocytes and splenic macrophages and are removed by phagocytosis. The other options are not true when considering this type of anemia."
+  },
+  {
+    "id": 26,
+    "text": "When considering hemolytic anemia, which statement is true regarding the occurrence of jaundice?",
+    "options": [
+      "Erythrocytes are destroyed in the spleen.",
+      "Heme destruction exceeds the liver's ability to conjugate and excrete bilirubin.",
+      "The patient has elevations in aspartate transaminase (AST) and alanine transaminase (ALT).",
+      "The erythrocytes are coated with an immunoglobulin."
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Jaundice (icterus) is present when heme destruction exceeds the liver's ability to conjugate and excrete bilirubin. This selection is the only option that accurately describes the process that affects the occurrence of hemolytic anemia–related jaundice."
+  },
+  {
+    "id": 27,
+    "text": "Erythrocyte life span of less than 120 days, ineffective bone marrow response to erythropoietin, and altered iron metabolism describe the pathophysiologic characteristics of which type of anemia?",
+    "options": [
+      "Aplastic",
+      "Anemia of chronic disease",
+      "Iron deficiency"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Anemia of chronic disease results from a combination of (1) decreased erythrocyte life span, (2) suppressed production of erythropoietin, (3) ineffective bone marrow erythroid progenitor response to erythropoietin, and (4) altered iron metabolism and iron sequestration in macrophages. This result is not true of the other options."
+  },
+  {
+    "id": 28,
+    "text": "What is the primary cause of the symptoms of polycythemia vera?",
+    "options": [
+      "Decreased erythrocyte count",
+      "Increased blood viscosity",
+      "Neurologic involvement"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "As polycythemia vera progresses, many of the symptoms are related to the increased blood cellularity and viscosity. No other option is the primary cause of the symptoms of polycythemia vera."
+  },
+  {
+    "id": 29,
+    "text": "Treatment for polycythemia vera involves which of the following?",
+    "options": [
+      "Therapeutic phlebotomy and radioactive phosphorus",
+      "Restoration of blood volume by plasma expanders",
+      "Administration of cyanocobalamin",
+      "Blood transfusions"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "In low-risk individuals, the recommended therapy is phlebotomy and low-dose aspirin, whereas radioactive phosphorus has been used to suppress erythropoiesis. The other options are not considered in the treatment of polycythemia vera."
+  },
+  {
+    "id": 30,
+    "text": "Considering iron replacement therapy prescribed for iron deficiency anemia, who is likely to require long-term daily maintenance dosage?",
+    "options": [
+      "A woman who has not yet experienced menopause",
+      "A teenager who is involved in strenuous athletics",
+      "A middle-aged man who smokes two packs of cigarettes a day",
+      "An older person demonstrating signs of dementia"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Menstruating women may need daily oral iron replacement therapy (325 mg/day) until menopause as a result of their menstrual blood loss. None of the other options are a chronic source of blood loss."
+  },
+  {
+    "id": 31,
+    "text": "Which statement is true regarding the physical manifestations of vitamin B12 deficiency anemia?",
+    "options": [
+      "Vitamin B12 deficiency anemia seldom results in neurologic symptoms.",
+      "The chances of a cure are good with appropriate treatment.",
+      "The condition is reversible in 75% of the cases.",
+      "Symptoms are a result of demyelination."
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "The neurologic manifestations characteristic of vitamin B12 deficiency anemia result from nerve demyelination that may produce neuronal death. These complications pose a serious threat because they are not reversible, even with appropriate treatment."
+  },
+  {
+    "id": 32,
+    "text": "A 2000 ml blood loss will produce which assessment finding?  a. Air hunger",
+    "options": [
+      "Normal blood pressure in the supine position",
+      "Rapid thready pulse",
+      "Cold clammy skin",
+      "lactic acidosis"
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "rationale": "With a 2000 ml loss of blood, central venous pressure, cardiac output, and arterial blood pressure are below normal, even when at rest and in the supine position. The person commonly has air hunger; a rapid, thready pulse; and cold, clammy skin. With a 1500 ml loss of blood, supine blood pressure and pulse can still be normal. Lactic acidosis is observed with a blood loss of 2500 ml or more."
+  },
+  {
+    "id": 33,
+    "text": "Which medications are associated with an intermediate increase in a person's risk for developing aplastic anemia?  a. Penicillin",
+    "options": [
+      "Chloramphenicol (Chloromycetin)",
+      "Phenytoin (Dilantin)",
+      "Trimethoprim-sulfamethoxazole (Bactrim)",
+      "Thiazides"
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "rationale": "Chloramphenicol (Chloromycetin), phenytoin (Dilantin), and trimethoprim-sulfamethoxazole (Bactrim) are associated with an intermediate increase in the risk of developing aplastic anemia. The other options are not associated with a rare increase in risk."
+  },
+  {
+    "id": 34,
+    "text": "Which conditions are generally included in the symptoms of pernicious anemia (PA)?  a. Weakness",
+    "options": [
+      "Weight gain",
+      "Low hemoglobin",
+      "Paresthesias",
+      "Low hematocrit"
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "rationale": "When the hemoglobin and hematocrit levels in the blood have significantly decreased, the individual experiences the classic symptoms of PA–weakness, fatigue, paresthesias of the feet and fingers, difficulty in walking, loss of appetite, abdominal pains, and weight loss."
+  },
+  {
+    "id": 35,
+    "text": "What are the clinical manifestations of folate deficiency anemia?  a. Constipation",
+    "options": [
+      "Flatulence",
+      "Dysphagia",
+      "Stomatitis",
+      "Cheilosis"
+    ],
+    "correct": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "rationale": "Specific symptoms of folate deficiency anemia include severe cheilosis (scales and fissures of the lips and corners of the mouth), stomatitis (inflammation of the mouth), and painful ulcerations of the buccal mucosa and tongue. Gastrointestinal symptoms may be present and include dysphagia (difficulty swallowing), flatulence, and watery diarrhea."
+  },
+  {
+    "id": 36,
+    "text": "Which diseases are commonly associated with anemia of chronic disease?",
+    "options": [
+      "Rheumatoid arthritis",
+      "Acquired immunodeficiency syndrome (AIDS)",
+      "Polycythemia vera",
+      "Systemic lupus erythematosus"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "rationale": "AIDS, rheumatoid arthritis, systemic lupus erythematosus, malaria, acute and chronic hepatitis, and chronic renal failure are commonly associated with anemias of chronic disease. Polycythemia vera is not associated with this form of anemia."
+  }
+]

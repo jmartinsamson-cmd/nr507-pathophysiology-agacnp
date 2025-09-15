@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "text": "What is the functional unit of the kidney called?",
+    "options": [
+      "Glomerulus",
+      "Collecting duct",
+      "Nephron",
+      "Pyramid"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The nephron is the functional unit of the kidney. Although the other options are also located in the kidney, they are not its functional units."
+  },
+  {
+    "id": 2,
+    "text": "Which cells have phagocytic properties similar to monocytes and contract like smooth muscles cells, thereby influencingNtUheRSgIlNoGmTeBru.ClaOrMfiltration rate?",
+    "options": [
+      "Principle cells",
+      "Mesangial cells",
+      "Podocin cells",
+      "Intercalated cells"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Mesangial cells and the mesangial matrix, secreted by mesangial cells, lie between and support the glomerular capillaries. Different mesangial cells contract like smooth muscle cells to regulate glomerular capillary blood flow. They also have phagocytic properties similar to monocytes. The other options are not capable of these functions."
+  },
+  {
+    "id": 3,
+    "text": "What part of the kidney controls renal blood flow, glomerular filtration, and renin secretion?",
+    "options": [
+      "Macula densa",
+      "Juxtaglomerular apparatus (JGA)",
+      "Visceral epithelium",
+      "Filtration slits"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Control of renal blood flow, glomerular filtration, and renin secretion occur at the JGA. Together, the juxtaglomerular cells and macula densa cells form the JGA. The control of renal blood flow, glomerular filtration, and renin secretion is not directed by any of the other options."
+  },
+  {
+    "id": 4,
+    "text": "Kidney stones in the upper part of the ureter would produce pain referred to which anatomical area?",
+    "options": [
+      "Vulva or penis",
+      "Thighs",
+      "Umbilicus",
+      "Lower abdomen"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Kidney stones in the upper part of the ureter would produce pain in the umbilicus. Sensory innervation for the upper part of the ureter arises from the tenth thoracic nerve roots with referred pain to the umbilicus. The other options would not experience such referred pain."
+  },
+  {
+    "id": 5,
+    "text": "Innervation of the bladder and internal urethral sphincter is supplied by which nerves?",
+    "options": [
+      "Peripheral nerves",
+      "Sympathetic nervous system",
+      "Parasympathetic fibers                  d.Tenth thoracic nerve roots"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The innervation of the bladder and internal urethral sphincter is supplied by parasympathetic fibers of the autonomic nervous system. The process is not dependent on any of the other options."
+  },
+  {
+    "id": 6,
+    "text": "How much urine accumulates in the bladder before the mechanoreceptors sense bladder fullness?",
+    "options": [
+      "75 to 100 ml",
+      "250 to 300 ml",
+      "100 to 150 ml",
+      "350 to 400 ml"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "When the bladder accumulates 250 to 300 ml of urine, it contracts and the internal urethral sphincter relaxes through activation of the spinal reflex arc (known as the micturition reflex)."
+  },
+  {
+    "id": 7,
+    "text": "What is the trigone?",
+    "options": [
+      "A smooth muscle that comprises the orifice of the ureter",
+      "The inner mucosal lining of the kidneys",
+      "A smooth triangular area between the openings of the two ureters and the urethra",
+      "One of the three divisions of the loop of Henle"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The trigone is a smooth triangular area lying between the openings of the two ureters and the urethra. The other options do not accurately identify the trigone."
+  },
+  {
+    "id": 8,
+    "text": "The glomerular filtration rate is directly related to which factor?",
+    "options": [
+      "Perfusion pressure in the glomerular capillaries",
+      "Diffusion rate in the renal cortex",
+      "Diffusion rate in the renal medulla",
+      "Glomerular active transport"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The filtration of the plasma per unit of time is known as the glomerular filtration rate (GFR), which is directly related to only the perfusion pressure in the glomerular capillaries."
+  },
+  {
+    "id": 9,
+    "text": "On average, what percent of cardiac output do the kidneys receive?",
+    "options": [
+      "10% to 20%",
+      "20% to 25%",
+      "15% to 20%",
+      "30% to 35%"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The kidneys are highly vascular organs and usually receive 1000 to 1200 ml of blood per minute, or approximately 20% to 25% of the cardiac output."
+  },
+  {
+    "id": 10,
+    "text": "What effects do exercise and body position have on renal blood flow?",
+    "options": [
+      "Exercise and body position activate renal parasympathetic neurons and cause mild vasoconstriction.",
+      "They activate renal sympathetic neurons and cause mild vasoconstriction.",
+      "Both activate renal parasympathetic neurons and cause mild vasodilation.",
+      "They activate renal sympathetic neurons and cause mild vasodilation."
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Exercise and change of body position activate renal sympathetic neurons and cause mild vasoconstriction. The other options do not have these effects on renal blood flow."
+  },
+  {
+    "id": 11,
+    "text": "When renin is released, it is capable of which action?",
+    "options": [
+      "Inactivation of autoregulation",
+      "Direct activation of angiotensin II",
+      "Direct release of antidiuretic hormone (ADH)",
+      "Formation of angiotensin I"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "When renin is released, it cleaves an -globulin (angiotensinogen produced by liver hepatocytes) in the plasma to form angiotensin I."
+  },
+  {
+    "id": 12,
+    "text": "What effect do natriuretic peptides have during heart failure when the heart dilates?",
+    "options": [
+      "Stimulates antidiuretic hormones.",
+      "Stimulates renin and aldosterone.",
+      "Inhibits antidiuretic hormones.",
+      "Inhibits renin and aldosterone."
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Natriuretic peptides inhibit renin and aldosterone during heart failure when the heart dilates. These make up a group of peptide hormones, including atrial natriuretic peptide (ANP), secreted from myocardial cells in the atria and brain natriuretic peptide (BNP) secreted from myocardial cells in the cardiac ventricles. When the heart dilates during volume expansion or heart failure, ANP and BNP inhibit sodium and water absorption by kidney tubules, inhibit the secretion of renin and aldosterone, vasodilate the afferent arterioles, and constrict the efferent arterioles. The result is increased urine formation, leading to decreased blood volume and blood pressure."
+  },
+  {
+    "id": 13,
+    "text": "What is the direct action of atrial natriuretic hormone?",
+    "options": [
+      "Sodium retention",
+      "Water retention",
+      "Sodium excretion",
+      "Water excretion"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Atrial natriuretic peptide (ANP) and brain natriuretic peptide (BNP) inhibit the secretion of renin, inhibit angiotensin-induced secretion of aldosterone, vasodilate the afferent and constrict the efferent glomerular arterioles, and inhibit sodium and water absorption by kidney tubules. The other actions are not a result of the atrial natriuretic hormone."
+  },
+  {
+    "id": 14,
+    "text": "What term is used to identify the movement of fluids and solutes from the tubular lumen to the peritubular capillary plasma?",
+    "options": [
+      "Tubular secretion",
+      "Tubular reabsorption",
+      "Ultrafiltration",
+      "Tubular excretion"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Tubular reabsorption is the movement of fluids and solutes from the tubular lumen to the peritubular capillary plasma. This selection is the only option that correctly identifies the process."
+  },
+  {
+    "id": 15,
+    "text": "How high does the plasma glucose have to be before the threshold for glucose is achieved?",
+    "options": [
+      "126 mg/dl",
+      "180 mg/dl",
+      "150 mg/dl",
+      "200 mg/dl"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "When the plasma glucose reaches 180 mg/dl, as occurs in the individual with uncontrolled diabetes mellitus, the threshold for glucose is achieved."
+  },
+  {
+    "id": 16,
+    "text": "Which hormone is required for water to be reabsorbed in the distal tubule and collecting duct?",
+    "options": [
+      "Antidiuretic hormone",
+      "Cortisol",
+      "Aldosterone",
+      "Adrenocorticotropin hormone"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Antidiuretic hormone is required for water to be reabsorbed in the distal tubule and collecting duct. The later, straight segment of the distal tubule and the collecting duct are permeable to water as controlled by antidiuretic hormone. The other options are not involved in this process."
+  },
+  {
+    "id": 17,
+    "text": "Which glycoprotein protects against urolithiasis and is a ligand for lymphokines?",
+    "options": [
+      "Uromodulin",
+      "Urodilatin",
+      "Nephrin                   d.Cystatin"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Tamm-Horsfall glycoprotein, also known as uromodulin, is the most abundant urinary protein, protects against bacterial adhesion and urolithiasis, and is a ligand for lymphokines. This statement is not true of the other options."
+  },
+  {
+    "id": 18,
+    "text": "What is the end-product of protein metabolism that is excreted in urine?",
+    "options": [
+      "Glucose",
+      "Bile",
+      "Ketones",
+      "Urea"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Of the options available, only urea is an end-product of protein metabolism and is the major constituent of urine along with water."
+  },
+  {
+    "id": 19,
+    "text": "What is the action of urodilatin?",
+    "options": [
+      "Urodilatin causes vasoconstriction of afferent arterioles.",
+      "It causes vasodilation of the efferent arterioles.",
+      "Urodilatin inhibits antidiuretic hormone secretion.",
+      "It inhibits salt and water reabsorption."
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Urodilatin (a natriuretic peptide) inhibits sodium and water reabsorption from the medullary part of collecting duct, thereby producing diuresis. It is not involved in the actions described by the other options."
+  },
+  {
+    "id": 20,
+    "text": "The concentration of the final urine is determined by antidiuretic hormone (ADH), which is secreted by which gland?",
+    "options": [
+      "Posterior pituitary",
+      "Parathyroid",
+      "Thyroid",
+      "Anterior pituitary"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "ADH, which is secreted from the posterior pituitary gland, controls the concentration of the final urine. ADH is not secreted by any of the other options."
+  },
+  {
+    "id": 21,
+    "text": "Which statement is true regarding urodilatin?",
+    "options": [
+      "Urodilatin inhibits sodium chloride and water reabsorption in the medullary part of the collecting duct.",
+      "It inhibits antidiuretic hormone (ADH) to prevent water reabsorption in the medullary part of the collecting duct.",
+      "Urodilatin is stimulated by a rise in blood pressure and an increase in extracellular volume.",
+      "It is stimulated by a fall in blood pressure and a decrease in extracellular volume."
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "When the circulating volume and NinUcRreSaINseGdTbBl.oCoOdMpressure are increased, the distal tubule and collecting duct produces urodilatin (a natriuretic peptide). Urodilatin inhibits sodium and water reabsorption from the medullary part of collecting duct, thereby producing diuresis."
+  },
+  {
+    "id": 22,
+    "text": "What substance stimulates renal hydroxylation in the process of producing vitamin D?",
+    "options": [
+      "Erythropoietin",
+      "Calcitonin",
+      "Thyroid hormone",
+      "Parathyroid hormone"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Parathyroid hormone stimulates renal hydroxylation in the process of producing vitamin D. The first step occurs in the liver with hydroxylation at the 25th carbon (calcifediol); the second step in hydroxylation occurs at the first carbon position in the kidneys. The other options are not involved in this process."
+  },
+  {
+    "id": 23,
+    "text": "Which hormone is synthesized and secreted by the kidneys?",
+    "options": [
+      "Antidiuretic hormone",
+      "Erythropoietin",
+      "Aldosterone",
+      "Angiotensinogen"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Erythropoietin is produced by the fetal liver and in the adult kidney and is essential for normal erythropoiesis. This statement is not true of the other options."
+  },
+  {
+    "id": 24,
+    "text": "What provides the best estimate of the functioning of renal tissue?",
+    "options": [
+      "Glomerular filtration rate",
+      "Hourly urine output",
+      "Serum blood urea nitrogen and creatinine",
+      "The specific gravity of the solute concentration of the urine"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The glomerular filtration rate provides the best estimate of the level of functioning of renal tissue. The other options are not used to assess renal tissue function."
+  },
+  {
+    "id": 25,
+    "text": "Which renal change is found in older adults?",
+    "options": [
+      "Sharp decline in glomerular filtration rate",
+      "Sharp decline in renal blood flow",
+      "Decrease in the number of nephrons",
+      "Decrease in urine output"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "With aging, the number of nephrons decreases. The other options are not necessarily related to aging."
+  },
+  {
+    "id": 26,
+    "text": "Compared with a younger individual, how is the specific gravity of urine in older adults affected?",
+    "options": [
+      "Specific gravity of urine in older adults is increased.",
+      "Specific gravity of urine in older adults is considered high normal.",
+      "Specific gravity of urine in older adults is considered low normal.",
+      "Specific gravity of urine in older adults is decreased."
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The specific gravity of the urine in older individuals tends to be on the low side of normal."
+  },
+  {
+    "id": 27,
+    "text": "What process allows the kidney to respond to an increase in workload?",
+    "options": [
+      "Glomerular filtration",
+      "Secretion of 1,25-dihydroxyvitamin D3",
+      "Increased heart rate",
+      "Compensatory hypertrophy"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Compensatory hypertrophy allows the kidney to respond to an increase in workload throughout life. The remaining options are not relevant to accommodating an increased workload."
+  },
+  {
+    "id": 28,
+    "text": "Which process makes it possible for ureters to be transplanted successfully?",
+    "options": [
+      "Compensatory hypertrophy",
+      "Peristalsis",
+      "Erythropoietin secretion",
+      "Collateral circulation"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Peristalsis is the process which makes it possible for ureters to be transplanted successfully. This process is maintained even when the ureter is denervated. The remaining options are not relevant to transplant success."
+  }
+]

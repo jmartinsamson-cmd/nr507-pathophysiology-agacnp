@@ -1,0 +1,604 @@
+[
+  {
+    "id": 1,
+    "text": "Hypersensitivity is best defined as a(an):",
+    "options": [
+      "Disturbance in the immunologic tolerance of self-antigens",
+      "Immunologic reaction of one person to the tissue of another person",
+      "Altered immunologic response to an antigen that results in disease",
+      "Undetectable immune response in the presence of antigens"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Hypersensitivity is an altered immunologic response to an antigen that results in disease or damage to the host. The other options are not accurate definitions of hypersensitivity."
+  },
+  {
+    "id": 2,
+    "text": "A hypersensitivity reaction that produces an allergic response is called:",
+    "options": [
+      "Hemolytic shock",
+      "Anaphylaxis",
+      "Necrotizing vasculitis",
+      "Systemic erythematosus"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Examples of systemic anaphylaxis are allergic reactions to beestings, peanuts, and fish. The other options are not accurate examples of hypersensitivity."
+  },
+  {
+    "id": 3,
+    "text": "The common hay fever allergy is expressed through a reaction that is mediated by which class of immunoglobulins?",
+    "options": [
+      "IgE",
+      "IgG",
+      "IgM",
+      "T cells"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Type I reactions are mediated by antigen-specific IgE and the products of tissue mast cells. The most common allergies (e.g., pollen allergies) are type I reactions. In addition, most type I reactions occur against environmental antigens and are therefore allergic. The other options do not accurately identify the mediation factor related to hay fever."
+  },
+  {
+    "id": 4,
+    "text": "Which type of antibody is involved in type I hypersensitivity reaction?",
+    "options": [
+      "IgA",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Type I reactions are only mediated by antigen-specific IgE and the products of tissue mast cells."
+  },
+  {
+    "id": 5,
+    "text": "Blood transfusion reactions are an example of:",
+    "options": [
+      "Autoimmunity",
+      "Alloimmunity",
+      "Homoimmunity",
+      "Hypersensitivity"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Only alloimmunity (also termed isoimmunity) occurs when the immune system of one individual produces an immunologic reaction against tissues of another individual."
+  },
+  {
+    "id": 6,
+    "text": "During an IgE-mediated hypersensitivity reaction, which leukocyte is activated?",
+    "options": [
+      "Neutrophils",
+      "Monocytes",
+      "Eosinophils",
+      "T lymphocytes"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Of the options provided, only eosinophils are activated during IgE-mediated hypersensitivity reactions."
+  },
+  {
+    "id": 7,
+    "text": "During an IgE-mediated hypersensitivity reaction, what causes bronchospasm?",
+    "options": [
+      "Bronchial edema caused by the chemotactic factor of anaphylaxis",
+      "Bronchial edema caused by binding of the cytotropic antibody",
+      "Smooth muscle contraction caused by histamine bound to H1 receptors",
+      "Smooth muscle contraction caused by histamine bound to H2 receptors"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "During an IgE-mediated hypersensitivity reaction, only smooth muscle contraction caused by histamine bound to H1 receptors results in bronchospasms."
+  },
+  {
+    "id": 8,
+    "text": "During an IgE-mediated hypersensitivity reaction, the degranulation of mast cells is a result of which receptor action?",
+    "options": [
+      "Histamine bound to H2",
+      "Chemotactic factor binding to the receptor",
+      "Epinephrine bound to mast cells",
+      "Acetylcholine bound to mast cells"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Histamine bound to H2 results in the degranulation of mast cells during an IgE-mediated hypersensitivity reaction. The other options do not cause this reaction."
+  },
+  {
+    "id": 9,
+    "text": "What characteristic do atopic individuals have that make them genetically predisposed to develop allergies?",
+    "options": [
+      "Greater quantities of histamine",
+      "More histamine receptors",
+      "Greater quantities of IgE",
+      "A deficiency in epinephrine"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Atopic individuals tend to produce higher quantities of IgE and to have more crystalline fragment (Fc) receptors for IgE on their mast cells. The other options do not cause this reaction."
+  },
+  {
+    "id": 10,
+    "text": "What is the mechanism that results in type II hypersensitivity reactions?",
+    "options": [
+      "Antibodies coat mast cells by binding to receptors that signal its degranulation, followed by a discharge of preformed mediators.",
+      "Antibodies bind to soluble antigens that were released into body fluids, and the immune complexes are then deposited in the tissues.",
+      "Cytotoxic T lymphocytes or lymphokine-producing helper T 1 cells directly attack and destroy cellular targets.",
+      "Antibodies bind to the antigens on the cell surface."
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "The mechanism that results in a type II hypersensitivity reaction begins with antibody binding to tissue-specific antigens or antigens that have attached to particular tissues. The cell can be destroyed by antibody IgG or IgM and activation of the complement cascade through the classical pathway."
+  },
+  {
+    "id": 11,
+    "text": "When mismatched blood is administered causing an ABO incompatibility, the erythrocytes are destroyed by:",
+    "options": [
+      "Complement-mediated cell lysis",
+      "Phagocytosis by macrophages",
+      "Phagocytosis in the spleen",
+      "Natural killer cells"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Erythrocytes are destroyed by complement-mediated lysis in individuals with autoimmune hemolytic anemia or as a result of an alloimmune reaction to ABO-mismatched transfused blood cells. The other options are not involved in an ABO incompatibility reaction."
+  },
+  {
+    "id": 12,
+    "text": "When antibodies are formed against red blood cell antigens of the Rh system, the blood cells are destroyed by:",
+    "options": [
+      "Complement-mediated cell lysis",
+      "Phagocytosis by macrophages",
+      "Phagocytosis in the spleen",
+      "Neutrophil granules and toxic oxygen products"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Antibodies against platelet-specific antigens or against red blood cell antigens of the Rh system coat those cells at low density, resulting in their preferential removal by phagocytosis in the spleen, rather than by complement-mediated lysis. The other options do not cause this reaction."
+  },
+  {
+    "id": 13,
+    "text": "When soluble antigens from infectious agents enter circulation, tissue damage is a result of:",
+    "options": [
+      "Complement-mediated cell lysis",
+      "Phagocytosis by macrophages",
+      "Phagocytosis in the spleen",
+      "Neutrophil granules and toxic oxygen products"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Of the options available, only the components of neutrophil granules damage the tissue."
+  },
+  {
+    "id": 14,
+    "text": "How are target cells destroyed in a type II hypersensitivity reaction?",
+    "options": [
+      "Complement-mediated cell lysis",
+      "Phagocytosis by macrophages",
+      "Neutrophil granules and toxic oxygen products",
+      "Natural killer cells"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "The mechanism that results in a type II hypersensitivity reaction involves a subpopulation of cytotoxic cells that are not antigen specific (natural killer [NK] cells). Antibody on the target cell is recognized by Fc receptors on the NK cells, which releases toxic substances that destroy the target cell. The other options do not cause the destruction of target cells related to a type II hypersensitivity reaction."
+  },
+  {
+    "id": 15,
+    "text": "Graves disease (hyperthyroidism) is an example of which type II hypersensitivity reaction?",
+    "options": [
+      "Modulation",
+      "Antibody-dependent cell-mediated cytotoxicity",
+      "Neutrophil-mediated damage",
+      "Complement-mediated lysis"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The antibody reacts with the receptors on the target cell surface and modulates the function of the receptor by preventing interactions with their normal ligands, replacing the ligand and inappropriately stimulating the receptor or destroying the receptor. For example, in the hyperthyroidism (excessive thyroid activity) of Graves disease, autoantibody binds to and activates receptors for thyroid-stimulating hormone (TSH) (a pituitary hormone that controls the production of the hormone thyroxine by the thyroid). The other options are not examples of type II hypersensitivity reactions."
+  },
+  {
+    "id": 16,
+    "text": "Type III hypersensitivity reactions are a result of which of the following?",
+    "options": [
+      "Antibodies coating mast cells by binding to receptors that signal its degranulation, followed by the discharge of preformed mediators",
+      "Antibodies binding to soluble antigens that were released into body fluids and the immune complexes being deposited in the tissues",
+      "Tc cells or lymphokine-producing Th1 cells directly attacking and destroying cellular targets",
+      "Antibodies binding to the antigen on the cell surface"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Antigen-antibody (immune) complexes that are formed in the circulation and then deposited later in vessel walls or extravascular tissues cause most type III hypersensitivity diseases. The other options do not cause this type of reaction."
+  },
+  {
+    "id": 17,
+    "text": "A type IV hypersensitivity reaction causes which result?",
+    "options": [
+      "Antibodies coating mast cells by binding to receptors that signal its degranulation, followed by the discharge of preformed mediators",
+      "Antibodies binding to soluble antigens that were released into body fluids and the immune complexes being deposited in the tissues",
+      "Lymphokine-producing Th1 cells directly attacking and destroying cellular targets",
+      "Antibodies binding to the antigen on the cell surface"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Types I, II, and III hypersensitivity reactions are mediated by antibody, type IV reactions are mediated by T lymphocytes and do not involve antibody. Type IV mechanisms occur through either Tc cells or lymphokine-producing Th1 cells. Tc cells directly attack and destroy cellular targets."
+  },
+  {
+    "id": 18,
+    "text": "In a type III hypersensitivity reaction, the harmful effects after the immune complexes that are deposited in tissues are a result of:",
+    "options": [
+      "Cytotoxic T cells",
+      "Natural killer cells",
+      "Complement activation",
+      "Degranulation of mast cells"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Complement activation, particularly through the generation of chemotactic factors for neutrophils, causes the harmful effects of immune complex deposition. The neutrophils bind to antibody and C3b contained in the complexes and attempt to ingest the immune complexes. Type III hypersensitivity reactions as described are not the result of any of the other options."
+  },
+  {
+    "id": 19,
+    "text": "Raynaud phenomenon is classified as a type III hypersensitivity reaction and is due to:",
+    "options": [
+      "Immune complexes that are deposited in capillary beds, blocking circulation",
+      "Mast cells that are bound to specific endothelial receptors, causing them to degranulate and creating a localized inflammatory reaction that occludes capillary circulation",
+      "Cytotoxic T cells that attack and destroy the capillaries so that they are unable to perfuse local tissues",
+      "Antibodies that detect the capillaries as foreign protein and destroy them using lysosomal enzymes and toxic oxygen species"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Raynaud phenomenon is a condition caused by the temperature-dependent deposition of immune complexes in the capillary beds of the peripheral circulation. None of the other options are involved in causing this condition."
+  },
+  {
+    "id": 20,
+    "text": "Deficiencies in which element can produce depression of both B- and T-cell function?",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Iodine",
+      "Magnesium"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Of the options available, only deficient zinc intake can profoundly depress T- and B-cell function."
+  },
+  {
+    "id": 21,
+    "text": "When the maternal immune system becomes sensitized against antigens expressed by the fetus, what reaction occurs?",
+    "options": [
+      "T-cell immunity",
+      "Alloimmunity",
+      "Fetal immunity",
+      "Autoimmunity"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Alloimmunity occurs when an individual's immune system reacts against antigens on the tissues of other members of the same species. Sensitization against fetal antigens is not the cause of any other available option."
+  },
+  {
+    "id": 22,
+    "text": "Tissue damage caused by the deposition of circulating immune complexes containing an antibody against the host DNA is the cause of which disease?",
+    "options": [
+      "Hemolytic anemia",
+      "Pernicious anemia",
+      "Systemic lupus erythematosus",
+      "Myasthenia gravis"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Only the deposition of circulating immune complexes containing an antibody against the host DNA produce tissue damage in individuals with systemic lupus erythematosus (SLE)."
+  },
+  {
+    "id": 23,
+    "text": "Why does tissue damage occur in acute rejection after organ transplantation?",
+    "options": [
+      "Th1 cells release cytokines that activate infiltrating macrophages, and cytotoxic T cells directly attack the endothelial cells of the transplanted tissue.",
+      "Circulating immune complexes are deposited in the endothelial cells of transplanted tissue, where the complement cascade lyses tissue.",
+      "Receptors on natural killer cells recognize antigens on the cell surface of transplanted tissue, which releases lysosomal enzymes that destroy tissue.",
+      "Antibodies coat the surface of transplanted tissue to which mast cells bind and liberate preformed chemical mediators that destroy tissue."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The recipient's lymphocytes interacting with the donor's dendritic cells within the transplanted tissue usually initiate sensitization, resulting in the induction of recipient Th1 and Tc cells against the donor's antigens. The Th1 cells release cytokines that activate infiltrating macrophages, and the Tc cells directly attack the endothelial cells in the transplanted tissue. The other options do not accurately describe how acute rejection after organ transplantation results in tissue damage."
+  },
+  {
+    "id": 24,
+    "text": "Which blood cell carries the carbohydrate antigens for blood type?",
+    "options": [
+      "Platelets",
+      "Neutrophils",
+      "Lymphocytes",
+      "Erythrocytes"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "The reaction that causes a blood transfusion recipient's red blood cells to clump together is related to the ABO antigens located on the surface of only erythrocytes."
+  },
+  {
+    "id": 25,
+    "text": "A person with type O blood is likely to have high titers of which anti-antibodies?",
+    "options": [
+      "A",
+      "B",
+      "A and B",
+      "O"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Type O individuals have neither A or B antigen but have both anti-A and anti-B antibodies and therefore cannot accept blood from any of the other three types."
+  },
+  {
+    "id": 26,
+    "text": "Which class of immunoglobulins forms isohemagglutinins?",
+    "options": [
+      "IgA",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Naturally occurring antibodies, called isohemagglutinins, are immunoglobulins of only the IgM class."
+  },
+  {
+    "id": 27,
+    "text": "Which component of the immune system is deficient in individuals with infections caused by viruses, fungi, or yeast?",
+    "options": [
+      "Natural killer cells",
+      "Macrophages",
+      "B cells",
+      "T cells"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Of the available options, deficiencies in T-cell immune responses are suggested when certain viruses (e.g., varicella, vaccinia, herpes, cytomegalovirus), fungi, and yeasts (e.g., Candida, Histoplasma) or certain atypical microorganisms (e.g., Pneumocystis jiroveci) cause recurrent infections."
+  },
+  {
+    "id": 28,
+    "text": "In which primary immune deficiency is there a partial-to-complete absence of T-cell immunity?",
+    "options": [
+      "Bruton disease",
+      "DiGeorge syndrome",
+      "Reticular dysgenesis",
+      "Adenosine deaminase deficiency"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The principal immunologic defect in DiGeorge syndrome is the partial or complete absence of T-cell immunity. The other options are not the result of either a partial or complete absence of T-cell immunity."
+  },
+  {
+    "id": 29,
+    "text": "How many months does it take for the newborn to be sufficiently protected by antibodies produced by its own B cells?",
+    "options": [
+      "1 to 2",
+      "4 to 5",
+      "6 to 8",
+      "10 to 12"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "By 6 to 8 months, the newborn should be efficiently protected by antibodies produced by its own B cells."
+  },
+  {
+    "id": 30,
+    "text": "Considering the effects of nutritional deficiencies on the immune system, severe deficits in calories and protein lead to deficiencies in the formation of which immune cells?",
+    "options": [
+      "B cells",
+      "T cells",
+      "Natural killer cells",
+      "Neutrophils"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Severe deficits in calorie or protein intake lead to deficiencies in T-cell function and numbers. The other options are not necessarily affected."
+  },
+  {
+    "id": 31,
+    "text": "Urticaria are a manifestation of which type of hypersensitivity reaction?",
+    "options": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Urticaria, or hives, is a dermal (skin) manifestation of only type I allergic reactions."
+  },
+  {
+    "id": 32,
+    "text": "Graves disease is a result of:",
+    "options": [
+      "Increased levels of circulating immunoglobulins",
+      "The infiltration of the thyroid with T lymphocytes",
+      "Autoantibodies binding to thyroid-stimulating hormone (TSH)-receptor sites",
+      "Exposure to acetylates in substances such as rubber"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "In the hyperthyroidism (excessive thyroid activity) of Graves disease, autoantibody binds to and activates receptors for TSH (a pituitary hormone that controls the production of the hormone thyroxine by the thyroid). The other options do not accurately describe the cause of Graves disease."
+  },
+  {
+    "id": 33,
+    "text": "Raynaud phenomenon is an example of which type of hypersensitivity?",
+    "options": [
+      "IV",
+      "III",
+      "II",
+      "I"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The characteristics of serum sickness are observed in only systemic type III autoimmune diseases such as Raynaud phenomenon."
+  },
+  {
+    "id": 34,
+    "text": "Which statement is true concerning an atopic individual?",
+    "options": [
+      "They tend to produce less IgE.",
+      "They tend to produce more Fc receptors.",
+      "They tend to attract very few mast cells.",
+      "They tend to produce very high levels of IgM."
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Atopic individuals tend to produce higher quantities of IgE and have more Fc receptors for IgE on their mast cells. The other available options are not true."
+  },
+  {
+    "id": 35,
+    "text": "Which statement is true regarding immunodeficiency?",
+    "options": [
+      "Immunodeficiency is generally not present in other family members.",
+      "Immunodeficiency is never acquired; rather, it is congenital.",
+      "Immunodeficiency is almost immediately symptomatic.",
+      "Immunodeficiency is a result of a postnatal mutation."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Generally, the mutations are sporadic and not inherited; a family history exists in only approximately 25% of individuals. The sporadic mutations occur before birth, but the onset of symptoms may be early or later, depending on the particular syndrome. The immunodeficiency can be either congenital or acquired."
+  },
+  {
+    "id": 36,
+    "text": "A person with type O blood is considered to be the universal blood donor because type O blood contains which of the following?",
+    "options": [
+      "No antigens",
+      "No antibodies",
+      "Both A and B antigens",
+      "Both A and B antibodies"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Because individuals with type O blood lack both types of antigens, they are considered universal donors, meaning that anyone can accept their red blood cells. Type O individuals, who have neither A or B antigen but have both anti-A and anti-B antibodies, cannot accept blood from any of the other three types."
+  },
+  {
+    "id": 37,
+    "text": "Immunoglobulin E (IgE) is associated with which type of hypersensitivity reaction?",
+    "options": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Hypersensitivity reactions have been divided into four distinct types: type I (IgE-mediated) hypersensitivity reactions, type II (tissue-specific) hypersensitivity reactions, type III (immune complex-mediated) hypersensitivity reactions, and type IV (cell-mediated) hypersensitivity reactions."
+  },
+  {
+    "id": 38,
+    "text": "Graves disease is an autoimmune disease that results in which maternal antibody?",
+    "options": [
+      "Binding with receptors for neural transmitters on muscle cells, causing neonatal muscular weakness",
+      "Affecting the receptor for TSH, causing neonatal hyperthyroidism",
+      "Inducing anomalies in the fetus or causing pregnancy loss",
+      "Destroying platelets in the fetus and neonate"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Graves disease is an autoimmune disease in which maternal antibody against the receptor for TSH causes neonatal hyperthyroidism. Myasthenia gravis is an autoimmune disease in which maternal antibody binds with receptors for neural transmitters on muscle cells (acetylcholine receptors), causing neonatal muscular weakness. Systemic lupus erythematosus is an autoimmune disease in which diverse maternal autoantibodies induce anomalies (e.g., congenital heart defects) in the fetus or cause pregnancy loss. Immune thrombocytopenic purpura causes both autoimmune and alloimmune variants to occur, during which maternal antiplatelet antibody destroys platelets in the fetus and neonate."
+  },
+  {
+    "id": 39,
+    "text": "When a tuberculin skin test is positive, the hard center and erythema surrounding the induration are a result of which of the following?",
+    "options": [
+      "Histamine",
+      "T lymphocytes",
+      "Immune complexes",
+      "Products of complement",
+      "Macrophages"
+    ],
+    "correct": [
+      1,
+      4
+    ],
+    "rationale": "The reaction site is infiltrated with only T lymphocytes and macrophages, resulting in a clear hard center (induration) and a reddish surrounding area (erythema)."
+  },
+  {
+    "id": 40,
+    "text": "Exposure to which of the following could result in a type IV hypersensitivity reaction?",
+    "options": [
+      "Poison ivy",
+      "Nickel",
+      "Dairy products",
+      "Neomycin",
+      "Detergents"
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "rationale": "Allergens that primarily elicit type IV allergic hypersensitivities include plant resins (e.g., poison ivy, poison oak); metals (e.g., nickel, chromium); acetylates and chemicals in rubber, cosmetics, detergents; and topical antibiotics (e.g., neomycin)."
+  },
+  {
+    "id": 41,
+    "text": "Which disorders are considered autoimmune?",
+    "options": [
+      "Crohn disease",
+      "Addison disease",
+      "Rheumatoid arthritis",
+      "Systemic lupus erythematosus",
+      "Noninsulin-dependent diabetes"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "rationale": "Crohn disease, Addison disease, rheumatoid arthritis, and systemic lupus erythematosus are all diseases that result from autoimmune pathologic conditions. Insulin-dependent diabetes is also an autoimmune disorder, but noninsulin-dependent diabetes is not."
+  },
+  {
+    "id": 42,
+    "text": "Which statements best define acute rejection?",
+    "options": [
+      "Acute rejection is a cell-mediated immune response.",
+      "Acute rejection is usually a type III rejection.",
+      "Immunosuppressive drugs delay or lessen the intensity of an acute rejection.",
+      "Acute rejection is associated with the body's response to an organ transplant.",
+      "Acute rejection is a response against unmatched human leukocyte antigens (HLAs)."
+    ],
+    "correct": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "rationale": "Acute rejection is primarily a cell-mediated immune response that occurs within days to months after transplantation. This type of rejection occurs when the recipient develops an immune response against unmatched HLAs after transplantation. A biopsy of the rejected organ usually shows an infiltration of lymphocytes and macrophages characteristic of a type IV reaction. Immunosuppressive drugs may delay or lessen the intensity of an acute rejection."
+  }
+]

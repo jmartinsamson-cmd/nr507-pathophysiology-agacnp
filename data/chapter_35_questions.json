@@ -1,0 +1,436 @@
+[
+  {
+    "id": 1,
+    "text": "What pulmonary defense mechanism propels a mucous blanket that entraps particles moving toward the oropharynx?",
+    "options": [
+      "Nasal turbinates",
+      "Cilia",
+      "Alveolar macrophages",
+      "Irritant receptors on the nares"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The submucosal glands of the bronchial lining produce mucus, contributing to the mucous blanket that covers the bronchial epithelium. The ciliated epithelial cells rhythmically beat this mucous blanket toward the trachea and pharynx, where it can be swallowed or expectorated by coughing. This selection is the only option that accurately identifies the pulmonary defense mechanism described."
+  },
+  {
+    "id": 2,
+    "text": "Which term is used to identify the movement of gas and air into and out of the lungs?",
+    "options": [
+      "Perfusion",
+      "Respiration",
+      "Ventilation",
+      "Diffusion"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Of the options available, ventilation is the only term used to identify the mechanical movement of gas or air into and out of the lungs."
+  },
+  {
+    "id": 3,
+    "text": "When an individual aspirates food particles, where would the nurse expect to hear decreased or absent breath sounds?",
+    "options": [
+      "Left lung",
+      "Trachea",
+      "Right lung",
+      "Carina"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The right mainstem bronchus extends from the trachea more vertically than the left main bronchus; therefore aspirated fluids or foreign particles tend to enter the right lung rather than the left or any of the other locations listed."
+  },
+  {
+    "id": 4,
+    "text": "Air passage among alveoli is collateral and evenly distributed because of the function of which structures?",
+    "options": [
+      "Type I alveolar cells",
+      "Acinus pores",
+      "Pores of Kohn",
+      "Alveolar pores"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Tiny passages called pores of Kohn permit some air to pass through the septa from alveolus to alveolus, promoting collateral ventilation and even distribution of air among the alveoli. This selection is the only option that accurately describes the function that allows air passage among alveoli."
+  },
+  {
+    "id": 5,
+    "text": "Where in the lung does gas exchange occur?",
+    "options": [
+      "Trachea",
+      "Alveolocapillary membrane",
+      "Segmental bronchi",
+      "Main bronchus"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Gas exchange occurs only across the alveolocapillary membrane."
+  },
+  {
+    "id": 6,
+    "text": "Surfactant produced by type II alveolar cells facilitates alveolar distention and ventilation by which mechanism?",
+    "options": [
+      "Decreasing thoracic compliance",
+      "Attracting water to the alveolar surface",
+      "Decreasing surface tension in the alveoli",
+      "Increasing surface tension in the alveoli"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Surfactant, a lipoprotein produced by type II alveolar cells, has a detergent-like effect that separates the liquid molecules, thereby decreasing alveolar surface tension. This selection is the only option that accurately describes the mechanism that allows surfactant to facilitate alveolar distention and ventilation."
+  },
+  {
+    "id": 7,
+    "text": "Which part of the brainstem provides basic automatic rhythm of respiration by sending efferent impulses to the diaphragm and intercostal muscles?",
+    "options": [
+      "Dorsal respiratory group (DRG)",
+      "Pneumotaxic center",
+      "Ventral respiratory group",
+      "Apneustic center"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The basic automatic rhythm of respiration is set by the DRG, a cluster of inspiratory nerve cells located in the medulla that sends efferent impulses to the diaphragm and inspiratory intercostal muscles. This selection is the only option that accurately identifies the appropriate brainstem location."
+  },
+  {
+    "id": 8,
+    "text": "Which structures secrete surfactant?",
+    "options": [
+      "Type I alveolar cells",
+      "Alveolar macrophages",
+      "Type II alveolar cells",
+      "Stretch receptors"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Two major types of epithelial cells appear in the alveolus. Type I alveolar cells provide structure, and type II alveolar cells secrete surfactant, a lipoprotein that coats the inner surface of the alveolus and facilitates its expansion during inspiration, lowers alveolar surface tension at end-expiration, and thereby prevents lung collapse. Neither alveolar macrophages nor stretch receptors secrete surfactant."
+  },
+  {
+    "id": 9,
+    "text": "Which structure is not associated with any lymphatic vessels?",
+    "options": [
+      "Trachea",
+      "Acinus",
+      "Bronchi",
+      "Terminal bronchioles"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "No lymphatic structures are located in the acinus. The other options are associated with lymphatic vessels."
+  },
+  {
+    "id": 10,
+    "text": "Which describes the pressure in the pleural space?",
+    "options": [
+      "Atmospheric",
+      "Above atmospheric",
+      "Below atmospheric",
+      "Variable"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Pressure in the pleural space is usually negative or subatmospheric (-4 to -10 mm Hg). This selection is the only option that accurately describes pleural space pressure."
+  },
+  {
+    "id": 11,
+    "text": "The adequacy of a person’s alveolar ventilation is assessed best by monitoring which mechanism?",
+    "options": [
+      "Ventilatory rate",
+      "Respiratory effort",
+      "Ventilatory pattern",
+      "Arterial blood gas"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Observation of the ventilatory rate, pattern, or effort cannot determine the adequacy of alveolar ventilation. If a health care professional needs to determine the adequacy of ventilation, then an arterial blood gas analysis must be performed to measure partial pressure of arterial carbon dioxide (PaCO2)."
+  },
+  {
+    "id": 12,
+    "text": "Which normal physiologic change occurs in the aging pulmonary system?",
+    "options": [
+      "Decreased flow resistance",
+      "Stiffening of the chest wall",
+      "Fewer alveoli",
+      "Improved elastic recoil"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Normal alterations include (1) loss of elastic recoil, (2) stiffening of the chest wall, (3) alterations in gas exchange, and (4) increases in flow resistance (see Figure 34-18). The number of alveoli is not affected by age."
+  },
+  {
+    "id": 13,
+    "text": "How is most of the oxygen in the blood transported?",
+    "options": [
+      "Dissolved in plasma",
+      "In the form of carbon dioxide (CO2)",
+      "Bound to hemoglobin",
+      "Bound to protein"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Oxygen is transported in the blood in two forms. A small amount dissolves in plasma, and the remainder binds to hemoglobin molecules. The other options are not involved in this process."
+  },
+  {
+    "id": 14,
+    "text": "Which substances cause airway epithelium to constrict?",
+    "options": [
+      "Epinephrine and acetylcholine",
+      "Bradykinin and thromboxane A",
+      "Histamine and prostaglandin",
+      "Leukotrienes and prostacyclin"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Constriction occurs if the irritant receptors in the airway epithelium are stimulated by irritants in inspired air, by endogenous substances (e.g., histamine, serotonin, prostaglandins), by many drugs, and by humoral substances. Of the options available, only histamine and prostaglandin cause constriction."
+  },
+  {
+    "id": 15,
+    "text": "If a patient develops acidosis, the nurse would expect the oxyhemoglobin dissociation curve to react in which manner?",
+    "options": [
+      "Shift to the right, causing more oxygen (O2) to be released to the cells",
+      "Shift to the left, allowing less O2 to be released to the cells",
+      "Show no change, allowing the O2 concentration to remain stable",
+      "Show dramatic fluctuation, allowing the O2 concentration to increase"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "A shift to the right depicts hemoglobin’s decreased affinity for O2 or an increase in the ease with which oxyhemoglobin dissociates and O2 moves into the cells. The oxyhemoglobin dissociation curve is shifted to the right by acidosis (low pH) and hypercapnia (increased partial pressure of arterial carbon dioxide [PaCO2]). This selection is the only option that accurately identifies what will happen to the oxyhemoglobin dissociation curve if acidosis occurs."
+  },
+  {
+    "id": 16,
+    "text": "How is most carbon dioxide (CO2) in the blood transported?",
+    "options": [
+      "Attached to oxygen",
+      "Combined with albumin",
+      "In the form of bicarbonate",
+      "Dissolved in the plasma"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Approximately 60% of the CO2 in venous blood and 90% of the CO2 in arterial blood are carried in the form of bicarbonate."
+  },
+  {
+    "id": 17,
+    "text": "The sternocleidomastoid and scalene muscles are referred to as which group?",
+    "options": [
+      "Diaphragmatic muscles",
+      "Intercostal muscles",
+      "Muscles of expiration",
+      "Muscles of inspiration"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The accessory muscles of inspiration are the sternocleidomastoid and scalene muscles. These muscles are not associated with the other options."
+  },
+  {
+    "id": 18,
+    "text": "An increase in surface tension caused by decreased surfactant production results in which alteration?",
+    "options": [
+      "Decrease in alveolar macrophage production",
+      "Increase in lung compliance",
+      "Decrease in alveoli collapse",
+      "Increase in alveoli fluid collection"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "The decrease in surface tension caused by surfactant is also responsible for keeping the alveoli free of fluid. In the absence of surfactant, the surface tension tends to attract fluid into the alveoli. If surfactant production is disrupted or surfactant is not produced in adequate quantities, then the alveolar surface tension increases, causing alveolar collapse, decreased lung expansion, increased work of breathing, and severe gas-exchange abnormalities. The decrease in surface tension caused by surfactant is also responsible for keeping the alveoli free of fluid. The remaining options are not associated with decreased surfactant production."
+  },
+  {
+    "id": 19,
+    "text": "Decreased lung compliance means that the lungs are demonstrating which characteristic?",
+    "options": [
+      "Difficult deflation",
+      "Stiffness",
+      "Easy inflation",
+      "Inability to diffuse oxygen"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "A decrease in compliance indicates that the lungs or chest wall is abnormally stiff or difficult to inflate. This selection is the only option that accurately identifies the meaning of decreased compliance."
+  },
+  {
+    "id": 20,
+    "text": "The lung is innervated by the parasympathetic nervous system via which nerve?",
+    "options": [
+      "Vagus",
+      "Brachial",
+      "Phrenic",
+      "Pectoral"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Fibers of the parasympathetic division of the autonomic nervous system (ANS) travel only in the vagus nerve to the lung."
+  },
+  {
+    "id": 21,
+    "text": "What event is characteristic of the function in Zone 1 of the lung?",
+    "options": [
+      "Blood flow through the pulmonary capillary bed increases in regular increments.",
+      "Alveolar pressure is greater than venous pressure but not greater than arterial pressure.",
+      "The capillary bed collapses, and normal blood flow ceases.",
+      "Blood flows through Zone 1, but it is impeded to a certain extent by alveolar pressure."
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Alveolar pressure exceeds pulmonary arterial and venous pressures in Zone 1. The capillary bed collapses, and normaNlUbRloSoINdGfTloBw.COceMases. Zone II is the portion where alveolar pressure is greater than venous pressure but not greater than arterial pressure. Blood flows through zone II, but it is impeded to a certain extent by alveolar pressure. Zone II is normally above the level of the left atrium. In zone III, arterial and venous pressures are greater than alveolar pressure and blood flow is not affected by alveolar pressure. Zone III is in the base of the lung. Blood flow through the pulmonary capillary bed increases in regular increments from the apex to the base."
+  },
+  {
+    "id": 22,
+    "text": "Hypoventilation that results in the retention of carbon dioxide will stimulate which receptors in an attempt to maintain a normal homeostatic state?",
+    "options": [
+      "Irritant receptors",
+      "Peripheral chemoreceptors",
+      "Central chemoreceptors",
+      "Stretch receptors"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Central chemoreceptors indirectly monitor arterial blood by sensing changes in the pH of cerebrospinal fluid (CSF). The central chemoreceptors are sensitive to very small changes in the pH of CSF (equivalent to a 1 to 2 mm Hg change in partial pressure of carbon dioxide [PCO2]) and are able to maintain a normal partial pressure of arterial carbon dioxide (PaCO2) under many different conditions, including strenuous exercise. This selection is the only option that accurately identifies the receptors that are associated with the retention of carbon dioxide."
+  },
+  {
+    "id": 23,
+    "text": "What is the most important cause of pulmonary artery constriction?",
+    "options": [
+      "Low alveolar partial pressure of arterial oxygen (PaO2)",
+      "Hyperventilation",
+      "Respiratory alkalosis",
+      "Epinephrine"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The most important cause of pulmonary artery constriction is a low alveolar PaO2."
+  },
+  {
+    "id": 24,
+    "text": "Where does the tracheal bifurcation occur?",
+    "options": [
+      "Larynx",
+      "Carina",
+      "Bronchi",
+      "Nasopharynx"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The trachea, which is supported by U-shaped cartilage, connects the larynx to the bronchi, the conducting airways of the lungs. The trachea divides into the two main airways, or bronchi, at the carina (see Figure 34-1). The division occurs only at the carina."
+  },
+  {
+    "id": 25,
+    "text": "How low must the partial pressure of arterial oxygen (PaO2) drop before the peripheral chemoreceptors influence ventilation?",
+    "options": [
+      "Below 100 mm Hg",
+      "Below 70 mm Hg",
+      "Below 80 mm Hg",
+      "Below 60 mm Hg"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The PaO2 must drop well below normal (to approximately 60 mm Hg) before the peripheral chemoreceptors have much influence on ventilation."
+  },
+  {
+    "id": 26,
+    "text": "Which receptors are located in the smooth muscles of airways?",
+    "options": [
+      "Central chemoreceptors",
+      "Peripheral chemoreceptors",
+      "Stretch receptors",
+      "J-receptors"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Of the options available, only the stretch receptors are located in the smooth muscles of airways."
+  },
+  {
+    "id": 27,
+    "text": "Which receptors are located near the respiratory center?",
+    "options": [
+      "Peripheral chemoreceptors",
+      "Central chemoreceptors",
+      "Stretch receptors",
+      "J-receptors"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Of the options available, only the central chemoreceptors are located near the respiratory center."
+  },
+  {
+    "id": 28,
+    "text": "Which receptors are located in the aortic bodies, aortic arch, and carotid bodies?",
+    "options": [
+      "Central chemoreceptors",
+      "J-receptors",
+      "Stretch receptors",
+      "Peripheral chemoreceptors"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Of the options available, only the peripheral chemoreceptors are located in the aortic bodies, aortic arch, and carotid bodies at the bifurcation of the carotids, near the baroreceptors."
+  },
+  {
+    "id": 29,
+    "text": "What is the purpose of the spirometry measurement?",
+    "options": [
+      "To evaluate the cause of hypoxia",
+      "To measure the volume and flow rate during forced expiration",
+      "To measures the gas diffusion rate at the alveolocapillary membrane",
+      "To determine pH and oxygen and carbon dioxide concentrations"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Spirometry measures volume and flow rate during forced expiration. The alveolar-arterial oxygen gradient is used to evaluate the cause of hypoxia. Diffusing capacity is a measure of the gas diffusion rate at the alveolocapillary membrane. Arterial blood gas analysis can be used to determine pH and oxygen and carbon dioxide concentrations."
+  },
+  {
+    "id": 30,
+    "text": "Regarding the respiratory process referred to as remodeling, which statements are true?",
+    "options": [
+      "(Select all that apply.)",
+      "Remodeling involves the vascular walls.",
+      "Scarring and thickening occurs during this respiratory process.",
+      "Remodeling results in a permanent change."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Remodeling is a process by which the vascular wall becomes scarred and thickened, thus resulting in permanent decreases in luminal diameter, increased resistance to blood flow, and permanent pulmonary artery hypertension."
+  },
+  {
+    "id": 31,
+    "text": "What are the effects of aging on the pulmonary system?",
+    "options": [
+      "Decreased chest wall compliance",
+      "Decreased lung recoil",
+      "Reduced ventilatory reserve",
+      "Decreased partial pressure of arterial oxygen (PaO2)"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Aging affects the mechanical aspects of ventilation by decreasing chest wall compliance and elastic recoil of the lungs. Changes in these elastic properties reduce ventilatory reserve. Aging causes the PaO2 to decrease but does not affect the partial pressure of arterial carbon dioxide (PaCO2) or respiratory rate."
+  }
+]

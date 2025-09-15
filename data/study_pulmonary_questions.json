@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "text": "How do obstructive and restrictive pulmonary disorders differ?",
+    "options": [
+      "Obstructive: difficulty exhaling air; Restrictive: difficulty expanding lungs",
+      "Obstructive: difficulty inhaling air; Restrictive: difficulty exhaling air",
+      "Both cause the same breathing pattern difficulties",
+      "Obstructive affects oxygen only; Restrictive affects CO2 only"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Obstructive disorders (like asthma, COPD) involve airway narrowing making it difficult to exhale air, leading to air trapping. Restrictive disorders involve reduced lung compliance or chest wall movement, making it difficult to expand the lungs and inhale."
+  },
+  {
+    "id": 2,
+    "text": "What characterizes the pathophysiology of emphysema?",
+    "options": [
+      "Inflammation and narrowing of airways with excessive mucus production",
+      "Destruction of alveolar walls and loss of elastic recoil",
+      "Inflammation of bronchioles with smooth muscle constriction",
+      "Fluid accumulation in alveolar spaces"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Emphysema involves destruction of alveolar walls (septae) and loss of elastic recoil, leading to enlarged air spaces, reduced surface area for gas exchange, and difficulty with expiration due to loss of elastic recoil that normally helps push air out."
+  },
+  {
+    "id": 3,
+    "text": "What is the primary difference between chronic bronchitis and emphysema?",
+    "options": [
+      "Chronic bronchitis affects small airways; emphysema affects large airways",
+      "Chronic bronchitis involves mucus hypersecretion and airway inflammation; emphysema involves alveolar destruction",
+      "Chronic bronchitis is reversible; emphysema is not",
+      "There is no difference between the two conditions"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Chronic bronchitis is characterized by chronic inflammation and excessive mucus production in airways ('blue bloaters'), while emphysema involves destruction of alveolar walls and loss of lung elasticity ('pink puffers'). Both are forms of COPD but have different primary pathophysiologies."
+  }
+]

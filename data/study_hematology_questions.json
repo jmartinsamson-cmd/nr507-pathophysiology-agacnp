@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "text": "What is the primary pathophysiology behind microcytic anemia?",
+    "options": [
+      "Vitamin B12 deficiency",
+      "Iron deficiency leading to impaired hemoglobin synthesis",
+      "Chronic kidney disease",
+      "Hemolysis of red blood cells"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Microcytic anemia is most commonly caused by iron deficiency, which impairs hemoglobin synthesis. Without adequate iron, the body cannot produce normal-sized red blood cells, resulting in small (microcytic) and pale (hypochromic) cells."
+  },
+  {
+    "id": 2,
+    "text": "Which lab markers are most useful for diagnosing iron deficiency anemia?",
+    "options": [
+      "Low ferritin, low transferrin saturation, high TIBC",
+      "High ferritin, high transferrin saturation, low TIBC",
+      "Normal ferritin, high transferrin saturation, normal TIBC",
+      "Low ferritin, high transferrin saturation, low TIBC"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Iron deficiency anemia is characterized by low ferritin (iron stores), low transferrin saturation (iron transport), and high total iron-binding capacity (TIBC) as the body attempts to capture more iron from available sources."
+  },
+  {
+    "id": 3,
+    "text": "What is the pathophysiology of sickle cell anemia?",
+    "options": [
+      "Deficiency in iron absorption",
+      "Genetic mutation causing abnormal hemoglobin S that polymerizes under low oxygen",
+      "Autoimmune destruction of red blood cells",
+      "Failure of bone marrow to produce red blood cells"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Sickle cell anemia is caused by a genetic mutation in the beta-globin chain, producing hemoglobin S. Under low oxygen conditions, HbS polymerizes, causing red blood cells to become rigid and sickle-shaped, leading to vaso-occlusive crises and hemolysis."
+  },
+  {
+    "id": 4,
+    "text": "What role does erythropoietin play in red blood cell production?",
+    "options": [
+      "It breaks down old red blood cells in the spleen",
+      "It carries oxygen from lungs to tissues",
+      "It stimulates bone marrow to produce red blood cells",
+      "It helps with iron absorption in the intestines"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Erythropoietin (EPO) is a hormone produced primarily by the kidneys that stimulates the bone marrow to increase red blood cell production (erythropoiesis) in response to low oxygen levels or anemia."
+  }
+]

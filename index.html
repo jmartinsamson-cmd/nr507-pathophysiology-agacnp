@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NR507 Advanced Pathophysiology AGACNP</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>NR507 Advanced Pathophysiology AGACNP</h1>
+            <nav class="main-nav">
+                <button class="nav-btn active" data-section="exam">📝 Practice Exams</button>
+                <button class="nav-btn" data-section="materials">📚 Class Materials</button>
+            </nav>
+            <div id="exam-info">
+                <span id="question-counter">Question 1 of 0</span>
+                <span id="timer">Time: 00:00</span>
+            </div>
+        </header>
+
+        <main>
+            <!-- Exam Section -->
+            <div id="exam-section" class="main-section active">
+
+            <!-- Start Screen -->
+            <div id="start-screen" class="screen active">
+                <div class="start-content">
+                    <h2>Welcome to NR507 Advanced Pathophysiology</h2>
+                    <p>AGACNP Program - Practice exams and study tools for pathophysiology mastery.</p>
+                    <div class="creator-credit">
+                        <p>Created by: <strong>Martin Samson RN BSN</strong></p>
+                    </div>
+
+                    <div class="chapter-selection">
+                        <h3>Select a Chapter:</h3>
+                        <div class="chapter-options">
+                            <button class="chapter-btn btn btn-secondary" data-chapter="chapter_9">
+                                <span class="chapter-title">Chapter 9</span>
+                                <span class="chapter-subtitle">Immunity & Inflammation</span>
+                                <span class="question-count">42 Questions</span>
+                            </button>
+                            <button class="chapter-btn btn btn-secondary" data-chapter="chapter_28">
+                                <span class="chapter-title">Chapter 28</span>
+                                <span class="chapter-subtitle">Hematologic System</span>
+                                <span class="question-count">38 Questions</span>
+                            </button>
+                            <button class="chapter-btn btn btn-secondary" data-chapter="chapter_29">
+                                <span class="chapter-title">Chapter 29</span>
+                                <span class="chapter-subtitle">Alterations of Erythrocytes</span>
+                                <span class="question-count">36 Questions</span>
+                            </button>
+                            <button class="chapter-btn btn btn-secondary" data-chapter="chapter_30">
+                                <span class="chapter-title">Chapter 30</span>
+                                <span class="chapter-subtitle">Alterations of Leukocyte Function</span>
+                                <span class="question-count">31 Questions</span>
+                            </button>
+                            <button class="chapter-btn btn btn-secondary" data-chapter="chapter_32">
+                                <span class="chapter-title">Chapter 32</span>
+                                <span class="chapter-subtitle">Cardiovascular & Lymphatic Systems</span>
+                                <span class="question-count">41 Questions</span>
+                            </button>
+                            <button class="chapter-btn btn btn-secondary" data-chapter="chapter_34">
+                                <span class="chapter-title">Chapter 34</span>
+                                <span class="chapter-subtitle">Cardiovascular Alterations in Children</span>
+                                <span class="question-count">22 Questions</span>
+                            </button>
+                            <button class="chapter-btn btn btn-secondary" data-chapter="chapter_35">
+                                <span class="chapter-title">Chapter 35</span>
+                                <span class="chapter-subtitle">Structure & Function of Pulmonary System</span>
+                                <span class="question-count">31 Questions</span>
+                            </button>
+                            <button class="chapter-btn btn btn-secondary" data-chapter="chapter_37">
+                                <span class="chapter-title">Chapter 37</span>
+                                <span class="chapter-subtitle">Alterations of Pulmonary Function</span>
+                                <span class="question-count">16 Questions</span>
+                            </button>
+                            <button class="chapter-btn btn btn-secondary" data-chapter="chapter_38">
+                                <span class="chapter-title">Chapter 38</span>
+                                <span class="chapter-subtitle">Structure & Function of Renal System</span>
+                                <span class="question-count">28 Questions</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Mode Selection -->
+                    <div class="mode-selection">
+                        <h3>Select Mode:</h3>
+                        <div class="mode-options">
+                            <button class="mode-btn btn btn-secondary selected" data-mode="exam">
+                                <span class="mode-title">📝 Exam Mode</span>
+                                <span class="mode-subtitle">Timed test with final results</span>
+                            </button>
+                            <button class="mode-btn btn btn-secondary" data-mode="study">
+                                <span class="mode-title">📚 Study Mode</span>
+                                <span class="mode-subtitle">Review with immediate rationales</span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="exam-instructions">
+                        <h3>Instructions:</h3>
+                        <ul id="instruction-list">
+                            <li>Select a chapter above to begin</li>
+                            <li>Read each question carefully</li>
+                            <li>Select the best answer(s) for each question</li>
+                            <li>Some questions may have multiple correct answers</li>
+                            <li>You can review your answers before final submission</li>
+                            <li>Rationales will be shown after submission</li>
+                        </ul>
+                    </div>
+                    <button id="start-exam-btn" class="btn btn-primary" disabled>Start Exam</button>
+                </div>
+            </div>
+
+            <!-- Exam Screen -->
+            <div id="exam-screen" class="screen">
+                <div class="question-container">
+                    <div id="question-text"></div>
+                    <div id="question-options"></div>
+                    <div id="rationale-display" style="display: none;">
+                        <div class="rationale-section">
+                            <h4>💡 Explanation:</h4>
+                            <div id="rationale-text"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="exam-controls">
+                    <button id="back-to-materials-btn" class="btn btn-secondary" style="display: none;">← Back to Materials</button>
+                    <button id="prev-btn" class="btn btn-secondary">Previous</button>
+                    <button id="next-btn" class="btn btn-primary">Next</button>
+                    <button id="submit-btn" class="btn btn-success" style="display: none;">Submit Exam</button>
+                </div>
+
+                <div class="progress-bar">
+                    <div id="progress-fill"></div>
+                </div>
+            </div>
+
+            <!-- Review Screen -->
+            <div id="review-screen" class="screen">
+                <div class="review-header">
+                    <h2>Review Your Answers</h2>
+                    <p>Please review your answers before final submission.</p>
+                </div>
+
+                <div id="review-content"></div>
+
+                <div class="review-controls">
+                    <button id="back-to-exam-btn" class="btn btn-secondary">Back to Exam</button>
+                    <button id="final-submit-btn" class="btn btn-success">Final Submit</button>
+                </div>
+            </div>
+
+            <!-- Results Screen -->
+            <div id="results-screen" class="screen">
+                <div class="results-header">
+                    <h2>Exam Results</h2>
+                    <div class="score-display">
+                        <div id="score-percentage"></div>
+                        <div id="score-fraction"></div>
+                    </div>
+                </div>
+
+                <div id="results-content"></div>
+
+                <div class="results-controls">
+                    <button id="retake-btn" class="btn btn-primary">Retake Exam</button>
+                    <button id="review-answers-btn" class="btn btn-secondary">Review Detailed Results</button>
+                </div>
+            </div>
+
+            </div> <!-- End Exam Section -->
+
+            <!-- Class Materials Section -->
+            <div id="materials-section" class="main-section">
+                <div class="materials-content">
+                    <h2>📚 Class Materials & Interactive Study</h2>
+                    <p>Explore your study guide and lecture slides with interactive questions and key concepts.</p>
+                    <div class="creator-credit">
+                        <p>Created by: <strong>Martin Samson RN BSN</strong></p>
+                    </div>
+
+                    <!-- Materials Navigation -->
+                    <div class="materials-nav">
+                        <button class="material-btn active" data-material="study-guide">
+                            <span class="material-title">📖 Midterm Study Guide</span>
+                            <span class="material-subtitle">Key concepts and learning objectives</span>
+                        </button>
+                        <button class="material-btn" data-material="week1-slides">
+                            <span class="material-title">🎯 Week 1: Hypersensitivity</span>
+                            <span class="material-subtitle">Clinical reasoning and immunology</span>
+                        </button>
+                        <button class="material-btn" data-material="week2-slides">
+                            <span class="material-title">❤️ Week 2: Anemias & Cardiology</span>
+                            <span class="material-subtitle">Clinical cases and pathophysiology</span>
+                        </button>
+                    </div>
+
+                    <!-- Study Guide Content -->
+                    <div id="study-guide-content" class="material-content active">
+                        <div class="study-guide-sections">
+                            <div class="section-card" data-topic="immunity">
+                                <h3>🛡️ Immunity & Inflammation</h3>
+                                <p>Hypersensitivity reactions, HIV, SLE, immunodeficiencies</p>
+                                <div class="topic-stats">
+                                    <span class="concept-count">15 Key Concepts</span>
+                                    <span class="question-count">4 Practice Questions</span>
+                                </div>
+                            </div>
+                            <div class="section-card" data-topic="hematology">
+                                <h3>🩸 Hematological Pathologies</h3>
+                                <p>Anemias, blood cell production, lab markers</p>
+                                <div class="topic-stats">
+                                    <span class="concept-count">12 Key Concepts</span>
+                                    <span class="question-count">4 Practice Questions</span>
+                                </div>
+                            </div>
+                            <div class="section-card" data-topic="cardiovascular">
+                                <h3>❤️ Cardiovascular Pathologies</h3>
+                                <p>CAD, heart failure, valve disorders</p>
+                                <div class="topic-stats">
+                                    <span class="concept-count">18 Key Concepts</span>
+                                    <span class="question-count">4 Practice Questions</span>
+                                </div>
+                            </div>
+                            <div class="section-card" data-topic="pulmonary">
+                                <h3>🫁 Pulmonary Pathologies</h3>
+                                <p>Obstructive/restrictive disorders, asthma, COPD</p>
+                                <div class="topic-stats">
+                                    <span class="concept-count">10 Key Concepts</span>
+                                    <span class="question-count">3 Practice Questions</span>
+                                </div>
+                            </div>
+                            <div class="section-card" data-topic="urinary">
+                                <h3>🫀 Urinary System Pathologies</h3>
+                                <p>UTIs, renal failure, BPH, incontinence</p>
+                                <div class="topic-stats">
+                                    <span class="concept-count">16 Key Concepts</span>
+                                    <span class="question-count">4 Practice Questions</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Week 1 Slides Content -->
+                    <div id="week1-slides-content" class="material-content">
+                        <div class="slides-overview">
+                            <h3>Week 1: Clinical Reasoning - Hypersensitivity</h3>
+                            <p>Interactive exploration of hypersensitivity reactions and clinical case studies.</p>
+                            <div class="slides-stats">
+                                <span class="slide-count">66 Slides</span>
+                                <span class="case-count">5 Clinical Cases</span>
+                                <span class="question-count">25 Interactive Questions</span>
+                            </div>
+                            <button class="btn btn-primary" id="start-week1-study">Start Interactive Study</button>
+                        </div>
+                    </div>
+
+                    <!-- Week 2 Slides Content -->
+                    <div id="week2-slides-content" class="material-content">
+                        <div class="slides-overview">
+                            <h3>Week 2: Clinical Reasoning - Anemias, CAD, Heart Failure</h3>
+                            <p>Deep dive into hematological and cardiovascular pathologies with case-based learning.</p>
+                            <div class="slides-stats">
+                                <span class="slide-count">90 Slides</span>
+                                <span class="case-count">8 Clinical Cases</span>
+                                <span class="question-count">35 Interactive Questions</span>
+                            </div>
+                            <button class="btn btn-primary" id="start-week2-study">Start Interactive Study</button>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <!-- Rationale Modal -->
+    <div id="rationale-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-question-title"></h3>
+                <span class="close-btn">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div id="modal-your-answer"></div>
+                <div id="modal-correct-answer"></div>
+                <div id="modal-rationale"></div>
+            </div>
+            <div class="modal-footer">
+                <button id="modal-prev-btn" class="btn btn-secondary">Previous</button>
+                <button id="modal-next-btn" class="btn btn-primary">Next</button>
+                <button id="modal-close-btn" class="btn btn-secondary">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,221 @@
+[
+  {
+    "id": 1,
+    "text": "How does chest wall compliance in an infant differ from that of an adult?",
+    "options": [
+      "𝛼. An adult’s chest wall compliance is lower than an infant’s. 𝗉. An adult’s chest wall compliance is higher than an infant’s.",
+      "An adult’s chest wall compliance is the same as an infant’s. 𝛿. An adult’s chest wall compliance is dissimilar to that of an infant’s."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Chest wall compliance is higher in infants than it is in adults, particularly in premature infants."
+  },
+  {
+    "id": 2,
+    "text": "Why is nasal congestion a serious threat to young infants?",
+    "options": [
+      "𝛼. Infants are obligatory nose breathers.",
+      "𝗉. Their noses are small in diameter.",
+      "Infants become dehydrated when mouth breathing.",
+      "𝛿. Their epiglottis is proportionally greater than the epiglottis of an adult’s."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Infants up to 2 to 3 months of age are obligatory nose breathers and are unable to breathe in through their mouths. Nasal congestion is therefore a serious threat to a young infant. This selection is the only option that accurately describes why nasal congestion is a serious threat to young infants."
+  },
+  {
+    "id": 3,
+    "text": "Which type of croup is most common?",
+    "options": [
+      "𝛼. Bacterial",
+      "Fungal",
+      "𝗉. Viral",
+      "Autoimmune"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "In 85% of children with croup, a virus is the cause, most commonly parainfluenza. However, other viruses such as influenza A or respiratory syncytial virus (RSV) also can cause croup."
+  },
+  {
+    "id": 4,
+    "text": "What is the chief predisposing factor for respiratory distress syndrome (RDS) of the newborn?",
+    "options": [
+      "𝛼. Low birth weight",
+      "𝗉. Alcohol consumption during pregnancy c. Premature birth",
+      "𝛿. Smoking during pregnancy"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "RDS of the newborn, also known as hyaline membrane disease (HMD), is a major cause of morbidity and mortality in premature newborns. None of the other options are considered the chief predisposing factors for RDS."
+  },
+  {
+    "id": 5,
+    "text": "What is the primary cause of respiratory distress syndrome (RDS) of the newborn?",
+    "options": [
+      "𝛼. Immature immune system",
+      "Surfactant deficiency",
+      "𝗉. Small alveoli",
+      "Anemia"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "RDS is primarily caused by surfactant deficiency and secondarily by a deficiency in alveolar surface area for gas exchange. None of the other options are related to the cause of RDS."
+  },
+  {
+    "id": 6,
+    "text": "Which option shows the correct sequence of events after atelectasis develops in respiratory distress syndrome of the newborn?",
+    "options": [
+      "𝛼. Increased pulmonary vascular resistance, atelectasis, hypoperfusion 𝗉. Hypoxic vasoconstriction, right-to-left shunt hypoperfusion",
+      "Respiratory acidosis, hypoxemia, hypercapnia",
+      "𝛿. Right-to-left shunt, hypoxic vasoconstriction, hypoperfusion"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Atelectasis results in a decrease in tidal volume, causing alveolar hypoventilation and hypercapnia. Hypoxia and hypercapnia cause pulmonary vasoconstriction, which increases intrapulmonary resistance and shunting. This results in hypoperfusion of the lung and a decrease in effective pulmonary blood flow. This selection is the only option that identifies the correct sequence of events."
+  },
+  {
+    "id": 7,
+    "text": "Which statement about the advances in the treatment of respiratory distress syndrome (RDS) of the newborn is incorrect?",
+    "options": [
+      "𝛼. Administering glucocorticoids to women in preterm labor accelerates the maturation of the fetus’s lungs.",
+      "𝗉. Administering oxygen to mothers during preterm labor increases their arterial oxygen before the birth of the fetus.",
+      "Treatment includes the instillation of exogenous surfactant down an endotracheal tube of infants weighing less than 1000 g.",
+      "𝛿. Using continuous positive airway pressure (CPAP) supports the infant’s respiratory function."
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Administering oxygen to the mother is not a valid treatment of RDS. The other statements provide correct information regarding RDS."
+  },
+  {
+    "id": 8,
+    "text": "Bronchiolitis tends to occur during the first years of life and is most often caused by what type of infection?",
+    "options": [
+      "𝛼. Respiratory syncytial virus (RSV)",
+      "Adenoviruses",
+      "𝗉. Influenzavirus",
+      "Rhinovirus"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The most common associated pathogen is RSV, but bronchiolitis may also be associated with adenovirus, rhinovirus, influeNnUzRaS, IpNaGraTiBn.fCluOeMnza virus (PIV), and Mycoplasma pneumoniae."
+  },
+  {
+    "id": 9,
+    "text": "Which immunoglobulin (Ig) is present in childhood asthma?",
+    "options": [
+      "𝛼. IgM",
+      "IgE",
+      "𝗉. IgG",
+      "IgA"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Included in the long list of asthma-associated genes are those that code for increased levels of immune and inflammatory mediators (e.g., interleukin [IL]–4, IgE, leukotrienes), nitric oxide, and transmembrane proteins in the endoplasmic reticulum. None of the other options are associated with childhood asthma."
+  },
+  {
+    "id": 10,
+    "text": "Which statement accurately describes childhood asthma?",
+    "options": [
+      "𝛼. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+      "𝗉. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
+      "A pulmonary disorder involvinNgURanSIaNbGnToBrm.CaOlMexpression of a protein, producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
+      "𝛿. An obstructive airway disease characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Asthma is an obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation. This selection is the only option that accurately describes childhood asthma."
+  },
+  {
+    "id": 11,
+    "text": "Which criterion is used to confirm a diagnosis of asthma in an 8-year-old child?",
+    "options": [
+      "𝛼. Parental history of asthma",
+      "𝗉. Serum testing that confirms increased immunoglobulin E (IgE) and eosinophil levels",
+      "Reduced expiratory flow rates confirmed by spirometry testing 𝛿. Improvement on a trial of asthma medication"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Confirmation of the diagnosis of asthma relies on pulmonary function testing using spirometry, which can be accomplished only after the child is 5 to 6 years of age. Reduced expiratory flow rates that are reversible in response to an inhaled bronchodilator would be characteristic abnormalities. For younger children, an empiric trial of asthma medications is commonly initiated. The remaining options are major historical and physical factors that contribute but do not confirm the diagnosis of asthma in children."
+  },
+  {
+    "id": 12,
+    "text": "Which statement best describes acute respiratory distress syndrome (ARDS)?",
+    "options": [
+      "𝛼. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+      "𝗉. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and the presence of bilateral infiltrates on chest x-ray imaging",
+      "A respiratory disorder involving an abnormal expression of a protein producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
+      "𝛿. A pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "ARDS is a condition that can result from either a direct or indirect pulmonary insult. It is defined as respiratory failure of acute onset characterized by severe hypoxemia that is refractory to treatment with supplemental oxygen, bilateral infiltrates on chest x-ray imaging, and no evidence of heart failure, as well as decreased pulmonary compliance. This selection is the only option that accurately describes ARDS."
+  },
+  {
+    "id": 13,
+    "text": "Which statement best describes cystic fibrosis?",
+    "options": [
+      "𝛼. Obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+      "𝗉. Respiratory disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
+      "Pulmonary disorder involving an abnormal expression of a protein-producing viscous mucus that obstructs the airways, pancreas, sweat ducts, and vas deferens",
+      "𝛿. Pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Cystic fibrosis is best described as a pulmonary disorder involving an abnormal expression of a protein-producing viscous mucus that obstructs the airways, pancreas, sweat ducts, and vas deferens. This selection is the only option that accurately describes cystic fibrosis."
+  },
+  {
+    "id": 14,
+    "text": "Cystic fibrosis is caused by which process?",
+    "options": [
+      "𝛼. Autosomal recessive inheritance",
+      "Infection",
+      "𝗉. Autosomal dominant inheritance",
+      "Malignancy"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Cystic fibrosis is an autosomal recessive inherited disorder that is associated with defective epithelial ion transport. None of the other options cause cystic fibrosis."
+  },
+  {
+    "id": 15,
+    "text": "Where in the respiratory tract do the majority of foreign objects aspirated by children finally lodge?",
+    "options": [
+      "𝛼. Trachea",
+      "Bronchus",
+      "𝗉. Left lung",
+      "Bronchioles"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Approximately 75% of aspirated foreign bodies lodge in a bronchus. The other options are not locations where children aspirate the majority of foreign objects."
+  },
+  {
+    "id": 16,
+    "text": "Which symptom is not a clinical manifestation of croup?",
+    "options": [
+      "𝛼. Rhinorrhea",
+      "𝗉. Sore throat",
+      "c. Low-grade fever",
+      "𝛿. Barking cough"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The clinical presentation of bacterial pneumonia, particularly pneumococcal, may include a preceding viral illness, followed by fever with chills and rigors, shortness of breath, and an increasingly productive cough. Auscultation usually reveals such abnormalities as crackles or decreased breath sounds. Other less specific findings may include malaise, emesis, abdominal pain, and chest pain. Respiratory alkalosis is not usually associated with bacterial pneumonia in children."
+  }
+]

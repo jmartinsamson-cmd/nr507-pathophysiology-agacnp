@@ -1,0 +1,441 @@
+[
+  {
+    "id": 1,
+    "text": "What change is observed in leukocytes during an allergic disorder (type I hypersensitivity) often caused by asthma, hay fever, and drug reactions?",
+    "options": [
+      "Neutrophilia",
+      "Basophilia",
+      "Eosinophilia",
+      "Monocytosis"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Eosinophilia is an absolute increase (more than 450/µL) in the total numbers of circulating eosinophils. Allergic disorders (type I hypersensitivity) associated with asthma, hay fever, and drug reactions, as well as parasitic infections (particularly with metazoal parasites), are often cited as causes. This change is not identified by any of other options."
+  },
+  {
+    "id": 2,
+    "text": "In infectious mononucleosis (IM), what does the Monospot test detect?",
+    "options": [
+      "Immunoglobulin E (IgE)",
+      "Immunoglobulin M (IgM)",
+      "Immunoglobulin G (IgG)",
+      "Immunoglobulin A (IgA)"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Heterophile antibodies are a heterogeneous group of IgM antibodies that are agglutinins against nonhuman red blood cells (e.g., sheep, horse) and are detected by qualitative (monospot) or quantitative (heterophile antibody) test methods. This statement is not true of the other options."
+  },
+  {
+    "id": 3,
+    "text": "Which description is consistent with acute lymphocytic leukemia (ALL)?",
+    "options": [
+      "ALL is a progressive neoplasm defined by the presence of greater than 30% lymphoblasts in the bone marrow or blood.",
+      "Leukocytosis and a predominance of blast cells characterize the bone marrow and peripheral blood. As the immature blasts increase, they replace normal myelocytic cells, megakaryocytes, and erythrocytes.",
+      "B cells fail to mature into plasma cells that synthesize immunoglobulins.",
+      "The translocation of genetic material from genes 9 and 22 create an abnormal, fused gene identified as BCR-ABL."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "ALL is a progressive neoplasm defined by the presence of greater than 30% lymphoblasts in the bone marrow or blood. None of the other options provide an accurate description of ALL."
+  },
+  {
+    "id": 4,
+    "text": "Which description is consistent with chronic myelogenous leukemia (CML)?",
+    "options": [
+      "Defects exist in the ras oncogene, TP53 tumor-suppressor gene, and INK4A, the gene encoding a cell-cycle regulatory protein.",
+      "Leukocytosis and a predominance of blast cells characterize the bone marrow and peripheral blood. As the immature blasts increase, they replace normal myelocytic cells, megakaryocytes, and erythrocytes.",
+      "B cells fail to mature into plasma cells that synthesize immunoglobulins.",
+      "The translocation of genetic material from genes 9 and 22 creates an abnormal, fused protein identified as BCR-ABL1."
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "The Philadelphia chromosome is present in more than 95% of those with CML, and the presence of the BCR-ABL1 protein is responsible for the initiation of CML. The other options do not accurately describe CML."
+  },
+  {
+    "id": 5,
+    "text": "Which description is consistent with chronic lymphocytic leukemia (CLL)?",
+    "options": [
+      "Defects exist in the ras oncogene, TP53 tumor-suppressor gene, and INK4A, the gene encoding a cell-cycle regulatory protein.",
+      "Leukocytosis and a predominance of blast cells characterize the bone marrow and peripheral blood. As the immature blasts increase, they replace normal myelocytic cells, megakaryocytes, and erythrocytes.",
+      "B cells fail to mature into plasma cells that synthesize immunoglobulins.",
+      "The translocation of genetic material from genes 9 and 22 creates an abnormal, fused protein identified as BCR-ABL."
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "CLL is derived from transformation of a partially mature B cell that has not yet encountered antigen. The other options do not accurately describe CLL."
+  },
+  {
+    "id": 6,
+    "text": "Which electrolyte imbalance accompanies multiple myeloma (MM)?",
+    "options": [
+      "Hyperkalemia",
+      "Hypercalcemia",
+      "Hyperphosphatemia",
+      "Hypernatremia"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Elevated levels of calcium in the blood (hypercalcemia) characterize the common presentation of MM. The other options do not accompany MM."
+  },
+  {
+    "id": 7,
+    "text": "Reed-Sternberg (RS) cells represent malignant transformation and proliferation of which of the following?",
+    "options": [
+      "Interleukin (IL)–1, IL-2, IL-5, and IL-6",
+      "Tumor necrosis factor–beta",
+      "B cells",
+      "T cells"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Although the molecular events that cause malignant transformation remain controversial, RS cells are apparently from B-cell lineage. The other options are not relevant to this process."
+  },
+  {
+    "id": 8,
+    "text": "Local signs and symptoms of Hodgkin disease–related lymphadenopathy are a result of which of the following?",
+    "options": [
+      "Pressure and ischemia",
+      "Pressure and obstruction",
+      "Inflammation and ischemia",
+      "Inflammation and pressure"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Local symptoms caused by pressure and obstruction of the lymph nodes are the result of lymphadenopathy. The other options do not contribute to the lymphadenopathy associated with Hodgkin disease."
+  },
+  {
+    "id": 9,
+    "text": "Which virus is associated with Burkitt lymphoma in African children?",
+    "options": [
+      "Cytomegalovirus",
+      "Adenovirus",
+      "Human papillomavirus",
+      "Epstein-Barr virus"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Epstein-Barr virus, found in nasopharyngeal secretions, is associated with Burkitt lymphoma in African children. The other options are not associated with this malignancy."
+  },
+  {
+    "id": 10,
+    "text": "Which term is used to describe a red-purple discoloration caused by diffuse hemorrhage into the skin tissue?",
+    "options": [
+      "Petechiae",
+      "Hematoma",
+      "Ecchymosis",
+      "Purpura"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Diffuse hemorrhage into skin tissues that is visible through the skin causes a red-purple discoloration identified as a purpura. None of the other options are used to identify this symptom."
+  },
+  {
+    "id": 11,
+    "text": "Which statement best describes heparin-induced thrombocytopenia (HIT)?",
+    "options": [
+      "Immunoglobulin G immune–mediated adverse drug reaction that reduces circulating platelets",
+      "Hematologic reaction to heparin in which the bone marrow is unable to produce sufficient platelets to meet the body's needs",
+      "Immunoglobulin E–mediated allergic drug reaction that reduces circulating platelets",
+      "Cell-mediated drug reaction in which macrophages process the heparin and platelet complexes that are then destroyed by activated cytotoxic T cells."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Heparin is a common cause of drug-induced thrombocytopenia. HIT is an immune-mediated, adverse drug reaction caused by immunoglobulin G antibodies that leads to increased platelet consumption and a decrease in platelet counts. None of the other options accurately describe HIT."
+  },
+  {
+    "id": 12,
+    "text": "Immune thrombocytopenia (ITP) is a(n) _____ condition in adults and a(n) _____ condition in children.",
+    "options": [
+      "Acute; acute",
+      "Acute; chronic",
+      "Chronic; chronic",
+      "Chronic; acute"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "ITP may be acute or chronic. The acute form is frequently observed in children. Chronic ITP is more commonly observed in adults, with the highest prevalence in women between 20 and 40 years of age."
+  },
+  {
+    "id": 13,
+    "text": "Vitamin _____ is required for normal clotting factor synthesis by the _____.",
+    "options": [
+      "K; kidneys",
+      "D; kidneys",
+      "K; liver",
+      "D; liver"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Vitamin K, a fat-soluble vitamin, is necessary for the synthesis and regulation of prothrombin, procoagulant factors (VII, IX, X), and anticoagulant regulators (proteins C and S) in the liver."
+  },
+  {
+    "id": 14,
+    "text": "What is the most common cause of vitamin K deficiency?",
+    "options": [
+      "Administration of warfarin (Coumadin)",
+      "Total parenteral nutrition with antibiotic therapy",
+      "An immunoglobulin G–mediated autoimmune disorder",
+      "Liver failure"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The most common cause of vitamin K deficiency is parenteral nutrition in combination with broad-spectrum antibiotics that destroy normal gut flora. None of the other options are commonly associated with vitamin K deficiency."
+  },
+  {
+    "id": 15,
+    "text": "Which disorder is described as an unregulated release of thrombin with subsequent fibrin formation and accelerated fibrinolysis?",
+    "options": [
+      "Disseminated intravascular coagulation (DIC)",
+      "Immune thrombocytopenic purpura (ITP)",
+      "Heparin-induced thrombocytopenia (HIT)",
+      "Essential thrombocythemia (ET)"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "DIC is an acquired clinical syndrome characterized by widespread activation of coagulation resulting in the formation of fibrin clots in medium and small vessels throughout the body. This description does not accurately identify any of the other options."
+  },
+  {
+    "id": 16,
+    "text": "In disseminated intravascular coagulation (DIC), what activates the coagulation cascade?",
+    "options": [
+      "Cytokines, such as platelet-activating factor (PAF), and tumor necrosis factor-alpha (TNF-α)",
+      "Thromboxane A, causing platelets to aggregate and consume clotting factors",
+      "Tissue factor (TF) located in the endothelial layer of blood vessels and subcutaneous tissue",
+      "Endotoxins from gram-negative and gram-positive bacteria circulating in the bloodstream"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Direct tissue damage (ischemia and necrosis, surgical manipulation, crushing injury) causes the endothelium to release TF. The common pathway for DIC appears to be excessive and widespread exposure of TF. The other options are not responsible for the activation of the coagulation cascade."
+  },
+  {
+    "id": 17,
+    "text": "Which proinflammatory cytokines are responsible for the development and maintenance of disseminated intravascular coagulation (DIC)?",
+    "options": [
+      "Granulocyte colony-stimulating factor (G-CSF); interleukin (IL)–2, IL-4, and IL-10; and tumor necrosis factor-gamma (IFN-γ)",
+      "Granulocyte-macrophage colony-stimulating factor (GM-CSF); and IL-3, IL-5, IL-9, and IFN-α",
+      "Macrophage colony-stimulating factor (M-CSF); IL-7, IL-11, and IL-14; and PAF",
+      "Tumor necrosis factor-alpha (TNF-α); IL-1, IL-6, and IL-8; and platelet-activating factor (PAF)"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Endotoxin, in particular, triggers the release of multiple cytokines that play a significant role in the development and maintenance of DIC. Proinflammatory cytokines—TNF-α; IL-1, IL-6, IL-8; PAF—are responsible for the clinical signs and symptoms associated with the sepsis associated with DIC. None of the other options perform this function."
+  },
+  {
+    "id": 18,
+    "text": "In disseminated intravascular coagulation (DIC), what are the indications of microvascular thrombosis?",
+    "options": [
+      "Reduced amplitude in peripheral pulses",
+      "Symmetric cyanosis of fingers and toes",
+      "Numbness and tingling in fingers and toes",
+      "Bilateral pallor and edema of fingers and toes"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Several organ systems are susceptible to microvascular thrombosis that affects their function. Indicators of multisystem failure include changes in the level of consciousness, behavior, and mentation; confusion; seizure activity; oliguria; hematuria; hypoxia; hypotension; hemoptysis; chest pain; and tachycardia. Symmetric cyanosis of the fingers and toes (i.e., \"blue finger/toe syndrome\") and, in some instances, of the nose and breasts may be present. The other options are not recognized indicators of microvascular thrombosis."
+  },
+  {
+    "id": 19,
+    "text": "What is the most reliable and specific test for diagnosing disseminated intravascular coagulation (DIC)?",
+    "options": [
+      "Prothrombin time (PT)",
+      "Activated partial thromboplastin time (aPTT)",
+      "Fibrin degradation products (FDP)",
+      "D-dimer"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "D-dimer testing measures a specific DIC-related product. This statement is not true of the other options."
+  },
+  {
+    "id": 20,
+    "text": "What term is used to identify thrombi that occlude arterioles and capillaries and are made up of platelets with minimal fibrin and erythrocytes?",
+    "options": [
+      "Essential (primary) thrombocythemia (ET)",
+      "Acute idiopathic thrombotic thrombocytopenic purpura",
+      "Thrombotic thrombocytopenic purpura (TTP)",
+      "Immune thrombocytopenic purpura (ITP)"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Of the available options, only TTP is characterized by thrombotic microangiopathy in which platelets aggregate and cause occlusion of arterioles and capillaries in the microcirculation."
+  },
+  {
+    "id": 21,
+    "text": "Which of the following is characterized by what is referred to as pathognomonic pentad of symptoms?",
+    "options": [
+      "Acute idiopathic thrombotic thrombocytopenic purpura",
+      "Essential (primary) thrombocythemia (ET)",
+      "Immune thrombocytopenic purpura (ITP)",
+      "Thrombotic thrombocytopenic purpura (TTP)"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Acute idiopathic thrombotic thrombocytopenic purpura is characterized by a pathognomonic pentad of symptoms that includes extreme thrombocytopenia (fewer than 20,000 platelets/mm³), intravascular hemolytic anemia, ischemic signs and symptoms most often involving the central nervous system (approximately 65% exhibit memory disturbances, behavioral irregularities, headaches, or coma), kidney failure (affecting approximately 65% of individuals), and fever (present in approximately 33% of individuals). The other options do not demonstrate these symptoms."
+  },
+  {
+    "id": 22,
+    "text": "Which statement relates to immune thrombocytopenic purpura (ITP)?",
+    "options": [
+      "ITP is formed in conditions of low flow and is made up of mostly red cells with larger amounts of fibrin and few platelets.",
+      "An alteration of multipotent stem cells, resulting in an excess production of platelets, causes ITP.",
+      "Mononuclear phagocytes in the spleen remove antibody-coated platelets from circulation.",
+      "Arterial clots are made up of mostly platelet aggregates held together by fibrin strands."
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "ITP involves the antigen usually forming immune complexes with circulating antibodies, and it is thought that the immune complexes bind to Fc receptors on platelets, leading to their destruction in the spleen. None of the other options are accurately related to ITP."
+  },
+  {
+    "id": 23,
+    "text": "When the demand for mature neutrophils exceeds the supply, immature neutrophils are released indicating:",
+    "options": [
+      "A shift to the right",
+      "A shift to the left",
+      "Leukocytosis",
+      "Leukemia"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "When the demand for circulating mature neutrophils exceeds the supply, the marrow begins to release immature neutrophils (and other leukocytes) into the blood. Premature release of the immature white cells is responsible for the phenomenon known as a shift to the left or leukemoid reaction. None of the remaining options would be used to identify the process described."
+  },
+  {
+    "id": 24,
+    "text": "Hodgkin disease is characterized by the presence of which of the following?",
+    "options": [
+      "Philadelphia chromosome",
+      "Virchow triad",
+      "Microvascular thrombi",
+      "Reed-Sternberg (RS) cells"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Hodgkin disease is characterized by its progression from one group of lymph nodes to another, the development of systemic symptoms, and the presence of RS cells, but not the involvement of the Philadelphia chromosome. Virchow triad is a symptom related to thrombus formation. Disseminated intravascular coagulation is associated with microvascular thrombi."
+  },
+  {
+    "id": 25,
+    "text": "Which classic clinical manifestations are symptoms of IM? (Select all that apply.)",
+    "options": [
+      "Lymph node enlargement",
+      "Hepatitis",
+      "Pharyngitis",
+      "Edema in the area of the eyes",
+      "Fever"
+    ],
+    "correct": [
+      0,
+      2,
+      4
+    ],
+    "rationale": "At the time of diagnosis, the individual usually has the classic triad of symptoms: fever, pharyngitis, and lymphadenopathy of the cervical lymph nodes. The triad does not include hepatitis or orbital edema."
+  },
+  {
+    "id": 26,
+    "text": "Early detection of acute leukemia would include which of the following symptoms? (Select all that apply.)",
+    "options": [
+      "Dizziness",
+      "Paresthesia",
+      "Anorexia",
+      "Bruising",
+      "Bone pain"
+    ],
+    "correct": [
+      2,
+      3,
+      4
+    ],
+    "rationale": "Signs and symptoms related to bone marrow depression include fatigue caused by anemia, bleeding resulting from thrombocytopenia (reduced numbers of circulating platelets), and fever caused by infection. Anorexia can occur in all varieties of acute leukemia and is associated with weight loss. Pain in the bones and joints is thought to result from leukemia infiltration with secondary stretching of the periosteum. The other options are not generally associated with acute leukemia."
+  },
+  {
+    "id": 27,
+    "text": "What are the most significant risk factors for the development of thrombus formation as referred to by the Virchow triad? (Select all that apply.)",
+    "options": [
+      "Endothelial injury to blood vessels",
+      "Turbulent arterial blood flow",
+      "Rapid coagulation of the blood",
+      "Stagnant venous blood flow",
+      "History of obesity"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "rationale": "The risk for developing spontaneous thrombi is related to several factors, referred to as the Virchow triad: (1) injury to the blood vessel endothelium, (2) abnormalities of blood flow, and (3) hypercoagulability of the blood. Obesity is not associated with the triad."
+  },
+  {
+    "id": 28,
+    "text": "Which statements are true regarding leukemias? (Select all that apply.)",
+    "options": [
+      "A single progenitor cell undergoes a malignant change.",
+      "Leukemia is a result of uncontrolled cellular proliferation.",
+      "Bone marrow becomes overcrowded.",
+      "Leukocytes are underproduced.",
+      "Hematopoietic cell production is decreased."
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "rationale": "In the leukemias, a single progenitor cell undergoes malignant transformation. The common feature of all forms of leukemia is an uncontrolled proliferation of malignant leukocytes, causing an overcrowding of bone marrow and decreased production and function of normal hematopoietic cells."
+  },
+  {
+    "id": 29,
+    "text": "The two major forms of leukemia, acute and chronic, are classified by which criteria? (Select all that apply.)",
+    "options": [
+      "Predominant cell type",
+      "Rate of progression",
+      "Age of individual when cells differentiation occurs",
+      "Stage of cell development when malignancy first occurs",
+      "Serum level of leukocytes"
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "rationale": "The current classification of leukemia is based on (1) the predominant cell of origin (either myeloid or lymphoid) and (2) the rate of progression, which usually reflects the degree at which cell differentiation was arrested when the cell became malignant (acute or chronic). The remaining options are inaccurate statements regarding the classification criteria."
+  },
+  {
+    "id": 30,
+    "text": "What are the clinical manifestations of advanced non-African Burkitt lymphoma? (Select all that apply.)",
+    "options": [
+      "Abdominal swelling",
+      "Night sweats",
+      "Fever",
+      "Weight gain",
+      "Dementia"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "In non-African Burkitt lymphoma, the most common presentation is abdominal swelling. More advanced disease may exhibit night sweats, fever, and weight loss. Dementia is not associated with this disease."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "text": "What is the primary pathophysiology of coronary artery disease (CAD)?",
+    "options": [
+      "Valvular stenosis reducing cardiac output",
+      "Atherosclerotic plaque formation in coronary arteries reducing blood flow to myocardium",
+      "Electrical conduction abnormalities causing arrhythmias",
+      "Pericardial inflammation causing chest pain"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "CAD is primarily caused by atherosclerosis, where lipid plaques build up in coronary arteries, progressively narrowing them and reducing blood flow to the myocardium. This can lead to angina, myocardial infarction, and heart failure."
+  },
+  {
+    "id": 2,
+    "text": "Which are modifiable risk factors for coronary artery disease?",
+    "options": [
+      "Age, gender, family history",
+      "Smoking, hypertension, diabetes, dyslipidemia",
+      "Ethnicity, genetic mutations",
+      "Previous heart attacks, congenital defects"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Modifiable risk factors for CAD include lifestyle and medical conditions that can be changed or treated: smoking cessation, blood pressure control, diabetes management, cholesterol management, weight control, and regular exercise."
+  },
+  {
+    "id": 3,
+    "text": "What characterizes left-sided heart failure?",
+    "options": [
+      "Peripheral edema and ascites",
+      "Pulmonary congestion and dyspnea",
+      "Jugular venous distention",
+      "Hepatomegaly and splenomegaly"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Left-sided heart failure results in backup of blood into the pulmonary circulation, causing pulmonary congestion, pulmonary edema, and symptoms like dyspnea (shortness of breath), orthopnea, and paroxysmal nocturnal dyspnea."
+  },
+  {
+    "id": 4,
+    "text": "What is ejection fraction and its significance in heart failure?",
+    "options": [
+      "The percentage of blood ejected from the left ventricle with each heartbeat; normal is >55%",
+      "The rate at which the heart beats; normal is 60-100 bpm",
+      "The pressure in the left ventricle; normal is <12 mmHg",
+      "The volume of blood in the left ventricle; normal is 100-150 mL"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Ejection fraction (EF) measures the percentage of blood pumped out of the left ventricle with each heartbeat. Normal EF is ≥55%. Reduced EF (<40%) indicates systolic heart failure, while preserved EF (≥50%) with heart failure symptoms indicates diastolic dysfunction."
+  }
+]

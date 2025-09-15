@@ -1,0 +1,575 @@
+[
+  {
+    "id": 1,
+    "text": "Which statement does not accurately describe the pericardium?",
+    "options": [
+      "The pericardium is a double-walled membranous sac that encloses the heart.",
+      "It is made up of connective tissue and a surface layer of squamous cells.",
+      "The pericardium protects the heart against infection and inflammation from the lungs and pleural space.",
+      "It contains pain and mechanoreceptors that can elicit reflex changes in blood pressure and heart rate."
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The pericardium is made up of a surface layer of mesothelium over a thin layer of connective tissue. The remaining options accurately describe the pericardium."
+  },
+  {
+    "id": 2,
+    "text": "Which cardiac chamber has the thinnest wall and why?",
+    "options": [
+      "The right and left atria; they are low-pressure chambers that serve as storage units and conduits for blood.",
+      "The right and left atria; they are not directly involved in the preload, contractility, or afterload of the heart.",
+      "The left ventricle; the mean pressure of blood coming into this ventricle is from the lung, which has a low pressure.",
+      "The right ventricle; it pumps bNloUoRdSIiNntGoTtBh.eCOpuMlmonary capillaries, which have a lower pressure compared with the systemic circulation."
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The two atria have the thinnest walls because they are low-pressure chambers that serve as storage units and conduits for blood that is emptied into the ventricles. This selection is the only option that correctly identifies which heart chambers have the thinnest walls and why that helps cardiac function."
+  },
+  {
+    "id": 3,
+    "text": "Which chamber of the heart endures the highest pressures?",
+    "options": [
+      "Right atrium",
+      "Left ventricle",
+      "Left atrium",
+      "Right ventricle"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Pressure is greatest in the systemic circulation, driven by the left ventricle."
+  },
+  {
+    "id": 4,
+    "text": "What is the process that ensures mitral and tricuspid valve closure after the ventricles are filled with blood?",
+    "options": [
+      "Chordae tendineae relax, which allows the valves to close.",
+      "Increased pressure in the ventricles pushes the valves to close.",
+      "Trabeculae carneae contract, which pulls the valves closed.",
+      "Reduced pressure in the atria creates a negative pressure that pulls the valves closed."
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "During ventricular relaxation, the two atrioventricular valves open and blood flows from the higher pressure atria to the relaxed ventricles. With increasing ventricular pressure, these valves close and prevent backflow into the atria as the ventricles contract. This selection is the only option that correctly identifies the process that ensures closing of the mitral and tricuspid valves."
+  },
+  {
+    "id": 5,
+    "text": "Regarding the heart’s valves, what is a function of the papillary muscles?",
+    "options": [
+      "The papillary muscles close the semilunar valve.",
+      "These muscles prevent backward expulsion of the atrioventricular valve.",
+      "They close the atrioventricular valve.",
+      "The papillary muscles open the semilunar valve."
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The papillary muscles are extensions of the myocardium that pull the cusps together and downward at the onset of ventricular contraction, thus preventing their backward expulsion into the atria. This selection is the only option that correctly describes the function of the papillary muscles."
+  },
+  {
+    "id": 6,
+    "text": "During the cardiac cycle, why do the aortic and pulmonic valves close after the ventricles relax?",
+    "options": [
+      "Papillary muscles relax, which allows the valves to close.",
+      "Chordae tendineae contract, which pulls the valves closed.",
+      "Reduced pressure in the ventricles creates a negative pressure, which pulls the valves closed.",
+      "Blood fills the cusps of the valves and causes the edges to merge, closing the valves."
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "When the ventricles relax, blood fills the cusps and causes their free edges to meet in the middle of the vessel, closing the valve and preventing any backflow. This selection is the only option that accurately explains why the aortic and pulmonic valves close after the ventricles contract."
+  },
+  {
+    "id": 7,
+    "text": "Oxygenated blood flows through which vessel?",
+    "options": [
+      "Superior vena cava",
+      "Pulmonary artery",
+      "Pulmonary veins",
+      "Coronary veins"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Only the four pulmonary veins, two from the right lung and two from the left lung, carry oxygenated blood from the lungs to the left side of the heart."
+  },
+  {
+    "id": 8,
+    "text": "Occlusion of the left anterior descending artery during a myocardial infarction would interrupt blood supply to which structures?",
+    "options": [
+      "Left and right ventricles and much of the interventricular septum",
+      "Left atrium and the lateral wall of the left ventricle",
+      "Upper right ventricle, right marginal branch, and right ventricle to the apex",
+      "Posterior interventricular sulcus and the smaller branches of both ventricles"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The left anterior descending artery (LAD), also called the anterior interventricular artery, delivers blood to portions of the left and right ventricles and much of the interventricular septum. This selection is the only option affected by the occlusion described."
+  },
+  {
+    "id": 9,
+    "text": "Occlusion of the circumflex arteryNdUuRrSinINgGaTmB.yCoOcMardial infarction would interrupt blood supply to which area?",
+    "options": [
+      "Left and right ventricles and much of the interventricular septum",
+      "Posterior interventricular sulcus and the smaller branches of both ventricles",
+      "Upper right ventricle, right marginal branch, and right ventricle to the apex",
+      "Left atrium and the lateral wall of the left ventricle"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "The circumflex artery supplies blood to the left atrium and the lateral wall of the left ventricle. The circumflex artery often branches to the posterior surfaces of the left atrium and left ventricle. This selection is the only option affected by the occlusion described."
+  },
+  {
+    "id": 10,
+    "text": "The coronary sinus empties into which cardiac structure?",
+    "options": [
+      "Right atrium",
+      "Superior vena cava",
+      "Left atrium",
+      "Aorta"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The cardiac veins empty only into the right atrium through another ostium, the opening of a large vein called the coronary sinus."
+  },
+  {
+    "id": 11,
+    "text": "What is the ratio of coronary capillaries to cardiac muscle cells?",
+    "options": [
+      "1:1 (one capillary per one muscle cell)",
+      "1:2 (one capillary per two muscle cells)",
+      "1:4 (one capillary per four muscle cells)",
+      "1:10 (one capillary per ten muscle cells)"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The heart has an extensive capillary network, with approximately 3300 capillaries per square millimeter (ca/mm2) or approximately one capillary per one muscle cell (muscle fiber)."
+  },
+  {
+    "id": 12,
+    "text": "During the cardiac cycle, which structure directly delivers action potential to the ventricular myocardium?",
+    "options": [
+      "Sinoatrial (SA) node",
+      "Purkinje fibers",
+      "Atrioventricular (AV) node",
+      "Bundle branches"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "ENaUcRhSIcNaGrdTiBac.CaOcMtion potential travels from the SA node to the AV node to the bundle of His (AV bundle), throubgrahntchheebs,uannddlefina lly to the Purkinje fibers and the"
+  },
+  {
+    "id": 13,
+    "text": "What causes depolarization of a cardiac muscle cell to occur?",
+    "options": [
+      "Decrease in the permeability of the cell membrane to potassium",
+      "Rapid movement of sodium into the cell",
+      "Decrease in the movement of sodium out of the cell",
+      "Rapid movement of calcium out of the cell"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Phase 0 consists of depolarization, which lasts 1 to 2 milliseconds (ms) and represents rapid sodium entry into the cell. This selection is the only option that accurately describes the cause of cardiac muscle cell depolarization."
+  },
+  {
+    "id": 14,
+    "text": "Which event occurs during phase 1 of the normal myocardial cell depolarization and repolarization?",
+    "options": [
+      "Repolarization when potassium moves out of the cells",
+      "Repolarization when sodium rapidly enters into the cells",
+      "Early repolarization when sodium slowly enters the cells",
+      "Early repolarization when calcium slowly enters the cells"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Phase 1 is early repolarization and the only time during which calcium slowly enters the cell."
+  },
+  {
+    "id": 15,
+    "text": "Which phase of the normal myocardial cell depolarization and repolarization correlates with diastole?",
+    "options": [
+      "Phase 1",
+      "Phase 3",
+      "Phase 2",
+      "Phase 4"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Potassium is moved out of the cell during phase 3, with a return to resting membrane potential only in phase 4. The time between action potentials corresponds to diastole."
+  },
+  {
+    "id": 16,
+    "text": "In the normal electrocardiogram, what does the PR interval represent?",
+    "options": [
+      "Atrial depolarization",
+      "Ventricular depolarization",
+      "Atrial activation to onset of ventricular activity",
+      "Electrical systole of the ventricles"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The PR interval is a measure of time from the onset of atrial activation to the onset of ventricular activation; it normally ranges from 0.12 to 0.20 second. The PR interval represents the time necessary to travel from the sinus node through the atrium, the atrioventricular (AV) node, and the His–Purkinje system to activate ventricular myocardial cells. This selection is the only option that accurately describes the PR interval."
+  },
+  {
+    "id": 17,
+    "text": "What period follows depolarization of the myocardium and represents a period during which no new cardiac potential can be propagated?",
+    "options": [
+      "Refractory",
+      "Threshold",
+      "Hyperpolarization",
+      "Sinoatrial (SA)"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "During the refractory period, no new cardiac action potential can be initiated by a stimulus. This selection is the only option that accurately identifies the period described in the question."
+  },
+  {
+    "id": 18,
+    "text": "Which complex (wave) represents the sum of all ventricular muscle cell depolarizations?",
+    "options": [
+      "PRS",
+      "QT interval",
+      "QRS",
+      "P"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Only the QRS complex represents the sum of all ventricular muscle cell depolarizations."
+  },
+  {
+    "id": 19,
+    "text": "What can shorten the conduction time of action potential through the atrioventricular (AV) node?",
+    "options": [
+      "Parasympathetic nervous system",
+      "Vagal stimulation",
+      "Catecholamines",
+      "Sinoatrial node (SA)"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "CNUatReScIhNoGlaTmBi.CnOesMspeed the heart rate, shorten the conduction time through the AV node,"
+  },
+  {
+    "id": 20,
+    "text": "If the sinoatrial (SA) node fails, then at what rate (depolarizations per minute) can the atrioventricular (AV) node depolarize?",
+    "options": [
+      "60 to 70",
+      "30 to 40",
+      "40 to 60",
+      "10 to 20"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "If the SA node is damaged, then the AV node will become the heart’s pacemaker at a rate of approximately 40 to 60 spontaneous depolarizations per minute."
+  },
+  {
+    "id": 21,
+    "text": "What is the effect of epinephrine on 𝗉3 receptors on the heart?",
+    "options": [
+      "Decreases coronary blood flow.",
+      "Supplements the effects of both 𝗉1 and 𝗉2 receptors.",
+      "Increases the strength of myocardial contraction.",
+      "Prevents overstimulation of the heart by the sympathetic nervous system."
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "𝗉3 receptors are found in the myocardium and coronary vessels. In the heart, stimulation of these receptors opposes the effects of 𝗉1- and 𝗉2-receptor stimulation and negative inotropic effect. Thus 𝗉3 receptors may provide a safety mechanism that decreases myocardial contractility to prevent overstimulation of the heart by the sympathetic nervous system. This selection is the only option that accurately describes the effect of epinephrine on 𝗉2 receptors on the heart."
+  },
+  {
+    "id": 22,
+    "text": "Where in the heart are the receptors for neurotransmitters located?",
+    "options": [
+      "Semilunar and atrioventricular (AV) valves",
+      "Endocardium and sinoatrial (SA) node",
+      "Myocardium and coronary vessels",
+      "Epicardium and AV node"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Sympathetic neural stimulation of the myocardium and coronary vessels depends on the presence of adrenergic receptors, which specifically bind with neurotransmitters of the sympathetic nervous system. The 𝗉1 receptors are found mostly in the heart, specifically the conduction system (AV and SA nodes, Purkinje fibers) and the atrial and ventricular myocardium, whereas the 𝗉2 receptors are found in the heart and also on vascular smooth muscle. 𝗉3 receptors are also found in the myocardium and coronary vessels. This selection is the only option that accurately identifies the location of the receptors for neurotransmitters."
+  },
+  {
+    "id": 23,
+    "text": "What enables electrical impulses to travel in a continuous cell-to-cell fashion in myocardial cells?",
+    "options": [
+      "Sarcolemma sclerotic plaques",
+      "Trabeculae carneae",
+      "Intercalated disks",
+      "Bachmann bundles"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Only intercalated disks, thickened portions of the sarcolemma, enable electrical impulses to spread quickly in a continuous cell-to-cell (syncytial) fashion."
+  },
+  {
+    "id": 24,
+    "text": "Within a physiologic range, what does an increase in left ventricular end-diastolic volume (preload) result in?",
+    "options": [
+      "Increase in force of contraction",
+      "Increase in afterload",
+      "Decrease in refractory time",
+      "Decrease in repolarization"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "This concept is expressed in the Frank-Starling law; the cardiac muscle, like other muscles, increases its strength of contraction when it is stretched. This selection is the only option that accurately describes the result of an increase in preload."
+  },
+  {
+    "id": 25,
+    "text": "Pressure in the left ventricle must exceed pressure in which structure before the left ventricle can eject blood?",
+    "options": [
+      "Superior vena cava",
+      "Inferior vena cava",
+      "Aorta",
+      "Pulmonary veins"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Pressure in the ventricle must exceed aortic pressure before blood can be pumped out during systole. The aorta is the only structure in which pressure must be less than the amount of blood in the left ventricle for ejection to occur."
+  },
+  {
+    "id": 26,
+    "text": "Continuous increases in left ventricular filing pressures result in which disorder?",
+    "options": [
+      "Mitral regurgitation                  c.Pulmonary edema",
+      "Mitral stenosis",
+      "Jugular vein distention"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Pressure changes are important because increased left ventricular filling pressures back up into the pulmonary circulation, where they force plasma out through vessel walls, causing fluid to accumulate in lung tissues (pulmonary edema). This selection is the only option that accurately identifies the disorder described in the question."
+  },
+  {
+    "id": 27,
+    "text": "When the volume of blood in the ventricle at the end of diastole increases, the force of the myocardial contraction during the next systole will also increase, which is an example of which law or theory about the heart?",
+    "options": [
+      "Laplace’s law",
+      "Cross-bridge theory",
+      "Poiseuille law",
+      "Frank-Starling law"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "This concept is expressed only in the Frank-Starling law; the cardiac muscle, like other muscles, increases its strength of contraction when it is stretched."
+  },
+  {
+    "id": 28,
+    "text": "The resting heart rate in a healthy person is primarily under the control of which nervous system?",
+    "options": [
+      "Sympathetic",
+      "Somatic",
+      "Parasympathetic",
+      "Spinal"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The resting heart rate in healthy individuals is primarily under the control of parasympathetic stimulation. This selection is the only option that accurately identifies the nervous system responsible for the healthy resting heart."
+  },
+  {
+    "id": 29,
+    "text": "The Bainbridge reflex is thought to be initiated by sensory neurons in which cardiac location?",
+    "options": [
+      "Atria",
+      "Sinoatrial (SA) node",
+      "Aorta",
+      "Ventricles"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "The Bainbridge reflex causes changes in the heart rate after intravenous infusions of blood or other fluid. The changes in heart rate are thought to be caused by a reflex mediated by volume receptors found only in the atria that are innervated by the vagus nerve."
+  },
+  {
+    "id": 30,
+    "text": "After the baroreceptor reflex is stimulated, the resulting impulse is transmitted from the carotid artery by which sequence of events?",
+    "options": [
+      "Vagus nerve to the medulla to increase parasympathetic activity and to decrease sympathetic activity",
+      "Glossopharyngeal cranial nerve through the vagus nerve to the medulla to increase sympathetic activity and to deNcrUeRasSeINpGaTraBs.yCmOMpathetic activity",
+      "Glossopharyngeal cranial nerve through the vagus nerve to the medulla to increase parasympathetic activity and to decrease sympathetic activity",
+      "Glossopharyngeal cranial nerve through the vagus nerve to the hypothalamus to increase parasympathetic activity and to decrease sympathetic activity"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Neural impulses are transmitted over the glossopharyngeal nerve (ninth cranial nerve) from the carotid artery and through the vagus nerve from the aorta to the cardiovascular control centers in the medulla. These centers initiate an increase in parasympathetic activity and a decrease in sympathetic activity, causing blood vessels to dilate and the heart rate to decrease. This selection is the only option that accurately describes the correct sequence of events asked for in the question."
+  },
+  {
+    "id": 31,
+    "text": "Reflex control of total cardiac output and total peripheral resistance is controlled by what mechanism?",
+    "options": [
+      "Parasympathetic stimulation of the heart, arterioles, and veins",
+      "Sympathetic stimulation of the heart, arterioles, and veins",
+      "Autonomic control of the heart only",
+      "Somatic control of the heart, arterioles, and veins"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Reflex control of total cardiac output and peripheral resistance includes (1) sympathetic stimulation of the heart, arterioles, and veins; and (2) parasympathetic stimulation of the heart only. Neither autonomic nor somatic controls are involved in this process."
+  },
+  {
+    "id": 32,
+    "text": "What is the most important negative inotropic agent?",
+    "options": [
+      "Norepinephrine",
+      "Acetylcholine",
+      "Epinephrine",
+      "Dopamine"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Chemicals affecting contractility are called inotropic agents. The most important negative inotropic agent is acetylcholine released from the vagus nerve. The most important positive inotropic agents produced by the body are norepinephrine released from the sympathetic nerves that supply the heart and epinephrine released by the adrenal cortex. Other positive inotropes include thyroid hormone and dopamine. Many medications have positive or negative inotropic properties that can have profound effects on cardiac function. This selection is the only option that accurately identifies the regulation that is involved in the described process."
+  },
+  {
+    "id": 33,
+    "text": "The right lymphatic duct drains into which structure?",
+    "options": [
+      "Right subclavian artery",
+      "Right subclavian vein",
+      "Right atrium",
+      "Superior vena cava"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The right lymphatic duct drains lyNmUpRhSoINnGlyTBin.CtoOtMhe right subclavian vein."
+  },
+  {
+    "id": 34,
+    "text": "Where is the major cardiovascular center in the central nervous system?",
+    "options": [
+      "Frontal lobe",
+      "Brainstem",
+      "Thalamus",
+      "Hypothalamus"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "The major cardiovascular control center is in the brainstem in the medulla with secondary areas in the hypothalamus, the cerebral cortex, the thalamus, and the complex networks of exciting or inhibiting interneurons (connecting neurons) throughout the brain. This selection is the only option that accurately identifies the cardiovascular control center."
+  },
+  {
+    "id": 35,
+    "text": "What is the major determinant of the resistance that blood encounters as it flows through the systemic circulation?",
+    "options": [
+      "Volume of blood in the systemic circulation",
+      "Muscle layer of the metarterioles",
+      "Muscle layer of the arterioles",
+      "Force of ventricular contraction"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Of the options available, only the thick, smooth muscle layer of the arterioles is a major determinant of the resistance blood encounters as it flows through the systemic circulation."
+  },
+  {
+    "id": 36,
+    "text": "Which function of the cardiovascular system is often affected by ischemia?",
+    "options": [
+      "Cardiac output (CO)",
+      "Heart rate (HR)",
+      "Stroke volume (SV)",
+      "Cardiac index (CI)"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Common causes of an abnormal heart rate include ischemia, electrolyte imbalance, and drug toxicity. The other options are related to vascular resistance changes."
+  },
+  {
+    "id": 37,
+    "text": "What physical sign is the result of turbulent blood flow through a vessel?",
+    "options": [
+      "Increased blood pressure durinNgUpReSrIiNoGdsTBo.fCsOtrMess",
+      "Bounding pulse felt on palpation",
+      "Cyanosis observed on excretion",
+      "Murmur heard on auscultation"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Where flow is obstructed, the vessel turns or blood flows over rough surfaces. The flow becomes turbulent with whorls or eddy currents that produce noise, causing a murmur to be heard on auscultation, such as occurs during blood pressure measurement with a sphygomanometer. This selection is the only option that accurately identifies the physical sign of turbulent vascular blood flow."
+  },
+  {
+    "id": 38,
+    "text": "What is the major effect of a calcium channel blocker such as verapamil on cardiac contractions?",
+    "options": [
+      "Increases the rate of cardiac contractions.",
+      "Decreases the strength of cardiac contractions.",
+      "Stabilizes the rhythm of cardiac contractions.",
+      "Stabilizes the vasodilation during cardiac contractions."
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The L-type, or long-lasting, channels are the predominant type of calcium channels and are the channels blocked by calcium channel–blocking drugs (verapamil, nifedipine, diltiazem). The major effect of these medications is to decrease the strength of cardiac contraction. This selection is the only option that accurately identifies the effect of a calcium channel blocker on the cardiac contractions."
+  },
+  {
+    "id": 39,
+    "text": "An early diastole peak caused by filling of the atrium from peripheral veins is identified by which intracardiac pressure?",
+    "options": [
+      "A wave",
+      "C wave",
+      "V wave",
+      "X descent"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The V wave is an early diastolic peak caused by the filling of the atrium from the peripheral veins. This event is not identified by any of the other options."
+  },
+  {
+    "id": 40,
+    "text": "Which intracardiac pressure is generated by the atrial contraction?",
+    "options": [
+      "A wave",
+      "Y descent",
+      "C wave",
+      "X descent"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Atrial pressure curves are made up of only the A wave, which is generated by atrial contraction."
+  },
+  {
+    "id": 41,
+    "text": "Which intracardiac pressure is produced because of the descent of the tricuspid valve ring and by the ejection of blood from both ventricles?",
+    "options": [
+      "V wave",
+      "Y descent",
+      "C wave",
+      "X descent"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "The X descent follows an A wave and is produced because of the descent of the tricuspid valve ring and by the ejection of blood from both ventricles."
+  }
+]

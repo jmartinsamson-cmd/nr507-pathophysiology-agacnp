@@ -1,0 +1,2247 @@
+{
+  "study_guide": {
+    "title": "NR507 Midterm Study Guide",
+    "content": [
+      "NR507 – Advanced Pathophysiology",
+      "Exam Study Guide – Midterm Study Guide",
+      "Exam Format: Noncumulative",
+      "Question Type: Multiple Choice",
+      "Number of Questions: 100",
+      "Time Allotted: 120 minutes",
+      "Testing Timeframe: The midterm exam will only be available starting on Wednesday Week 4 at 12:01 am MT until Saturday Week 4 at 11:59 pm MT.",
+      "1. Exam Coverage",
+      "Content Areas:",
+      "Week 1: Immunological Pathologies",
+      "Week 2: Hematological and Cardiovascular Pathologies",
+      "Week 3: Pulmonary Pathologies",
+      "Week 4: Urinary System Pathologies",
+      "2. Key Concepts to Study",
+      "Alterations in Immunity and Inflammation:",
+      "Pathophysiology of the four types of hypersensitivity reactions",
+      "Prototype diseases that reflect each of the four types of hypersensitivity (i.e. Type IV-contact dermatitis) and signs and symptoms",
+      "Treatment options for diseases under each hypersensitivity category",
+      "Pathophysiology of Human Immunodeficiency Virus (HIV)",
+      "Pathophysiology of Systemic Lupus Erythematosus (SLE)",
+      "Diagnosis of SLE, including autoantibodies involved",
+      "Clinical symptoms of SLE",
+      "Treatment options for SLE including treatment during flare-ups",
+      "Alloimmune phenomenon",
+      "Differentiation between primary and secondary immunodeficiency including causes",
+      "Common variable immunodeficiency",
+      "Hematological Pathologies:",
+      "Pathophysiology of microcytic, macrocytic, and normocytic anemias",
+      "Pathophysiology of anemia of chronic disease",
+      "Pathophysiology of folate deficiency",
+      "Pathophysiology of sickle cell anemia",
+      "Red blood cell production and the role of erythropoietin",
+      "Lab markers used in diagnosing anemia (e.g. iron deficiency and vitamin B-12 deficiency)",
+      "Risk factors for iron deficiency anemia",
+      "Risk factors for megaloblastic anemia",
+      "Risk factors for hemolytic anemia",
+      "Lab markers for normocytic anemia",
+      "Treatment of beta-thalassemia major",
+      "Implications for giving attenuated vaccines to compromised individuals",
+      "Cardiovascular Pathologies:",
+      "Pathophysiology of coronary artery disease (CAD)",
+      "Modifiable and nonmodifiable risk factors for CAD",
+      "Differentiate between HDL and LDL cholesterol",
+      "Total cholesterol ranges (normal vs. high)",
+      "Primary and secondary causes of dyslipidemia",
+      "Pathophysiology of right and left-sided heart failure",
+      "Risk factors for heart failure",
+      "Stages of heart failure according to the American College of Cardiology (ACC)/American Heart Association (AHA)",
+      "Pharmacological management for Stage B and Stage C heart failure",
+      "Purpose of the NYHA Functional Classification of Heart Failure",
+      "Signs and symptoms of right and left-sided heart failure, including heart sounds",
+      "Ejection fraction as a parameter for heart failure",
+      "Pathophysiology of the heart valve disorders: aortic stenosis/regurgitation and mitral stenosis/regurgitation",
+      "Murmur characteristics of heart valve disorders",
+      "Risk factors for developing heart valve disorders",
+      "Pulmonary Pathologies:",
+      "Mechanics of breathing",
+      "Pathophysiology of obstructive and restrictive disorders",
+      "Pulmonary function tests that represent an obstructive or restrictive disorder",
+      "Pathophysiology, signs and symptoms and treatment of chronic bronchitis",
+      "Pathophysiology, signs and symptoms and treatment of emphysema",
+      "Differentiate between the types of emphysema",
+      "Pathophysiology, signs and symptoms and treatment of asthma",
+      "Pharmacological management of an asthma attack",
+      "Client education for the asthma patient",
+      "Pathophysiology of interstitial lung disease (ILD)",
+      "Physical exam findings for ILD",
+      "Urinary System Pathologies:",
+      "Pathophysiology of a urinary tract infection (UTI)",
+      "Signs and symptoms of cystitis",
+      "Complicated vs. uncomplicated UTIs",
+      "Pathophysiology of acute pyelonephritis",
+      "Diagnosis of acute pyelonephritis",
+      "Pathophysiology of benign prostatic hypertrophy (BPH)",
+      "Risk factors for BPH",
+      "Treatment of BPH",
+      "Pathophysiology of renal calculi",
+      "Signs and symptoms of renal calculi",
+      "Differentiate between functional and urge incontinence",
+      "Risk factors for urge incontinence",
+      "Pathophysiology of acute (prerenal, intrinsic, post-renal) and chronic renal failure, including stages",
+      "eGFR values that represent the stages of CRF",
+      "Risk factors for developing prerenal failure",
+      "Risk factors for developing intrinsic renal failure",
+      "Diagnosing chronic renal failure",
+      "Treatment of acute kidney injury",
+      "Uremic syndrome, including signs and symptoms by body systems",
+      "Consequences of decreased renal production of Vitamin D",
+      "Causes of dyslipidemia in individuals with chronic kidney disease",
+      "Role of ACE inhibitors in managing chronic kidney disease",
+      "Endocrine  and cardiovascular complications as a result of chronic kidney disease",
+      "Azotemia",
+      "4. Recommended Resources",
+      "Textbook Chapters: Rogers, J. L. (2023). McCance & Huether's pathophysiology: The biologic basis for disease in adults and children (9th ed.). Elsevier.",
+      "Chapter 9: Alterations in Immunity & Inflammation, pp. 255-279",
+      "Chapter 28: Structure and Function of the Hematologic System",
+      "Chapter 29: Alterations of Hematologic Function",
+      "Chapter 30: Alterations of Hematologic Function in Children",
+      "Chapter 32: Alterations of Cardiovascular Function",
+      "Chapter 34: Structure and Function of the Pulmonary System",
+      "Chapter 35: Alterations in Pulmonary Function",
+      "Chapter 37: Structure and Function of the Renal and Urinary System",
+      "Chapter 38: Alterations of Renal and Urinary Tract Function, pp. 1242-1245",
+      "Chapter 26: Alterations of the Male Reproductive System, pp. 842-844",
+      "Canvas Modules: Weeks 1-4",
+      "Edapt Modules: Weeks 1-4",
+      "Supplemental Resources (optional): Weekly Clinical Reasoning webinars",
+      "6. Exam Logistics & Reminders",
+      "Platform: ExamSoft",
+      "Open/Closed Book: Closed",
+      "Proctoring Method: Assessment monitoring software with environmental scan",
+      "Assessment Integrity: You are expected to comply with the Student Code of Conduct, the Chamberlain University Technical Requirements found in the Academic Catalog, all University Assessment Requirements during testing, the third-party assessment platform’s End User License Agreement, and use the most recent version of the third-party assessment platform’s software. Failure to adhere may result in academic integrity and/or professional conduct inquiry.",
+      "7. Course Leader Notes/Advice",
+      "Topics and content on guides are intended to focus student attention when reading/studying, and some topics may be repeated in multiple chapters.",
+      "Multiple test items are derived from the same topic areas to encourage deeper comprehension.",
+      "Students must have a broad understanding of content and not simply memorize passages in textbooks.",
+      "Exam questions represent various levels of cognitive learning. You are expected to analyze, synthesize, and evaluate patient scenarios to answer the questions.",
+      "Utilize your time well by not rushing. You will have plenty of time to read each question for understanding before you select your final answer."
+    ]
+  },
+  "week1_slides": {
+    "title": "Week 1: Content Applications in Pathophysiology",
+    "slides": [
+      {
+        "slide_number": 1,
+        "content": [
+          "Week 1: Clinical Reasoning Webinar: Hypersensitivity",
+          "NR507-Advanced Pathophysiology",
+          "Presented by: Susan Sanner, PhD, APRN, FNP-BC, CNE"
+        ]
+      },
+      {
+        "slide_number": 2,
+        "content": [
+          "Type II Hypersensitivity Reaction (Cytotoxic)",
+          "Initiated by",
+          ": IgG or IgM antibodies binding to antigens on host cell surfaces",
+          "Effectors",
+          ": Complement activation, ADCC (antibody-dependent cell-mediated cytotoxicity), phagocytosis",
+          "Outcomes:",
+          "Ce",
+          "ll lysis",
+          "I",
+          "nflammation",
+          "Dysfunction of target cells",
+          "Onset:",
+          "hours to days"
+        ]
+      },
+      {
+        "slide_number": 3,
+        "content": [
+          "Clinical Examples of a Type II Hypersensitivity Reaction",
+          "Hemolytic anemia",
+          "Graves’ disease",
+          "Diagnostics:",
+          "Direct Coombs test (detects IgG on RBCs)",
+          "Indirect Coombs test (detects free antibodies)",
+          "ELISA for autoantibodies"
+        ]
+      },
+      {
+        "slide_number": 4,
+        "content": [
+          "Based on these pathophysiological alterations, what are typically the presenting signs and symptoms?",
+          "It depends on the Type of disease caused by the Type II hypersensitivity reaction."
+        ]
+      },
+      {
+        "slide_number": 5,
+        "content": [
+          "Hemolytic Anemia",
+          "Mechanism: Autoantibodies bind to antigens on red blood cells (RBCs), marking them for destruction by macrophages (via Fc receptors) or via complement-mediated lysis.",
+          "Immune Mediators",
+          ":",
+          "Autoantibodies (IgG or IgM): These antibodies bind to antigens on the surface of red blood cells (RBCs).",
+          "Complement system (C1-C9): Especially in IgM-mediated AIHA, antibodies activate the classical complement pathway, leading to RBC lysis.",
+          "Fc receptors on phagocytes: In IgG-mediated AIHA, antibody-coated RBCs are recognized by macrophages in the spleen via",
+          "Fcγ",
+          "receptors, leading to phagocytosis.",
+          "Macrophages: Primary effectors that engulf and destroy RBCs in the spleen and liver",
+          "Natural killer (NK) cells (less common): May contribute via antibody-dependent cell-mediated cytotoxicity (ADCC)."
+        ]
+      },
+      {
+        "slide_number": 6,
+        "content": [
+          "Based on these pathophysiological alterations, what are typically the presenting signs and symptoms?",
+          "Fatigue and weakness",
+          "(due to anemia)",
+          "Pallor",
+          "(pale skin and mucous membranes)",
+          "Jaundice",
+          "(from increased bilirubin due to RBC breakdown)",
+          "Dark urine",
+          "(from hemoglobinuria)",
+          "Tachycardia",
+          "and",
+          "dyspnea",
+          "(as compensatory responses to anemia)",
+          "Splenomegaly",
+          "(due to increased RBC destruction in the spleen)",
+          "Important link:",
+          "when a client presents with these S&S, the NP can rely on foundational",
+          "patho",
+          ". Knowledge to assist in the diagnosis, which leads to an appropriate management plan. It is essential to understand the cellular processes discussed on the previous slide, The S&S are reflective of the abnormal alterations that are occurring at the tissue level as a result of the abnormalities that started at the cellular level."
+        ]
+      },
+      {
+        "slide_number": 7,
+        "content": [
+          "Diagnostic Tests for Hemolytic Anemia",
+          "Direct Antiglobulin Test (DAT or Direct Coombs Test)",
+          "Most important test",
+          "for AIHA",
+          "Detects",
+          "antibodies (IgG)",
+          "or",
+          "complement (C3)",
+          "on the surface of red blood cells",
+          "Indirect Coombs Test",
+          "Detects",
+          "free-floating antibodies",
+          "in the patient's serum that can bind to RBCs",
+          "Helps in blood typing and transfusion compatibility",
+          "Complete Blood Count (CBC)",
+          "Shows",
+          "anemia",
+          "(↓ hemoglobin, ↓ hematocrit)",
+          "May show increased",
+          "reticulocyte count",
+          "(bone marrow response to anemia)",
+          "Peripheral Blood Smear:",
+          "may show abnormal RBC shapes indicating hemolysis",
+          "Lactate Dehydrogenase:",
+          "Elevated due to RBC destruction",
+          "Haptoglobin:",
+          "Decreased because it binds free hemoglobin released from the destroyed RBC",
+          "Indirect bilirubin:",
+          "Elevated due to increased RBC breakdown (hemolysis)"
+        ]
+      },
+      {
+        "slide_number": 8,
+        "content": [
+          "Treatment of a Type 2 Hypersensitivity Reaction: Hemolytic Anemia",
+          "Corticosteroids:",
+          "First-line treatment to reduce antibody production and inflammation",
+          "Helps decrease hemolysis by suppressing immune function",
+          "Immunosuppressants",
+          "(if steroid resistant or in relapse): e.g.",
+          "Azothioprine",
+          "Intravenous immunoglobulin (IVIG):",
+          "especially useful in acute or severe cases; competes with autoantibodies and reduces Fc receptor-mediated clearance",
+          "Blood transfusions:",
+          "used cautiously in severe anemia as crossmatching is difficult due to the presence of autoantibodies",
+          "Splenectomy:",
+          "done if refractive to medical therapy; the spleen is a major site for RBC destruction"
+        ]
+      },
+      {
+        "slide_number": 9,
+        "content": [
+          "Grave’s Disease",
+          "Mechanism:",
+          "Autoantibodies (TSI - thyroid-stimulating immunoglobulins) mimic TSH by binding to the TSH receptor on thyroid cells, stimulating excess thyroid hormone production, not destroying the cell.",
+          "NOTE: the thyroid function is altered, but the thyroid tissue is not destroyed",
+          "Immune Mediators",
+          ":",
+          "Autoantibodies (TSI - thyroid-stimulating immunoglobulins) mimic TSH by binding to the TSH receptor on thyroid cells,",
+          "stimulating",
+          "excess thyroid hormone production, not destroying the cell.",
+          "T helper cells (Th2 subtype): Promote B cell activation and autoantibody production.",
+          "B cells",
+          ": produce the TSI autoantibodies",
+          "Cytokines",
+          "(e.g., IL-4, IL-10):",
+          "Released by Th2 cells, help sustain the humoral (antibody-driven) autoimmune response.",
+          "Orbital fibroblasts and T cells",
+          "(in exophthalmos): Infiltration by immune cells in orbital tissue contributes to eye symptoms (exophthalmos),  but this is a more complex, mixed immune response (humoral and cellular)."
+        ]
+      },
+      {
+        "slide_number": 10,
+        "content": [
+          "Based on these pathophysiological alterations, what are typically the presenting signs and symptoms of Grave’s Disease?",
+          "Weight loss: despite normal or increased appetite",
+          "Heat intolerance",
+          "Sweating",
+          "Tachycardia or palpitations",
+          "Anxiety, irritability",
+          "Tremors",
+          "Goiter (thyroid enlargement)",
+          "Exophthalmos (protruding eyes, due to immune-mediated inflammation—unique to Graves’)",
+          "Menstrual irregularities",
+          "NOTE: Grave’s disease will be further explored in the Endocrine system."
+        ]
+      },
+      {
+        "slide_number": 11,
+        "content": [
+          "Serum Thyroid Function Tests",
+          ":",
+          "↓ TSH",
+          "(due to negative feedback from high thyroid hormone)",
+          "↑ Free T4 and/or T3",
+          "(hyperthyroidism)",
+          "TSI (Thyroid-Stimulating Immunoglobulin) Test:",
+          "Detects",
+          "Graves’-specific autoantibodies",
+          "(confirms autoimmune etiology)",
+          "Radioactive Iodine Uptake (RAIU) Scan",
+          "Measures iodine uptake by the thyroid",
+          "High, diffuse uptake",
+          "is characteristic of Graves’ Disease",
+          "Thyroid Ultrasound",
+          "(sometimes):",
+          "May show a",
+          "diffusely enlarged thyroid",
+          "with increased vascularity (\"thyroid inferno\")",
+          "Thyroid-Stimulating Hormone Receptor Antibodies (TRAb):",
+          "Another test to detect stimulating autoantibodies in Graves’",
+          "Eye Exam",
+          "(if exophthalmos is present):",
+          "To assess orbital involvement in",
+          "Graves' ophthalmopathy",
+          "Diagnostic Tests for Grave’s Disease"
+        ]
+      },
+      {
+        "slide_number": 12,
+        "content": [
+          "What are Clinical Reasoning Webinars in Pathophysiology?",
+          "These are live webinars to assist students in developing knowledge about select pathophysiological alterations in the body that lead to disease and how those alterations lead to clients’ signs and symptoms when they present to the clinic.",
+          "Basically, we are linking a foundational course (pathophysiology) to client care, where students will gain insight into pathophysiological alterations behind the signs, symptoms, disease progression and treatment responses.",
+          "When NPs understand the cellular and systemic changes associated with disease, it enhances their ability to:",
+          "Recognize early warning signs of disease",
+          "Interpret diagnostic tests with clinical relevance",
+          "Choose effective treatments",
+          "Educate clients about their disease"
+        ]
+      },
+      {
+        "slide_number": 13,
+        "content": [
+          "Treatment of a Type 2 Hypersensitivity Reaction: Grave’s Disease",
+          "Antithyroid Medications (First-line for many patients):",
+          "Methimazole (preferred due to lower side effects)",
+          "Propylthiouracil (PTU)",
+          "Beta-Blockers (Symptom Control)",
+          "Radioactive Iodine Therapy (Definitive in many cases as a nonsurgical option)",
+          "Surgery – Thyroidectomy",
+          "Corticosteroids (in specific cases)- especially if exophthalmos is involved"
+        ]
+      },
+      {
+        "slide_number": 14,
+        "content": [
+          "Type III Hypersensitivity Reactions",
+          "Initiated by",
+          ":",
+          "Formation of antigen-antibody (IgG or IgM) complexes in circulation",
+          "Effectors",
+          ":",
+          "Immune Complexes (Antigen-Antibody Complexes):",
+          "Formed when antigens bind to IgG or IgM in the circulation",
+          "The complexes deposit in tissues like kidneys, joints, small vessels",
+          "Complement System (C1–C9): leads to inflammation",
+          "Neutrophils: attempt to phagocytose the immune complexes, but fail",
+          "Outcomes:",
+          "Tissue inflammation leading to tissue damage at the site of immune complex deposition",
+          "Onset:",
+          "can vary depending on the type and amount of antigen exposed to"
+        ]
+      },
+      {
+        "slide_number": 15,
+        "content": [
+          "Based on these pathophysiological alterations, what are typically the presenting signs and symptoms?",
+          "Depends on the site where the immune complexes deposit"
+        ]
+      },
+      {
+        "slide_number": 16,
+        "content": [
+          "Based on these pathophysiological alterations, what are typically the presenting signs and symptoms?",
+          "Affected Tissue",
+          "Outcome",
+          "Kidneys (",
+          "e.g",
+          "SLE, PSGN)",
+          "Glomerulonephritis (proteinuria, hematuria, renal failure",
+          "Joints (e.g. RA, SLE)",
+          "Arthritis, joint swelling and pain",
+          "Skin",
+          "Rash, purpura (e.g. serum sickness, SLE)",
+          "Blood vessels",
+          "Vasculitis (palpable purpura)",
+          "Lungs",
+          "Alveolitis, hemorrhage, pneumonitis"
+        ]
+      },
+      {
+        "slide_number": 17,
+        "content": [
+          "Clinical Examples of a Type III Hypersensitivity Reaction",
+          "Systemic Lupus Erythematous (SLE)",
+          "Post-streptococcal glomerulonephritis",
+          "Serum sickness",
+          "Arthus reaction"
+        ]
+      },
+      {
+        "slide_number": 18,
+        "content": [
+          "SLE as a Type II and Type III Hypersensitivity Reaction",
+          "While SLE is primarily a Type III hypersensitivity disease, some of its features are mediated by Type II hypersensitivity",
+          "",
+          "mechanisms: autoantibodies directly target cell-surface antigens, leading to cell destruction.",
+          "Type III characteristics of SLE is its hallmark features caused by immune complex formation and deposition in tissues, leading to complement activation, neutrophil recruitment, and inflammatory tissue damage; these are the major characteristics of Type III responses."
+        ]
+      },
+      {
+        "slide_number": 19,
+        "content": [
+          "Based on these pathophysiological alterations, what are typically the presenting signs and symptoms of SLE?",
+          "System",
+          "Presenting Symptoms",
+          "Hypersensitivity Type",
+          "General",
+          "- Fatigue",
+          "- Fever",
+          "- Weight loss",
+          "- Malaise",
+          "Systemic inflammation (non-specific)",
+          "Musculoskeletal",
+          "- Arthralgia or arthritis (non-erosive, symmetrical)",
+          "- Myalgias",
+          "Type III",
+          "(immune",
+          "complex",
+          "",
+          "deposition",
+          "in joints)",
+          "Skin/cutaneous",
+          "-Malar rash",
+          "- Discoid rash",
+          "- Photosensitivity",
+          "- Alopecia",
+          "- Oral/nasal ulcers",
+          "Type III",
+          "(immune",
+          "complex",
+          "",
+          "deposition",
+          "in skin)",
+          "Renal",
+          "- Hematuria",
+          "- Proteinuria",
+          "- Hypertension",
+          "- Edema",
+          "Type III",
+          "(immune complexes in glomeruli)",
+          "Hematologic",
+          "- Anemia",
+          "- Leukopenia",
+          "- Thrombocytopenia",
+          "Type II",
+          "(autoantibodies against blood cells)",
+          "Cardiopulmonary",
+          "- Pleuritis / pleural effusion,  Pericarditis.  Raynaud phenomenon, Libman-Sacks endocarditis",
+          "Mostly",
+          "Type III",
+          "(serosal surfaces, endocardium)",
+          "Neurologic",
+          "- Seizures, Psychosis, Headaches, Mood/cognitive changes, Neuropathy",
+          "Type III",
+          "(vasculitis affecting CNS), plus unclear mechanisms",
+          "Gastrointestinal",
+          "- Abdominal pain",
+          "- Hepatosplenomegaly",
+          "Type III",
+          "(vasculitis, serositis)"
+        ]
+      },
+      {
+        "slide_number": 20,
+        "content": [
+          "SLE Management",
+          "Medications:",
+          "Nonsteroidal Anti-Inflammatory Drugs (NSAIDs)",
+          "Corticosteroids",
+          "Immunosuppressive agents",
+          "Antimalarials",
+          "Biologics",
+          "Lifestyle and support:",
+          "Regular monitoring",
+          "Sun protection",
+          "Healthy lifestyle",
+          "27"
+        ]
+      },
+      {
+        "slide_number": 21,
+        "content": [
+          "Type IV Hypersensitivity Reaction (Delayed Response)",
+          "Mechanism:",
+          "Initiated by: T-cell mediated immune response (CD4+ or CD8+)",
+          "No antibody involvement",
+          "Activation of macrophages and cytotoxic T-cells leads to inflammation and cell death",
+          "Onset: 48-72 hours after exposure"
+        ]
+      },
+      {
+        "slide_number": 22,
+        "content": [
+          "Clinical Examples of a Type 4 Hypersensitivity Reaction",
+          "Contact dermatitis: e.g. poison ivy",
+          "Tuberculin skin test (PPD)",
+          "Type I Diabetes Mellitus"
+        ]
+      },
+      {
+        "slide_number": 23,
+        "content": [
+          "What to Expect by Participating in the Content Application Webinars",
+          "Students will learn how this course is different from an undergraduate level pathophysiology course",
+          "We are going to the next level!",
+          "In a nutshell, we will:",
+          "Explore the pathophysiological  processes underlying disease",
+          "Examine how disruptions in homeostasis present clinically",
+          "Recognize the importance of a strong pathophysiological foundation in the management of diverse client populations"
+        ]
+      },
+      {
+        "slide_number": 24,
+        "content": [
+          "Based on these pathophysiological alterations, what are typically the presenting signs and symptoms (Contact Dermatitis)?",
+          "Redness",
+          "Itching",
+          "Papules or vesicles",
+          "Peeling or",
+          "lichenfication",
+          "in chronic cases"
+        ]
+      },
+      {
+        "slide_number": 25,
+        "content": [
+          "Treatment of a Type 4 Hypersensitivity Reaction (Contact Dermatitis)",
+          "Prednisone",
+          "Hydrocortisone",
+          "These medications suppress T-cell activation and cytokine release"
+        ]
+      },
+      {
+        "slide_number": 26,
+        "content": [
+          "Type",
+          "Type 1",
+          "Type 2",
+          "Type 3",
+          "Type 4",
+          "Mechanism",
+          "IgE",
+          "antibodies bind to allergens, causing mast cell degranulation and release of histamine",
+          "IgG or IgM antibodies bind to antigens on cell surfaces, triggering cell destruction",
+          "Immune complexes (antigen-antibody) form, deposit in tissues, and activate complement",
+          "T-cell-mediated response against antigens in tissues, releasing cytokines and recruiting macrophages",
+          "Immune Mediators",
+          "IgE",
+          ", mast cells, basophils, histamine",
+          "IgG, IgM, complement, phagocytes",
+          "IgG, IgM, complement, neutrophils",
+          "T-cells (CD4+, CD8+), macrophages",
+          "Examples",
+          "- Allergic rhinitis (hay fever)",
+          "- Hemolytic anemia",
+          "- Systemic lupus erythematosus (SLE)",
+          "- Contact",
+          "dermatitis",
+          "(e.g., poison",
+          "ivy",
+          ")",
+          "32"
+        ]
+      },
+      {
+        "slide_number": 27,
+        "content": [
+          "What is the Hypersensitivity Reaction?",
+          "Patient",
+          ": A 24-year-old woman experiences sneezing, runny nose, and itchy eyes every spring.",
+          "Hypersensitivity reaction?",
+          "Trigger",
+          ": What is most likely causing the signs and symptoms?",
+          "Mechanism",
+          ": What are the underlying pathophysiological alterations causing the signs and symptoms?",
+          "Management",
+          ": How can the symptoms be treated/controlled?"
+        ]
+      },
+      {
+        "slide_number": 28,
+        "content": [
+          "Answers",
+          "Type 1 hypersensitivity reaction",
+          "Trigger",
+          ": Exposure to pollen",
+          "Mechanism",
+          ": Her immune system produces",
+          "IgE",
+          "antibodies against pollen allergens. These",
+          "IgE",
+          "antibodies bind to mast cells, causing them to release histamine and other inflammatory mediators, leading to allergy symptoms.",
+          "Management",
+          ": Antihistamines and allergen avoidance can help control symptoms."
+        ]
+      },
+      {
+        "slide_number": 29,
+        "content": [
+          "What is the Hypersensitivity Reaction?",
+          "Patient",
+          ": A 10-year-old boy presents with swelling, blood in urine, and high blood pressure a few weeks after recovering from strep throat.",
+          "Trigger",
+          ": What is most likely causing the signs and symptoms?",
+          "Mechanism",
+          ": What are the underlying pathophysiological alterations causing the signs and symptoms?",
+          "Management",
+          ": How can the symptoms be treated/controlled?"
+        ]
+      },
+      {
+        "slide_number": 30,
+        "content": [
+          "Answers",
+          "Type III hypersensitivity reaction",
+          "Trigger",
+          ": Streptococcal antigens forming immune complexes with antibodies.",
+          "Mechanism",
+          ": The immune complexes circulate and deposit in the glomeruli of the kidneys, leading to inflammation and kidney damage through complement activation and recruitment of immune cells.",
+          "Management",
+          ": Supportive care, blood pressure management, and monitoring kidney function."
+        ]
+      },
+      {
+        "slide_number": 31,
+        "content": [
+          "What is the Hypersensitivity Reaction?",
+          "Patient",
+          ": A client develops a red, itchy rash with blisters on his arms 48 hours after hiking in the woods.",
+          "Trigger",
+          ": What is most likely causing the signs and symptoms?",
+          "Mechanism",
+          ": What are the underlying pathophysiological alterations causing the signs and symptoms?",
+          "Management",
+          ": How can the symptoms be treated/controlled?"
+        ]
+      },
+      {
+        "slide_number": 32,
+        "content": [
+          "Answers",
+          "Hypersensitivity reaction: Type IV-delayed",
+          "Trigger",
+          ": Contact with urushiol oil from poison ivy plants.",
+          "Mechanism",
+          ": T-cells recognize urushiol-modified skin cells as foreign. This triggers an inflammatory response involving T-cells and macrophages, resulting in a delayed skin reaction.",
+          "Management",
+          ": Topical corticosteroids to relieve symptoms, along with washing the affected area."
+        ]
+      },
+      {
+        "slide_number": 33,
+        "content": [
+          "How are the Webinars Set-up?",
+          "During each webinar we will:",
+          "1. Explore the pathophysiology of select diseases covered in class that week (brief lecture)",
+          "2. Link cellular and systemic alterations occurring with that select disease to client signs and symptoms (case studies)",
+          "3. Identify implications of the disease on client management (discussion)",
+          "4. Assess knowledge learned during the Webinar (multiple choice questions and other interactives)"
+        ]
+      },
+      {
+        "slide_number": 34,
+        "content": [
+          "What is the Type of Hypersensitivity Reaction?",
+          "Patient",
+          ": A newborn has jaundice and anemia shortly after birth.",
+          "Trigger",
+          ": What is most likely causing the signs and symptoms?",
+          "Mechanism",
+          ": What are the underlying pathophysiological alterations causing the signs and symptoms?",
+          "Management",
+          ": How can the symptoms be treated/controlled?"
+        ]
+      },
+      {
+        "slide_number": 35,
+        "content": [
+          "Answers",
+          "Type II",
+          "Trigger",
+          ": Maternal antibodies against the Rh antigen on the baby’s red blood cells.",
+          "Mechanism",
+          ": The mother, Rh-negative, produced anti-Rh antibodies during a previous pregnancy with an Rh-positive baby. In this pregnancy, these antibodies cross the placenta, attach to the baby’s Rh-positive red blood cells, and lead to their destruction.",
+          "Management",
+          ": Preventive Rh immunoglobulin (RhoGAM) for Rh-negative mothers, and supportive care for the affected newborn."
+        ]
+      },
+      {
+        "slide_number": 36,
+        "content": [
+          "Review Questions",
+          "What differentiates Type II from Type III hypersensitivity reactions?",
+          "How do mast cells contribute to Type I reactions?",
+          "Why is Type IV considered delayed?",
+          "What immunological tests would confirm SLE?"
+        ]
+      },
+      {
+        "slide_number": 37,
+        "content": [
+          "Review Question Answers",
+          "What differentiates Type II from Type III hypersensitivity reactions?",
+          "Type II involves antibodies (IgG or IgM) directed against antigens",
+          "on cell surfaces",
+          "or extracellular matrixes; leads to cell destruction or inflammation via complement activation or phagocytosis.",
+          "Type III involves immune complexes formed in",
+          "the circulation that deposit in tissues",
+          "leading to inflammation and tissue damage through complement activation and neutrophil recruitment"
+        ]
+      },
+      {
+        "slide_number": 38,
+        "content": [
+          "Review Question Answers",
+          "How do mast cells contribute to Type I reactions?",
+          "In Type I hypersensitivity reactions, mast cells bind",
+          "IgE",
+          "antibodies via",
+          "FceRI",
+          "receptors. Upon",
+          "reexposure",
+          "to an allergen, the allergen cross-links",
+          "IgE",
+          "on mast cells that trigger degranulation. This releases histamine, leukotrienes, prostaglandins, and other mediators that cause vasodilation, bronchoconstriction, and increased vascular permeability, leading to the classic allergic response"
+        ]
+      },
+      {
+        "slide_number": 39,
+        "content": [
+          "Review Question Answers",
+          "Why is Type IV reaction considered delayed?",
+          "Type IV reactions are T-cell mediated and involve activation and recruitment of macrophages and cytotoxic T-cells. This process takes 48-72 hours after antigen exposure, which is why it is a delayed response. There is no antibody involvement, which distinguishes it from Types I-III reactions."
+        ]
+      },
+      {
+        "slide_number": 40,
+        "content": [
+          "Review Question Answers",
+          "What immunological tests would confirm SLE?",
+          "Key tests include:",
+          "Antinuclear antibody (ANA): is a highly sensitive screening tests",
+          "Anti-dsDNA and anti-SM antibodies: is more specific for SLE",
+          "Low complement levels (C3, C4): due to consumption in immune complex formation",
+          "ESR and CRP: elevated due to systemic inflammation"
+        ]
+      },
+      {
+        "slide_number": 41,
+        "content": [
+          "What characterizes a Type I hypersensitivity reaction?",
+          "Cytotoxic T cell destruction",
+          "IgE",
+          "-mediated immediate response",
+          "Immune complex deposition",
+          "Delayed T-cell activation"
+        ]
+      },
+      {
+        "slide_number": 42,
+        "content": [
+          "Answer",
+          "B)",
+          "IgE",
+          "-mediated immediate response",
+          "Rationale:",
+          "Type I hypersensitivity is triggered by allergens and involves",
+          "IgE",
+          "antibodies binding to mast cells and basophils, leading to an immediate release of histamine and other mediators. This is seen in allergic conditions like anaphylaxis and hay fever."
+        ]
+      },
+      {
+        "slide_number": 43,
+        "content": [
+          "Which of the following is an example of a Type II hypersensitivity reaction?",
+          "Allergic rhinitis",
+          "Rheumatoid arthritis",
+          "Hemolytic anemia",
+          "Contact dermatitis"
+        ]
+      },
+      {
+        "slide_number": 44,
+        "content": [
+          "Answer",
+          "C) Hemolytic anemia",
+          "Rationale:",
+          "Type II hypersensitivity involves IgG or IgM antibodies directed against antigens on cell surfaces, resulting in cell destruction. Autoimmune hemolytic anemia is a classic example, where red blood cells are targeted and destroyed."
+        ]
+      },
+      {
+        "slide_number": 45,
+        "content": [
+          "What is the primary immune cell involved in a Type I hypersensitivity reaction?",
+          "T-helper cells",
+          "Mast cells",
+          "Neutrophils",
+          "Macrophages"
+        ]
+      },
+      {
+        "slide_number": 46,
+        "content": [
+          "Answer",
+          "C) Mast cells",
+          "Rationale:",
+          "Mast cells play a central role in Type I reactions by releasing histamine and other inflammatory mediators upon",
+          "IgE",
+          "cross-linking with allergens."
+        ]
+      },
+      {
+        "slide_number": 47,
+        "content": [
+          "Which virus leads to acquired immunodeficiency by destroying CD4+ T cells?",
+          "Epstein-Barr virus",
+          "Hepatitis C",
+          "HPV",
+          "HIV"
+        ]
+      },
+      {
+        "slide_number": 48,
+        "content": [
+          "Answer",
+          "D) HIV",
+          "Rationale:",
+          "Human Immunodeficiency Virus (HIV) targets and gradually depletes CD4+ T helper cells, weakening the immune system and leading to AIDS."
+        ]
+      },
+      {
+        "slide_number": 49,
+        "content": [
+          "Chemotherapy increases the risk of infection by...",
+          "a.",
+          "Activating the immune response",
+          "b. Suppressing white blood cell production",
+          "c. Stimulating autoimmunity",
+          "d. Enhancing antibody production"
+        ]
+      },
+      {
+        "slide_number": 50,
+        "content": [
+          "Answer",
+          "B) Suppressing white blood cell production",
+          "Rationale:",
+          "Chemotherapy often targets rapidly dividing cells, including bone marrow progenitors, reducing WBC production and impairing the immune response."
+        ]
+      },
+      {
+        "slide_number": 51,
+        "content": [
+          "Which of the following is a clinical sign of immunodeficiency?",
+          "Frequent infections",
+          "Rash after antibiotics",
+          "High fever with flu",
+          "Weight gain"
+        ]
+      },
+      {
+        "slide_number": 52,
+        "content": [
+          "Answer",
+          "A) Frequent infections",
+          "Rationale:",
+          "Recurrent or severe infections are a hallmark of immunodeficiency, as the immune system fails to effectively combat pathogens."
+        ]
+      },
+      {
+        "slide_number": 53,
+        "content": [
+          "Hypersensitivity Reactions",
+          "Objectives:",
+          "1. Describe hypersensitivity and the role of the immune system in these reactions.",
+          "2. Differentiate between the four types of hypersensitivity reactions based on mechanism, onset, and clinical features.",
+          "3. Explain the immunological pathways involved in each hypersensitivity type.",
+          "4. Discuss diagnostic methods and therapeutic interventions for each type."
+        ]
+      },
+      {
+        "slide_number": 54,
+        "content": [
+          "In autoimmune disorders, the immune system...",
+          "A, Attacks only foreign pathogens",
+          "B.",
+          "Overproduces red blood cells",
+          "C. Targets self-antigens",
+          "D.",
+          "Fails to produce T cells"
+        ]
+      },
+      {
+        "slide_number": 55,
+        "content": [
+          "Answer",
+          "C) Targets self-antigens",
+          "Rationale:",
+          "Autoimmune diseases result from a breakdown in self-tolerance, leading the immune system to attack the body’s own tissues."
+        ]
+      },
+      {
+        "slide_number": 56,
+        "content": [
+          "Which of the following is an autoimmune disorder?",
+          "Asthma",
+          "SLE",
+          "Tuberculosis",
+          "Cystic fibrosis"
+        ]
+      },
+      {
+        "slide_number": 57,
+        "content": [
+          "Answer",
+          "B) Systemic lupus erythematosus",
+          "Rationale:",
+          "Lupus is a systemic autoimmune disease where the immune system produces autoantibodies against various tissues and organs."
+        ]
+      },
+      {
+        "slide_number": 58,
+        "content": [
+          "Which mechanism leads to autoimmunity?",
+          "Enhanced B-cell memory",
+          "Loss of self-tolerance",
+          "Excessive cytokine release",
+          "Viral infection only"
+        ]
+      },
+      {
+        "slide_number": 59,
+        "content": [
+          "Answer",
+          "B) Loss of self-tolerance",
+          "Rationale:",
+          "Self-tolerance is the ability of the immune system to recognize and ignore self-antigens. Its failure leads to autoimmune reactions."
+        ]
+      },
+      {
+        "slide_number": 60,
+        "content": [
+          "A patient undergoing chemotherapy has a WBC count of 1.5 (low). What should be prioritized?",
+          "Blood transfusion",
+          "Infection prevention",
+          "Immunization with live vaccine",
+          "Autoimmune testing"
+        ]
+      },
+      {
+        "slide_number": 61,
+        "content": [
+          "Answer",
+          "B) Infection prevention",
+          "Rationale:",
+          "A WBC count of 1.5 indicates neutropenia, increasing infection risk. Immediate measures should focus on minimizing exposure to pathogens."
+        ]
+      },
+      {
+        "slide_number": 62,
+        "content": [
+          "Summary",
+          "Hypersensitivity reactions are classified into four types (I–IV), each with distinct immune mechanisms, timelines, and clinical implications—",
+          "a foundational concept for NPs to accurately diagnosis and treat clients",
+          "Type I hypersensitivity involves",
+          "IgE",
+          "-mediated mast cell activation",
+          ", leading to rapid allergic responses such as anaphylaxis, hives, and asthma—",
+          "NPs must recognize and treat these reactions",
+          "immediately,",
+          "often with epinephrine.",
+          "Type II hypersensitivity is antibody-mediated and results in targeted cell destruction",
+          ", such as in autoimmune hemolytic anemia—",
+          "NPs must monitor labs and manage immune-mediated",
+          "cytopenias",
+          "carefully.",
+          "Type III hypersensitivity involves immune complex deposition",
+          ", commonly seen in systemic autoimmune conditions like lupus—",
+          "NPs must  assess systemic inflammation and manage through referral as needed.",
+          "Type IV hypersensitivity is T-cell–mediated with delayed onset",
+          ", presenting as localized inflammatory reactions such as contact dermatitis or TB skin test responses—",
+          "NPs must identify triggers and manage chronic inflammation"
+        ]
+      },
+      {
+        "slide_number": 63,
+        "content": [
+          "Type 1 Hypersensitivity Reaction",
+          "Mechanism:",
+          "Initiated by allergen exposure",
+          "Immune components include:",
+          "IgE",
+          "antibodies, mast cells, basophils",
+          "Process:",
+          "First exposure: allergen stimulates B-cells to produce",
+          "IgE",
+          "IgE",
+          "binds to",
+          "FceRI",
+          "receptors on mast cells/basophils (sensitization)",
+          "Re-exposure: cross-linking of",
+          "IgE",
+          "which causes mast cell degranulation",
+          "Release of histamine, prostaglandins, leukotrienes that leads to inflammation",
+          "Key Mediators:",
+          "Histamine (vasodilation, increased permeability)",
+          "Leukotrienes (bronchoconstriction)",
+          "Prostaglandins",
+          "Onset: rapid (minutes after exposure)",
+          ""
+        ]
+      },
+      {
+        "slide_number": 64,
+        "content": [
+          "Hematology/Cardiology: Anemia, CAD, Heart Failure"
+        ]
+      },
+      {
+        "slide_number": 65,
+        "content": [
+          "Clinical Examples of a Type 1 Hypersensitivity Reaction",
+          "Anaphylaxis (bee sting; food allergy)",
+          "Allergic rhinitis",
+          "Asthma",
+          "Urticaria (hives)",
+          "Eczema",
+          "Diagnostics:",
+          "Skin prick test",
+          "Serum",
+          "IgE",
+          "levels",
+          "RAST (",
+          "Radioallergosorbent",
+          "Test)"
+        ]
+      },
+      {
+        "slide_number": 66,
+        "content": [
+          "Treatment of a Type I Hypersensitivity Reaction",
+          "Avoidance of allergen",
+          "Antihistamines",
+          "Corticosteroids",
+          "Epinephrine",
+          "Desensitization immunotherapy"
+        ]
+      }
+    ]
+  },
+  "week2_slides": {
+    "title": "Week 2: Clinical Reasoning - Anemias, CAD, Heart Failure",
+    "slides": [
+      {
+        "slide_number": 1,
+        "content": [
+          "Week 2: Clinical Reasoning Webinar: Anemias, CAD, Heart Failure",
+          "NR507-Advanced Pathophysiology",
+          "Presented by: Susan Sanner, PhD, APRN, FNP-BC, CNE"
+        ]
+      },
+      {
+        "slide_number": 2,
+        "content": [
+          "Anemia and CAD",
+          "Impact of anemia on CAD:",
+          "Anemia can exacerbate CAD by increasing myocardial oxygen demand while simultaneously reducing oxygen supply",
+          "This mismatch can lead to more frequent and severe ischemic episodes, worsening CAD symptoms",
+          "Impact of CAD on anemia:",
+          "CAD can contribute to anemia through chronic inflammation and reduced renal function, which impair erythropoiesis (RBC production)",
+          "Additionally, medications used to treat CAD, such as antiplatelet agents, can increase the risk of bleeding and subsequent anemia"
+        ]
+      },
+      {
+        "slide_number": 3,
+        "content": [
+          "Anemia and Heart Failure",
+          "Impact of Anemia on Heart Failure",
+          ": Anemia increases cardiac workload as the heart compensates for reduced oxygen-carrying capacity by pumping more blood",
+          "This can lead to worsening heart failure symptoms and progression of the disease",
+          "Impact of Heart Failure on Anemia",
+          ": Heart failure can cause anemia through mechanisms such as chronic inflammation, renal dysfunction, and the use of diuretics, which can lead to iron deficiency",
+          "The reduced cardiac output in heart failure also impairs renal perfusion, further contributing to anemia"
+        ]
+      },
+      {
+        "slide_number": 4,
+        "content": [
+          "CAD and Heart Failure",
+          "Impact of CAD on Heart Failure",
+          ": CAD is a leading cause of heart failure. The reduced blood flow from narrowed or blocked coronary arteries deprives the heart muscle of oxygen, leading to ischemia and weakening of the heart muscle",
+          "Over time, this can result in heart failure as the heart struggles to pump blood effectively",
+          "Impact of Heart Failure on CAD",
+          ": Heart failure can worsen CAD by increasing myocardial oxygen demand and reducing coronary perfusion",
+          "The compensatory mechanisms in heart failure, such as increased heart rate and blood pressure, can exacerbate the progression of atherosclerosis"
+        ]
+      },
+      {
+        "slide_number": 5,
+        "content": [
+          "Anemia Classifications",
+          "Microcytic anemia (MCV < 80",
+          "fL",
+          ")",
+          "Normocytic anemia (MCV 80–100",
+          "fL",
+          ")",
+          "Macrocytic anemia (MCV > 100",
+          "fL",
+          ")"
+        ]
+      },
+      {
+        "slide_number": 6,
+        "content": [
+          "Pathophysiology of Microcytic Anemia",
+          "Iron-deficiency anemia: impaired hemoglobin synthesis due to insufficient iron",
+          "Thalassemia: defective globin chain synthesis",
+          "Anemia of chronic disease: altered iron metabolism"
+        ]
+      },
+      {
+        "slide_number": 7,
+        "content": [
+          "Iron Deficiency Anemia",
+          "Is a microcytic/hypochromic anemia",
+          "Is caused by disorders of hemoglobin synthesis, particularly iron deficiency",
+          "Ferritin",
+          "is an important measurement that reflects the body’s total iron stores",
+          "The NP will order a ferritin level to get an idea of the body’s total iron stores",
+          "Low ferritin reflects anemia, but does not tell you the type",
+          "16"
+        ]
+      },
+      {
+        "slide_number": 8,
+        "content": [
+          "Thalassemia",
+          "Is an inherited blood disorder that causes decreased circulating hemoglobin",
+          "There are many possible genetic mutations",
+          "Two types:",
+          "Alpha Thalassemia",
+          ":",
+          "Beta Thalassemia",
+          ":",
+          "Symptoms",
+          "Treatment",
+          "17"
+        ]
+      },
+      {
+        "slide_number": 9,
+        "content": [
+          "Anemia of Chronic Disease",
+          "Associated with chronic infections, inflammatory diseases, and malignancies.",
+          "Inflammation and Cytokine Production",
+          "Impaired Erythropoiesis",
+          "Iron Metabolism Changes",
+          "Functional Iron Deficiency",
+          "Normocytic or Microcytic Anemia",
+          "18"
+        ]
+      },
+      {
+        "slide_number": 10,
+        "content": [
+          "Major Lab Marker for Anemia",
+          "Increased",
+          "RBC distribution width (RDW) is one of the earliest lab markers in developing microcytic or macrocytic anemia",
+          "In future courses, you will learn how to use lab markers to diagnose the different types of anemia",
+          "Diagnosing anemia is beyond the scope of this course.",
+          "Important to know what these terms mean and what type of anemias they signify.",
+          "19"
+        ]
+      },
+      {
+        "slide_number": 11,
+        "content": [
+          "What are Clinical Reasoning Webinars in Pathophysiology?",
+          "These are live webinars to assist students in developing knowledge about select pathophysiological alterations in the body that lead to disease and how those alterations lead to clients’ signs and symptoms when they present to the clinic.",
+          "Basically, we are linking a foundational course (pathophysiology) to client care, where students will gain insight into pathophysiological alterations behind the signs, symptoms, disease progression and treatment responses.",
+          "When NPs understand the cellular and systemic changes associated with disease, it enhances their ability to:",
+          "Recognize early warning signs of disease",
+          "Interpret diagnostic tests with clinical relevance",
+          "Choose effective treatments",
+          "Educate clients about their disease"
+        ]
+      },
+      {
+        "slide_number": 12,
+        "content": [
+          "Pathophysiology of Macrocytic Anemia",
+          "Megaloblastic anemia",
+          "– Deficient DNA synthesis (e.g., vitamin B12/folate deficiency)",
+          "Non-megaloblastic anemia",
+          "– Caused by alcohol, liver disease, or hypothyroidism"
+        ]
+      },
+      {
+        "slide_number": 13,
+        "content": [
+          "Megaloblastic Anemia",
+          "Characterized by the presence of large, immature red blood cells (megaloblasts) in the bone marrow and a decrease in the number of mature red blood cells in circulation",
+          "Often due to deficiencies in vitamin B12 (cobalamin) or folate (vitamin B9)",
+          "Individuals at-risk for megaloblastic anemia:",
+          "Dietary deficiencies: vegetarians, vegans; those with poor nutritional intake",
+          "Elderly",
+          "Malabsorption syndromes (Celiac disease; Crohn’s disease; Gastric bypass surgery)",
+          "Pregnancy: due to increased nutritional needs",
+          "Chronic alcohol abuse",
+          "21"
+        ]
+      },
+      {
+        "slide_number": 14,
+        "content": [
+          "Folate Deficiency",
+          "Can cause a megaloblastic anemia",
+          "Is important to know who is at-risk",
+          "Alcoholics can easily get a folate deficiency",
+          "Lab parameters:",
+          "Folate level: low",
+          "RBCs: normal or low",
+          "MCV: high",
+          "MCHC: normal",
+          "Reticulocyte count: normal or elevated",
+          "Serum iron: normal or decreased",
+          "22"
+        ]
+      },
+      {
+        "slide_number": 15,
+        "content": [
+          "Vitamin B-12 Deficiency",
+          "Fatigue",
+          "Dyspnea",
+          "Peripheral neuropathy",
+          "in BLE (numbness and tingling)",
+          "Risk Factors:",
+          "Older adults",
+          "H-pylori infection",
+          "Affects Vitamin B-12 absorption",
+          "Serum B-12 level: low",
+          "MCV: increased",
+          "23"
+        ]
+      },
+      {
+        "slide_number": 16,
+        "content": [
+          "Pathophysiology of Normocytic Anemia",
+          "Decreased RBC production:",
+          "Occurs when bone marrow fails to produce sufficient RBCs despite normal cell size.",
+          "Anemia of chronic disease (ACD): Inflammatory cytokines (IL-6) trigger hepcidin release, sequestering iron in macrophages and impairing erythropoiesis.",
+          "Chronic kidney disease (CKD): Insufficient erythropoietin production leads to reduced RBC synthesis.",
+          "Aplastic anemia: Bone marrow failure due to autoimmune destruction of hematopoietic stem cells.",
+          "Increase RBC destruction (hemolysis):",
+          "Occurs when RBCs are destroyed faster than they are produced.",
+          "Acute blood loss:",
+          "External or internal bleeding causes a rapid decrease in RBC count before the bone marrow can compensate."
+        ]
+      },
+      {
+        "slide_number": 17,
+        "content": [
+          "Two Important Lab Markers in Diagnosing Anemia",
+          "Mean corpuscular volume (MCV):",
+          "",
+          "measure of the average size of red blood cells (RBCs). It is expressed in femtoliters (",
+          "fL",
+          ") and helps classify anemia into microcytic, normocytic, or macrocytic types.",
+          "Ferritin:",
+          "is a measure of the average size of red blood cells (RBCs). It is expressed in femtoliters (",
+          "fL",
+          ") and helps classify anemia into microcytic, normocytic, or macrocytic types."
+        ]
+      },
+      {
+        "slide_number": 18,
+        "content": [
+          "MCV Categories in Anemia Classification",
+          "Microcytic anemia (MCV < 80",
+          "fL",
+          ")",
+          "→ Smaller RBCs (e.g., iron deficiency anemia, thalassemia)",
+          "Normocytic anemia (MCV 80–100",
+          "fL",
+          ")",
+          "→ Normal-sized RBCs (e.g., anemia of chronic disease, acute blood loss)",
+          "Macrocytic anemia (MCV > 100",
+          "fL",
+          ")",
+          "→ Enlarged RBCs (e.g., vitamin B12 or folate deficiency)",
+          "NOTE: Ferritin does not diagnose a specific anemia; it is just a reflection of the body’s total iron stores. If low, we can say that there is an anemia, but we don’t know what type until we draw other iron studies."
+        ]
+      },
+      {
+        "slide_number": 19,
+        "content": [
+          "Clinical Significance of MCV and Ferritin",
+          "MCV:",
+          "Helps differentiate causes of anemia.",
+          "Guides further lab testing, such as ferritin, iron studies, or vitamin B12 levels.",
+          "Assists in diagnosing bone marrow disorders or hemolytic conditions.",
+          "Ferritin:",
+          "Low ferritin: Indicates iron deficiency anemia, confirming depleted iron stores.",
+          "Normal or high ferritin: Suggests anemia of chronic disease, liver disorders, or inflammation, as ferritin can be elevated in response to these conditions."
+        ]
+      },
+      {
+        "slide_number": 20,
+        "content": [
+          "Is it microcytic or macrocytic?"
+        ]
+      },
+      {
+        "slide_number": 21,
+        "content": [
+          "Clinical Scenario 1",
+          "A 32-year-old female presents with fatigue, pallor, and brittle nails. She reports heavy menstrual cycles and occasional dizziness.",
+          "Lab Results:",
+          "Hemoglobin: 9.5 g/dL (low)",
+          "MCV: 72",
+          "fL",
+          "(low)",
+          "Serum iron: Low",
+          "Ferritin: Low",
+          "Is this a microcytic or macrocytic anemia?  Why",
+          "or why not?"
+        ]
+      },
+      {
+        "slide_number": 22,
+        "content": [
+          "What to Expect by Participating in the Content Application Webinars",
+          "Students will learn how this course is different from an undergraduate level pathophysiology course",
+          "We are going to the next level!",
+          "In a nutshell, we will:",
+          "Explore the pathophysiological  processes underlying disease",
+          "Examine how disruptions in homeostasis present clinically",
+          "Recognize the importance of a strong pathophysiological foundation in the management of diverse client populations"
+        ]
+      },
+      {
+        "slide_number": 23,
+        "content": [
+          "Answer",
+          "Iron deficiency anemia—low MCV and iron markers suggest impaired hemoglobin production.)"
+        ]
+      },
+      {
+        "slide_number": 24,
+        "content": [
+          "Clinical Scenario 2",
+          "A 55-year-old male with a history of chronic kidney disease presents with fatigue and mild shortness of breath. He denies bleeding or dietary deficiencies.",
+          "Lab Results:",
+          "Hemoglobin:",
+          "10.2 g/dL (low)",
+          "MCV:",
+          "85",
+          "fL",
+          "(normal)",
+          "Reticulocyte count:",
+          "Low",
+          "Creatinine:",
+          "Elevated"
+        ]
+      },
+      {
+        "slide_number": 25,
+        "content": [
+          "Answer",
+          "Anemia of chronic disease—normal MCV with low reticulocytes suggests poor RBC production due to chronic illness"
+        ]
+      },
+      {
+        "slide_number": 26,
+        "content": [
+          "Clinical Scenario 3",
+          "A 60-year-old female presents with neuropathy, glossitis, and difficulty balancing. Her diet lacks animal products.",
+          "Lab Results:",
+          "Hemoglobin: 8.7 g/dL (low)",
+          "MCV: 110",
+          "fL",
+          "(high)",
+          "Vitamin B12: Low",
+          "Is it microcytic or macrocytic? Why or why not?"
+        ]
+      },
+      {
+        "slide_number": 27,
+        "content": [
+          "Answer",
+          "Megaloblastic anemia due to vitamin B12 deficiency—high MCV and neurological symptoms indicate impaired DNA synthesis in RBCs"
+        ]
+      },
+      {
+        "slide_number": 28,
+        "content": [
+          "Lab Values for the Types of Anemia",
+          "35",
+          "Test",
+          "SUGGESTED DIAGNOSIS",
+          "IRON DEFICIENCY ANEMIA",
+          "THALASSEMIA",
+          "ANEMIA OF CHRONIC DISEASE",
+          "SIDEROBLASTIC ANEMIA",
+          "Serum ferritin level",
+          "Decreased",
+          "Increased",
+          "Normal to increased",
+          "Normal to increased",
+          "Red blood cell distribution width",
+          "Increased",
+          "Normal to increased",
+          "Normal",
+          "Increased",
+          "Serum iron level",
+          "Decreased",
+          "Normal to increased",
+          "Normal to decreased",
+          "Normal to increased",
+          "Total iron-binding capacity",
+          "Increased",
+          "Normal",
+          "Slightly decreased",
+          "Normal",
+          "Transferrin saturation",
+          "Decreased",
+          "Normal to increased",
+          "Normal to slightly decreased",
+          "Normal to increased"
+        ]
+      },
+      {
+        "slide_number": 29,
+        "content": [
+          "Cardiac Issues: CAD and Heart Failure"
+        ]
+      },
+      {
+        "slide_number": 30,
+        "content": [
+          "CAD and Heart Failure",
+          "Impact of CAD on Heart Failure: CAD is a leading cause of heart failure. The reduced blood flow from narrowed or blocked coronary arteries deprives the heart muscle of oxygen, leading to ischemia and weakening of the heart muscle",
+          "Over time, this can result in heart failure as the heart struggles to pump blood effectively",
+          "Impact of Heart Failure on CAD: Heart failure can worsen CAD by increasing myocardial oxygen demand and reducing coronary perfusion",
+          "The compensatory mechanisms in heart failure, such as increased heart rate and blood pressure, can exacerbate the progression of atherosclerosis"
+        ]
+      },
+      {
+        "slide_number": 31,
+        "content": [
+          "Coronary Artery Disease (CAD)",
+          "Is characterized by the narrowing or blockage of the coronary arteries due to atherosclerosis",
+          "Impairs blood flow to the heart muscle, leading to ischemia (reduced blood supply) and can result in angina (chest pain), heart attacks (myocardial infarction), and other cardiovascular complications.",
+          "38"
+        ]
+      },
+      {
+        "slide_number": 32,
+        "content": [
+          "CAD: Pathophysiology",
+          "Atherosclerosis Development:",
+          "Endothelial Injury",
+          "Lipid Accumulation",
+          "Inflammation and Immune Response",
+          "Plaque Formation",
+          "Plaque Complications:",
+          "Rupture",
+          "Stenosis",
+          "Ischemia",
+          "39"
+        ]
+      },
+      {
+        "slide_number": 33,
+        "content": [
+          "How are the Webinars Set-up?",
+          "During each webinar we will:",
+          "1. Explore the pathophysiology of select diseases covered in class that week (brief lecture)",
+          "2. Link cellular and systemic alterations occurring with that select disease to client signs and symptoms (case studies)",
+          "3. Identify implications of the disease on client management (discussion)",
+          "4. Assess knowledge learned during the Webinar (multiple choice questions and other interactives)"
+        ]
+      },
+      {
+        "slide_number": 34,
+        "content": [
+          "CAD: Risk Factors",
+          "Non-Modifiable Risk Factors:",
+          "Age",
+          ": Risk increases with age; men are at higher risk at a younger age compared to women.",
+          "Genetic Factors",
+          ": A family history of CAD or genetic predisposition to conditions like hyperlipidemia increases risk.",
+          "Modifiable Risk Factors:",
+          "Hypertension",
+          "Hyperlipidemia",
+          "Smoking",
+          "Diabetes Mellitus",
+          "Obesity",
+          "Physical inactivity",
+          "Poor diet",
+          "Other Factors:",
+          "Chronic inflammation",
+          "Stress",
+          "40"
+        ]
+      },
+      {
+        "slide_number": 35,
+        "content": [
+          "Cholesterol",
+          "Low-Density Lipoprotein (LDL)",
+          "High-Density Lipoprotein (HDL)",
+          "Total Cholesterol",
+          "41"
+        ]
+      },
+      {
+        "slide_number": 36,
+        "content": [
+          "Important Terms",
+          "Dyslipidemia: is a broader term that refers to any abnormal lipid level in the blood where high or low.",
+          "Hyperlipidemia: specifically refers to elevated levels of lipids (cholesterol and/or triglycerides) in the blood",
+          "Takeaway: all cases of hyperlipidemia are dyslipidemia, but not all cases of dyslipidemia are hyperlipidemia",
+          "42"
+        ]
+      },
+      {
+        "slide_number": 37,
+        "content": [
+          "Secondary Causes of Dyslipidemia",
+          "Diabetes Mellitus",
+          "Obesity",
+          "Hypothyroidism",
+          "Chronic kidney disease",
+          "Liver disease",
+          "Medications",
+          "Lifestyle factors",
+          "Other endocrine disorders:",
+          "Polycystic ovary disease",
+          "Cushing syndrome",
+          "43"
+        ]
+      },
+      {
+        "slide_number": 38,
+        "content": [
+          "Clinical Application: CAD",
+          "John, a 55-Year-Old Male with Risk Factors",
+          "Medical History: Hypertension, Hyperlipidemia",
+          "Lifestyle: Sedentary, Smoker, Poor Diet (high in saturated fats)",
+          "Family History: Father had a heart attack at age 60",
+          "44"
+        ]
+      },
+      {
+        "slide_number": 39,
+        "content": [
+          "Case continued: Assessment",
+          "Presents to the emergency department with complaints of chest pain radiating to his left arm and shortness of breath while climbing stairs. The pain started suddenly and lasted for about 15 minutes before subsiding. He also reports fatigue and difficulty sleeping at night.",
+          "Assessment:",
+          "Vital Signs",
+          ": Blood pressure 150/95 mmHg, heart rate 92 bpm",
+          "Lab Tests",
+          ": Elevated LDL cholesterol (160 mg/dL), triglycerides (220 mg/dL), and low HDL cholesterol (35 mg/dL)",
+          "ECG",
+          ": Shows ST-segment depression, suggesting myocardial ischemia",
+          "Diagnosis:",
+          "angina due to CAD, exacerbated by his significant risk factors, including hypertension, smoking, and high cholesterol levels.",
+          "45"
+        ]
+      },
+      {
+        "slide_number": 40,
+        "content": [
+          "Case Continued: Management",
+          "Lifestyle modifications: Smoking cessation, dietary changes to include more fruits, vegetables, and whole grains, and a structured exercise program.",
+          "Pharmacotherapy: Initiation of a statin for lipid management, a beta-blocker for blood pressure control, and aspirin for",
+          "cardioprotection",
+          ".",
+          "Further evaluation: Referral for a stress test to assess the extent of ischemia and possible coronary angiography if indicated.",
+          "46"
+        ]
+      },
+      {
+        "slide_number": 41,
+        "content": [
+          "Let’s Apply What We Have Learned About CAD"
+        ]
+      },
+      {
+        "slide_number": 42,
+        "content": [
+          "Case Scenario 1",
+          "Mr. Johnson is a 65-year-old man who visits his primary care physician complaining of chest discomfort that worsens when he exercises and improves with rest. He describes it as a squeezing sensation in the middle of his chest. He also mentions occasional shortness of breath while walking up stairs and mild fatigue. His medical history includes hypertension and type 2 diabetes. He has been smoking a pack of cigarettes daily for 30 years. His BMI is 31, indicating obesity.",
+          "What symptoms suggest CAD?",
+          "What are Mr. Johnson’s risk factors for CAD?",
+          "Which risk factors are modifiable with management?",
+          "Explain the pathophysiology behind his chest pain and shortness of breath."
+        ]
+      },
+      {
+        "slide_number": 43,
+        "content": [
+          "Answer",
+          "Symptoms of CAD",
+          ":",
+          "Chest discomfort (angina)",
+          "Shortness of breath",
+          "Fatigue",
+          "Risk Factors:",
+          "Hypertension",
+          "Diabetes",
+          "Smoking",
+          "Obesity"
+        ]
+      },
+      {
+        "slide_number": 44,
+        "content": [
+          "Answers Continued",
+          "Modifiable risk factors:",
+          "Smoking cessation",
+          "– Counseling, nicotine replacement therapy, or medications can help.",
+          "Blood pressure control",
+          "– Lifestyle changes and medications to manage hypertension.",
+          "Diabetes management",
+          "– Diet, exercise, and medications to control blood sugar.",
+          "Weight loss & diet improvements",
+          "– Encouraging a heart-healthy diet and physical activity.",
+          "Pathophysiology of the Symptoms:",
+          "CAD is caused by",
+          "atherosclerosis",
+          ", where plaque builds up in the coronary arteries, narrowing them and reducing blood flow to the heart muscle.",
+          "During exertion, the heart demands more oxygen, but the narrowed arteries cannot meet the increased demand, causing",
+          "ischemia",
+          "(lack of oxygen), leading to",
+          "angina",
+          ".",
+          "Shortness of breath occurs due to inadequate blood supply to the heart, which compromises cardiac output and oxygen delivery to tissues."
+        ]
+      },
+      {
+        "slide_number": 45,
+        "content": [
+          "Heart Failure",
+          "Heart failure (HF) is a clinical syndrome where the heart is unable to pump enough blood to meet the body's needs.",
+          "I",
+          "s a progressive condition with significant morbidity and mortality.",
+          "HF can develop acutely (e.g., myocardial infarction) or chronically over time (e.g., hypertension)."
+        ]
+      },
+      {
+        "slide_number": 46,
+        "content": [
+          "Important to Know Anatomy!",
+          "52"
+        ]
+      },
+      {
+        "slide_number": 47,
+        "content": [
+          "Normal Blood Flow through the Heart",
+          "53"
+        ]
+      },
+      {
+        "slide_number": 48,
+        "content": [
+          "Stroke Volume, Cardiac Output, and Heart Sounds (S1 and S2)",
+          "54"
+        ]
+      },
+      {
+        "slide_number": 49,
+        "content": [
+          "Preload, Afterload, Contractility",
+          "55"
+        ]
+      },
+      {
+        "slide_number": 50,
+        "content": [
+          "Heart Failure",
+          "The underlying pathophysiology of heart failure is that there is less cardiac output to meet the body's oxygen demands",
+          "Over time, there is decreased",
+          "contractility,",
+          "decreased",
+          "stroke volume",
+          ", increased",
+          "left ventricular end-diastolic volume",
+          "(LVEDV-preload)",
+          "When contractility is decreased, stroke volume falls, and left ventricular end-diastolic volume (LVEDV) increases. This causes dilation of the heart and an increase in",
+          "preload",
+          ".",
+          "The major risk factor in its development is long-standing hypertension",
+          "56"
+        ]
+      },
+      {
+        "slide_number": 51,
+        "content": [
+          "Left-Sided vs. Right-Sided Heart Failure",
+          "Left-sided HF",
+          "(most common): Systolic (reduced ejection fraction,",
+          "HFrEF",
+          ") vs. Diastolic (preserved ejection fraction,",
+          "HFpEF",
+          ").",
+          "Right-sided HF",
+          ": Often secondary to left-sided HF or pulmonary hypertension."
+        ]
+      },
+      {
+        "slide_number": 52,
+        "content": [
+          "Differentiate between Right and Left Heart Failure",
+          "Sometimes right-sided heart failure can occur due to left-sided heart failure due to the back-up of fluid from the left side to the right",
+          "Sometime right-sided heart failure can occur without there being left-sided heart failure; This usually occurs because the person has long-standing pulmonary issues (COPD). Patients will have classic symptoms of right-sided heart failure without symptoms of left-sided heart failure:",
+          "Right JVD distention, peripheral edema, hepatosplenomegaly",
+          "58"
+        ]
+      },
+      {
+        "slide_number": 53,
+        "content": [
+          "Examine the two scenarios on the next slides to determine it the patients have left-sided or right-sided heart failure"
+        ]
+      },
+      {
+        "slide_number": 54,
+        "content": [
+          "Objectives",
+          "1. Describe how anemia, CAD and heart failure impact clients’ oxygenation status.",
+          "2. Differentiate between the types of anemia in terms of underlying pathophysiology and presenting signs and symptoms",
+          "3. Discuss how the anemia lab markers are used to diagnose anemias",
+          "4. Explain the pathophysiology of coronary artery disease and how it leads to the clients’ signs and symptoms",
+          "5. Explain the pathophysiology of heart failure of heart failure and how it leads to the clients’ signs and symptoms",
+          "6. Discuss the impact of CAD on the development of heart failure",
+          "7. Recognize diagnostic approaches for anemia, CAD and heart failure",
+          "8. Identify treatment options for anemia, CAD and heart failure"
+        ]
+      },
+      {
+        "slide_number": 55,
+        "content": [
+          "Patient Scenario 1",
+          "A",
+          "72-year-old man who visits the clinic complaining of worsening shortness of breath over the past few months. He reports difficulty breathing when lying flat and has been waking up in the middle of the night gasping for air. He states he gets easily fatigued during his daily walks and has developed a persistent cough, sometimes producing pink, frothy sputum. His wife mentions that his skin often feels cool and he looks pale. His past medical history includes hypertension and coronary artery disease.",
+          "1. Identify the symptoms of heart failure in this case.",
+          "2.",
+          "Based on the symptoms, determine if this is left-sided HF or right-sided HF.",
+          "3. Explain the pathophysiology that connects the symptoms to the type of HF."
+        ]
+      },
+      {
+        "slide_number": 56,
+        "content": [
+          "Answers",
+          "Symptoms:",
+          "Shortness of breath (dyspnea)",
+          "Orthopnea (difficulty breathing when lying down)",
+          "Paroxysmal nocturnal dyspnea (waking up gasping for air)",
+          "Fatigue with exertion",
+          "Cough with pink, frothy sputum",
+          "Cool, pale extremities",
+          "Diagnosis:",
+          "Left-sided heart failure",
+          "Pathophysiology Explanation:",
+          "Left ventricular dysfunction leads to blood backing up into the lungs, causing pulmonary congestion.",
+          "Increased pulmonary pressures lead to fluid leakage into the alveoli, explaining dyspnea and frothy sputum.",
+          "Reduced cardiac output causes fatigue and cool extremities due to poor systemic circulation."
+        ]
+      },
+      {
+        "slide_number": 57,
+        "content": [
+          "Patient Scenario 2",
+          "A 68-year-old woman, comes to see the NP complaining of increasing swelling in her legs and abdomen. She states that she’s gained several pounds in the last week despite no changes in diet. She also describes feeling bloated, having a decreased appetite, and noticing that her shoes no longer fit comfortably. Upon examination, she has distended neck veins and noticeable swelling in her lower extremities. Her medical history includes chronic obstructive pulmonary disease (COPD) and a previous diagnosis of pulmonary hypertension.",
+          "Identify the symptoms in this case.",
+          "Based on the symptoms, determine if this is left-sided HF or right-sided HF.",
+          "Explain the pathophysiology that connects the symptoms to the type of HF."
+        ]
+      },
+      {
+        "slide_number": 58,
+        "content": [
+          "Answers",
+          "Symptoms:",
+          "Peripheral edema (leg swelling)",
+          "Abdominal swelling (ascites)",
+          "Rapid weight gain",
+          "Bloating & decreased appetite",
+          "Jugular venous distension (JVD)",
+          "Diagnosis:",
+          "Right-Sided Heart Failure",
+          "Pathophysiology Explanation:",
+          "Right ventricular dysfunction leads to blood backing up into the systemic circulation.",
+          "Increased venous pressure causes fluid retention, explaining leg swelling and ascites.",
+          "Liver congestion contributes to bloating and decreased appetite.",
+          "Jugular venous distension results from elevated right atrial pressure due to impaired venous return."
+        ]
+      },
+      {
+        "slide_number": 59,
+        "content": [
+          "Stages of Heart Failure (ACC/AHA)",
+          "Stage A: patient has risk factors (CAD) but no symptoms; no structural heart damage",
+          "Stage B: patient has structural heart damage (MI), but still has no symptoms",
+          "Stage C: patient is symptomatic with alteration in their daily functions due to dyspnea, swelling, etc. This is where there NYHA functional classifications come into play",
+          "Stage D: end-stage heart failure-have maximized medications to treat it-may need heart transplant or pacemaker",
+          "64"
+        ]
+      },
+      {
+        "slide_number": 60,
+        "content": [
+          "NYHA Functional Classifications-It’s all about the impact on the patient’s activity caused by the Heart Failure symptoms",
+          "Stage I: mild; no limitation of physical activity; Ordinary physical activity does not cause symptoms",
+          "Stage II: mild; slight limitation of physical activity; comfortable at rest; Ordinary physical activity results in fatigue, palpitation, dyspnea, or",
+          "anginal",
+          "pain",
+          "Stage III: moderate; marked decrease in physical activity; marked limitation of physical activity; comfortable at rest. Less than ordinary activity causes fatigue, palpitation, dyspnea, or",
+          "anginal",
+          "pain.",
+          "Stage IV: severe; inability to carry on any physical activity without discomfort. Symptoms of heart failure or the",
+          "anginal",
+          "syndrome may be present even at rest. If any physical activity is undertaken, discomfort is increased.",
+          "https://www.chf-solutions.com/heart-failure-classifications/",
+          "65"
+        ]
+      },
+      {
+        "slide_number": 61,
+        "content": [
+          "Patient Scenario",
+          "A 70-year-old man with a history of hypertension and coronary artery disease. He arrives at the clinic complaining of worsening shortness of breath over the past six months. He finds it difficult to breathe while lying down and frequently wakes up gasping for air at night. His daily activities, such as walking around the house or climbing stairs, leave him feeling exhausted. Recently, he has developed a persistent cough with occasional pink, frothy sputum. His wife reports that he has become more fatigued and struggles with routine tasks. On examination, he has bilateral pulmonary crackles, an S3 heart sound, and cool extremities. An echocardiogram reveals an ejection fraction of 35%.",
+          "Based on his symptoms, determine the",
+          "Stage of Heart Failure",
+          "(ACC/AHA classification).",
+          "Determine his",
+          "NYHA Classification",
+          "based on functional limitations.",
+          "Explain how his symptoms correlate with the pathophysiology of left-sided heart failure."
+        ]
+      },
+      {
+        "slide_number": 62,
+        "content": [
+          "Answers",
+          "",
+          "Stage of Heart Failure (ACC/AHA Classification)",
+          "Stage C:",
+          "Mr. Reynolds has",
+          "structural heart disease (reduced ejection fraction) and symptomatic heart failure",
+          ", placing him in",
+          "Stage C",
+          ". He has clear signs of fluid congestion and pulmonary involvement.",
+          "NYHA Functional Classification:",
+          "NYHA Class III:",
+          "Mr. Reynolds experiences",
+          "significant limitation in physical activity",
+          ".",
+          "Mild exertion (walking around the house, climbing stairs) causes symptoms",
+          ".",
+          "He does",
+          "not",
+          "have symptoms at rest, but normal daily activities are impaired.",
+          "Pathophysiology Explanation:",
+          "Reduced Left Ventricular Function → Blood Backup into Lungs",
+          "Pulmonary Congestion → Dyspnea, Orthopnea, Paroxysmal Nocturnal Dyspnea (PND)",
+          "Fluid Accumulation in Lungs → Crackles, Cough with Frothy Sputum",
+          "Reduced Cardiac Output → Fatigue, Cool Extremities"
+        ]
+      },
+      {
+        "slide_number": 63,
+        "content": [
+          "Which of the following is a hallmark laboratory finding in iron-deficiency anemia?",
+          "Increased hemoglobin",
+          "Elevated ferritin",
+          "Low serum iron and low ferritin",
+          "Macrocytic red blood cells"
+        ]
+      },
+      {
+        "slide_number": 64,
+        "content": [
+          "Anemia, CAD and Heart Failure as Oxygenation Issues",
+          "Oxygenation is a fundamental process essential for the survival and proper functioning of all body tissues.",
+          "Anemia, coronary artery disease (CAD), and heart failure are three distinct medical conditions that, despite their differences, share a common challenge: impaired oxygen delivery to tissues.",
+          "Understanding the similarities in how these conditions affect oxygenation can provide valuable insights into",
+          ":",
+          "Pathophysiology",
+          "Clinical manifestations",
+          "Management strategies",
+          ""
+        ]
+      },
+      {
+        "slide_number": 65,
+        "content": [
+          "Answer",
+          "Correct Answer: C) Low serum iron and low ferritin",
+          "Rationale:",
+          "Iron-deficiency anemia is characterized by",
+          "low iron stores (ferritin)",
+          "and",
+          "low serum iron levels",
+          ", leading to microcytic (small) and hypochromic (pale) red blood cells."
+        ]
+      },
+      {
+        "slide_number": 66,
+        "content": [
+          "What is the primary cause of angina in patients with CAD?",
+          "Coronary artery spasm",
+          "Myocardial oxygen supply-demand mismatch",
+          "Left ventricular hypertrophy",
+          "Increased cardiac output"
+        ]
+      },
+      {
+        "slide_number": 67,
+        "content": [
+          "Answer",
+          "Correct Answer: B) Myocardial oxygen supply-demand mismatch",
+          "",
+          "Rationale:",
+          "CAD leads to",
+          "atherosclerotic plaque formation",
+          ", narrowing coronary arteries and reducing",
+          "oxygen supply to the myocardium",
+          ". When demand exceeds supply, ischemia occurs, causing angina."
+        ]
+      },
+      {
+        "slide_number": 68,
+        "content": [
+          "Which symptom is most indicative of left-sided heart failure?",
+          "Peripheral edema",
+          "Jugular venous distention (JVD)",
+          "Dyspnea on exertion",
+          "Hepatomegaly"
+        ]
+      },
+      {
+        "slide_number": 69,
+        "content": [
+          "Answer",
+          "Correct Answer: C) Dyspnea on exertion",
+          "Rationale:",
+          "Left-sided heart failure results in",
+          "pulmonary congestion",
+          "due to reduced cardiac output, causing",
+          "dyspnea, orthopnea, and paroxysmal nocturnal dyspnea (PND)."
+        ]
+      },
+      {
+        "slide_number": 70,
+        "content": [
+          "Which compensatory mechanism is activated in heart failure to maintain cardiac output?",
+          "Parasympathetic nervous system activation",
+          "Renin-Angiotensin-Aldosterone System (RAAS) activation",
+          "Decreased stroke volume",
+          "Increased myocardial relaxation"
+        ]
+      },
+      {
+        "slide_number": 71,
+        "content": [
+          "Answer",
+          "Correct Answer: B) Renin-Angiotensin-Aldosterone System (RAAS) activation",
+          "Rationale:",
+          "In HF,",
+          "RAAS activation leads to sodium and water retention",
+          ", increasing",
+          "blood volume and blood pressure",
+          ", but also contributing to worsening fluid overload and congestion."
+        ]
+      },
+      {
+        "slide_number": 72,
+        "content": [
+          "Which type of anemia is associated with vitamin B12 deficiency?",
+          "Microcytic anemia",
+          "Normocytic anemia",
+          "Macrocytic anemia",
+          "Hemolytic anemia"
+        ]
+      },
+      {
+        "slide_number": 73,
+        "content": [
+          "Answer",
+          "Correct Answer: C) Macrocytic anemia",
+          "Rationale:",
+          "Vitamin B12 deficiency leads to",
+          "impaired DNA synthesis",
+          ", resulting in",
+          "large (macrocytic) and immature red blood cells (megaloblasts)",
+          "."
+        ]
+      },
+      {
+        "slide_number": 74,
+        "content": [
+          "What is the primary treatment goal for heart failure with reduced ejection fraction (",
+          "HFrEF",
+          ")?",
+          "Increase cardiac preload",
+          "Improve oxygenation using erythropoietin",
+          "Reduce afterload and improve ventricular contractility",
+          "Increase pulmonary capillary pressure"
+        ]
+      },
+      {
+        "slide_number": 75,
+        "content": [
+          "Why is it Important to Understand Shared Challenges in Oxygenation Among Anemia, CAD and Heart Failure?",
+          "Integrated management strategies:",
+          "Holistic approach",
+          "Multidisciplinary care",
+          "Early detection and intervention:",
+          "Screening",
+          "Proactive treatment",
+          "Symptom management:",
+          "Improved oxygenation",
+          "Reduced cardiac stress",
+          "Patient education and lifestyle modifications:",
+          "Diet and nutrition",
+          "Exercise and hydration"
+        ]
+      },
+      {
+        "slide_number": 76,
+        "content": [
+          "Answer",
+          "Correct Answer: C) Reduce afterload and improve ventricular contractility",
+          "Rationale:",
+          "In",
+          "HFrEF",
+          ", reducing",
+          "vascular resistance (afterload)",
+          "improves cardiac output, and medications such as",
+          "ACE inhibitors, beta-blockers, and diuretics",
+          "help manage symptoms."
+        ]
+      },
+      {
+        "slide_number": 77,
+        "content": [
+          "How does anemia contribute to worsening heart failure?",
+          "Increases blood viscosity, reducing oxygen delivery",
+          "Leads to excessive blood clotting",
+          "Causes myocardial ischemia due to low oxygen-carrying capacity",
+          "Increases pulmonary congestion by raising blood pressure"
+        ]
+      },
+      {
+        "slide_number": 78,
+        "content": [
+          "Answer",
+          "Correct Answer: C) Causes myocardial ischemia due to low oxygen-carrying capacity",
+          "Rationale:",
+          "Anemia",
+          "reduces oxygen delivery to tissues",
+          ", forcing the heart to compensate by increasing cardiac output, which can exacerbate",
+          "heart failure symptoms",
+          "."
+        ]
+      },
+      {
+        "slide_number": 79,
+        "content": [
+          "Which of the following is a non-modifiable risk factor for coronary artery disease (CAD)?",
+          "Hypertension",
+          "Smoking",
+          "Family history of CAD",
+          "Hyperlipidemia"
+        ]
+      },
+      {
+        "slide_number": 80,
+        "content": [
+          "Answer",
+          "Correct Answer: C) Family history of CAD",
+          "",
+          "Rationale:",
+          "",
+          "Genetic predisposition",
+          "to CAD cannot be changed, while hypertension, smoking, and hyperlipidemia are",
+          "modifiable",
+          "with lifestyle changes and medical management."
+        ]
+      },
+      {
+        "slide_number": 81,
+        "content": [
+          "Answer",
+          "In right-sided heart failure, which symptom is most commonly observed?",
+          "Pulmonary crackles",
+          "Peripheral edema",
+          "Orthopnea",
+          "Frothy sputum"
+        ]
+      },
+      {
+        "slide_number": 82,
+        "content": [
+          "Answer",
+          "Correct Answer: B) Peripheral edema",
+          "Rationale:",
+          "",
+          "Right-sided HF leads to systemic venous congestion",
+          ", causing fluid retention and edema in",
+          "legs, ankles, and sacrum",
+          "."
+        ]
+      },
+      {
+        "slide_number": 83,
+        "content": [
+          "Which medication class is commonly used to treat anemia in patients with chronic kidney disease?",
+          "Beta-blockers",
+          "Erythropoiesis-stimulating agents (ESAs)",
+          "Calcium channel blockers",
+          "Anticoagulants"
+        ]
+      },
+      {
+        "slide_number": 84,
+        "content": [
+          "Answer",
+          "Correct Answer: B) Erythropoiesis-stimulating agents (ESAs)",
+          "Rationale:",
+          "",
+          "ESAs such as erythropoietin",
+          "stimulate red blood cell production, addressing anemia caused by",
+          "insufficient erythropoietin from damaged kidneys",
+          "."
+        ]
+      },
+      {
+        "slide_number": 85,
+        "content": [
+          "Which type of anemia is associated with vitamin B12 deficiency?",
+          "Microcytic anemia",
+          "Normocytic anemia",
+          "Macrocytic anemia",
+          "Hemolytic anemia"
+        ]
+      },
+      {
+        "slide_number": 86,
+        "content": [
+          "Interactions Between Anemia, CAD and Heart Failure",
+          "Over the next few slides, let’s look at these relationships"
+        ]
+      },
+      {
+        "slide_number": 87,
+        "content": [
+          "Answer",
+          "Correct Answer: C) Macrocytic anemia",
+          "",
+          "Rationale:",
+          "Vitamin B12 deficiency leads to",
+          "impaired DNA synthesis",
+          ", resulting in",
+          "large (macrocytic) and immature red blood cells (megaloblasts)",
+          "."
+        ]
+      },
+      {
+        "slide_number": 88,
+        "content": [
+          "Key Takeaways",
+          "Oxygenation is a vital process that ensures tissues receive the oxygen necessary for cellular function and energy production.",
+          "Anemia, coronary artery disease (CAD), and heart failure (HF)",
+          "are interconnected in their effects on oxygen delivery throughout the body, creating a cycle of",
+          "impaired oxygen transport, utilization, and perfusion",
+          ".",
+          "The Connection:",
+          "Anemia:",
+          "Reduces oxygen-carrying capacity due to insufficient hemoglobin or red blood cells.",
+          "CAD:",
+          "Narrowed coronary arteries limit oxygen supply to the heart muscle, leading to ischemia.",
+          "Heart Failure:",
+          "Ineffective cardiac pumping decreases blood flow to organs, further impairing oxygen delivery."
+        ]
+      },
+      {
+        "slide_number": 89,
+        "content": [
+          "Key Takeaways",
+          "Understanding pathophysiology is crucial for early recognition and intervention.",
+          "Identifying how impaired oxygenation manifests in different diseases helps clinicians diagnose, classify, and treat patients effectively.",
+          "Anemia, CAD, and HF share overlapping symptoms.",
+          "Fatigue, dyspnea, and exercise intolerance are common in all three conditions, emphasizing the importance of a differential diagnosis.",
+          "Treating underlying causes improves overall oxygenation.",
+          "By understanding the",
+          "physiological relationships",
+          "between these conditions, healthcare providers can",
+          "implement targeted treatments",
+          "to improve patient outcomes and prevent further",
+          "complications."
+        ]
+      },
+      {
+        "slide_number": 90,
+        "content": [
+          "Pulmonary and Renal"
+        ]
+      }
+    ]
+  }
+}
