@@ -177,6 +177,12 @@ class ExamApp {
     }
 
     switchSection(section) {
+        // Handle home button - reset to start screen
+        if (section === 'home') {
+            this.resetToHome();
+            return;
+        }
+
         // Update navigation buttons
         document.querySelectorAll('.nav-btn').forEach(btn => {
             btn.classList.remove('active');
@@ -739,6 +745,64 @@ class ExamApp {
             <li>Rationales will be shown after submission</li>
         `;
 
+        this.showScreen('start-screen');
+    }
+
+    resetToHome() {
+        this.currentQuestion = 0;
+        this.userAnswers = {};
+        this.startTime = null;
+        this.examCompleted = false;
+        this.selectedChapter = null;
+        this.selectedMode = 'exam';
+        this.questions = [];
+
+        if (this.timer) {
+            clearInterval(this.timer);
+        }
+
+        // Reset UI elements
+        this.elements.timer.textContent = 'Time: 00:00';
+        this.elements.timer.style.display = 'inline';
+        this.elements.startBtn.disabled = true;
+        this.elements.startBtn.textContent = 'Start Exam';
+        this.elements.rationaleDisplay.style.display = 'none';
+
+        // Reset navigation to exam section
+        document.querySelectorAll('.nav-btn').forEach(btn => {
+            btn.classList.remove('active');
+        });
+        document.querySelector('[data-section="exam"]').classList.add('active');
+
+        // Show exam section
+        document.querySelectorAll('.main-section').forEach(sec => {
+            sec.classList.remove('active');
+        });
+        document.getElementById('exam-section').classList.add('active');
+
+        // Reset header
+        document.querySelector('header h1').textContent = 'NR507 Advanced Pathophysiology AGACNP';
+
+        // Reset selections
+        document.querySelectorAll('.chapter-btn').forEach(btn => {
+            btn.classList.remove('selected');
+        });
+        document.querySelectorAll('.mode-btn').forEach(btn => {
+            btn.classList.remove('selected');
+        });
+        document.querySelector('[data-mode="exam"]').classList.add('selected');
+
+        // Reset instructions
+        document.getElementById('instruction-list').innerHTML = `
+            <li>Select a chapter above to begin</li>
+            <li>Read each question carefully</li>
+            <li>Select the best answer(s) for each question</li>
+            <li>Some questions may have multiple correct answers</li>
+            <li>You can review your answers before final submission</li>
+            <li>Rationales will be shown after submission</li>
+        `;
+
+        // Show the start screen
         this.showScreen('start-screen');
     }
 
