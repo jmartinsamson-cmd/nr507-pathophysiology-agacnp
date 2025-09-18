@@ -106,6 +106,12 @@ class ExamApp {
             rationaleDisplay: document.getElementById('rationale-display'),
             rationaleText: document.getElementById('rationale-text'),
 
+            // Navigation bar elements
+            questionNavBar: document.getElementById('question-nav-bar'),
+            toggleNavBar: document.getElementById('toggle-nav-bar'),
+            navBarContent: document.getElementById('nav-bar-content'),
+            questionNavGrid: document.getElementById('question-nav-grid'),
+
             reviewContent: document.getElementById('review-content'),
             backToExamBtn: document.getElementById('back-to-exam-btn'),
             finalSubmitBtn: document.getElementById('final-submit-btn'),
@@ -156,9 +162,22 @@ class ExamApp {
 
         this.elements.startBtn.addEventListener('click', () => this.startExam());
         this.elements.backToMaterialsBtn.addEventListener('click', () => this.backToMaterials());
+
+        // Week study buttons
+        const week1StudyBtn = document.getElementById('start-week1-study');
+        const week2StudyBtn = document.getElementById('start-week2-study');
+        if (week1StudyBtn) {
+            week1StudyBtn.addEventListener('click', () => this.startWeekStudy('week1'));
+        }
+        if (week2StudyBtn) {
+            week2StudyBtn.addEventListener('click', () => this.startWeekStudy('week2'));
+        }
         this.elements.prevBtn.addEventListener('click', () => this.previousQuestion());
         this.elements.nextBtn.addEventListener('click', () => this.nextQuestion());
         this.elements.submitBtn.addEventListener('click', () => this.showReview());
+
+        // Navigation bar toggle
+        this.elements.toggleNavBar.addEventListener('click', () => this.toggleNavigationBar());
 
         this.elements.backToExamBtn.addEventListener('click', () => this.backToExam());
         this.elements.finalSubmitBtn.addEventListener('click', () => this.submitExam());
@@ -200,6 +219,7 @@ class ExamApp {
             document.querySelector('header h1').textContent = 'NR507 Class Materials & Study Tools';
             this.elements.questionCounter.style.display = 'none';
             this.elements.timer.style.display = 'none';
+            this.hideNavigationBar();
         } else {
             document.querySelector('header h1').textContent = 'NR507 Advanced Pathophysiology AGACNP';
             this.elements.questionCounter.style.display = 'inline';
@@ -238,6 +258,17 @@ class ExamApp {
             }
             this.questions = await response.json();
 
+            // Process questions to determine their type
+            this.questions.forEach(question => {
+                // Check if it's a "Select all that apply" question
+                if (question.text.toLowerCase().includes('select all that apply') ||
+                    (Array.isArray(question.correct) && question.correct.length > 1)) {
+                    question.type = 'multiple_select';
+                } else {
+                    question.type = 'multiple_choice';
+                }
+            });
+
             // Reset question state
             this.currentQuestion = 0;
             this.userAnswers = {};
@@ -253,6 +284,9 @@ class ExamApp {
 
             // Show back to materials button
             this.elements.backToMaterialsBtn.style.display = 'inline-block';
+
+            // Initialize navigation bar
+            this.initializeNavigationBar();
 
             this.displayQuestion();
 
@@ -272,8 +306,75 @@ class ExamApp {
         // Hide back to materials button
         this.elements.backToMaterialsBtn.style.display = 'none';
 
+        // Hide navigation bar
+        this.hideNavigationBar();
+
         // Switch back to materials section
         this.switchSection('materials');
+    }
+
+    startWeekStudy(week) {
+        alert(`Interactive study for ${week === 'week1' ? 'Week 1: Hypersensitivity' : 'Week 2: Anemias & Cardiology'} is coming soon! This feature will include interactive slides and case studies.`);
+    }
+
+    // Navigation Bar Methods
+    initializeNavigationBar() {
+        this.elements.questionNavGrid.innerHTML = '';
+
+        for (let i = 0; i < this.questions.length; i++) {
+            const btn = document.createElement('button');
+            btn.className = 'nav-question-btn';
+            btn.textContent = i + 1;
+            btn.setAttribute('data-question', i);
+            btn.addEventListener('click', () => this.navigateToQuestion(i));
+            this.elements.questionNavGrid.appendChild(btn);
+        }
+
+        this.updateNavigationBar();
+        this.elements.questionNavBar.style.display = 'block';
+    }
+
+    updateNavigationBar() {
+        const navButtons = this.elements.questionNavGrid.querySelectorAll('.nav-question-btn');
+
+        navButtons.forEach((btn, index) => {
+            btn.classList.remove('current', 'answered');
+
+            // Mark current question
+            if (index === this.currentQuestion) {
+                btn.classList.add('current');
+            }
+
+            // Mark answered questions
+            if (this.userAnswers[index] && this.userAnswers[index].length > 0) {
+                btn.classList.add('answered');
+            }
+        });
+    }
+
+    navigateToQuestion(questionIndex) {
+        if (questionIndex >= 0 && questionIndex < this.questions.length) {
+            this.currentQuestion = questionIndex;
+            this.displayQuestion();
+            this.updateNavigationBar();
+        }
+    }
+
+    toggleNavigationBar() {
+        const content = this.elements.navBarContent;
+        const toggle = this.elements.toggleNavBar;
+
+        if (content.classList.contains('collapsed')) {
+            content.classList.remove('collapsed');
+            toggle.textContent = '▼';
+        } else {
+            content.classList.add('collapsed');
+            toggle.textContent = '▶';
+        }
+    }
+
+    hideNavigationBar() {
+        this.elements.questionNavBar.style.display = 'none';
     }
 
     selectMode(mode) {
@@ -340,6 +441,18 @@ class ExamApp {
                 throw new Error('Failed to load questions');
             }
             this.questions = await response.json();
+
+            // Process questions to determine their type
+            this.questions.forEach(question => {
+                // Check if it's a "Select all that apply" question
+                if (question.text.toLowerCase().includes('select all that apply') ||
+                    (Array.isArray(question.correct) && question.correct.length > 1)) {
+                    question.type = 'multiple_select';
+                } else {
+                    question.type = 'multiple_choice';
+                }
+            });
+
             this.elements.questionCounter.textContent = `Question 1 of ${this.questions.length}`;
             return true;
         } catch (error) {
@@ -367,6 +480,9 @@ class ExamApp {
 
         // Hide back to materials button for regular chapter exams
         this.elements.backToMaterialsBtn.style.display = 'none';
+
+        // Initialize navigation bar
+        this.initializeNavigationBar();
 
         this.displayQuestion();
     }
@@ -486,6 +602,9 @@ class ExamApp {
         } else {
             this.userAnswers[this.currentQuestion] = Array.from(inputs).map(input => parseInt(input.value));
         }
+
+        // Update navigation bar
+        this.updateNavigationBar();
     }
 
     restoreAnswer() {
@@ -541,6 +660,7 @@ class ExamApp {
         if (this.currentQuestion > 0) {
             this.currentQuestion--;
             this.displayQuestion();
+            this.updateNavigationBar();
         }
     }
 
@@ -548,6 +668,7 @@ class ExamApp {
         if (this.currentQuestion < this.questions.length - 1) {
             this.currentQuestion++;
             this.displayQuestion();
+            this.updateNavigationBar();
         }
     }
 
@@ -773,6 +894,9 @@ class ExamApp {
             btn.classList.remove('active');
         });
         document.querySelector('[data-section="exam"]').classList.add('active');
+
+        // Hide navigation bar
+        this.hideNavigationBar();
 
         // Show exam section
         document.querySelectorAll('.main-section').forEach(sec => {

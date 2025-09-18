@@ -135,7 +135,7 @@
       "Variable"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Pressure in the pleural space is usually negative or subatmospheric (-4 to -10 mm Hg). This selection is the only option that accurately describes pleural space pressure."
   },
@@ -291,7 +291,7 @@
     "correct": [
       2
     ],
-    "rationale": "Alveolar pressure exceeds pulmonary arterial and venous pressures in Zone 1. The capillary bed collapses, and normaNlUbRloSoINdGfTloBw.COceMases. Zone II is the portion where alveolar pressure is greater than venous pressure but not greater than arterial pressure. Blood flows through zone II, but it is impeded to a certain extent by alveolar pressure. Zone II is normally above the level of the left atrium. In zone III, arterial and venous pressures are greater than alveolar pressure and blood flow is not affected by alveolar pressure. Zone III is in the base of the lung. Blood flow through the pulmonary capillary bed increases in regular increments from the apex to the base."
+    "rationale": "Alveolar pressure exceeds pulmonary arterial and venous pressures in Zone 1. The capillary bed collapses, and normal blood flow ceases. Zone II is the portion where alveolar pressure is greater than venous pressure but not greater than arterial pressure. Blood flows through zone II, but it is impeded to a certain extent by alveolar pressure. Zone II is normally above the level of the left atrium. In zone III, arterial and venous pressures are greater than alveolar pressure and blood flow is not affected by alveolar pressure. Zone III is in the base of the lung. Blood flow through the pulmonary capillary bed increases in regular increments from the apex to the base."
   },
   {
     "id": 22,
@@ -407,15 +407,17 @@
   },
   {
     "id": 30,
-    "text": "Regarding the respiratory process referred to as remodeling, which statements are true?",
+    "text": "Regarding the respiratory process referred to as remodeling, which statements are true? (Select all that apply.)",
     "options": [
-      "(Select all that apply.)",
       "Remodeling involves the vascular walls.",
       "Scarring and thickening occurs during this respiratory process.",
-      "Remodeling results in a permanent change."
+      "Remodeling results in a permanent change.",
+      "Remodeling is a reversible process."
     ],
     "correct": [
-      0
+      0,
+      1,
+      2
     ],
     "rationale": "Remodeling is a process by which the vascular wall becomes scarred and thickened, thus resulting in permanent decreases in luminal diameter, increased resistance to blood flow, and permanent pulmonary artery hypertension."
   },

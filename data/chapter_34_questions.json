@@ -89,7 +89,7 @@
     "options": [
       "Coarctation of the aorta (COA) and pulmonary stenosis (PS)",
       "Tetralogy of Fallot and persistent truncus arteriosus",
-      "Atrial septal defect (ASD) andNdUeRxStrINocGaTrBd.iCaOM",
+      "Atrial septal defect (ASD) and dextrocardia",
       "Ventricular septal defect (VSD) and patent ductus arteriosus (PDA)"
     ],
     "correct": [
@@ -295,15 +295,17 @@
   },
   {
     "id": 22,
-    "text": "What congenital heart defects are associated with intrauterine exposure to rubella?",
+    "text": "What congenital heart defects are associated with intrauterine exposure to rubella? (Select all that apply.)",
     "options": [
-      "(Select all that apply.)",
       "Pulmonary stenosis (PS)",
       "Cardiomegaly",
-      "Patent ductus arteriosus (PDA)"
+      "Patent ductus arteriosus (PDA)",
+      "Coarctation of the aorta (COA)"
     ],
     "correct": [
-      0
+      0,
+      2,
+      3
     ],
     "rationale": "PS, PDA, and COA are congenital heart defects associated with intrauterine exposure to rubella. Cardiomegaly and VSD are associated with maternal diabetes."
   }

@@ -20,7 +20,7 @@
       "The right and left atria; they are low-pressure chambers that serve as storage units and conduits for blood.",
       "The right and left atria; they are not directly involved in the preload, contractility, or afterload of the heart.",
       "The left ventricle; the mean pressure of blood coming into this ventricle is from the lung, which has a low pressure.",
-      "The right ventricle; it pumps bNloUoRdSIiNntGoTtBh.eCOpuMlmonary capillaries, which have a lower pressure compared with the systemic circulation."
+      "The right ventricle; it pumps blood into the pulmonary capillaries, which have a lower pressure compared with the systemic circulation."
     ],
     "correct": [
       0
@@ -37,7 +37,7 @@
       "Right ventricle"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Pressure is greatest in the systemic circulation, driven by the left ventricle."
   },
@@ -93,7 +93,7 @@
       "Coronary veins"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Only the four pulmonary veins, two from the right lung and two from the left lung, carry oxygenated blood from the lungs to the left side of the heart."
   },
@@ -113,7 +113,7 @@
   },
   {
     "id": 9,
-    "text": "Occlusion of the circumflex arteryNdUuRrSinINgGaTmB.yCoOcMardial infarction would interrupt blood supply to which area?",
+    "text": "Occlusion of the circumflex artery during a myocardial infarction would interrupt blood supply to which area?",
     "options": [
       "Left and right ventricles and much of the interventricular septum",
       "Posterior interventricular sulcus and the smaller branches of both ventricles",
@@ -165,7 +165,7 @@
     "correct": [
       2
     ],
-    "rationale": "ENaUcRhSIcNaGrdTiBac.CaOcMtion potential travels from the SA node to the AV node to the bundle of His (AV bundle), throubgrahntchheebs,uannddlefina lly to the Purkinje fibers and the"
+    "rationale": "Each cardiac action potential travels from the SA node to the AV node to the bundle of His (AV bundle), through the bundle branches, and finally to the Purkinje fibers and the ventricular myocardium."
   },
   {
     "id": 13,
@@ -247,7 +247,7 @@
       "P"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Only the QRS complex represents the sum of all ventricular muscle cell depolarizations."
   },
@@ -261,9 +261,9 @@
       "Sinoatrial node (SA)"
     ],
     "correct": [
-      1
+      2
     ],
-    "rationale": "CNUatReScIhNoGlaTmBi.CnOesMspeed the heart rate, shorten the conduction time through the AV node,"
+    "rationale": "Catecholamines speed the heart rate, shorten the conduction time through the AV node, and increase the strength of cardiac contraction."
   },
   {
     "id": 20,
@@ -275,7 +275,7 @@
       "10 to 20"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "If the SA node is damaged, then the AV node will become the heart’s pacemaker at a rate of approximately 40 to 60 spontaneous depolarizations per minute."
   },
@@ -353,8 +353,9 @@
     "id": 26,
     "text": "Continuous increases in left ventricular filing pressures result in which disorder?",
     "options": [
-      "Mitral regurgitation                  c.Pulmonary edema",
+      "Mitral regurgitation",
       "Mitral stenosis",
+      "Pulmonary edema",
       "Jugular vein distention"
     ],
     "correct": [
@@ -386,7 +387,7 @@
       "Spinal"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "The resting heart rate in healthy individuals is primarily under the control of parasympathetic stimulation. This selection is the only option that accurately identifies the nervous system responsible for the healthy resting heart."
   },
@@ -409,7 +410,7 @@
     "text": "After the baroreceptor reflex is stimulated, the resulting impulse is transmitted from the carotid artery by which sequence of events?",
     "options": [
       "Vagus nerve to the medulla to increase parasympathetic activity and to decrease sympathetic activity",
-      "Glossopharyngeal cranial nerve through the vagus nerve to the medulla to increase sympathetic activity and to deNcrUeRasSeINpGaTraBs.yCmOMpathetic activity",
+      "Glossopharyngeal cranial nerve through the vagus nerve to the medulla to increase sympathetic activity and to decrease parasympathetic activity",
       "Glossopharyngeal cranial nerve through the vagus nerve to the medulla to increase parasympathetic activity and to decrease sympathetic activity",
       "Glossopharyngeal cranial nerve through the vagus nerve to the hypothalamus to increase parasympathetic activity and to decrease sympathetic activity"
     ],
@@ -442,7 +443,7 @@
       "Dopamine"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Chemicals affecting contractility are called inotropic agents. The most important negative inotropic agent is acetylcholine released from the vagus nerve. The most important positive inotropic agents produced by the body are norepinephrine released from the sympathetic nerves that supply the heart and epinephrine released by the adrenal cortex. Other positive inotropes include thyroid hormone and dopamine. Many medications have positive or negative inotropic properties that can have profound effects on cardiac function. This selection is the only option that accurately identifies the regulation that is involved in the described process."
   },
@@ -456,9 +457,9 @@
       "Superior vena cava"
     ],
     "correct": [
-      2
+      1
     ],
-    "rationale": "The right lymphatic duct drains lyNmUpRhSoINnGlyTBin.CtoOtMhe right subclavian vein."
+    "rationale": "The right lymphatic duct drains lymph only into the right subclavian vein."
   },
   {
     "id": 34,
@@ -470,7 +471,7 @@
       "Hypothalamus"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "The major cardiovascular control center is in the brainstem in the medulla with secondary areas in the hypothalamus, the cerebral cortex, the thalamus, and the complex networks of exciting or inhibiting interneurons (connecting neurons) throughout the brain. This selection is the only option that accurately identifies the cardiovascular control center."
   },
@@ -506,7 +507,7 @@
     "id": 37,
     "text": "What physical sign is the result of turbulent blood flow through a vessel?",
     "options": [
-      "Increased blood pressure durinNgUpReSrIiNoGdsTBo.fCsOtrMess",
+      "Increased blood pressure during periods of stress",
       "Bounding pulse felt on palpation",
       "Cyanosis observed on excretion",
       "Murmur heard on auscultation"

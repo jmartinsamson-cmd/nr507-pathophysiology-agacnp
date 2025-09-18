@@ -5,10 +5,11 @@
     "options": [
       "Poikilocytosis",
       "Anisocytosis",
-      "Microcytosis"
+      "Microcytosis",
+      "Macrocytosis"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Additional descriptors of erythrocytes associated with some anemias include anisocytosis (assuming various sizes) or poikilocytosis (assuming various shapes) (see Figure 28-1). The remaining terms are not associated with this condition."
   },
@@ -18,10 +19,11 @@
     "options": [
       "Hypotension",
       "Hypoxia",
-      "Ischemia"
+      "Ischemia",
+      "Hypervolemia"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "The fundamental physiologic manifestation of anemia is a reduced oxygen-carrying capacity of the blood, resulting in tissue hypoxia."
   },
@@ -59,10 +61,11 @@
     "options": [
       "Iron deficiency",
       "Sideroblastic",
-      "Hemolytic"
+      "Hemolytic",
+      "Pernicious anemia"
     ],
     "correct": [
-      1
+      3
     ],
     "rationale": "Pernicious anemia is the most common type of megaloblastic anemia. The remaining options are not classified as megaloblastic anemias."
   },
@@ -72,10 +75,11 @@
     "options": [
       "RNA",
       "DNA",
-      "Mitochondria"
+      "Mitochondria",
+      "Proteins"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Deficiencies in folate and vitamin B12 result in defective erythrocyte precursor DNA synthesis. These deficiencies are not associated with alterations of the other options."
   },
@@ -85,10 +89,11 @@
     "options": [
       "Microcytic",
       "Hypochromic",
-      "Hemolytic"
+      "Hemolytic",
+      "Pernicious"
     ],
     "correct": [
-      1
+      3
     ],
     "rationale": "Vitamin B12 deficiency causes pernicious anemia, the most common type of megaloblastic anemia."
   },
@@ -98,10 +103,11 @@
     "options": [
       "Iron deficiency",
       "Folic acid",
-      "Pernicious"
+      "Pernicious",
+      "Aplastic"
     ],
     "correct": [
-      3
+      2
     ],
     "rationale": "From the options available, only pernicious anemia is caused by vitamin B12 deficiency, which is often associated with the end-stage type A chronic atrophic gastritis."
   },
@@ -111,6 +117,7 @@
     "options": [
       "Erythrocyte destruction",
       "Vitamin B12 malabsorption",
+      "Autoimmune destruction of parietal cells",
       "Poor nutritional intake"
     ],
     "correct": [
@@ -152,10 +159,11 @@
     "options": [
       "Brain hypoxia",
       "Heart failure",
-      "Renal failure"
+      "Renal failure",
+      "Liver failure"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Of the options available, untreated PA is fatal, usually because of heart failure."
   },
@@ -165,7 +173,8 @@
     "options": [
       "Reticulocyte count",
       "Hemoglobin",
-      "Serum vitamin B12"
+      "Serum vitamin B12",
+      "Hematocrit"
     ],
     "correct": [
       0
@@ -192,10 +201,11 @@
     "options": [
       "Folic acid",
       "Iron deficiency",
-      "Pernicious"
+      "Pernicious",
+      "Aplastic"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "The microcytic-hypochromic anemias, which include iron deficiency anemia (IDA), are characterized by erythrocytes that are abnormally small and contain abnormally reduced amounts of hemoglobin. This description is not true of the other options."
   },
@@ -203,12 +213,13 @@
     "id": 16,
     "text": "Which type of anemia is characterized by fatigue, weakness, and dyspnea, as well as conjunctiva of the eyes and brittle, concave nails?",
     "options": [
+      "Iron deficiency",
       "Pernicious",
       "Aplastic",
       "Hemolytic"
     ],
     "correct": [
-      1
+      0
     ],
     "rationale": "Early symptoms of iron deficiency anemia (IDA) include fatigue, weakness, and shortness of breath. Pale earlobes, palms, and conjunctivae (see Figure 28-4) are also common signs. Progressive IDA causes more severe alterations, with structural and functional changes apparent in epithelial tissue (see Figure 28-4). The nails become brittle, thin, coarsely ridged, and spoon-shaped or concave (koilonychia) as a result of impaired capillary circulation. The tongue becomes red, sore, and painful. These symptoms are not associated with the other options."
   },
@@ -216,12 +227,13 @@
     "id": 17,
     "text": "What is the most common cause of iron deficiency anemia (IDA)?",
     "options": [
+      "Chronic blood loss",
       "Decreased dietary intake",
       "Vitamin deficiency",
       "Autoimmune disease"
     ],
     "correct": [
-      1
+      0
     ],
     "rationale": "The most common cause of IDA in well-developed countries is pregnancy and chronic blood loss."
   },
@@ -231,10 +243,11 @@
     "options": [
       "6 to 8 weeks",
       "Until the iron level is normal",
-      "The rest of one's life"
+      "The rest of one's life",
+      "Until symptoms resolve"
     ],
     "correct": [
-      3
+      2
     ],
     "rationale": "Because PA cannot be cured, maintenance therapy is a life-long endeavor."
   },
@@ -244,7 +257,8 @@
     "options": [
       "Mother",
       "Grandfather",
-      "Grandmother"
+      "Grandmother",
+      "Father"
     ],
     "correct": [
       0
@@ -257,10 +271,11 @@
     "options": [
       "Iron deficiency",
       "Sideroblastic",
-      "Aplastic"
+      "Aplastic",
+      "Hemolytic"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Of the options available, only sideroblastic anemia exhibits mild-to-moderate enlargement of the spleen (splenomegaly) and liver (hepatomegaly), as well as abnormal skin pigmentation (bronze colored). Heart rhythm disturbances, along with congestive heart failure, are major life-threatening complications related to cardiac iron overload."
   },
@@ -310,12 +325,13 @@
     "id": 24,
     "text": "An allogenic bone marrow transplantation remains the preferred method for treating which anemia?",
     "options": [
+      "Aplastic",
       "Polycythemia vera",
       "Sideroblastic",
       "Anemia of chronic disease (ACD)"
     ],
     "correct": [
-      1
+      0
     ],
     "rationale": "Of the options available, bone marrow and, most recently, peripheral blood stem cell transplantation from a histocompatible sibling are the preferred treatments for the underlying bone marrow failure observed in aplastic anemias."
   },
@@ -353,10 +369,11 @@
     "options": [
       "Aplastic",
       "Anemia of chronic disease",
-      "Iron deficiency"
+      "Iron deficiency",
+      "Pernicious"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Anemia of chronic disease results from a combination of (1) decreased erythrocyte life span, (2) suppressed production of erythropoietin, (3) ineffective bone marrow erythroid progenitor response to erythropoietin, and (4) altered iron metabolism and iron sequestration in macrophages. This result is not true of the other options."
   },
@@ -366,10 +383,11 @@
     "options": [
       "Decreased erythrocyte count",
       "Increased blood viscosity",
-      "Neurologic involvement"
+      "Neurologic involvement",
+      "Decreased oxygen saturation"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "As polycythemia vera progresses, many of the symptoms are related to the increased blood cellularity and viscosity. No other option is the primary cause of the symptoms of polycythemia vera."
   },
