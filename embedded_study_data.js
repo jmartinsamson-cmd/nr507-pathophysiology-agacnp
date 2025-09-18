@@ -241,5 +241,227 @@ const EMBEDDED_STUDY_DATA = {
             "correct": [1],
             "rationale": "Escherichia coli accounts for 80-85% of uncomplicated urinary tract infections, particularly in young, healthy women. It has specific adhesins that allow it to bind to uroepithelial cells and ascend the urinary tract."
         }
+    ],
+
+    week1: [
+        {
+            "id": 1,
+            "text": "A 25-year-old woman develops hives, swelling of lips, and difficulty breathing within minutes of eating shellfish. What type of hypersensitivity reaction is this?",
+            "options": [
+                "Type I (IgE-mediated immediate hypersensitivity)",
+                "Type II (Cytotoxic antibody-mediated)",
+                "Type III (Immune complex-mediated)",
+                "Type IV (Delayed-type cell-mediated)"
+            ],
+            "correct": [0],
+            "rationale": "This is a classic Type I hypersensitivity reaction (anaphylaxis). It involves IgE antibodies, mast cell degranulation, and histamine release, occurring within minutes of exposure to the allergen."
+        },
+        {
+            "id": 2,
+            "text": "A patient with rheumatoid arthritis receives a blood transfusion and develops fever, chills, and hemolysis. What mechanism is responsible?",
+            "options": [
+                "IgE-mediated mast cell activation",
+                "IgG/IgM antibodies causing complement activation",
+                "Immune complex deposition",
+                "T cell-mediated cytotoxicity"
+            ],
+            "correct": [1],
+            "rationale": "This describes a Type II hypersensitivity reaction - hemolytic transfusion reaction. IgG or IgM antibodies bind to antigens on the transfused RBCs, activating complement and causing hemolysis."
+        },
+        {
+            "id": 3,
+            "text": "A 35-year-old man develops joint pain, kidney problems, and skin rash. Laboratory shows immune complexes in blood vessels. What type of reaction is this?",
+            "options": [
+                "Type I hypersensitivity",
+                "Type II hypersensitivity",
+                "Type III hypersensitivity (immune complex disease)",
+                "Type IV hypersensitivity"
+            ],
+            "correct": [2],
+            "rationale": "Type III hypersensitivity involves immune complex formation and deposition in tissues, causing inflammation. Examples include serum sickness, systemic lupus erythematosus, and post-infectious glomerulonephritis."
+        },
+        {
+            "id": 4,
+            "text": "A healthcare worker develops a skin reaction 48 hours after exposure to latex gloves. The reaction involves redness, swelling, and vesicles. What cells are primarily responsible?",
+            "options": [
+                "Mast cells and basophils",
+                "B cells and plasma cells",
+                "T helper cells and macrophages",
+                "Natural killer cells"
+            ],
+            "correct": [2],
+            "rationale": "This is Type IV (delayed-type) hypersensitivity, involving T cells (particularly Th1 cells) and macrophages. The reaction occurs 24-48 hours after exposure and is cell-mediated rather than antibody-mediated."
+        },
+        {
+            "id": 5,
+            "text": "Case Study: A 28-year-old nurse develops contact dermatitis from latex gloves. She also has a history of food allergies. Which clinical reasoning approach is most appropriate?",
+            "options": [
+                "Focus only on the immediate skin symptoms",
+                "Consider both immediate (Type I) and delayed (Type IV) hypersensitivity mechanisms",
+                "Treat symptomatically without investigating the cause",
+                "Assume all reactions are the same type"
+            ],
+            "correct": [1],
+            "rationale": "Clinical reasoning requires understanding that latex can cause both Type I (immediate, IgE-mediated anaphylaxis) and Type IV (delayed, T cell-mediated contact dermatitis) reactions. Patients with food allergies may have cross-reactivity."
+        },
+        {
+            "id": 6,
+            "text": "A patient with HIV infection shows progressive decline in CD4+ T cell count. What is the primary pathophysiological mechanism?",
+            "options": [
+                "Autoimmune destruction of T cells",
+                "Viral integration into CD4+ cells leading to cell death",
+                "Lack of T cell production in bone marrow",
+                "Excessive T cell migration to lymph nodes"
+            ],
+            "correct": [1],
+            "rationale": "HIV preferentially infects CD4+ T helper cells through gp120 binding to CD4 receptors. Viral replication leads to cell death, progressively depleting CD4+ cells and compromising cell-mediated immunity."
+        },
+        {
+            "id": 7,
+            "text": "Primary immunodeficiency diseases typically present with which pattern of infections?",
+            "options": [
+                "Single episodes of common viral infections",
+                "Recurrent, severe, or unusual infections from early age",
+                "Only bacterial infections in adulthood",
+                "Seasonal allergies and mild cold symptoms"
+            ],
+            "correct": [1],
+            "rationale": "Primary immunodeficiencies are congenital defects in immune system components, leading to recurrent, severe, or opportunistic infections that begin in infancy or early childhood."
+        },
+        {
+            "id": 8,
+            "text": "A patient develops systemic lupus erythematosus (SLE). Which autoantibodies are most specific for diagnosis?",
+            "options": [
+                "Rheumatoid factor (RF)",
+                "Anti-nuclear antibodies (ANA) and anti-dsDNA",
+                "Anti-mitochondrial antibodies",
+                "Anti-smooth muscle antibodies"
+            ],
+            "correct": [1],
+            "rationale": "While ANA is sensitive for SLE (95%), anti-dsDNA antibodies are highly specific and correlate with disease activity and renal involvement. Anti-Smith antibodies are also highly specific for SLE."
+        }
+    ],
+
+    week2: [
+        {
+            "id": 1,
+            "text": "A 65-year-old woman presents with fatigue and pale conjunctiva. Lab results show Hgb 8.5 g/dL, MCV 70 fL, and low serum ferritin. What is the most likely diagnosis?",
+            "options": [
+                "Vitamin B12 deficiency anemia",
+                "Iron deficiency anemia",
+                "Anemia of chronic disease",
+                "Hemolytic anemia"
+            ],
+            "correct": [1],
+            "rationale": "The combination of low hemoglobin, low MCV (microcytic), and low ferritin strongly suggests iron deficiency anemia. This is the most common cause of anemia worldwide."
+        },
+        {
+            "id": 2,
+            "text": "Case Study: A 45-year-old man with chronic kidney disease shows Hgb 9.0 g/dL with normal MCV and low reticulocyte count. What is the primary mechanism?",
+            "options": [
+                "Decreased iron absorption",
+                "Decreased erythropoietin production",
+                "Increased red blood cell destruction",
+                "Vitamin B12 malabsorption"
+            ],
+            "correct": [1],
+            "rationale": "Chronic kidney disease causes decreased erythropoietin production by the kidneys, leading to normocytic, normochromic anemia with low reticulocyte count (hypoproliferative anemia)."
+        },
+        {
+            "id": 3,
+            "text": "A patient with pernicious anemia shows large, oval-shaped red blood cells. What is the underlying pathophysiology?",
+            "options": [
+                "Iron deficiency affecting hemoglobin synthesis",
+                "B12 deficiency affecting DNA synthesis",
+                "Chronic inflammation affecting iron utilization",
+                "Genetic defect in globin chain production"
+            ],
+            "correct": [1],
+            "rationale": "Pernicious anemia results from vitamin B12 deficiency due to lack of intrinsic factor. B12 is essential for DNA synthesis, so deficiency causes megaloblastic anemia with large, immature RBCs."
+        },
+        {
+            "id": 4,
+            "text": "What is the primary mechanism of atherosclerosis development?",
+            "options": [
+                "Viral infection of coronary arteries",
+                "Endothelial dysfunction and lipid infiltration",
+                "Congenital coronary anomalies",
+                "Autoimmune destruction of vessel walls"
+            ],
+            "correct": [1],
+            "rationale": "Atherosclerosis begins with endothelial dysfunction, allowing LDL cholesterol infiltration. This triggers inflammation, foam cell formation, and plaque development through the response-to-injury hypothesis."
+        },
+        {
+            "id": 5,
+            "text": "A 58-year-old man with coronary artery disease experiences crushing chest pain radiating to his left arm. What is the pathophysiological mechanism?",
+            "options": [
+                "Coronary artery spasm only",
+                "Myocardial oxygen supply-demand imbalance",
+                "Pericardial inflammation",
+                "Pulmonary embolism"
+            ],
+            "correct": [1],
+            "rationale": "Angina results from myocardial ischemia due to inadequate oxygen supply to meet myocardial oxygen demand. This occurs when coronary blood flow is compromised by atherosclerotic plaque."
+        },
+        {
+            "id": 6,
+            "text": "Heart failure with preserved ejection fraction (HFpEF) is characterized by:",
+            "options": [
+                "Inability of the heart to contract effectively",
+                "Inability of the heart to relax and fill properly",
+                "Primary valve dysfunction",
+                "Congenital heart defects"
+            ],
+            "correct": [1],
+            "rationale": "HFpEF involves diastolic dysfunction where the left ventricle becomes stiff and cannot relax properly during diastole, impairing ventricular filling despite preserved systolic function (EF ≥50%)."
+        },
+        {
+            "id": 7,
+            "text": "Case Study: A 72-year-old woman with diabetes and hypertension develops shortness of breath and ankle swelling. Echo shows EF 45%. What type of heart failure?",
+            "options": [
+                "Heart failure with preserved ejection fraction (HFpEF)",
+                "Heart failure with reduced ejection fraction (HFrEF)",
+                "Right-sided heart failure only",
+                "Acute heart failure syndrome"
+            ],
+            "correct": [1],
+            "rationale": "EF 45% indicates reduced ejection fraction (normal >50-55%). HFrEF is often caused by ischemic heart disease, previous MI, or cardiomyopathy, commonly seen in patients with diabetes and hypertension."
+        },
+        {
+            "id": 8,
+            "text": "The pathophysiology of hypertension involves multiple mechanisms. Which system is most central to long-term blood pressure regulation?",
+            "options": [
+                "Sympathetic nervous system only",
+                "Renin-angiotensin-aldosterone system (RAAS)",
+                "Endocrine system only",
+                "Respiratory system"
+            ],
+            "correct": [1],
+            "rationale": "The RAAS is central to long-term blood pressure regulation. Renin release leads to angiotensin II formation, causing vasoconstriction and aldosterone release, which increases sodium retention and blood volume."
+        },
+        {
+            "id": 9,
+            "text": "A patient with sickle cell disease experiences a pain crisis. What is the primary pathophysiological mechanism?",
+            "options": [
+                "Immune system attack on red blood cells",
+                "Sickling of RBCs causing vaso-occlusion",
+                "Excessive iron accumulation",
+                "Bone marrow failure"
+            ],
+            "correct": [1],
+            "rationale": "Sickle cell crises occur when deoxygenated hemoglobin S polymerizes, causing RBCs to sickle. These rigid, crescent-shaped cells occlude small blood vessels, causing tissue ischemia and severe pain."
+        },
+        {
+            "id": 10,
+            "text": "Clinical Reasoning: A young athlete collapses during practice. Family history reveals sudden cardiac deaths. What is the most likely cause?",
+            "options": [
+                "Coronary artery disease",
+                "Hypertrophic cardiomyopathy",
+                "Myocarditis",
+                "Mitral valve prolapse"
+            ],
+            "correct": [1],
+            "rationale": "Hypertrophic cardiomyopathy is the leading cause of sudden cardiac death in young athletes. The thick ventricular walls can obstruct outflow and cause fatal arrhythmias, especially during intense physical activity."
+        }
     ]
 };

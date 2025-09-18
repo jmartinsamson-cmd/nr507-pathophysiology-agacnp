@@ -14,7 +14,10 @@
       "Bash(git commit:*)",
       "Bash(find:*)",
       "Bash(start \"C:\\Users\\jsamb\\OneDrive\\Desktop\\Exampee\\index.html\")",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(node:*)",
+      "Bash(for file in \"C:\\Users\\jsamb\\OneDrive\\Desktop\\Exampee\\data\"/*_questions.json)",
+      "Bash(done)"
     ],
     "deny": [],
     "ask": []

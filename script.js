@@ -29,7 +29,7 @@ class ExamApp {
             chapter_30: {
                 file: 'data/chapter_30_questions.json',
                 title: 'Chapter 30: Alterations of Leukocyte Function',
-                questionCount: 31
+                questionCount: 30
             },
             chapter_32: {
                 file: 'data/chapter_32_questions.json',
@@ -149,7 +149,7 @@ class ExamApp {
         document.querySelectorAll('.section-card').forEach(card => {
             card.addEventListener('click', (e) => {
                 const topic = e.target.closest('.section-card').dataset.topic;
-                console.log('Section card clicked, topic:', topic);
+                // Debug: console.log('Section card clicked, topic:', topic);
                 this.startTopicStudy(topic);
             });
         });
@@ -246,7 +246,7 @@ class ExamApp {
     }
 
     async startTopicStudy(topic) {
-        console.log('Starting topic study for:', topic);
+        // Debug: console.log('Starting topic study for:', topic);
         this.studyTopic = topic;
         this.selectedMode = 'study'; // Force study mode for topic questions
 
@@ -260,11 +260,11 @@ class ExamApp {
         try {
             // First try to use embedded data if available
             if (typeof EMBEDDED_STUDY_DATA !== 'undefined' && EMBEDDED_STUDY_DATA[topic]) {
-                console.log('Using embedded study data for:', topic);
+                // Debug: console.log('Using embedded study data for:', topic);
                 this.questions = EMBEDDED_STUDY_DATA[topic];
             } else {
                 // Fallback to fetching from files
-                console.log('Fetching questions from:', this.studyTopicData[topic].file);
+                // Debug: console.log('Fetching questions from:', this.studyTopicData[topic].file);
                 const response = await fetch(this.studyTopicData[topic].file);
                 if (!response.ok) {
                     throw new Error(`Failed to load topic questions: ${response.status} ${response.statusText}`);
@@ -327,8 +327,58 @@ class ExamApp {
         this.switchSection('materials');
     }
 
-    startWeekStudy(week) {
-        alert(`Interactive study for ${week === 'week1' ? 'Week 1: Hypersensitivity' : 'Week 2: Anemias & Cardiology'} is coming soon! This feature will include interactive slides and case studies.`);
+    async startWeekStudy(week) {
+        // Debug: console.log('Starting week study for:', week);
+        this.studyTopic = week;
+        this.selectedMode = 'study'; // Force study mode for week questions
+
+        try {
+            // Use embedded data for week studies
+            if (typeof EMBEDDED_STUDY_DATA !== 'undefined' && EMBEDDED_STUDY_DATA[week]) {
+                // Debug: console.log('Using embedded week study data for:', week);
+                this.questions = EMBEDDED_STUDY_DATA[week];
+            } else {
+                alert(`Week study data not available for ${week}.`);
+                return;
+            }
+
+            // Process questions to determine their type
+            this.questions.forEach(question => {
+                // Check if it's a "Select all that apply" question
+                if (question.text.toLowerCase().includes('select all that apply') ||
+                    (Array.isArray(question.correct) && question.correct.length > 1)) {
+                    question.type = 'multiple_select';
+                } else {
+                    question.type = 'multiple_choice';
+                }
+            });
+
+            // Reset question state
+            this.currentQuestion = 0;
+            this.userAnswers = {};
+
+            // Switch to exam interface but in study mode
+            this.switchSection('exam');
+            this.showScreen('exam-screen');
+
+            // Update header
+            const weekTitle = week === 'week1' ? 'Week 1: Clinical Reasoning - Hypersensitivity' : 'Week 2: Clinical Reasoning - Anemias, CAD, Heart Failure';
+            document.querySelector('header h1').textContent = weekTitle;
+            this.elements.questionCounter.textContent = `Question 1 of ${this.questions.length}`;
+            this.elements.timer.style.display = 'none'; // Hide timer in study mode
+
+            // Show back to materials button
+            this.elements.backToMaterialsBtn.style.display = 'inline-block';
+
+            // Initialize navigation bar
+            this.initializeNavigationBar();
+
+            this.displayQuestion();
+
+        } catch (error) {
+            console.error('Error loading week study questions:', error);
+            alert(`Failed to load ${week} study questions. Error: ${error.message}`);
+        }
     }
 
     // Navigation Bar Methods
