@@ -147,7 +147,11 @@ class ExamApp {
 
         // Study topic cards
         document.querySelectorAll('.section-card').forEach(card => {
-            card.addEventListener('click', (e) => this.startTopicStudy(e.target.closest('.section-card').dataset.topic));
+            card.addEventListener('click', (e) => {
+                const topic = e.target.closest('.section-card').dataset.topic;
+                console.log('Section card clicked, topic:', topic);
+                this.startTopicStudy(topic);
+            });
         });
 
         // Mode selection
@@ -242,21 +246,31 @@ class ExamApp {
     }
 
     async startTopicStudy(topic) {
+        console.log('Starting topic study for:', topic);
         this.studyTopic = topic;
         this.selectedMode = 'study'; // Force study mode for topic questions
 
         // Load questions for the selected topic
         if (!this.studyTopicData[topic]) {
-            alert('Topic questions not available.');
+            alert(`Topic questions not available for ${topic}.`);
+            console.error('Topic not found in studyTopicData:', topic);
             return;
         }
 
         try {
-            const response = await fetch(this.studyTopicData[topic].file);
-            if (!response.ok) {
-                throw new Error('Failed to load topic questions');
+            // First try to use embedded data if available
+            if (typeof EMBEDDED_STUDY_DATA !== 'undefined' && EMBEDDED_STUDY_DATA[topic]) {
+                console.log('Using embedded study data for:', topic);
+                this.questions = EMBEDDED_STUDY_DATA[topic];
+            } else {
+                // Fallback to fetching from files
+                console.log('Fetching questions from:', this.studyTopicData[topic].file);
+                const response = await fetch(this.studyTopicData[topic].file);
+                if (!response.ok) {
+                    throw new Error(`Failed to load topic questions: ${response.status} ${response.statusText}`);
+                }
+                this.questions = await response.json();
             }
-            this.questions = await response.json();
 
             // Process questions to determine their type
             this.questions.forEach(question => {
@@ -292,7 +306,7 @@ class ExamApp {
 
         } catch (error) {
             console.error('Error loading topic questions:', error);
-            alert(`Failed to load ${topic} study questions.`);
+            alert(`Failed to load ${topic} study questions. Error: ${error.message}\n\nNote: If you're seeing this error, the embedded study data should still work. Please refresh the page and try again.`);
         }
     }
 
