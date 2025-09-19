@@ -9,13 +9,13 @@
       "Pyramid"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "The nephron is the functional unit of the kidney. Although the other options are also located in the kidney, they are not its functional units."
   },
   {
     "id": 2,
-    "text": "Which cells have phagocytic properties similar to monocytes and contract like smooth muscles cells, thereby influencingNtUheRSgIlNoGmTeBru.ClaOrMfiltration rate?",
+    "text": "Which cells have phagocytic properties similar to monocytes and contract like smooth muscles cells, thereby influencing the glomerular filtration rate?",
     "options": [
       "Principle cells",
       "Mesangial cells",
@@ -23,7 +23,7 @@
       "Intercalated cells"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Mesangial cells and the mesangial matrix, secreted by mesangial cells, lie between and support the glomerular capillaries. Different mesangial cells contract like smooth muscle cells to regulate glomerular capillary blood flow. They also have phagocytic properties similar to monocytes. The other options are not capable of these functions."
   },
@@ -37,7 +37,7 @@
       "Filtration slits"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Control of renal blood flow, glomerular filtration, and renin secretion occur at the JGA. Together, the juxtaglomerular cells and macula densa cells form the JGA. The control of renal blood flow, glomerular filtration, and renin secretion is not directed by any of the other options."
   },

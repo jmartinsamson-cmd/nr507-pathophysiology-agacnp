@@ -163,7 +163,7 @@
       "Bundle branches"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Each cardiac action potential travels from the SA node to the AV node to the bundle of His (AV bundle), through the bundle branches, and finally to the Purkinje fibers and the ventricular myocardium."
   },
@@ -317,7 +317,7 @@
       "Bachmann bundles"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Only intercalated disks, thickened portions of the sarcolemma, enable electrical impulses to spread quickly in a continuous cell-to-cell (syncytial) fashion."
   },
@@ -345,7 +345,7 @@
       "Pulmonary veins"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Pressure in the ventricle must exceed aortic pressure before blood can be pumped out during systole. The aorta is the only structure in which pressure must be less than the amount of blood in the left ventricle for ejection to occur."
   },
@@ -541,7 +541,7 @@
       "X descent"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "The V wave is an early diastolic peak caused by the filling of the atrium from the peripheral veins. This event is not identified by any of the other options."
   },

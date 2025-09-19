@@ -65,7 +65,7 @@
       "Mixed lesions"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Congenital heart defects that cause acyanotic congestive heart failure usually involve left-to-right shunts (see Table 33-4). Acyanotic congestive heart failure does not involve any of the other options."
   },
@@ -135,9 +135,9 @@
       "Atrioventricular canal (AVC) defect"
     ],
     "correct": [
-      1
+      2
     ],
-    "rationale": "On physical examination, a loud, NhaUrRshS,INhGolToBs.yCsOtoMlic murmur and systolic thrill can be detected at the left lower sternal border. The intensity of the murmur reflects the pressure gradient across the VSD. An apical diastolic rumble may be present with a"
+    "rationale": "On physical examination, a loud, harsh, holosystolic murmur and systolic thrill can be detected at the left lower sternal border. The intensity of the murmur reflects the pressure gradient across the VSD. An apical diastolic rumble may be present with a large left-to-right shunt."
   },
   {
     "id": 11,
