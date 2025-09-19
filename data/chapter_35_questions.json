@@ -23,7 +23,7 @@
       "Diffusion"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Of the options available, ventilation is the only term used to identify the mechanical movement of gas or air into and out of the lungs."
   },
@@ -37,7 +37,7 @@
       "Carina"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "The right mainstem bronchus extends from the trachea more vertically than the left main bronchus; therefore aspirated fluids or foreign particles tend to enter the right lung rather than the left or any of the other locations listed."
   },
@@ -51,7 +51,7 @@
       "Alveolar pores"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Tiny passages called pores of Kohn permit some air to pass through the septa from alveolus to alveolus, promoting collateral ventilation and even distribution of air among the alveoli. This selection is the only option that accurately describes the function that allows air passage among alveoli."
   },
@@ -65,7 +65,7 @@
       "Main bronchus"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Gas exchange occurs only across the alveolocapillary membrane."
   },
@@ -107,7 +107,7 @@
       "Stretch receptors"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Two major types of epithelial cells appear in the alveolus. Type I alveolar cells provide structure, and type II alveolar cells secrete surfactant, a lipoprotein that coats the inner surface of the alveolus and facilitates its expansion during inspiration, lowers alveolar surface tension at end-expiration, and thereby prevents lung collapse. Neither alveolar macrophages nor stretch receptors secrete surfactant."
   },
@@ -121,7 +121,7 @@
       "Terminal bronchioles"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "No lymphatic structures are located in the acinus. The other options are associated with lymphatic vessels."
   },
@@ -177,7 +177,7 @@
       "Bound to protein"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Oxygen is transported in the blood in two forms. A small amount dissolves in plasma, and the remainder binds to hemoglobin molecules. The other options are not involved in this process."
   },
@@ -191,7 +191,7 @@
       "Leukotrienes and prostacyclin"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Constriction occurs if the irritant receptors in the airway epithelium are stimulated by irritants in inspired air, by endogenous substances (e.g., histamine, serotonin, prostaglandins), by many drugs, and by humoral substances. Of the options available, only histamine and prostaglandin cause constriction."
   },
@@ -219,7 +219,7 @@
       "Dissolved in the plasma"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Approximately 60% of the CO2 in venous blood and 90% of the CO2 in arterial blood are carried in the form of bicarbonate."
   },
@@ -233,7 +233,7 @@
       "Muscles of inspiration"
     ],
     "correct": [
-      0
+      3
     ],
     "rationale": "The accessory muscles of inspiration are the sternocleidomastoid and scalene muscles. These muscles are not associated with the other options."
   },
@@ -261,7 +261,7 @@
       "Inability to diffuse oxygen"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "A decrease in compliance indicates that the lungs or chest wall is abnormally stiff or difficult to inflate. This selection is the only option that accurately identifies the meaning of decreased compliance."
   },
@@ -303,7 +303,7 @@
       "Stretch receptors"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Central chemoreceptors indirectly monitor arterial blood by sensing changes in the pH of cerebrospinal fluid (CSF). The central chemoreceptors are sensitive to very small changes in the pH of CSF (equivalent to a 1 to 2 mm Hg change in partial pressure of carbon dioxide [PCO2]) and are able to maintain a normal partial pressure of arterial carbon dioxide (PaCO2) under many different conditions, including strenuous exercise. This selection is the only option that accurately identifies the receptors that are associated with the retention of carbon dioxide."
   },
@@ -331,7 +331,7 @@
       "Nasopharynx"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "The trachea, which is supported by U-shaped cartilage, connects the larynx to the bronchi, the conducting airways of the lungs. The trachea divides into the two main airways, or bronchi, at the carina (see Figure 34-1). The division occurs only at the carina."
   },
@@ -345,7 +345,7 @@
       "Below 60 mm Hg"
     ],
     "correct": [
-      2
+      3
     ],
     "rationale": "The PaO2 must drop well below normal (to approximately 60 mm Hg) before the peripheral chemoreceptors have much influence on ventilation."
   },
@@ -359,7 +359,7 @@
       "J-receptors"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Of the options available, only the stretch receptors are located in the smooth muscles of airways."
   },
@@ -373,7 +373,7 @@
       "J-receptors"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Of the options available, only the central chemoreceptors are located near the respiratory center."
   },
@@ -431,7 +431,10 @@
       "Decreased partial pressure of arterial oxygen (PaO2)"
     ],
     "correct": [
-      0
+      0,
+      1,
+      2,
+      3
     ],
     "rationale": "Aging affects the mechanical aspects of ventilation by decreasing chest wall compliance and elastic recoil of the lungs. Changes in these elastic properties reduce ventilatory reserve. Aging causes the PaO2 to decrease but does not affect the partial pressure of arterial carbon dioxide (PaCO2) or respiratory rate."
   }
