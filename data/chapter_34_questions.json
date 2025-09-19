@@ -205,7 +205,7 @@
       "Triad of congenital defects"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "Infants with a small PDA usually remain asymptomatic; the other options are incorrect."
   },
@@ -261,7 +261,7 @@
       "Hypoplastic left heart syndrome"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Blood flow through the stenotic area of the aorta produces a systolic ejection murmur at the right upper sternal border that transmits to the neck and left lower sternal border. None of the other options produce the described assessment findings."
   },
@@ -275,13 +275,13 @@
       "Hypoplastic left heart syndrome"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "PS results in a systolic ejection murmur at the left upper sternal border, reflecting an obstruction to flow through the narrowed pulmonary valve. A variable systolic ejection click is present in some children, as well as valvular stenosis at the upper left sternal border. PS also produces a thrill that may be palpated at the upper left sternal border. None of the other options produce the described assessment findings."
   },
   {
     "id": 21,
-    "text": "What is the suggested mean bloodNpUrResSsINurGeTfBo.rCaOnM8- to 9-year-old child?",
+    "text": "What is the suggested mean blood pressure for an 8- to 9-year-old child?",
     "options": [
       "104/55 mm Hg",
       "112/62 mm Hg",
@@ -289,7 +289,7 @@
       "121/70 mm Hg"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "The suggested mean blood pressure for an 8- to 9- year-old child is 106/58 mm Hg. For a child of 6 to 7 years old, 104/55 mm Hg is appropriate; for a 12- to 13-year-old child, 112/62 mm Hg is appropriate, and for a 16- to 18-year-old young man, 121/70 mm Hg is appropriate."
   },

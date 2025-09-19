@@ -443,9 +443,8 @@
       "lactic acidosis"
     ],
     "correct": [
-      0,
-      2,
-      3
+      1,
+      2
     ],
     "rationale": "With a 2000 ml loss of blood, central venous pressure, cardiac output, and arterial blood pressure are below normal, even when at rest and in the supine position. The person commonly has air hunger; a rapid, thready pulse; and cold, clammy skin. With a 1500 ml loss of blood, supine blood pressure and pulse can still be normal. Lactic acidosis is observed with a blood loss of 2500 ml or more."
   },
