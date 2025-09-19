@@ -61,7 +61,8 @@
     "options": [
       "Peripheral nerves",
       "Sympathetic nervous system",
-      "Parasympathetic fibers                  d.Tenth thoracic nerve roots"
+      "Parasympathetic fibers",
+      "Tenth thoracic nerve roots"
     ],
     "correct": [
       1
@@ -228,7 +229,8 @@
     "options": [
       "Uromodulin",
       "Urodilatin",
-      "Nephrin                   d.Cystatin"
+      "Nephrin",
+      "Cystatin"
     ],
     "correct": [
       0

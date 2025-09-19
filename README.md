@@ -31,7 +31,7 @@ A comprehensive web-based study platform for Advanced Pathophysiology in the Adu
 | Chapter 9 | Immunity & Inflammation | 42 |
 | Chapter 28 | Hematologic System | 38 |
 | Chapter 29 | Alterations of Erythrocytes | 36 |
-| Chapter 30 | Alterations of Leukocyte Function | 31 |
+| Chapter 30 | Alterations of Leukocyte Function | 30 |
 | Chapter 32 | Cardiovascular & Lymphatic Systems | 41 |
 | Chapter 34 | Cardiovascular Alterations in Children | 22 |
 | Chapter 35 | Structure & Function of Pulmonary System | 31 |

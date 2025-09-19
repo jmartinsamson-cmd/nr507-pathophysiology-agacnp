@@ -107,7 +107,7 @@
       "Atrioventricular canal (AVC) defect"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "If pulmonary vascular resistance has fallen, then infants with PDA will characteristically have a continuous machine-type murmur best heard at the left upper sternal border throughout systole and diastole. If the PDA is significant, then the infant also will have bounding pulses, an active precordium, a thrill on palpation, and signs and symptoms of pulmonary overcirculation. The presentations of the other congenital heart defects are not consistent with the described the symptoms."
   },
@@ -183,7 +183,7 @@
   },
   {
     "id": 14,
-    "text": "Which compensatory mechanism NisUsRpSoInNtGanTeBo.CuOslMy used by children diagnosed with tetralogy of Fallot to relieve hypoxic spells?",
+    "text": "Which compensatory mechanism is spontaneously used by children diagnosed with tetralogy of Fallot to relieve hypoxic spells?",
     "options": [
       "Lying on their left side",
       "Squatting",
