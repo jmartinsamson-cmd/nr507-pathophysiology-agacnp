@@ -3,8 +3,10 @@
     "id": 1,
     "text": "How does chest wall compliance in an infant differ from that of an adult?",
     "options": [
-      "𝛼. An adult’s chest wall compliance is lower than an infant’s. 𝗉. An adult’s chest wall compliance is higher than an infant’s.",
-      "An adult’s chest wall compliance is the same as an infant’s. 𝛿. An adult’s chest wall compliance is dissimilar to that of an infant’s."
+      "a. An adult's chest wall compliance is lower than an infant's.",
+      "b. An adult's chest wall compliance is higher than an infant's.",
+      "c. An adult's chest wall compliance is the same as an infant's.",
+      "d. An adult's chest wall compliance is dissimilar to that of an infant's."
     ],
     "correct": [
       0
@@ -15,10 +17,10 @@
     "id": 2,
     "text": "Why is nasal congestion a serious threat to young infants?",
     "options": [
-      "𝛼. Infants are obligatory nose breathers.",
-      "𝗉. Their noses are small in diameter.",
-      "Infants become dehydrated when mouth breathing.",
-      "𝛿. Their epiglottis is proportionally greater than the epiglottis of an adult’s."
+      "a. Infants are obligatory nose breathers.",
+      "b. Their noses are small in diameter.",
+      "c. Infants become dehydrated when mouth breathing.",
+      "d. Their epiglottis is proportionally greater than the epiglottis of an adult's."
     ],
     "correct": [
       0
@@ -29,13 +31,13 @@
     "id": 3,
     "text": "Which type of croup is most common?",
     "options": [
-      "𝛼. Bacterial",
-      "Fungal",
-      "𝗉. Viral",
-      "Autoimmune"
+      "a. Bacterial",
+      "b. Fungal",
+      "c. Viral",
+      "d. Autoimmune"
     ],
     "correct": [
-      1
+      2
     ],
     "rationale": "In 85% of children with croup, a virus is the cause, most commonly parainfluenza. However, other viruses such as influenza A or respiratory syncytial virus (RSV) also can cause croup."
   },
@@ -43,9 +45,10 @@
     "id": 4,
     "text": "What is the chief predisposing factor for respiratory distress syndrome (RDS) of the newborn?",
     "options": [
-      "𝛼. Low birth weight",
-      "𝗉. Alcohol consumption during pregnancy c. Premature birth",
-      "𝛿. Smoking during pregnancy"
+      "a. Low birth weight",
+      "b. Alcohol consumption during pregnancy",
+      "c. Premature birth",
+      "d. Smoking during pregnancy"
     ],
     "correct": [
       2
@@ -56,13 +59,13 @@
     "id": 5,
     "text": "What is the primary cause of respiratory distress syndrome (RDS) of the newborn?",
     "options": [
-      "𝛼. Immature immune system",
-      "Surfactant deficiency",
-      "𝗉. Small alveoli",
-      "Anemia"
+      "a. Immature immune system",
+      "b. Surfactant deficiency",
+      "c. Small alveoli",
+      "d. Anemia"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "RDS is primarily caused by surfactant deficiency and secondarily by a deficiency in alveolar surface area for gas exchange. None of the other options are related to the cause of RDS."
   },
@@ -70,9 +73,10 @@
     "id": 6,
     "text": "Which option shows the correct sequence of events after atelectasis develops in respiratory distress syndrome of the newborn?",
     "options": [
-      "𝛼. Increased pulmonary vascular resistance, atelectasis, hypoperfusion 𝗉. Hypoxic vasoconstriction, right-to-left shunt hypoperfusion",
-      "Respiratory acidosis, hypoxemia, hypercapnia",
-      "𝛿. Right-to-left shunt, hypoxic vasoconstriction, hypoperfusion"
+      "a. Increased pulmonary vascular resistance, atelectasis, hypoperfusion",
+      "b. Hypoxic vasoconstriction, right-to-left shunt, hypoperfusion",
+      "c. Respiratory acidosis, hypoxemia, hypercapnia",
+      "d. Right-to-left shunt, hypoxic vasoconstriction, hypoperfusion"
     ],
     "correct": [
       1
@@ -83,10 +87,10 @@
     "id": 7,
     "text": "Which statement about the advances in the treatment of respiratory distress syndrome (RDS) of the newborn is incorrect?",
     "options": [
-      "𝛼. Administering glucocorticoids to women in preterm labor accelerates the maturation of the fetus’s lungs.",
-      "𝗉. Administering oxygen to mothers during preterm labor increases their arterial oxygen before the birth of the fetus.",
-      "Treatment includes the instillation of exogenous surfactant down an endotracheal tube of infants weighing less than 1000 g.",
-      "𝛿. Using continuous positive airway pressure (CPAP) supports the infant’s respiratory function."
+      "a. Administering glucocorticoids to women in preterm labor accelerates the maturation of the fetus's lungs.",
+      "b. Administering oxygen to mothers during preterm labor increases their arterial oxygen before the birth of the fetus.",
+      "c. Treatment includes the instillation of exogenous surfactant down an endotracheal tube of infants weighing less than 1000 g.",
+      "d. Using continuous positive airway pressure (CPAP) supports the infant's respiratory function."
     ],
     "correct": [
       1
@@ -97,27 +101,27 @@
     "id": 8,
     "text": "Bronchiolitis tends to occur during the first years of life and is most often caused by what type of infection?",
     "options": [
-      "𝛼. Respiratory syncytial virus (RSV)",
-      "Adenoviruses",
-      "𝗉. Influenzavirus",
-      "Rhinovirus"
+      "a. Respiratory syncytial virus (RSV)",
+      "b. Adenoviruses",
+      "c. Influenzavirus",
+      "d. Rhinovirus"
     ],
     "correct": [
       0
     ],
-    "rationale": "The most common associated pathogen is RSV, but bronchiolitis may also be associated with adenovirus, rhinovirus, influeNnUzRaS, IpNaGraTiBn.fCluOeMnza virus (PIV), and Mycoplasma pneumoniae."
+    "rationale": "The most common associated pathogen is RSV, but bronchiolitis may also be associated with adenovirus, rhinovirus, influenza virus, parainfluenza virus (PIV), and Mycoplasma pneumoniae."
   },
   {
     "id": 9,
     "text": "Which immunoglobulin (Ig) is present in childhood asthma?",
     "options": [
-      "𝛼. IgM",
-      "IgE",
-      "𝗉. IgG",
-      "IgA"
+      "a. IgM",
+      "b. IgE",
+      "c. IgG",
+      "d. IgA"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Included in the long list of asthma-associated genes are those that code for increased levels of immune and inflammatory mediators (e.g., interleukin [IL]–4, IgE, leukotrienes), nitric oxide, and transmembrane proteins in the endoplasmic reticulum. None of the other options are associated with childhood asthma."
   },
@@ -125,10 +129,10 @@
     "id": 10,
     "text": "Which statement accurately describes childhood asthma?",
     "options": [
-      "𝛼. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
-      "𝗉. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
-      "A pulmonary disorder involvinNgURanSIaNbGnToBrm.CaOlMexpression of a protein, producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
-      "𝛿. An obstructive airway disease characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+      "a. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+      "b. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
+      "c. A pulmonary disorder involving an abnormal expression of a protein, producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
+      "d. An obstructive airway disease characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
     ],
     "correct": [
       0
@@ -139,9 +143,10 @@
     "id": 11,
     "text": "Which criterion is used to confirm a diagnosis of asthma in an 8-year-old child?",
     "options": [
-      "𝛼. Parental history of asthma",
-      "𝗉. Serum testing that confirms increased immunoglobulin E (IgE) and eosinophil levels",
-      "Reduced expiratory flow rates confirmed by spirometry testing 𝛿. Improvement on a trial of asthma medication"
+      "a. Parental history of asthma",
+      "b. Serum testing that confirms increased immunoglobulin E (IgE) and eosinophil levels",
+      "c. Reduced expiratory flow rates confirmed by spirometry testing",
+      "d. Improvement on a trial of asthma medication"
     ],
     "correct": [
       2
@@ -152,10 +157,10 @@
     "id": 12,
     "text": "Which statement best describes acute respiratory distress syndrome (ARDS)?",
     "options": [
-      "𝛼. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
-      "𝗉. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and the presence of bilateral infiltrates on chest x-ray imaging",
-      "A respiratory disorder involving an abnormal expression of a protein producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
-      "𝛿. A pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+      "a. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+      "b. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and the presence of bilateral infiltrates on chest x-ray imaging",
+      "c. A respiratory disorder involving an abnormal expression of a protein producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
+      "d. A pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
     ],
     "correct": [
       1
@@ -166,10 +171,10 @@
     "id": 13,
     "text": "Which statement best describes cystic fibrosis?",
     "options": [
-      "𝛼. Obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
-      "𝗉. Respiratory disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
-      "Pulmonary disorder involving an abnormal expression of a protein-producing viscous mucus that obstructs the airways, pancreas, sweat ducts, and vas deferens",
-      "𝛿. Pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+      "a. Obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+      "b. Respiratory disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
+      "c. Pulmonary disorder involving an abnormal expression of a protein-producing viscous mucus that obstructs the airways, pancreas, sweat ducts, and vas deferens",
+      "d. Pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
     ],
     "correct": [
       2
@@ -180,10 +185,10 @@
     "id": 14,
     "text": "Cystic fibrosis is caused by which process?",
     "options": [
-      "𝛼. Autosomal recessive inheritance",
-      "Infection",
-      "𝗉. Autosomal dominant inheritance",
-      "Malignancy"
+      "a. Autosomal recessive inheritance",
+      "b. Infection",
+      "c. Autosomal dominant inheritance",
+      "d. Malignancy"
     ],
     "correct": [
       0
@@ -194,13 +199,13 @@
     "id": 15,
     "text": "Where in the respiratory tract do the majority of foreign objects aspirated by children finally lodge?",
     "options": [
-      "𝛼. Trachea",
-      "Bronchus",
-      "𝗉. Left lung",
-      "Bronchioles"
+      "a. Trachea",
+      "b. Bronchus",
+      "c. Left lung",
+      "d. Bronchioles"
     ],
     "correct": [
-      2
+      1
     ],
     "rationale": "Approximately 75% of aspirated foreign bodies lodge in a bronchus. The other options are not locations where children aspirate the majority of foreign objects."
   },
@@ -208,14 +213,14 @@
     "id": 16,
     "text": "Which symptom is not a clinical manifestation of croup?",
     "options": [
-      "𝛼. Rhinorrhea",
-      "𝗉. Sore throat",
+      "a. Rhinorrhea",
+      "b. Sore throat",
       "c. Low-grade fever",
-      "𝛿. Barking cough"
+      "d. Barking cough"
     ],
     "correct": [
       0
     ],
-    "rationale": "The clinical presentation of bacterial pneumonia, particularly pneumococcal, may include a preceding viral illness, followed by fever with chills and rigors, shortness of breath, and an increasingly productive cough. Auscultation usually reveals such abnormalities as crackles or decreased breath sounds. Other less specific findings may include malaise, emesis, abdominal pain, and chest pain. Respiratory alkalosis is not usually associated with bacterial pneumonia in children."
+    "rationale": "Rhinorrhea (runny nose) is not typically a clinical manifestation of croup. The classic symptoms of croup include a barking cough, inspiratory stridor, sore throat, and low-grade fever. Croup primarily affects the larynx and upper trachea, causing the characteristic barking cough and stridor, but does not typically cause nasal discharge."
   }
 ]
