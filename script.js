@@ -366,7 +366,9 @@ class ExamApp {
             this.showScreen('exam-screen');
 
             // Update header
-            const weekTitle = week === 'week1' ? 'Week 1: Clinical Reasoning - Hypersensitivity' : 'Week 2: Clinical Reasoning - Anemias, CAD, Heart Failure';
+            const weekTitle = week === 'week1' ? 'Week 1: Clinical Reasoning - Hypersensitivity' :
+                              week === 'week2' ? 'Week 2: Clinical Reasoning - Anemias, CAD, Heart Failure' :
+                              'Week 3: Pulmonary Pathologies Webinar';
             document.querySelector('header h1').textContent = weekTitle;
             this.elements.questionCounter.textContent = `Question 1 of ${this.questions.length}`;
             this.elements.timer.style.display = 'none'; // Hide timer in study mode
