@@ -170,11 +170,15 @@ class ExamApp {
         // Week study buttons
         const week1StudyBtn = document.getElementById('start-week1-study');
         const week2StudyBtn = document.getElementById('start-week2-study');
+        const week3StudyBtn = document.getElementById('start-week3-study');
         if (week1StudyBtn) {
             week1StudyBtn.addEventListener('click', () => this.startWeekStudy('week1'));
         }
         if (week2StudyBtn) {
             week2StudyBtn.addEventListener('click', () => this.startWeekStudy('week2'));
+        }
+        if (week3StudyBtn) {
+            week3StudyBtn.addEventListener('click', () => this.startWeekStudy('week3'));
         }
         this.elements.prevBtn.addEventListener('click', () => this.previousQuestion());
         this.elements.nextBtn.addEventListener('click', () => this.nextQuestion());

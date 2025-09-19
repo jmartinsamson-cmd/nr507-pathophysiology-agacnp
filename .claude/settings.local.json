@@ -17,7 +17,8 @@
       "Bash(dir:*)",
       "Bash(node:*)",
       "Bash(for file in \"C:\\Users\\jsamb\\OneDrive\\Desktop\\Exampee\\data\"/*_questions.json)",
-      "Bash(done)"
+      "Bash(done)",
+      "Bash(run_server.bat)"
     ],
     "deny": [],
     "ask": []

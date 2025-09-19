@@ -463,5 +463,128 @@ const EMBEDDED_STUDY_DATA = {
             "correct": [1],
             "rationale": "Hypertrophic cardiomyopathy is the leading cause of sudden cardiac death in young athletes. The thick ventricular walls can obstruct outflow and cause fatal arrhythmias, especially during intense physical activity."
         }
+    ],
+
+    week3: [
+        {
+            "id": 1,
+            "text": "A 55-year-old smoker presents with chronic cough and progressive dyspnea. Spirometry shows FEV1/FVC ratio of 0.65. What is the primary pathophysiology?",
+            "options": [
+                "Alveolar inflammation and fibrosis",
+                "Airway obstruction and air trapping",
+                "Pulmonary vascular constriction",
+                "Pleural effusion and compression"
+            ],
+            "correct": [1],
+            "rationale": "An FEV1/FVC ratio <0.70 indicates obstructive lung disease. In COPD, chronic inflammation causes airway narrowing, increased resistance, air trapping, and hyperinflation."
+        },
+        {
+            "id": 2,
+            "text": "A 28-year-old woman with asthma experiences an acute exacerbation. What is the primary mechanism of bronchoconstriction?",
+            "options": [
+                "Bacterial infection and inflammation",
+                "IgE-mediated mast cell degranulation and smooth muscle contraction",
+                "Alveolar collapse and surfactant deficiency",
+                "Pulmonary edema and fluid accumulation"
+            ],
+            "correct": [1],
+            "rationale": "Asthma involves Type I hypersensitivity with IgE antibodies causing mast cell and basophil degranulation, releasing histamine and leukotrienes that cause bronchoconstriction, inflammation, and mucus hypersecretion."
+        },
+        {
+            "id": 3,
+            "text": "Case Study: A 45-year-old patient develops sudden onset severe dyspnea and chest pain. CT angiography reveals pulmonary embolism. What is the primary pathophysiological consequence?",
+            "options": [
+                "Increased pulmonary vascular resistance and V/Q mismatch",
+                "Decreased lung compliance only",
+                "Bronchoconstriction and airway obstruction",
+                "Alveolar flooding and surfactant loss"
+            ],
+            "correct": [0],
+            "rationale": "Pulmonary embolism obstructs pulmonary vessels, increasing pulmonary vascular resistance and creating ventilation-perfusion (V/Q) mismatch. Ventilated alveoli receive no perfusion, leading to dead space and hypoxemia."
+        },
+        {
+            "id": 4,
+            "text": "What characterizes the pathophysiology of acute respiratory distress syndrome (ARDS)?",
+            "options": [
+                "Chronic airway inflammation and remodeling",
+                "Acute alveolar-capillary membrane damage and increased permeability",
+                "Pulmonary hypertension and right heart failure",
+                "Bronchial hyperresponsiveness and reversible obstruction"
+            ],
+            "correct": [1],
+            "rationale": "ARDS involves acute lung injury with alveolar-capillary membrane damage, increased permeability leading to protein-rich pulmonary edema, impaired gas exchange, and decreased lung compliance."
+        },
+        {
+            "id": 5,
+            "text": "A patient with pneumonia develops hypoxemia. Which mechanism best explains the gas exchange impairment?",
+            "options": [
+                "Airway obstruction preventing ventilation",
+                "V/Q mismatch due to alveolar consolidation",
+                "Decreased respiratory drive",
+                "Chest wall restriction"
+            ],
+            "correct": [1],
+            "rationale": "Pneumonia causes alveolar consolidation and inflammation, creating areas of perfusion without effective ventilation (low V/Q ratio or shunt), leading to hypoxemia that typically responds to supplemental oxygen."
+        },
+        {
+            "id": 6,
+            "text": "What distinguishes restrictive lung disease from obstructive lung disease on pulmonary function tests?",
+            "options": [
+                "Restrictive shows normal FEV1/FVC ratio with reduced lung volumes",
+                "Restrictive shows reduced FEV1/FVC ratio only",
+                "No difference in pulmonary function patterns",
+                "Restrictive shows increased lung volumes"
+            ],
+            "correct": [0],
+            "rationale": "Restrictive lung disease typically shows normal or increased FEV1/FVC ratio (>0.70) but reduced lung volumes (FVC, TLC). Obstructive disease shows reduced FEV1/FVC ratio with air trapping."
+        },
+        {
+            "id": 7,
+            "text": "Case Study: A coal miner develops progressive dyspnea and bilateral lung infiltrates. What is the likely pathophysiological mechanism?",
+            "options": [
+                "Acute allergic reaction to coal dust",
+                "Chronic inhalation causing pulmonary fibrosis",
+                "Infectious pneumonia from contaminated coal",
+                "Bronchial carcinoma development"
+            ],
+            "correct": [1],
+            "rationale": "Pneumoconiosis (coal worker's lung) results from chronic inhalation of mineral dust, causing inflammatory response, macrophage activation, and progressive pulmonary fibrosis with restrictive lung disease pattern."
+        },
+        {
+            "id": 8,
+            "text": "What is the primary mechanism of hypoxemic respiratory failure in COPD exacerbation?",
+            "options": [
+                "Complete airway obstruction",
+                "Worsening V/Q mismatch and increased dead space",
+                "Pneumothorax development",
+                "Pulmonary edema formation"
+            ],
+            "correct": [1],
+            "rationale": "COPD exacerbation worsens ventilation-perfusion mismatch due to increased airway obstruction, mucus plugging, and inflammation, leading to hypoxemia and often hypercapnia from increased dead space ventilation."
+        },
+        {
+            "id": 9,
+            "text": "A patient with idiopathic pulmonary fibrosis shows progressive dyspnea. What characterizes this condition?",
+            "options": [
+                "Reversible airway obstruction",
+                "Progressive alveolar and interstitial fibrosis",
+                "Acute inflammatory response only",
+                "Pulmonary vascular malformations"
+            ],
+            "correct": [1],
+            "rationale": "IPF involves progressive fibroblast proliferation and collagen deposition in the alveolar walls and interstitium, leading to impaired gas exchange, reduced lung compliance, and restrictive physiology."
+        },
+        {
+            "id": 10,
+            "text": "Clinical Reasoning: A patient with chronic bronchitis shows cor pulmonale. What is the pathophysiological sequence?",
+            "options": [
+                "Left heart failure causing right heart strain",
+                "Chronic hypoxemia → pulmonary vasoconstriction → pulmonary hypertension → right heart failure",
+                "Direct myocardial toxicity from smoking",
+                "Systemic hypertension affecting both ventricles"
+            ],
+            "correct": [1],
+            "rationale": "Chronic lung disease causes hypoxemia, leading to pulmonary vasoconstriction and increased pulmonary vascular resistance. This creates pulmonary hypertension, increasing right ventricular workload and eventually causing right heart failure (cor pulmonale)."
+        }
     ]
 };
