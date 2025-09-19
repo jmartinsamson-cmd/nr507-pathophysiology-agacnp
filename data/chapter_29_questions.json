@@ -458,9 +458,9 @@
       "Thiazides"
     ],
     "correct": [
+      0,
       1,
-      2,
-      3
+      2
     ],
     "rationale": "Chloramphenicol (Chloromycetin), phenytoin (Dilantin), and trimethoprim-sulfamethoxazole (Bactrim) are associated with an intermediate increase in the risk of developing aplastic anemia. The other options are not associated with a rare increase in risk."
   },
@@ -474,10 +474,9 @@
       "Low hematocrit"
     ],
     "correct": [
-      0,
+      1,
       2,
-      3,
-      4
+      3
     ],
     "rationale": "When the hemoglobin and hematocrit levels in the blood have significantly decreased, the individual experiences the classic symptoms of PA–weakness, fatigue, paresthesias of the feet and fingers, difficulty in walking, loss of appetite, abdominal pains, and weight loss."
   },
@@ -491,10 +490,10 @@
       "Cheilosis"
     ],
     "correct": [
+      0,
       1,
       2,
-      3,
-      4
+      3
     ],
     "rationale": "Specific symptoms of folate deficiency anemia include severe cheilosis (scales and fissures of the lips and corners of the mouth), stomatitis (inflammation of the mouth), and painful ulcerations of the buccal mucosa and tongue. Gastrointestinal symptoms may be present and include dysphagia (difficulty swallowing), flatulence, and watery diarrhea."
   },
@@ -510,8 +509,7 @@
     "correct": [
       0,
       1,
-      3,
-      4
+      3
     ],
     "rationale": "AIDS, rheumatoid arthritis, systemic lupus erythematosus, malaria, acute and chronic hepatitis, and chronic renal failure are commonly associated with anemias of chronic disease. Polycythemia vera is not associated with this form of anemia."
   }
