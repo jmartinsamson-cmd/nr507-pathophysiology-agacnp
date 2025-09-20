@@ -222,5 +222,37 @@
       0
     ],
     "rationale": "Rhinorrhea (runny nose) is not typically a clinical manifestation of croup. The classic symptoms of croup include a barking cough, inspiratory stridor, sore throat, and low-grade fever. Croup primarily affects the larynx and upper trachea, causing the characteristic barking cough and stridor, but does not typically cause nasal discharge."
+  },
+  {
+    "id": 17,
+    "text": "Which respiratory conditions are more common in children than adults? (Select all that apply.)",
+    "options": [
+      "Bronchiolitis",
+      "Croup",
+      "Epiglottitis",
+      "Chronic obstructive pulmonary disease (COPD)"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "Bronchiolitis, croup, and epiglottitis are respiratory conditions that are more common in children due to their smaller airway size and immature immune systems. COPD is primarily a disease of adults, usually related to smoking or occupational exposures."
+  },
+  {
+    "id": 18,
+    "text": "Which factors contribute to respiratory distress in infants and children? (Select all that apply.)",
+    "options": [
+      "Smaller airway diameter",
+      "Higher metabolic rate and oxygen consumption",
+      "Less developed intercostal muscles",
+      "Larger lung capacity relative to body size"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "Infants and children are more susceptible to respiratory distress due to smaller airway diameter (making obstruction more likely), higher metabolic rate requiring more oxygen, and less developed intercostal muscles for breathing. Children actually have smaller, not larger, lung capacity relative to their body size compared to adults."
   }
 ]

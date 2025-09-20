@@ -24,7 +24,7 @@ class ExamApp {
             chapter_29: {
                 file: 'data/chapter_29_questions.json',
                 title: 'Chapter 29: Alterations of Erythrocytes',
-                questionCount: 36
+                questionCount: 38
             },
             chapter_30: {
                 file: 'data/chapter_30_questions.json',
@@ -49,12 +49,12 @@ class ExamApp {
             chapter_37: {
                 file: 'data/chapter_37_questions.json',
                 title: 'Chapter 37: Alterations of Pulmonary Function',
-                questionCount: 16
+                questionCount: 18
             },
             chapter_38: {
                 file: 'data/chapter_38_questions.json',
                 title: 'Chapter 38: Structure & Function of Renal System',
-                questionCount: 28
+                questionCount: 30
             }
         };
 

@@ -435,7 +435,7 @@
   },
   {
     "id": 32,
-    "text": "A 2000 ml blood loss will produce which assessment finding?  a. Air hunger",
+    "text": "A 2000 ml blood loss will produce which assessment finding? (Select all that apply.)",
     "options": [
       "Normal blood pressure in the supine position",
       "Rapid thready pulse",
@@ -450,7 +450,7 @@
   },
   {
     "id": 33,
-    "text": "Which medications are associated with an intermediate increase in a person's risk for developing aplastic anemia?  a. Penicillin",
+    "text": "Which medications are associated with an intermediate increase in a person's risk for developing aplastic anemia? (Select all that apply.)",
     "options": [
       "Chloramphenicol (Chloromycetin)",
       "Phenytoin (Dilantin)",
@@ -466,7 +466,7 @@
   },
   {
     "id": 34,
-    "text": "Which conditions are generally included in the symptoms of pernicious anemia (PA)?  a. Weakness",
+    "text": "Which conditions are generally included in the symptoms of pernicious anemia (PA)? (Select all that apply.)",
     "options": [
       "Weight gain",
       "Low hemoglobin",
@@ -482,7 +482,7 @@
   },
   {
     "id": 35,
-    "text": "What are the clinical manifestations of folate deficiency anemia?  a. Constipation",
+    "text": "What are the clinical manifestations of folate deficiency anemia? (Select all that apply.)",
     "options": [
       "Flatulence",
       "Dysphagia",
@@ -499,7 +499,7 @@
   },
   {
     "id": 36,
-    "text": "Which diseases are commonly associated with anemia of chronic disease?",
+    "text": "Which diseases are commonly associated with anemia of chronic disease? (Select all that apply.)",
     "options": [
       "Rheumatoid arthritis",
       "Acquired immunodeficiency syndrome (AIDS)",
@@ -512,5 +512,37 @@
       3
     ],
     "rationale": "AIDS, rheumatoid arthritis, systemic lupus erythematosus, malaria, acute and chronic hepatitis, and chronic renal failure are commonly associated with anemias of chronic disease. Polycythemia vera is not associated with this form of anemia."
+  },
+  {
+    "id": 37,
+    "text": "Which factors increase the risk of developing iron deficiency anemia? (Select all that apply.)",
+    "options": [
+      "Heavy menstrual bleeding",
+      "Vegetarian diet without iron supplementation",
+      "Chronic blood loss from gastrointestinal bleeding",
+      "High vitamin C intake"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "Heavy menstrual bleeding, vegetarian diets without adequate iron supplementation, and chronic gastrointestinal bleeding are major risk factors for iron deficiency anemia. High vitamin C intake actually enhances iron absorption and would not increase the risk."
+  },
+  {
+    "id": 38,
+    "text": "Which laboratory findings are characteristic of hemolytic anemia? (Select all that apply.)",
+    "options": [
+      "Elevated indirect bilirubin",
+      "Decreased haptoglobin",
+      "Increased reticulocyte count",
+      "Decreased lactate dehydrogenase (LDH)"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "Hemolytic anemia is characterized by elevated indirect bilirubin (from red blood cell breakdown), decreased haptoglobin (consumed binding free hemoglobin), and increased reticulocyte count (compensatory response). LDH is typically elevated, not decreased, due to cell destruction."
   }
 ]

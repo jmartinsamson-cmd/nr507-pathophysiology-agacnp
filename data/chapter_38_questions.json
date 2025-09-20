@@ -390,5 +390,38 @@
       1
     ],
     "rationale": "Peristalsis is the process which makes it possible for ureters to be transplanted successfully. This process is maintained even when the ureter is denervated. The remaining options are not relevant to transplant success."
+  },
+  {
+    "id": 29,
+    "text": "Which functions are performed by the kidneys? (Select all that apply.)",
+    "options": [
+      "Regulation of electrolyte balance",
+      "Production of erythropoietin",
+      "Activation of vitamin D",
+      "Production of insulin"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "The kidneys perform multiple functions including regulation of electrolyte balance, production of erythropoietin for red blood cell formation, and activation of vitamin D for calcium homeostasis. Insulin is produced by the pancreas, not the kidneys."
+  },
+  {
+    "id": 30,
+    "text": "Which factors can cause a decrease in glomerular filtration rate (GFR)? (Select all that apply.)",
+    "options": [
+      "Decreased renal blood flow",
+      "Increased oncotic pressure in glomerular capillaries",
+      "Increased hydrostatic pressure in Bowman's capsule",
+      "Increased sympathetic nervous system activity"
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "rationale": "All of these factors can decrease GFR: decreased renal blood flow reduces filtration pressure; increased oncotic pressure opposes filtration; increased pressure in Bowman's capsule opposes filtration; and increased sympathetic activity causes vasoconstriction, reducing renal blood flow."
   }
 ]
