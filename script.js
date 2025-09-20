@@ -44,7 +44,7 @@ class ExamApp {
             chapter_35: {
                 file: 'data/chapter_35_questions.json',
                 title: 'Chapter 35: Structure & Function of Pulmonary System',
-                questionCount: 31
+                questionCount: 39
             },
             chapter_37: {
                 file: 'data/chapter_37_questions.json',
@@ -606,13 +606,17 @@ class ExamApp {
             optionDiv.appendChild(input);
             optionDiv.appendChild(label);
 
+            // Only add click handler to the div if it's not the input or label
             optionDiv.addEventListener('click', (e) => {
-                if (e.target.type !== inputType) {
+                if (e.target !== input && e.target !== label) {
+                    e.preventDefault();
                     input.click();
                 }
             });
 
-            input.addEventListener('change', () => {
+            // Handle input change events
+            input.addEventListener('change', (e) => {
+                e.stopPropagation();
                 this.saveAnswer();
                 this.updateOptionStyles();
 

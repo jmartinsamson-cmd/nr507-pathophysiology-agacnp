@@ -437,5 +437,119 @@
       3
     ],
     "rationale": "Aging affects the mechanical aspects of ventilation by decreasing chest wall compliance and elastic recoil of the lungs. Changes in these elastic properties reduce ventilatory reserve. Aging causes the PaO2 to decrease but does not affect the partial pressure of arterial carbon dioxide (PaCO2) or respiratory rate."
+  },
+  {
+    "id": 32,
+    "text": "What is the normal respiratory rate for an adult at rest?",
+    "options": [
+      "8-10 breaths per minute",
+      "12-20 breaths per minute",
+      "25-30 breaths per minute",
+      "35-40 breaths per minute"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The normal respiratory rate for adults at rest is 12-20 breaths per minute. Rates below 12 indicate bradypnea, while rates above 20 indicate tachypnea."
+  },
+  {
+    "id": 33,
+    "text": "Which muscle is the primary muscle of inspiration?",
+    "options": [
+      "External intercostals",
+      "Diaphragm",
+      "Sternocleidomastoid",
+      "Internal intercostals"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The diaphragm is the primary muscle of inspiration. When it contracts, it moves downward, increasing the thoracic cavity volume and creating negative pressure that draws air into the lungs."
+  },
+  {
+    "id": 34,
+    "text": "What percentage of oxygen in arterial blood is dissolved in plasma?",
+    "options": [
+      "1.5%",
+      "15%",
+      "50%",
+      "98.5%"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Only about 1.5% of oxygen in arterial blood is dissolved in plasma. The remaining 98.5% is bound to hemoglobin in red blood cells."
+  },
+  {
+    "id": 35,
+    "text": "Which condition would cause a leftward shift in the oxyhemoglobin dissociation curve?",
+    "options": [
+      "Increased temperature",
+      "Decreased pH (acidosis)",
+      "Increased pH (alkalosis)",
+      "Increased 2,3-DPG"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "A leftward shift in the oxyhemoglobin dissociation curve indicates increased hemoglobin affinity for oxygen. This occurs with increased pH (alkalosis), decreased temperature, decreased 2,3-DPG, and decreased CO2."
+  },
+  {
+    "id": 36,
+    "text": "What is the primary function of the conducting zone of the respiratory system?",
+    "options": [
+      "Gas exchange",
+      "Air filtration and humidification",
+      "Oxygen production",
+      "Blood oxygenation"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The conducting zone (trachea, bronchi, bronchioles) functions to filter, warm, and humidify inspired air while conducting it to the respiratory zone. No gas exchange occurs in the conducting zone."
+  },
+  {
+    "id": 37,
+    "text": "Which factor does NOT affect pulmonary vascular resistance?",
+    "options": [
+      "Alveolar oxygen tension",
+      "pH of blood",
+      "Cardiac output",
+      "Lung volume"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Cardiac output does not directly affect pulmonary vascular resistance. Pulmonary vascular resistance is influenced by alveolar oxygen tension, blood pH, lung volume, and various vasoactive substances, but not by cardiac output itself."
+  },
+  {
+    "id": 38,
+    "text": "What is the anatomical dead space in a healthy adult?",
+    "options": [
+      "50 mL",
+      "150 mL",
+      "350 mL",
+      "500 mL"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "The anatomical dead space in a healthy adult is approximately 150 mL. This represents the volume of the conducting airways where no gas exchange occurs."
+  },
+  {
+    "id": 39,
+    "text": "Which factors regulate the respiratory center in the medulla? (Select all that apply.)",
+    "options": [
+      "Arterial PCO2",
+      "Arterial PO2",
+      "pH of cerebrospinal fluid",
+      "Blood glucose levels"
+    ],
+    "correct": [
+      0,
+      1,
+      2
+    ],
+    "rationale": "The respiratory center in the medulla is primarily regulated by arterial PCO2 (most important), arterial PO2 (when severely low), and pH of cerebrospinal fluid (reflects CO2 levels). Blood glucose levels do not directly regulate respiration."
   }
 ]
