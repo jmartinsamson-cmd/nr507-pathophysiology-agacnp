@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "text": "What is the most abundant class of plasma protein?",
+    "options": [
+      "Globulin",
+      "Albumin",
+      "Clotting factors",
+      "Complement proteins"
+    ],
+    "correct": [1],
+    "rationale": "Albumin (approximately 60% of total plasma protein at a concentration of about 4 g/dl) is the most abundant plasma protein."
+  },
+  {
+    "id": 2,
+    "text": "What is the effect of low plasma albumin?",
+    "options": [
+      "Clotting factors decrease, thus increasing the chance of prolonged bleeding",
+      "Fewer immunoglobulins are synthesized, thus impairing the immune function",
+      "Less iron is stored, thus increasing the incidence of iron deficiency anemia",
+      "Osmotic pressure decreases, thus water moves from the capillaries to the interstitium"
+    ],
+    "correct": [3],
+    "rationale": "In the case of decreased production (e.g., cirrhosis, other diffuse liver diseases, protein malnutrition) or excessive loss of albumin (e.g., certain kidney diseases, extensive burns), the reduced oncotic pressure leads to excessive movement of fluid and solutes into the tissues and decreased blood volume. The other options are not accurate descriptions of the effect of low plasma albumin."
+  },
+  {
+    "id": 3,
+    "text": "What is the life span of an erythrocyte (in days)?",
+    "options": [
+      "20 to 30",
+      "60 to 90",
+      "100 to 120",
+      "200 to 240"
+    ],
+    "correct": [2],
+    "rationale": "Because it cannot undergo mitotic division, the erythrocyte has a limited life span of approximately 120 days."
+  },
+  {
+    "id": 4,
+    "text": "Which statement concerning erythrocytes is true?",
+    "options": [
+      "Erythrocytes contain a nucleus, mitochondria, and ribosomes",
+      "Erythrocytes synthesize proteins",
+      "Erythrocytes have the ability to change shape to squeeze through microcirculation",
+      "Erythrocyte colony-stimulating factor (E-CSF) stimulates erythrocytes"
+    ],
+    "correct": [2],
+    "rationale": "Reversible deformity enables the erythrocyte to assume a more compact torpedo-like shape, squeeze through the microcirculation, and return to normal. The other options are not accurate statements about erythrocytes."
+  },
+  {
+    "id": 5,
+    "text": "Granulocytes that contain granules of vasoactive amines, such as histamine, are called:",
+    "options": [
+      "Neutrophils",
+      "Eosinophils",
+      "Monocytes",
+      "Basophils"
+    ],
+    "correct": [3],
+    "rationale": "Basophils contain cytoplasmic granules that hold an abundant mixture of biochemical mediators, including histamine, chemotactic factors, proteolytic enzymes, and an anticoagulant (heparin). This is not an accurate description of any of the other options."
+  },
+  {
+    "id": 6,
+    "text": "Which of the following are formed elements of the blood that are not cells but are disk-shaped cytoplasmic fragments essential for blood clotting?",
+    "options": [
+      "Monocytes",
+      "Platelets",
+      "Macrophages",
+      "Erythrocytes"
+    ],
+    "correct": [1],
+    "rationale": "Platelets (thrombocytes) are not true cells but are disk-shaped cytoplasmic fragments that are essential for blood coagulation and control of bleeding. This description is not accurate for any of the other options."
+  },
+  {
+    "id": 7,
+    "text": "Blood cells that differentiate into macrophages are known as:",
+    "options": [
+      "Monocytes",
+      "Neutrophils",
+      "Eosinophils",
+      "Basophils"
+    ],
+    "correct": [0],
+    "rationale": "Only monocytes migrate into a variety of tissues and fully mature into tissue macrophages and myeloid dendritic cells."
+  }
+]

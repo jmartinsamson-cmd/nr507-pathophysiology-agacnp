@@ -21,7 +21,8 @@
       "Bash(run_server.bat)",
       "mcp__ide__executeCode",
       "Bash(for chapter in 30 32 34 35 37 38)",
-      "Bash(do echo \"=== Chapter $chapter ===\")"
+      "Bash(do echo \"=== Chapter $chapter ===\")",
+      "Bash(copy:*)"
     ],
     "deny": [],
     "ask": []

@@ -1,0 +1,3954 @@
+{
+  "overall_report": {
+    "total_chapters": 8,
+    "accurate_chapters": 0,
+    "chapters_needing_updates": 8,
+    "chapter_summaries": {
+      "28": {
+        "docx_questions": 7,
+        "json_questions": 38,
+        "exact_matches": 7,
+        "mismatched": 0,
+        "missing": 0,
+        "extra": 31,
+        "is_accurate": false
+      },
+      "29": {
+        "docx_questions": 0,
+        "json_questions": 38,
+        "exact_matches": 0,
+        "mismatched": 0,
+        "missing": 0,
+        "extra": 38,
+        "is_accurate": false
+      },
+      "30": {
+        "docx_questions": 0,
+        "json_questions": 30,
+        "exact_matches": 0,
+        "mismatched": 0,
+        "missing": 0,
+        "extra": 30,
+        "is_accurate": false
+      },
+      "32": {
+        "docx_questions": 0,
+        "json_questions": 41,
+        "exact_matches": 0,
+        "mismatched": 0,
+        "missing": 0,
+        "extra": 41,
+        "is_accurate": false
+      },
+      "34": {
+        "docx_questions": 0,
+        "json_questions": 22,
+        "exact_matches": 0,
+        "mismatched": 0,
+        "missing": 0,
+        "extra": 22,
+        "is_accurate": false
+      },
+      "35": {
+        "docx_questions": 0,
+        "json_questions": 39,
+        "exact_matches": 0,
+        "mismatched": 0,
+        "missing": 0,
+        "extra": 39,
+        "is_accurate": false
+      },
+      "37": {
+        "docx_questions": 0,
+        "json_questions": 18,
+        "exact_matches": 0,
+        "mismatched": 0,
+        "missing": 0,
+        "extra": 18,
+        "is_accurate": false
+      },
+      "38": {
+        "docx_questions": 0,
+        "json_questions": 30,
+        "exact_matches": 0,
+        "mismatched": 0,
+        "missing": 0,
+        "extra": 30,
+        "is_accurate": false
+      }
+    }
+  },
+  "chapter_analyses": {
+    "28": {
+      "chapter": 28,
+      "docx_question_count": 7,
+      "json_question_count": 38,
+      "matches": [
+        {
+          "docx_question": {
+            "question_number": 1,
+            "question_text": "What is the most abundant class of plasma protein?",
+            "options": [
+              "Globulin",
+              "Albumin",
+              "Clotting factors",
+              "Complement proteins"
+            ],
+            "correct_answers": [
+              1
+            ],
+            "rationale": "Albumin (approximately 60% of total plasma protein at a concentration of about 4 g/dl) is the most abundant plasma protein."
+          },
+          "json_question": {
+            "id": 1,
+            "text": "What is the most abundant class of plasma protein?",
+            "options": [
+              "Globulin",
+              "Albumin",
+              "Clotting factors",
+              "Complement proteins"
+            ],
+            "correct": [
+              1
+            ],
+            "rationale": "Albumin (approximately 60% of total plasma protein at a concentration of about 4 g/dl) is the most abundant plasma protein."
+          },
+          "similarity": 1.0,
+          "exact_match": true,
+          "options_match": true,
+          "correct_match": true
+        },
+        {
+          "docx_question": {
+            "question_number": 2,
+            "question_text": "What is the effect of low plasma albumin?",
+            "options": [
+              "Clotting factors decrease, thus increasing the chance of prolonged bleeding.",
+              "Fewer immunoglobulins are synthesized, thus impairing the immune function.",
+              "Less iron is stored, thus increasing the incidence of iron deficiency anemia.",
+              "Osmotic pressure decreases, thus water moves from the capillaries to the interstitium."
+            ],
+            "correct_answers": [
+              3
+            ],
+            "rationale": "In the case of decreased production or excessive loss of albumin, the reduced oncotic pressure leads to excessive movement of fluid and solutes into the tissues and decreased blood volume."
+          },
+          "json_question": {
+            "id": 2,
+            "text": "What is the effect of low plasma albumin?",
+            "options": [
+              "Clotting factors decrease, thus increasing the chance of prolonged bleeding",
+              "Fewer immunoglobulins are synthesized, thus impairing the immune function",
+              "Less iron is stored, thus increasing the incidence of iron deficiency anemia",
+              "Osmotic pressure decreases, thus water moves from the capillaries to the interstitium"
+            ],
+            "correct": [
+              3
+            ],
+            "rationale": "In the case of decreased production (e.g., cirrhosis, other diffuse liver diseases, protein malnutrition) or excessive loss of albumin (e.g., certain kidney diseases, extensive burns), the reduced oncotic pressure leads to excessive movement of fluid and solutes into the tissues and decreased blood volume. The other options are not accurate descriptions of the effect of low plasma albumin."
+          },
+          "similarity": 1.0,
+          "exact_match": true,
+          "options_match": true,
+          "correct_match": true
+        },
+        {
+          "docx_question": {
+            "question_number": 3,
+            "question_text": "What is the life span of an erythrocyte (in days)?",
+            "options": [
+              "20 to 30",
+              "60 to 90",
+              "100 to 120",
+              "200 to 240"
+            ],
+            "correct_answers": [
+              2
+            ],
+            "rationale": "Because it cannot undergo mitotic division, the erythrocyte has a limited life span of approximately 120 days."
+          },
+          "json_question": {
+            "id": 3,
+            "text": "What is the life span of an erythrocyte (in days)?",
+            "options": [
+              "20 to 30",
+              "60 to 90",
+              "100 to 120",
+              "200 to 240"
+            ],
+            "correct": [
+              2
+            ],
+            "rationale": "Because it cannot undergo mitotic division, the erythrocyte has a limited life span of approximately 120 days."
+          },
+          "similarity": 1.0,
+          "exact_match": true,
+          "options_match": true,
+          "correct_match": true
+        },
+        {
+          "docx_question": {
+            "question_number": 4,
+            "question_text": "Which statement concerning erythrocytes is true?",
+            "options": [
+              "Erythrocytes contain a nucleus, mitochondria, and ribosomes.",
+              "Erythrocytes synthesize proteins.",
+              "Erythrocytes have the ability to change shape to squeeze through microcirculation.",
+              "Erythrocyte colony-stimulating factor (E-CSF) stimulates erythrocytes."
+            ],
+            "correct_answers": [
+              2
+            ],
+            "rationale": "Reversible deformity enables the erythrocyte to assume a more compact torpedo-like shape, squeeze through the microcirculation, and return to normal."
+          },
+          "json_question": {
+            "id": 4,
+            "text": "Which statement concerning erythrocytes is true?",
+            "options": [
+              "Erythrocytes contain a nucleus, mitochondria, and ribosomes",
+              "Erythrocytes synthesize proteins",
+              "Erythrocytes have the ability to change shape to squeeze through microcirculation",
+              "Erythrocyte colony-stimulating factor (E-CSF) stimulates erythrocytes"
+            ],
+            "correct": [
+              2
+            ],
+            "rationale": "Reversible deformity enables the erythrocyte to assume a more compact torpedo-like shape, squeeze through the microcirculation, and return to normal. The other options are not accurate statements about erythrocytes."
+          },
+          "similarity": 1.0,
+          "exact_match": true,
+          "options_match": true,
+          "correct_match": true
+        },
+        {
+          "docx_question": {
+            "question_number": 5,
+            "question_text": "Granulocytes that contain granules of vasoactive amines, such as histamine, are called:",
+            "options": [
+              "Neutrophils",
+              "Eosinophils",
+              "Monocytes",
+              "Basophils"
+            ],
+            "correct_answers": [
+              3
+            ],
+            "rationale": "Basophils contain cytoplasmic granules that hold an abundant mixture of biochemical mediators, including histamine, chemotactic factors, proteolytic enzymes, and an anticoagulant (heparin)."
+          },
+          "json_question": {
+            "id": 5,
+            "text": "Granulocytes that contain granules of vasoactive amines, such as histamine, are called:",
+            "options": [
+              "Neutrophils",
+              "Eosinophils",
+              "Monocytes",
+              "Basophils"
+            ],
+            "correct": [
+              3
+            ],
+            "rationale": "Basophils contain cytoplasmic granules that hold an abundant mixture of biochemical mediators, including histamine, chemotactic factors, proteolytic enzymes, and an anticoagulant (heparin). This is not an accurate description of any of the other options."
+          },
+          "similarity": 1.0,
+          "exact_match": true,
+          "options_match": true,
+          "correct_match": true
+        },
+        {
+          "docx_question": {
+            "question_number": 6,
+            "question_text": "Which of the following are formed elements of the blood that are not cells but are disk-shaped cytoplasmic fragments essential for blood clotting?",
+            "options": [
+              "Monocytes",
+              "Platelets",
+              "Macrophages",
+              "Erythrocytes"
+            ],
+            "correct_answers": [
+              1
+            ],
+            "rationale": "Platelets (thrombocytes) are not true cells but are disk-shaped cytoplasmic fragments that are essential for blood coagulation and control of bleeding."
+          },
+          "json_question": {
+            "id": 6,
+            "text": "Which of the following are formed elements of the blood that are not cells but are disk-shaped cytoplasmic fragments essential for blood clotting?",
+            "options": [
+              "Monocytes",
+              "Platelets",
+              "Macrophages",
+              "Erythrocytes"
+            ],
+            "correct": [
+              1
+            ],
+            "rationale": "Platelets (thrombocytes) are not true cells but are disk-shaped cytoplasmic fragments that are essential for blood coagulation and control of bleeding. This description is not accurate for any of the other options."
+          },
+          "similarity": 1.0,
+          "exact_match": true,
+          "options_match": true,
+          "correct_match": true
+        },
+        {
+          "docx_question": {
+            "question_number": 7,
+            "question_text": "Blood cells that differentiate into macrophages are known as:",
+            "options": [
+              "Monocytes",
+              "Neutrophils",
+              "Eosinophils",
+              "Basophils"
+            ],
+            "correct_answers": [
+              0
+            ],
+            "rationale": "Only monocytes migrate into a variety of tissues and fully mature into tissue macrophages."
+          },
+          "json_question": {
+            "id": 7,
+            "text": "Blood cells that differentiate into macrophages are known as:",
+            "options": [
+              "Monocytes",
+              "Neutrophils",
+              "Eosinophils",
+              "Basophils"
+            ],
+            "correct": [
+              0
+            ],
+            "rationale": "Only monocytes migrate into a variety of tissues and fully mature into tissue macrophages and myeloid dendritic cells."
+          },
+          "similarity": 1.0,
+          "exact_match": true,
+          "options_match": true,
+          "correct_match": true
+        }
+      ],
+      "missing_from_json": [],
+      "extra_in_json": [
+        {
+          "id": 8,
+          "text": "Without prior exposure to an antigen, which cells are able to destroy some types of tumor cells and some virus-infected cells?",
+          "options": [
+            "Lymphocytes",
+            "Plasma cells",
+            "Megakaryocytes",
+            "Natural killer (NK) cells"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "NK cells, which resemble large granular lymphocytes, kill some types of tumor cells (in vitro) and some virus-infected cells without being induced by previous exposure to these antigens. This capability is not true of the other options."
+        },
+        {
+          "id": 9,
+          "text": "What is the life span of platelets (in days)?",
+          "options": [
+            "10",
+            "30",
+            "90",
+            "120"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "A platelet circulates for approximately 10 days and ages. Macrophages of the mononuclear phagocyte system, mostly in the spleen, remove platelets."
+        },
+        {
+          "id": 10,
+          "text": "Fetal hematopoiesis occurs in which structure?",
+          "options": [
+            "Gut",
+            "Spleen",
+            "Bone marrow",
+            "Thymus"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The spleen is the largest of the secondary lymphoid organs and the site of fetal hematopoiesis."
+        },
+        {
+          "id": 11,
+          "text": "What is the consequence of a splenectomy?",
+          "options": [
+            "The level of iron in circulation increases",
+            "Antibody production increases to improve immune function",
+            "The number of defective cells in circulation increases",
+            "The number of clotting factors increases"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Splenic absence from any cause (e.g., atrophy, traumatic injury, removal because of disease) has several secondary effects on the body, among them an increase in morphologically defective blood cells in the circulation, confirming the spleen's role in removing old or damaged cells. This description of the consequence of a splenectomy is not accurate for the other options."
+        },
+        {
+          "id": 12,
+          "text": "During an infection, why do lymph nodes enlarge and become tender?",
+          "options": [
+            "B lymphocytes proliferate",
+            "The nodes are inflamed",
+            "The nodes fill with purulent exudate",
+            "The nodes are not properly functioning"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The B lymphocyte proliferation in response to significant antigen (e.g., during infection) may result in lymph node enlargement and tenderness (reactive lymph node). This description is not accurate for the other options."
+        },
+        {
+          "id": 13,
+          "text": "Which blood cells are the chief phagocytes involved in the early inflammation process?",
+          "options": [
+            "Neutrophils",
+            "Monocytes",
+            "Eosinophils",
+            "Erythrocytes"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Neutrophils are the chief phagocytes of early inflammation."
+        },
+        {
+          "id": 14,
+          "text": "Which blood cells are biconcave in shape and have the capacity to be reversibly deformed?",
+          "options": [
+            "Neutrophils",
+            "Monocytes",
+            "Eosinophils",
+            "Erythrocytes"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The erythrocyte's size and shape are ideally suited to its function as a gas carrier. A red blood cell (RBC) is a small disk with two unique properties: (1) a biconcave shape and (2) the capacity to be reversibly deformed. These are characteristics not observed in any of the other options."
+        },
+        {
+          "id": 15,
+          "text": "Which hemoglobin is made from oxidized ferric iron (Fe3+) and lacks the ability to bind oxygen?",
+          "options": [
+            "Deoxyhemoglobin",
+            "Oxyhemoglobin",
+            "Methemoglobin",
+            "Glycosylated hemoglobin"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Without reactivation by methemoglobin reductase, the Fe3+-containing hemoglobin (methemoglobin) cannot bind oxygen. This capability is not true of the other types of hemoglobin mentioned."
+        },
+        {
+          "id": 16,
+          "text": "The absence of parietal cells would prevent the absorption of an essential nutrient necessary to prevent which type of anemia?",
+          "options": [
+            "Iron deficiency",
+            "Pernicious anemia",
+            "Folic acid deficiency anemia",
+            "Aplastic anemia"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Dietary vitamin B12 is a large molecule that requires a protein secreted by parietal cells into the stomach (intrinsic factor [IF]) to transport across the ileum. Defects in IF production lead to decreased B12 absorption and pernicious anemia. The other options are not the result of this process."
+        },
+        {
+          "id": 17,
+          "text": "Which nutrients are necessary for the synthesis of DNA and the maturation of erythrocytes?",
+          "options": [
+            "Protein and niacin",
+            "Iron and vitamin B6 (pyridoxine)",
+            "Cobalamin (vitamin B12) and folate",
+            "Pantothenic acid and vitamin C"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Cobalamin and folate are necessary for the synthesis of DNA and for the maturation of erythrocytes. The remaining options are not necessary for these processes to occur."
+        },
+        {
+          "id": 18,
+          "text": "Which nutrients are necessary for hemoglobin synthesis?",
+          "options": [
+            "Protein and niacin",
+            "Iron and vitamin B6 (pyridoxine)",
+            "Cobalamin (vitamin B12) and folate",
+            "Pantothenic acid and vitamin C"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Iron and B6 (pyridoxine) are necessary for hemoglobin synthesis. The remaining options are not necessary for hemoglobin synthesis."
+        },
+        {
+          "id": 19,
+          "text": "Recycling of iron from erythrocytes is made possible by which of the following?",
+          "options": [
+            "Transferrin",
+            "Hemosiderin",
+            "Apoferritin",
+            "Erythropoietin"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Transferrin is recycled (transferrin cycle) in the following manner: (1) the transferrin-iron complex binds to a transferring receptor on the erythroblast's plasma membrane; (2) the complex moves into the cell by receptor-mediated endocytosis; (3) iron is released (dissociated) from transferrin; and (4) the dissociated transferrin is returned to the bloodstream for reuse. The other options do not present an accurate description of the recycling of erythrocytic iron."
+        },
+        {
+          "id": 20,
+          "text": "By which structure are mature erythrocytes removed from the bloodstream?",
+          "options": [
+            "Liver",
+            "Lymph nodes",
+            "Thymus",
+            "Spleen"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "After approximately 100 to 120 days in the circulation, old erythrocytes are removed by tissue macrophages, primarily in the spleen."
+        },
+        {
+          "id": 21,
+          "text": "Which substance is used to correct the chronic anemia associated with chronic renal failure?",
+          "options": [
+            "Iron",
+            "Erythropoietin",
+            "Cobalamin (vitamin B12)",
+            "Folate"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "One of the most significant advances in the study of hematopoietic growth factors has been the development of erythropoietin for individuals with chronic renal failure. The other options are not associated with the treatment of chronic anemia."
+        },
+        {
+          "id": 22,
+          "text": "What is the role of thromboxane A (TXA2) in the secretion stage of hemostasis?",
+          "options": [
+            "Stimulates the synthesis of serotonin",
+            "Promotes vasodilation",
+            "Stimulates platelet aggregation",
+            "Promotes formation of cyclooxygenase"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Platelet aggregation is primarily stimulated by TXA2 and adenosine diphosphate (ADP), which induce functional fibrinogen receptors on the platelet. The other options do not present an accurate description of the role of thromboxane A."
+        },
+        {
+          "id": 23,
+          "text": "Which of the following is the role of nitric oxide (NO) in hemostasis?",
+          "options": [
+            "Stimulates the release of fibrinogen to maintain the platelet plug",
+            "Stimulates the release of clotting factors V and VII",
+            "Causes vasoconstriction and stimulates platelet aggregation",
+            "Controls platelet activation through cyclic adenosine monophosphate (cAMP)–mediated signaling"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Endothelial cell NO synthase produces NO, which controls platelet activation through cAMP-mediated signaling. The other options do not present an accurate description of the role of NO in hemostasis."
+        },
+        {
+          "id": 24,
+          "text": "The drug heparin acts in hemostasis by which processes?",
+          "options": [
+            "Inhibiting thrombin and antithrombin III (AT-III)",
+            "Preventing the conversion of prothrombin to thrombin",
+            "Shortening the fibrin strands to retract the blood clot",
+            "Degrading the fibrin within blood clots"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Clinically administered heparin or heparin sulfate (on the surface of endothelial cells) binds to AT-III and induces a conformational change that greatly enhances its activity. Under normal conditions, the presence of endothelial cell heparin sulfate and available AT-III in the circulation cooperate to protect the vessels from the effects of spontaneously activated thrombin. The other options do not accurately describe the role heparin plays in hemostasis."
+        },
+        {
+          "id": 25,
+          "text": "What is plasmin's role in the clotting process?",
+          "options": [
+            "Stimulates platelet aggregation",
+            "Inhibits platelet adhesion and aggregation",
+            "Prevents the conversion of prothrombin to degrade the fibrin within blood clots",
+            "Degrades the fibrin within blood clots"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Plasmin (also called fibrinase or fibrinolysin) is a serine protease that degrades fibrin polymers in clots. It is not capable of the functions described in the remaining options."
+        },
+        {
+          "id": 26,
+          "text": "What does polycythemia at birth indicate?",
+          "options": [
+            "Hypoxia in utero",
+            "Dysfunctional bone marrow",
+            "Congenitally absent spleen",
+            "Dehydration in utero"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The hypoxic intrauterine environment stimulates erythropoietin production in the fetus and accelerates fetal erythropoiesis, producing polycythemia (excessive proliferation of erythrocyte precursors) of the newborn. The other options are not related to polycythemia."
+        },
+        {
+          "id": 27,
+          "text": "Where are Kupffer cells located?",
+          "options": [
+            "Kidneys",
+            "Liver",
+            "Pancreas",
+            "Spleen"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The liver macrophages are the only location for Kupffer cells."
+        },
+        {
+          "id": 28,
+          "text": "Where are Langerhans cells found?",
+          "options": [
+            "Skin",
+            "Intestinal lining",
+            "Kidney",
+            "Thyroid"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Of the available options, only the skin is the location for Langerhans cells."
+        },
+        {
+          "id": 29,
+          "text": "What is the role of collagen in the clotting process?",
+          "options": [
+            "Initiates the clotting cascade",
+            "Activates platelets",
+            "Stimulates fibrin",
+            "Deactivates fibrinogen"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "In the clotting process, collagen provides a particularly strong stimulus to activate platelets. Collagen does not bring about any of the other options."
+        },
+        {
+          "id": 30,
+          "text": "Which form of iron (Fe) can be used in the formation of normal hemoglobin?",
+          "options": [
+            "Fe+",
+            "Fe2+",
+            "Fe3+",
+            "Fe4+"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "It is crucial that the iron be correctly charged; only reduced ferrous iron (Fe2+) can bind oxygen in the lungs and release it in the tissues."
+        },
+        {
+          "id": 31,
+          "text": "Where are alveolar macrophages found?",
+          "options": [
+            "Skin",
+            "Breasts",
+            "Gastrointestinal tract",
+            "Lungs"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The lung is the only location for alveolar macrophages."
+        },
+        {
+          "id": 32,
+          "text": "What changes to the hematologic system is related to age?",
+          "options": [
+            "Platelet adhesiveness decreases",
+            "Lymphocyte function decreases",
+            "Cellular immunity increases",
+            "Erythrocyte reproduction accelerates"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Blood composition changes little with age. A delay in erythrocyte replenishment may occur after bleeding, presumably because of iron deficiency. Lymphocyte function appears to decrease with age. Particularly affected is a decrease in cellular immunity. Platelet adhesiveness probably increases with age."
+        },
+        {
+          "id": 33,
+          "text": "What is the function of erythrocytes?",
+          "options": [
+            "Tissue oxygenation",
+            "Hemostasis",
+            "Infection control",
+            "Allergy response"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Erythrocytes are solely responsible for tissue oxygenation."
+        },
+        {
+          "id": 34,
+          "text": "Which characteristics allow erythrocytes to function as gas carriers? (Select all that apply.)",
+          "options": [
+            "Permanent shape",
+            "Compactness",
+            "Reversible deformability",
+            "Presence of hyperactive mitochondria",
+            "Biconcavity"
+          ],
+          "correct": [
+            2,
+            4
+          ],
+          "rationale": "A red blood cell (RBC) is a small disk with two unique properties: (1) a biconcave shape and (2) the capacity to be reversibly deformed. The other options are not relevant to the function of gas transport."
+        },
+        {
+          "id": 35,
+          "text": "Which statements about plasma proteins are correct? (Select all that apply.)",
+          "options": [
+            "Provide clotting factors",
+            "Transport triglycerides",
+            "Synthesize complement proteins",
+            "Create hydrostatic pressure",
+            "Transport cholesterol"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "rationale": "Plasma proteins do not create hydrostatic pressure. The other options are all accurate statements regarding plasma proteins."
+        },
+        {
+          "id": 36,
+          "text": "What are the primary anticoagulant mechanisms? (Select all that apply.)",
+          "options": [
+            "Antithrombin III",
+            "Tissue factor pathway inhibitor",
+            "Hematopoiesis",
+            "Protein C",
+            "Phagocytosis"
+          ],
+          "correct": [
+            0,
+            1,
+            3
+          ],
+          "rationale": "The major regulatory factors that control hemostasis reside where the greatest probability of clotting would occur—on the endothelial cell surface. The primary anticoagulant mechanisms include thrombin inhibitors (e.g., antithrombin III), tissue factor inhibitors (e.g., tissue factor pathway inhibitor), and mechanisms for degrading activated clotting factors (e.g., protein C). Hematopoiesis and phagocytosis are processes that are not related to anticoagulation."
+        },
+        {
+          "id": 37,
+          "text": "Which statements are true regarding the role of the endothelium in clot formation? (Select all that apply.)",
+          "options": [
+            "The surface of the endothelium produces plasma protease inhibitors",
+            "Plasma protease inhibitors assist in preventing clot formation",
+            "Thrombomodulin is a protein that is converted on the surface of endothelial cells",
+            "Protein A binds to thrombomodulin",
+            "Activated protein C enhances the adhesion ability of neutrophils"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "The surface of the endothelium produces plasma protease inhibitors to resist clot formation. Thrombomodulin is a membrane thrombin-binding protein matter and is converted to activated protein C on the surface of endothelial cells. Protein C in the circulation binds to thrombomodulin. Activated protein C inhibits the adhesion of neutrophils to the endothelium."
+        },
+        {
+          "id": 38,
+          "text": "Which statements characterize albumin? (Select all that apply.)",
+          "options": [
+            "Retains sodium to maintain water balance",
+            "Provides colloid osmotic pressure",
+            "Is synthesized in the liver",
+            "Is a carrier for drugs that have low water solubility",
+            "Is a small molecule"
+          ],
+          "correct": [
+            1,
+            2,
+            3
+          ],
+          "rationale": "Albumin is a plasma protein produced by the liver. It serves as a carrier molecule for the normal components of blood, as well as for drugs that have low solubility in water (e.g., free fatty acids, lipid-soluble hormones, thyroid hormones, bile salts). Albumin molecules are large and do not diffuse freely through the vascular endothelium, thus they maintain the critical colloidal osmotic pressure (or oncotic pressure) that regulates the passage of water and solutes into the surrounding tissues."
+        }
+      ],
+      "mismatched_content": []
+    },
+    "29": {
+      "chapter": 29,
+      "docx_question_count": 0,
+      "json_question_count": 38,
+      "matches": [],
+      "missing_from_json": [],
+      "extra_in_json": [
+        {
+          "id": 1,
+          "text": "What term is used to describe the capacity of some erythrocytes to vary in size, especially in relationship to some anemias?",
+          "options": [
+            "Poikilocytosis",
+            "Anisocytosis",
+            "Microcytosis",
+            "Macrocytosis"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Additional descriptors of erythrocytes associated with some anemias include anisocytosis (assuming various sizes) or poikilocytosis (assuming various shapes) (see Figure 28-1). The remaining terms are not associated with this condition."
+        },
+        {
+          "id": 2,
+          "text": "What is the fundamental physiologic manifestation of anemia?",
+          "options": [
+            "Hypotension",
+            "Hypoxia",
+            "Ischemia",
+            "Hypervolemia"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The fundamental physiologic manifestation of anemia is a reduced oxygen-carrying capacity of the blood, resulting in tissue hypoxia."
+        },
+        {
+          "id": 3,
+          "text": "The paresthesia that occurs in vitamin B12 deficiency anemia is a result of which of the following?",
+          "options": [
+            "Reduction in acetylcholine receptors in the postsynaptic nerves",
+            "Myelin degeneration in the spinal cord",
+            "Destruction of myelin in peripheral nerves",
+            "Altered function of neurons in the parietal lobe"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Effects on the nervous system can occur if a vitamin B12 deficiency causes the anemia. Myelin degeneration may occur with the resultant loss of fibers in the spinal cord, producing paresthesia (numbness), gait disturbances, extreme weakness, spasticity, and reflex abnormalities. This selection is the only option that accurately describes the cause of paresthesia in such anemias."
+        },
+        {
+          "id": 4,
+          "text": "Which of the following describes how the body compensates for anemia?",
+          "options": [
+            "Increasing rate and depth of breathing",
+            "Decreasing capillary vasoconstriction",
+            "Hemoglobin holding more firmly onto oxygen",
+            "Kidneys releasing more erythropoietin"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Tissue hypoxia creates additional demands and compensatory actions on the pulmonary and hematologic systems. The rate and depth of breathing increase in an attempt to increase the availability of oxygen. This selection is the only option that accurately describes the compensation mechanism in such anemias."
+        },
+        {
+          "id": 5,
+          "text": "Which of the following is classified as a megaloblastic anemia?",
+          "options": [
+            "Iron deficiency",
+            "Sideroblastic",
+            "Hemolytic",
+            "Pernicious anemia"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Pernicious anemia is the most common type of megaloblastic anemia. The remaining options are not classified as megaloblastic anemias."
+        },
+        {
+          "id": 6,
+          "text": "Deficiencies in folate and vitamin B12 alter the synthesis of which of the following?",
+          "options": [
+            "RNA",
+            "DNA",
+            "Mitochondria",
+            "Proteins"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Deficiencies in folate and vitamin B12 result in defective erythrocyte precursor DNA synthesis. These deficiencies are not associated with alterations of the other options."
+        },
+        {
+          "id": 7,
+          "text": "The underlying disorder of which anemia is a result of the defective secretion of the intrinsic factor, which is essential for the absorption of vitamin B12?",
+          "options": [
+            "Microcytic",
+            "Hypochromic",
+            "Hemolytic",
+            "Pernicious"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Vitamin B12 deficiency causes pernicious anemia, the most common type of megaloblastic anemia."
+        },
+        {
+          "id": 8,
+          "text": "After a person has a subtotal gastrectomy for chronic gastritis, which type of anemia will result?",
+          "options": [
+            "Iron deficiency",
+            "Folic acid",
+            "Pernicious",
+            "Aplastic"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "From the options available, only pernicious anemia is caused by vitamin B12 deficiency, which is often associated with the end-stage type A chronic atrophic gastritis."
+        },
+        {
+          "id": 9,
+          "text": "What causes the atrophy of gastric mucosal cells that result in pernicious anemia?",
+          "options": [
+            "Erythrocyte destruction",
+            "Vitamin B12 malabsorption",
+            "Autoimmune destruction of parietal cells",
+            "Poor nutritional intake"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Deficiency in intrinsic factor (IF) secretion may be congenital or may result from adult onset gastric mucosal atrophy and the destruction of parietal cells. In older adults, virtually all vitamin B12-deficiency anemia is caused by a failure of IF-related absorption. This selection is the only option that accurately identifies the cause of gastric mucosal cell atrophy."
+        },
+        {
+          "id": 10,
+          "text": "Which statement best describes a Schilling test?",
+          "options": [
+            "Administration of radioactive cobalamin and the measurement of its excretion in the urine to test for vitamin B12 deficiency",
+            "Measurement of antigen-antibody immune complexes in the blood to test for hemolytic anemia",
+            "Measurement of serum ferritin and total iron-binding capacity in the blood to test for iron deficiency anemia",
+            "Administration of folate and measurement in 2 hours of its level in a blood sample to test for folic acid deficiency anemia."
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The Schilling test indirectly evaluates vitamin B12 absorption by administering radioactive B12 and measuring excretion in the urine. This selection is the only option that accurately describes a Schilling test."
+        },
+        {
+          "id": 11,
+          "text": "What is the treatment of choice for pernicious anemia (PA)?",
+          "options": [
+            "Cyanocobalamin by oral intake",
+            "Vitamin B12 by injection",
+            "Ferrous fumarate by Z-track injection",
+            "Folate by oral intake"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Replacement of vitamin B12 (cobalamin) is the treatment of choice for PA. Initial injections of vitamin B12 are administered weekly until the deficiency is corrected, followed by monthly injections for the remainder of the individual's life. The other options are not treatments for PA."
+        },
+        {
+          "id": 12,
+          "text": "Which condition resulting from untreated pernicious anemia (PA) is fatal?",
+          "options": [
+            "Brain hypoxia",
+            "Heart failure",
+            "Renal failure",
+            "Liver failure"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Of the options available, untreated PA is fatal, usually because of heart failure."
+        },
+        {
+          "id": 13,
+          "text": "How is the effectiveness of vitamin B12 therapy measured?",
+          "options": [
+            "Reticulocyte count",
+            "Hemoglobin",
+            "Serum vitamin B12",
+            "Hematocrit"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The effectiveness of cobalamin replacement therapy is determined by a rising reticulocyte count. The other options are not used as indicators of the effectiveness of vitamin B12 therapy"
+        },
+        {
+          "id": 14,
+          "text": "Which statement about folic acid is false?",
+          "options": [
+            "Folic acid absorption is dependent on the enzyme folacin.",
+            "Folic acid is stored in the liver.",
+            "Folic acid is essential for RNA and DNA synthesis within erythrocytes.",
+            "Folic acid is absorbed in the upper small intestine."
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Folic acid absorption is not dependent on the enzyme folacin. The other options are true statements regarding folic acid."
+        },
+        {
+          "id": 15,
+          "text": "Which anemia produces small, pale erythrocytes?",
+          "options": [
+            "Folic acid",
+            "Iron deficiency",
+            "Pernicious",
+            "Aplastic"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The microcytic-hypochromic anemias, which include iron deficiency anemia (IDA), are characterized by erythrocytes that are abnormally small and contain abnormally reduced amounts of hemoglobin. This description is not true of the other options."
+        },
+        {
+          "id": 16,
+          "text": "Which type of anemia is characterized by fatigue, weakness, and dyspnea, as well as conjunctiva of the eyes and brittle, concave nails?",
+          "options": [
+            "Iron deficiency",
+            "Pernicious",
+            "Aplastic",
+            "Hemolytic"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Early symptoms of iron deficiency anemia (IDA) include fatigue, weakness, and shortness of breath. Pale earlobes, palms, and conjunctivae (see Figure 28-4) are also common signs. Progressive IDA causes more severe alterations, with structural and functional changes apparent in epithelial tissue (see Figure 28-4). The nails become brittle, thin, coarsely ridged, and spoon-shaped or concave (koilonychia) as a result of impaired capillary circulation. The tongue becomes red, sore, and painful. These symptoms are not associated with the other options."
+        },
+        {
+          "id": 17,
+          "text": "What is the most common cause of iron deficiency anemia (IDA)?",
+          "options": [
+            "Chronic blood loss",
+            "Decreased dietary intake",
+            "Vitamin deficiency",
+            "Autoimmune disease"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The most common cause of IDA in well-developed countries is pregnancy and chronic blood loss."
+        },
+        {
+          "id": 18,
+          "text": "Continued therapy of pernicious anemia (PA) generally lasts how long?",
+          "options": [
+            "6 to 8 weeks",
+            "Until the iron level is normal",
+            "The rest of one's life",
+            "Until symptoms resolve"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Because PA cannot be cured, maintenance therapy is a life-long endeavor."
+        },
+        {
+          "id": 19,
+          "text": "Sideroblastic anemia can occasionally result from an autosomal recessive transmission inherited from which relative?",
+          "options": [
+            "Mother",
+            "Grandfather",
+            "Grandmother",
+            "Father"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "An occasional autosomal recessive transmission occurs only with mitochondrial mutations from the mother."
+        },
+        {
+          "id": 20,
+          "text": "Clinical manifestations of mild-to-moderate splenomegaly and hepatomegaly, bronze-colored skin, and cardiac dysrhythmias are indicative of which anemia?",
+          "options": [
+            "Iron deficiency",
+            "Sideroblastic",
+            "Aplastic",
+            "Hemolytic"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Of the options available, only sideroblastic anemia exhibits mild-to-moderate enlargement of the spleen (splenomegaly) and liver (hepatomegaly), as well as abnormal skin pigmentation (bronze colored). Heart rhythm disturbances, along with congestive heart failure, are major life-threatening complications related to cardiac iron overload."
+        },
+        {
+          "id": 21,
+          "text": "Considering sideroblastic anemia, what would be the expected effect on the plasma iron levels?",
+          "options": [
+            "Plasma iron levels would be high.",
+            "Levels would be low.",
+            "Levels would be normal.",
+            "Levels would be only minimally affected."
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Plasma iron levels would be high (see Table 28-3)."
+        },
+        {
+          "id": 22,
+          "text": "In aplastic anemia (AA), pancytopenia develops as a result of which of the following?",
+          "options": [
+            "Suppression of erythropoietin to produce adequate amounts of erythrocytes",
+            "Suppression of the bone marrow to produce adequate amounts of erythrocytes, leukocytes, and thrombocytes",
+            "Lack of DNA to form sufficient quantities of erythrocytes, leukocytes, and thrombocytes",
+            "Lack of stem cells to form sufficient quantities of leukocytes"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "AA is a critical condition characterized by pancytopenia, which is a reduction or absence of all three blood cell types, resulting from the failure or suppression of bone marrow to produce adequate amounts of blood cells. This selection is the only option that accurately identifies the cause of pancytopenia."
+        },
+        {
+          "id": 23,
+          "text": "What is the most common pathophysiologic process that triggers aplastic anemia (AA)?",
+          "options": [
+            "Autoimmune disease against hematopoiesis by activated cytotoxic T (Tc) cells",
+            "Malignancy of the bone marrow in which unregulated proliferation of erythrocytes crowd out other blood cells",
+            "Autoimmune disease against hematopoiesis by activated immunoglobulins",
+            "Inherited genetic disorder with recessive X-linked transmission"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Most cases of AA result from an autoimmune disease directed against hematopoietic stem cells. Tc cells appear to be the main culprits. None of the remaining options is considered a common trigger of AA."
+        },
+        {
+          "id": 24,
+          "text": "An allogenic bone marrow transplantation remains the preferred method for treating which anemia?",
+          "options": [
+            "Aplastic",
+            "Polycythemia vera",
+            "Sideroblastic",
+            "Anemia of chronic disease (ACD)"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Of the options available, bone marrow and, most recently, peripheral blood stem cell transplantation from a histocompatible sibling are the preferred treatments for the underlying bone marrow failure observed in aplastic anemias."
+        },
+        {
+          "id": 25,
+          "text": "Which statement is true regarding warm autoimmune hemolytic anemia?",
+          "options": [
+            "Warm autoimmune hemolytic anemia occurs primarily in men.",
+            "It is self-limiting and rarely produces hemolysis.",
+            "Erythrocytes are bound to macrophages and sequestered in the spleen.",
+            "Immunoglobulin M coats erythrocytes and binds them to receptors on monocytes."
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The immunoglobulin G–coated red blood cells bind to the Fc receptors on monocytes and splenic macrophages and are removed by phagocytosis. The other options are not true when considering this type of anemia."
+        },
+        {
+          "id": 26,
+          "text": "When considering hemolytic anemia, which statement is true regarding the occurrence of jaundice?",
+          "options": [
+            "Erythrocytes are destroyed in the spleen.",
+            "Heme destruction exceeds the liver's ability to conjugate and excrete bilirubin.",
+            "The patient has elevations in aspartate transaminase (AST) and alanine transaminase (ALT).",
+            "The erythrocytes are coated with an immunoglobulin."
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Jaundice (icterus) is present when heme destruction exceeds the liver's ability to conjugate and excrete bilirubin. This selection is the only option that accurately describes the process that affects the occurrence of hemolytic anemia–related jaundice."
+        },
+        {
+          "id": 27,
+          "text": "Erythrocyte life span of less than 120 days, ineffective bone marrow response to erythropoietin, and altered iron metabolism describe the pathophysiologic characteristics of which type of anemia?",
+          "options": [
+            "Aplastic",
+            "Anemia of chronic disease",
+            "Iron deficiency",
+            "Pernicious"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Anemia of chronic disease results from a combination of (1) decreased erythrocyte life span, (2) suppressed production of erythropoietin, (3) ineffective bone marrow erythroid progenitor response to erythropoietin, and (4) altered iron metabolism and iron sequestration in macrophages. This result is not true of the other options."
+        },
+        {
+          "id": 28,
+          "text": "What is the primary cause of the symptoms of polycythemia vera?",
+          "options": [
+            "Decreased erythrocyte count",
+            "Increased blood viscosity",
+            "Neurologic involvement",
+            "Decreased oxygen saturation"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "As polycythemia vera progresses, many of the symptoms are related to the increased blood cellularity and viscosity. No other option is the primary cause of the symptoms of polycythemia vera."
+        },
+        {
+          "id": 29,
+          "text": "Treatment for polycythemia vera involves which of the following?",
+          "options": [
+            "Therapeutic phlebotomy and radioactive phosphorus",
+            "Restoration of blood volume by plasma expanders",
+            "Administration of cyanocobalamin",
+            "Blood transfusions"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "In low-risk individuals, the recommended therapy is phlebotomy and low-dose aspirin, whereas radioactive phosphorus has been used to suppress erythropoiesis. The other options are not considered in the treatment of polycythemia vera."
+        },
+        {
+          "id": 30,
+          "text": "Considering iron replacement therapy prescribed for iron deficiency anemia, who is likely to require long-term daily maintenance dosage?",
+          "options": [
+            "A woman who has not yet experienced menopause",
+            "A teenager who is involved in strenuous athletics",
+            "A middle-aged man who smokes two packs of cigarettes a day",
+            "An older person demonstrating signs of dementia"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Menstruating women may need daily oral iron replacement therapy (325 mg/day) until menopause as a result of their menstrual blood loss. None of the other options are a chronic source of blood loss."
+        },
+        {
+          "id": 31,
+          "text": "Which statement is true regarding the physical manifestations of vitamin B12 deficiency anemia?",
+          "options": [
+            "Vitamin B12 deficiency anemia seldom results in neurologic symptoms.",
+            "The chances of a cure are good with appropriate treatment.",
+            "The condition is reversible in 75% of the cases.",
+            "Symptoms are a result of demyelination."
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The neurologic manifestations characteristic of vitamin B12 deficiency anemia result from nerve demyelination that may produce neuronal death. These complications pose a serious threat because they are not reversible, even with appropriate treatment."
+        },
+        {
+          "id": 32,
+          "text": "A 2000 ml blood loss will produce which assessment finding? (Select all that apply.)",
+          "options": [
+            "Normal blood pressure in the supine position",
+            "Rapid thready pulse",
+            "Cold clammy skin",
+            "lactic acidosis"
+          ],
+          "correct": [
+            1,
+            2
+          ],
+          "rationale": "With a 2000 ml loss of blood, central venous pressure, cardiac output, and arterial blood pressure are below normal, even when at rest and in the supine position. The person commonly has air hunger; a rapid, thready pulse; and cold, clammy skin. With a 1500 ml loss of blood, supine blood pressure and pulse can still be normal. Lactic acidosis is observed with a blood loss of 2500 ml or more."
+        },
+        {
+          "id": 33,
+          "text": "Which medications are associated with an intermediate increase in a person's risk for developing aplastic anemia? (Select all that apply.)",
+          "options": [
+            "Chloramphenicol (Chloromycetin)",
+            "Phenytoin (Dilantin)",
+            "Trimethoprim-sulfamethoxazole (Bactrim)",
+            "Thiazides"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "Chloramphenicol (Chloromycetin), phenytoin (Dilantin), and trimethoprim-sulfamethoxazole (Bactrim) are associated with an intermediate increase in the risk of developing aplastic anemia. The other options are not associated with a rare increase in risk."
+        },
+        {
+          "id": 34,
+          "text": "Which conditions are generally included in the symptoms of pernicious anemia (PA)? (Select all that apply.)",
+          "options": [
+            "Weight gain",
+            "Low hemoglobin",
+            "Paresthesias",
+            "Low hematocrit"
+          ],
+          "correct": [
+            1,
+            2,
+            3
+          ],
+          "rationale": "When the hemoglobin and hematocrit levels in the blood have significantly decreased, the individual experiences the classic symptoms of PA–weakness, fatigue, paresthesias of the feet and fingers, difficulty in walking, loss of appetite, abdominal pains, and weight loss."
+        },
+        {
+          "id": 35,
+          "text": "What are the clinical manifestations of folate deficiency anemia? (Select all that apply.)",
+          "options": [
+            "Flatulence",
+            "Dysphagia",
+            "Stomatitis",
+            "Cheilosis"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rationale": "Specific symptoms of folate deficiency anemia include severe cheilosis (scales and fissures of the lips and corners of the mouth), stomatitis (inflammation of the mouth), and painful ulcerations of the buccal mucosa and tongue. Gastrointestinal symptoms may be present and include dysphagia (difficulty swallowing), flatulence, and watery diarrhea."
+        },
+        {
+          "id": 36,
+          "text": "Which diseases are commonly associated with anemia of chronic disease? (Select all that apply.)",
+          "options": [
+            "Rheumatoid arthritis",
+            "Acquired immunodeficiency syndrome (AIDS)",
+            "Polycythemia vera",
+            "Systemic lupus erythematosus"
+          ],
+          "correct": [
+            0,
+            1,
+            3
+          ],
+          "rationale": "AIDS, rheumatoid arthritis, systemic lupus erythematosus, malaria, acute and chronic hepatitis, and chronic renal failure are commonly associated with anemias of chronic disease. Polycythemia vera is not associated with this form of anemia."
+        },
+        {
+          "id": 37,
+          "text": "Which factors increase the risk of developing iron deficiency anemia? (Select all that apply.)",
+          "options": [
+            "Heavy menstrual bleeding",
+            "Vegetarian diet without iron supplementation",
+            "Chronic blood loss from gastrointestinal bleeding",
+            "High vitamin C intake"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "Heavy menstrual bleeding, vegetarian diets without adequate iron supplementation, and chronic gastrointestinal bleeding are major risk factors for iron deficiency anemia. High vitamin C intake actually enhances iron absorption and would not increase the risk."
+        },
+        {
+          "id": 38,
+          "text": "Which laboratory findings are characteristic of hemolytic anemia? (Select all that apply.)",
+          "options": [
+            "Elevated indirect bilirubin",
+            "Decreased haptoglobin",
+            "Increased reticulocyte count",
+            "Decreased lactate dehydrogenase (LDH)"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "Hemolytic anemia is characterized by elevated indirect bilirubin (from red blood cell breakdown), decreased haptoglobin (consumed binding free hemoglobin), and increased reticulocyte count (compensatory response). LDH is typically elevated, not decreased, due to cell destruction."
+        }
+      ],
+      "mismatched_content": []
+    },
+    "30": {
+      "chapter": 30,
+      "docx_question_count": 0,
+      "json_question_count": 30,
+      "matches": [],
+      "missing_from_json": [],
+      "extra_in_json": [
+        {
+          "id": 1,
+          "text": "What change is observed in leukocytes during an allergic disorder (type I hypersensitivity) often caused by asthma, hay fever, and drug reactions?",
+          "options": [
+            "Neutrophilia",
+            "Basophilia",
+            "Eosinophilia",
+            "Monocytosis"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Eosinophilia is an absolute increase (more than 450/µL) in the total numbers of circulating eosinophils. Allergic disorders (type I hypersensitivity) associated with asthma, hay fever, and drug reactions, as well as parasitic infections (particularly with metazoal parasites), are often cited as causes. This change is not identified by any of other options."
+        },
+        {
+          "id": 2,
+          "text": "In infectious mononucleosis (IM), what does the Monospot test detect?",
+          "options": [
+            "Immunoglobulin E (IgE)",
+            "Immunoglobulin M (IgM)",
+            "Immunoglobulin G (IgG)",
+            "Immunoglobulin A (IgA)"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Heterophile antibodies are a heterogeneous group of IgM antibodies that are agglutinins against nonhuman red blood cells (e.g., sheep, horse) and are detected by qualitative (monospot) or quantitative (heterophile antibody) test methods. This statement is not true of the other options."
+        },
+        {
+          "id": 3,
+          "text": "Which description is consistent with acute lymphocytic leukemia (ALL)?",
+          "options": [
+            "ALL is a progressive neoplasm defined by the presence of greater than 30% lymphoblasts in the bone marrow or blood.",
+            "Leukocytosis and a predominance of blast cells characterize the bone marrow and peripheral blood. As the immature blasts increase, they replace normal myelocytic cells, megakaryocytes, and erythrocytes.",
+            "B cells fail to mature into plasma cells that synthesize immunoglobulins.",
+            "The translocation of genetic material from genes 9 and 22 create an abnormal, fused gene identified as BCR-ABL."
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "ALL is a progressive neoplasm defined by the presence of greater than 30% lymphoblasts in the bone marrow or blood. None of the other options provide an accurate description of ALL."
+        },
+        {
+          "id": 4,
+          "text": "Which description is consistent with chronic myelogenous leukemia (CML)?",
+          "options": [
+            "Defects exist in the ras oncogene, TP53 tumor-suppressor gene, and INK4A, the gene encoding a cell-cycle regulatory protein.",
+            "Leukocytosis and a predominance of blast cells characterize the bone marrow and peripheral blood. As the immature blasts increase, they replace normal myelocytic cells, megakaryocytes, and erythrocytes.",
+            "B cells fail to mature into plasma cells that synthesize immunoglobulins.",
+            "The translocation of genetic material from genes 9 and 22 creates an abnormal, fused protein identified as BCR-ABL1."
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The Philadelphia chromosome is present in more than 95% of those with CML, and the presence of the BCR-ABL1 protein is responsible for the initiation of CML. The other options do not accurately describe CML."
+        },
+        {
+          "id": 5,
+          "text": "Which description is consistent with chronic lymphocytic leukemia (CLL)?",
+          "options": [
+            "Defects exist in the ras oncogene, TP53 tumor-suppressor gene, and INK4A, the gene encoding a cell-cycle regulatory protein.",
+            "Leukocytosis and a predominance of blast cells characterize the bone marrow and peripheral blood. As the immature blasts increase, they replace normal myelocytic cells, megakaryocytes, and erythrocytes.",
+            "B cells fail to mature into plasma cells that synthesize immunoglobulins.",
+            "The translocation of genetic material from genes 9 and 22 creates an abnormal, fused protein identified as BCR-ABL."
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "CLL is derived from transformation of a partially mature B cell that has not yet encountered antigen. The other options do not accurately describe CLL."
+        },
+        {
+          "id": 6,
+          "text": "Which electrolyte imbalance accompanies multiple myeloma (MM)?",
+          "options": [
+            "Hyperkalemia",
+            "Hypercalcemia",
+            "Hyperphosphatemia",
+            "Hypernatremia"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Elevated levels of calcium in the blood (hypercalcemia) characterize the common presentation of MM. The other options do not accompany MM."
+        },
+        {
+          "id": 7,
+          "text": "Reed-Sternberg (RS) cells represent malignant transformation and proliferation of which of the following?",
+          "options": [
+            "Interleukin (IL)–1, IL-2, IL-5, and IL-6",
+            "Tumor necrosis factor–beta",
+            "B cells",
+            "T cells"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Although the molecular events that cause malignant transformation remain controversial, RS cells are apparently from B-cell lineage. The other options are not relevant to this process."
+        },
+        {
+          "id": 8,
+          "text": "Local signs and symptoms of Hodgkin disease–related lymphadenopathy are a result of which of the following?",
+          "options": [
+            "Pressure and ischemia",
+            "Pressure and obstruction",
+            "Inflammation and ischemia",
+            "Inflammation and pressure"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Local symptoms caused by pressure and obstruction of the lymph nodes are the result of lymphadenopathy. The other options do not contribute to the lymphadenopathy associated with Hodgkin disease."
+        },
+        {
+          "id": 9,
+          "text": "Which virus is associated with Burkitt lymphoma in African children?",
+          "options": [
+            "Cytomegalovirus",
+            "Adenovirus",
+            "Human papillomavirus",
+            "Epstein-Barr virus"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Epstein-Barr virus, found in nasopharyngeal secretions, is associated with Burkitt lymphoma in African children. The other options are not associated with this malignancy."
+        },
+        {
+          "id": 10,
+          "text": "Which term is used to describe a red-purple discoloration caused by diffuse hemorrhage into the skin tissue?",
+          "options": [
+            "Petechiae",
+            "Hematoma",
+            "Ecchymosis",
+            "Purpura"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Diffuse hemorrhage into skin tissues that is visible through the skin causes a red-purple discoloration identified as a purpura. None of the other options are used to identify this symptom."
+        },
+        {
+          "id": 11,
+          "text": "Which statement best describes heparin-induced thrombocytopenia (HIT)?",
+          "options": [
+            "Immunoglobulin G immune–mediated adverse drug reaction that reduces circulating platelets",
+            "Hematologic reaction to heparin in which the bone marrow is unable to produce sufficient platelets to meet the body's needs",
+            "Immunoglobulin E–mediated allergic drug reaction that reduces circulating platelets",
+            "Cell-mediated drug reaction in which macrophages process the heparin and platelet complexes that are then destroyed by activated cytotoxic T cells."
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Heparin is a common cause of drug-induced thrombocytopenia. HIT is an immune-mediated, adverse drug reaction caused by immunoglobulin G antibodies that leads to increased platelet consumption and a decrease in platelet counts. None of the other options accurately describe HIT."
+        },
+        {
+          "id": 12,
+          "text": "Immune thrombocytopenia (ITP) is a(n) _____ condition in adults and a(n) _____ condition in children.",
+          "options": [
+            "Acute; acute",
+            "Acute; chronic",
+            "Chronic; chronic",
+            "Chronic; acute"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "ITP may be acute or chronic. The acute form is frequently observed in children. Chronic ITP is more commonly observed in adults, with the highest prevalence in women between 20 and 40 years of age."
+        },
+        {
+          "id": 13,
+          "text": "Vitamin _____ is required for normal clotting factor synthesis by the _____.",
+          "options": [
+            "K; kidneys",
+            "D; kidneys",
+            "K; liver",
+            "D; liver"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Vitamin K, a fat-soluble vitamin, is necessary for the synthesis and regulation of prothrombin, procoagulant factors (VII, IX, X), and anticoagulant regulators (proteins C and S) in the liver."
+        },
+        {
+          "id": 14,
+          "text": "What is the most common cause of vitamin K deficiency?",
+          "options": [
+            "Administration of warfarin (Coumadin)",
+            "Total parenteral nutrition with antibiotic therapy",
+            "An immunoglobulin G–mediated autoimmune disorder",
+            "Liver failure"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The most common cause of vitamin K deficiency is parenteral nutrition in combination with broad-spectrum antibiotics that destroy normal gut flora. None of the other options are commonly associated with vitamin K deficiency."
+        },
+        {
+          "id": 15,
+          "text": "Which disorder is described as an unregulated release of thrombin with subsequent fibrin formation and accelerated fibrinolysis?",
+          "options": [
+            "Disseminated intravascular coagulation (DIC)",
+            "Immune thrombocytopenic purpura (ITP)",
+            "Heparin-induced thrombocytopenia (HIT)",
+            "Essential thrombocythemia (ET)"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "DIC is an acquired clinical syndrome characterized by widespread activation of coagulation resulting in the formation of fibrin clots in medium and small vessels throughout the body. This description does not accurately identify any of the other options."
+        },
+        {
+          "id": 16,
+          "text": "In disseminated intravascular coagulation (DIC), what activates the coagulation cascade?",
+          "options": [
+            "Cytokines, such as platelet-activating factor (PAF), and tumor necrosis factor-alpha (TNF-α)",
+            "Thromboxane A, causing platelets to aggregate and consume clotting factors",
+            "Tissue factor (TF) located in the endothelial layer of blood vessels and subcutaneous tissue",
+            "Endotoxins from gram-negative and gram-positive bacteria circulating in the bloodstream"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Direct tissue damage (ischemia and necrosis, surgical manipulation, crushing injury) causes the endothelium to release TF. The common pathway for DIC appears to be excessive and widespread exposure of TF. The other options are not responsible for the activation of the coagulation cascade."
+        },
+        {
+          "id": 17,
+          "text": "Which proinflammatory cytokines are responsible for the development and maintenance of disseminated intravascular coagulation (DIC)?",
+          "options": [
+            "Granulocyte colony-stimulating factor (G-CSF); interleukin (IL)–2, IL-4, and IL-10; and tumor necrosis factor-gamma (IFN-γ)",
+            "Granulocyte-macrophage colony-stimulating factor (GM-CSF); and IL-3, IL-5, IL-9, and IFN-α",
+            "Macrophage colony-stimulating factor (M-CSF); IL-7, IL-11, and IL-14; and PAF",
+            "Tumor necrosis factor-alpha (TNF-α); IL-1, IL-6, and IL-8; and platelet-activating factor (PAF)"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Endotoxin, in particular, triggers the release of multiple cytokines that play a significant role in the development and maintenance of DIC. Proinflammatory cytokines—TNF-α; IL-1, IL-6, IL-8; PAF—are responsible for the clinical signs and symptoms associated with the sepsis associated with DIC. None of the other options perform this function."
+        },
+        {
+          "id": 18,
+          "text": "In disseminated intravascular coagulation (DIC), what are the indications of microvascular thrombosis?",
+          "options": [
+            "Reduced amplitude in peripheral pulses",
+            "Symmetric cyanosis of fingers and toes",
+            "Numbness and tingling in fingers and toes",
+            "Bilateral pallor and edema of fingers and toes"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Several organ systems are susceptible to microvascular thrombosis that affects their function. Indicators of multisystem failure include changes in the level of consciousness, behavior, and mentation; confusion; seizure activity; oliguria; hematuria; hypoxia; hypotension; hemoptysis; chest pain; and tachycardia. Symmetric cyanosis of the fingers and toes (i.e., \"blue finger/toe syndrome\") and, in some instances, of the nose and breasts may be present. The other options are not recognized indicators of microvascular thrombosis."
+        },
+        {
+          "id": 19,
+          "text": "What is the most reliable and specific test for diagnosing disseminated intravascular coagulation (DIC)?",
+          "options": [
+            "Prothrombin time (PT)",
+            "Activated partial thromboplastin time (aPTT)",
+            "Fibrin degradation products (FDP)",
+            "D-dimer"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "D-dimer testing measures a specific DIC-related product. This statement is not true of the other options."
+        },
+        {
+          "id": 20,
+          "text": "What term is used to identify thrombi that occlude arterioles and capillaries and are made up of platelets with minimal fibrin and erythrocytes?",
+          "options": [
+            "Essential (primary) thrombocythemia (ET)",
+            "Acute idiopathic thrombotic thrombocytopenic purpura",
+            "Thrombotic thrombocytopenic purpura (TTP)",
+            "Immune thrombocytopenic purpura (ITP)"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Of the available options, only TTP is characterized by thrombotic microangiopathy in which platelets aggregate and cause occlusion of arterioles and capillaries in the microcirculation."
+        },
+        {
+          "id": 21,
+          "text": "Which of the following is characterized by what is referred to as pathognomonic pentad of symptoms?",
+          "options": [
+            "Acute idiopathic thrombotic thrombocytopenic purpura",
+            "Essential (primary) thrombocythemia (ET)",
+            "Immune thrombocytopenic purpura (ITP)",
+            "Thrombotic thrombocytopenic purpura (TTP)"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Acute idiopathic thrombotic thrombocytopenic purpura is characterized by a pathognomonic pentad of symptoms that includes extreme thrombocytopenia (fewer than 20,000 platelets/mm³), intravascular hemolytic anemia, ischemic signs and symptoms most often involving the central nervous system (approximately 65% exhibit memory disturbances, behavioral irregularities, headaches, or coma), kidney failure (affecting approximately 65% of individuals), and fever (present in approximately 33% of individuals). The other options do not demonstrate these symptoms."
+        },
+        {
+          "id": 22,
+          "text": "Which statement relates to immune thrombocytopenic purpura (ITP)?",
+          "options": [
+            "ITP is formed in conditions of low flow and is made up of mostly red cells with larger amounts of fibrin and few platelets.",
+            "An alteration of multipotent stem cells, resulting in an excess production of platelets, causes ITP.",
+            "Mononuclear phagocytes in the spleen remove antibody-coated platelets from circulation.",
+            "Arterial clots are made up of mostly platelet aggregates held together by fibrin strands."
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "ITP involves the antigen usually forming immune complexes with circulating antibodies, and it is thought that the immune complexes bind to Fc receptors on platelets, leading to their destruction in the spleen. None of the other options are accurately related to ITP."
+        },
+        {
+          "id": 23,
+          "text": "When the demand for mature neutrophils exceeds the supply, immature neutrophils are released indicating:",
+          "options": [
+            "A shift to the right",
+            "A shift to the left",
+            "Leukocytosis",
+            "Leukemia"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "When the demand for circulating mature neutrophils exceeds the supply, the marrow begins to release immature neutrophils (and other leukocytes) into the blood. Premature release of the immature white cells is responsible for the phenomenon known as a shift to the left or leukemoid reaction. None of the remaining options would be used to identify the process described."
+        },
+        {
+          "id": 24,
+          "text": "Hodgkin disease is characterized by the presence of which of the following?",
+          "options": [
+            "Philadelphia chromosome",
+            "Virchow triad",
+            "Microvascular thrombi",
+            "Reed-Sternberg (RS) cells"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Hodgkin disease is characterized by its progression from one group of lymph nodes to another, the development of systemic symptoms, and the presence of RS cells, but not the involvement of the Philadelphia chromosome. Virchow triad is a symptom related to thrombus formation. Disseminated intravascular coagulation is associated with microvascular thrombi."
+        },
+        {
+          "id": 25,
+          "text": "Which classic clinical manifestations are symptoms of IM? (Select all that apply.)",
+          "options": [
+            "Lymph node enlargement",
+            "Hepatitis",
+            "Pharyngitis",
+            "Edema in the area of the eyes",
+            "Fever"
+          ],
+          "correct": [
+            0,
+            2,
+            4
+          ],
+          "rationale": "At the time of diagnosis, the individual usually has the classic triad of symptoms: fever, pharyngitis, and lymphadenopathy of the cervical lymph nodes. The triad does not include hepatitis or orbital edema."
+        },
+        {
+          "id": 26,
+          "text": "Early detection of acute leukemia would include which of the following symptoms? (Select all that apply.)",
+          "options": [
+            "Dizziness",
+            "Paresthesia",
+            "Anorexia",
+            "Bruising",
+            "Bone pain"
+          ],
+          "correct": [
+            2,
+            3,
+            4
+          ],
+          "rationale": "Signs and symptoms related to bone marrow depression include fatigue caused by anemia, bleeding resulting from thrombocytopenia (reduced numbers of circulating platelets), and fever caused by infection. Anorexia can occur in all varieties of acute leukemia and is associated with weight loss. Pain in the bones and joints is thought to result from leukemia infiltration with secondary stretching of the periosteum. The other options are not generally associated with acute leukemia."
+        },
+        {
+          "id": 27,
+          "text": "What are the most significant risk factors for the development of thrombus formation as referred to by the Virchow triad? (Select all that apply.)",
+          "options": [
+            "Endothelial injury to blood vessels",
+            "Turbulent arterial blood flow",
+            "Rapid coagulation of the blood",
+            "Stagnant venous blood flow",
+            "History of obesity"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rationale": "The risk for developing spontaneous thrombi is related to several factors, referred to as the Virchow triad: (1) injury to the blood vessel endothelium, (2) abnormalities of blood flow, and (3) hypercoagulability of the blood. Obesity is not associated with the triad."
+        },
+        {
+          "id": 28,
+          "text": "Which statements are true regarding leukemias? (Select all that apply.)",
+          "options": [
+            "A single progenitor cell undergoes a malignant change.",
+            "Leukemia is a result of uncontrolled cellular proliferation.",
+            "Bone marrow becomes overcrowded.",
+            "Leukocytes are underproduced.",
+            "Hematopoietic cell production is decreased."
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            4
+          ],
+          "rationale": "In the leukemias, a single progenitor cell undergoes malignant transformation. The common feature of all forms of leukemia is an uncontrolled proliferation of malignant leukocytes, causing an overcrowding of bone marrow and decreased production and function of normal hematopoietic cells."
+        },
+        {
+          "id": 29,
+          "text": "The two major forms of leukemia, acute and chronic, are classified by which criteria? (Select all that apply.)",
+          "options": [
+            "Predominant cell type",
+            "Rate of progression",
+            "Age of individual when cells differentiation occurs",
+            "Stage of cell development when malignancy first occurs",
+            "Serum level of leukocytes"
+          ],
+          "correct": [
+            0,
+            1
+          ],
+          "rationale": "The current classification of leukemia is based on (1) the predominant cell of origin (either myeloid or lymphoid) and (2) the rate of progression, which usually reflects the degree at which cell differentiation was arrested when the cell became malignant (acute or chronic). The remaining options are inaccurate statements regarding the classification criteria."
+        },
+        {
+          "id": 30,
+          "text": "What are the clinical manifestations of advanced non-African Burkitt lymphoma? (Select all that apply.)",
+          "options": [
+            "Abdominal swelling",
+            "Night sweats",
+            "Fever",
+            "Weight gain",
+            "Dementia"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "In non-African Burkitt lymphoma, the most common presentation is abdominal swelling. More advanced disease may exhibit night sweats, fever, and weight loss. Dementia is not associated with this disease."
+        }
+      ],
+      "mismatched_content": []
+    },
+    "32": {
+      "chapter": 32,
+      "docx_question_count": 0,
+      "json_question_count": 41,
+      "matches": [],
+      "missing_from_json": [],
+      "extra_in_json": [
+        {
+          "id": 1,
+          "text": "Which statement does not accurately describe the pericardium?",
+          "options": [
+            "The pericardium is a double-walled membranous sac that encloses the heart.",
+            "It is made up of connective tissue and a surface layer of squamous cells.",
+            "The pericardium protects the heart against infection and inflammation from the lungs and pleural space.",
+            "It contains pain and mechanoreceptors that can elicit reflex changes in blood pressure and heart rate."
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The pericardium is made up of a surface layer of mesothelium over a thin layer of connective tissue. The remaining options accurately describe the pericardium."
+        },
+        {
+          "id": 2,
+          "text": "Which cardiac chamber has the thinnest wall and why?",
+          "options": [
+            "The right and left atria; they are low-pressure chambers that serve as storage units and conduits for blood.",
+            "The right and left atria; they are not directly involved in the preload, contractility, or afterload of the heart.",
+            "The left ventricle; the mean pressure of blood coming into this ventricle is from the lung, which has a low pressure.",
+            "The right ventricle; it pumps blood into the pulmonary capillaries, which have a lower pressure compared with the systemic circulation."
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The two atria have the thinnest walls because they are low-pressure chambers that serve as storage units and conduits for blood that is emptied into the ventricles. This selection is the only option that correctly identifies which heart chambers have the thinnest walls and why that helps cardiac function."
+        },
+        {
+          "id": 3,
+          "text": "Which chamber of the heart endures the highest pressures?",
+          "options": [
+            "Right atrium",
+            "Left ventricle",
+            "Left atrium",
+            "Right ventricle"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Pressure is greatest in the systemic circulation, driven by the left ventricle."
+        },
+        {
+          "id": 4,
+          "text": "What is the process that ensures mitral and tricuspid valve closure after the ventricles are filled with blood?",
+          "options": [
+            "Chordae tendineae relax, which allows the valves to close.",
+            "Increased pressure in the ventricles pushes the valves to close.",
+            "Trabeculae carneae contract, which pulls the valves closed.",
+            "Reduced pressure in the atria creates a negative pressure that pulls the valves closed."
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "During ventricular relaxation, the two atrioventricular valves open and blood flows from the higher pressure atria to the relaxed ventricles. With increasing ventricular pressure, these valves close and prevent backflow into the atria as the ventricles contract. This selection is the only option that correctly identifies the process that ensures closing of the mitral and tricuspid valves."
+        },
+        {
+          "id": 5,
+          "text": "Regarding the heart’s valves, what is a function of the papillary muscles?",
+          "options": [
+            "The papillary muscles close the semilunar valve.",
+            "These muscles prevent backward expulsion of the atrioventricular valve.",
+            "They close the atrioventricular valve.",
+            "The papillary muscles open the semilunar valve."
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The papillary muscles are extensions of the myocardium that pull the cusps together and downward at the onset of ventricular contraction, thus preventing their backward expulsion into the atria. This selection is the only option that correctly describes the function of the papillary muscles."
+        },
+        {
+          "id": 6,
+          "text": "During the cardiac cycle, why do the aortic and pulmonic valves close after the ventricles relax?",
+          "options": [
+            "Papillary muscles relax, which allows the valves to close.",
+            "Chordae tendineae contract, which pulls the valves closed.",
+            "Reduced pressure in the ventricles creates a negative pressure, which pulls the valves closed.",
+            "Blood fills the cusps of the valves and causes the edges to merge, closing the valves."
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "When the ventricles relax, blood fills the cusps and causes their free edges to meet in the middle of the vessel, closing the valve and preventing any backflow. This selection is the only option that accurately explains why the aortic and pulmonic valves close after the ventricles contract."
+        },
+        {
+          "id": 7,
+          "text": "Oxygenated blood flows through which vessel?",
+          "options": [
+            "Superior vena cava",
+            "Pulmonary artery",
+            "Pulmonary veins",
+            "Coronary veins"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Only the four pulmonary veins, two from the right lung and two from the left lung, carry oxygenated blood from the lungs to the left side of the heart."
+        },
+        {
+          "id": 8,
+          "text": "Occlusion of the left anterior descending artery during a myocardial infarction would interrupt blood supply to which structures?",
+          "options": [
+            "Left and right ventricles and much of the interventricular septum",
+            "Left atrium and the lateral wall of the left ventricle",
+            "Upper right ventricle, right marginal branch, and right ventricle to the apex",
+            "Posterior interventricular sulcus and the smaller branches of both ventricles"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The left anterior descending artery (LAD), also called the anterior interventricular artery, delivers blood to portions of the left and right ventricles and much of the interventricular septum. This selection is the only option affected by the occlusion described."
+        },
+        {
+          "id": 9,
+          "text": "Occlusion of the circumflex artery during a myocardial infarction would interrupt blood supply to which area?",
+          "options": [
+            "Left and right ventricles and much of the interventricular septum",
+            "Posterior interventricular sulcus and the smaller branches of both ventricles",
+            "Upper right ventricle, right marginal branch, and right ventricle to the apex",
+            "Left atrium and the lateral wall of the left ventricle"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The circumflex artery supplies blood to the left atrium and the lateral wall of the left ventricle. The circumflex artery often branches to the posterior surfaces of the left atrium and left ventricle. This selection is the only option affected by the occlusion described."
+        },
+        {
+          "id": 10,
+          "text": "The coronary sinus empties into which cardiac structure?",
+          "options": [
+            "Right atrium",
+            "Superior vena cava",
+            "Left atrium",
+            "Aorta"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The cardiac veins empty only into the right atrium through another ostium, the opening of a large vein called the coronary sinus."
+        },
+        {
+          "id": 11,
+          "text": "What is the ratio of coronary capillaries to cardiac muscle cells?",
+          "options": [
+            "1:1 (one capillary per one muscle cell)",
+            "1:2 (one capillary per two muscle cells)",
+            "1:4 (one capillary per four muscle cells)",
+            "1:10 (one capillary per ten muscle cells)"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The heart has an extensive capillary network, with approximately 3300 capillaries per square millimeter (ca/mm2) or approximately one capillary per one muscle cell (muscle fiber)."
+        },
+        {
+          "id": 12,
+          "text": "During the cardiac cycle, which structure directly delivers action potential to the ventricular myocardium?",
+          "options": [
+            "Sinoatrial (SA) node",
+            "Purkinje fibers",
+            "Atrioventricular (AV) node",
+            "Bundle branches"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Each cardiac action potential travels from the SA node to the AV node to the bundle of His (AV bundle), through the bundle branches, and finally to the Purkinje fibers and the ventricular myocardium."
+        },
+        {
+          "id": 13,
+          "text": "What causes depolarization of a cardiac muscle cell to occur?",
+          "options": [
+            "Decrease in the permeability of the cell membrane to potassium",
+            "Rapid movement of sodium into the cell",
+            "Decrease in the movement of sodium out of the cell",
+            "Rapid movement of calcium out of the cell"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Phase 0 consists of depolarization, which lasts 1 to 2 milliseconds (ms) and represents rapid sodium entry into the cell. This selection is the only option that accurately describes the cause of cardiac muscle cell depolarization."
+        },
+        {
+          "id": 14,
+          "text": "Which event occurs during phase 1 of the normal myocardial cell depolarization and repolarization?",
+          "options": [
+            "Repolarization when potassium moves out of the cells",
+            "Repolarization when sodium rapidly enters into the cells",
+            "Early repolarization when sodium slowly enters the cells",
+            "Early repolarization when calcium slowly enters the cells"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Phase 1 is early repolarization and the only time during which calcium slowly enters the cell."
+        },
+        {
+          "id": 15,
+          "text": "Which phase of the normal myocardial cell depolarization and repolarization correlates with diastole?",
+          "options": [
+            "Phase 1",
+            "Phase 3",
+            "Phase 2",
+            "Phase 4"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Potassium is moved out of the cell during phase 3, with a return to resting membrane potential only in phase 4. The time between action potentials corresponds to diastole."
+        },
+        {
+          "id": 16,
+          "text": "In the normal electrocardiogram, what does the PR interval represent?",
+          "options": [
+            "Atrial depolarization",
+            "Ventricular depolarization",
+            "Atrial activation to onset of ventricular activity",
+            "Electrical systole of the ventricles"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The PR interval is a measure of time from the onset of atrial activation to the onset of ventricular activation; it normally ranges from 0.12 to 0.20 second. The PR interval represents the time necessary to travel from the sinus node through the atrium, the atrioventricular (AV) node, and the His–Purkinje system to activate ventricular myocardial cells. This selection is the only option that accurately describes the PR interval."
+        },
+        {
+          "id": 17,
+          "text": "What period follows depolarization of the myocardium and represents a period during which no new cardiac potential can be propagated?",
+          "options": [
+            "Refractory",
+            "Threshold",
+            "Hyperpolarization",
+            "Sinoatrial (SA)"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "During the refractory period, no new cardiac action potential can be initiated by a stimulus. This selection is the only option that accurately identifies the period described in the question."
+        },
+        {
+          "id": 18,
+          "text": "Which complex (wave) represents the sum of all ventricular muscle cell depolarizations?",
+          "options": [
+            "PRS",
+            "QT interval",
+            "QRS",
+            "P"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Only the QRS complex represents the sum of all ventricular muscle cell depolarizations."
+        },
+        {
+          "id": 19,
+          "text": "What can shorten the conduction time of action potential through the atrioventricular (AV) node?",
+          "options": [
+            "Parasympathetic nervous system",
+            "Vagal stimulation",
+            "Catecholamines",
+            "Sinoatrial node (SA)"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Catecholamines speed the heart rate, shorten the conduction time through the AV node, and increase the strength of cardiac contraction."
+        },
+        {
+          "id": 20,
+          "text": "If the sinoatrial (SA) node fails, then at what rate (depolarizations per minute) can the atrioventricular (AV) node depolarize?",
+          "options": [
+            "60 to 70",
+            "30 to 40",
+            "40 to 60",
+            "10 to 20"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "If the SA node is damaged, then the AV node will become the heart’s pacemaker at a rate of approximately 40 to 60 spontaneous depolarizations per minute."
+        },
+        {
+          "id": 21,
+          "text": "What is the effect of epinephrine on 𝗉3 receptors on the heart?",
+          "options": [
+            "Decreases coronary blood flow.",
+            "Supplements the effects of both 𝗉1 and 𝗉2 receptors.",
+            "Increases the strength of myocardial contraction.",
+            "Prevents overstimulation of the heart by the sympathetic nervous system."
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "𝗉3 receptors are found in the myocardium and coronary vessels. In the heart, stimulation of these receptors opposes the effects of 𝗉1- and 𝗉2-receptor stimulation and negative inotropic effect. Thus 𝗉3 receptors may provide a safety mechanism that decreases myocardial contractility to prevent overstimulation of the heart by the sympathetic nervous system. This selection is the only option that accurately describes the effect of epinephrine on 𝗉2 receptors on the heart."
+        },
+        {
+          "id": 22,
+          "text": "Where in the heart are the receptors for neurotransmitters located?",
+          "options": [
+            "Semilunar and atrioventricular (AV) valves",
+            "Endocardium and sinoatrial (SA) node",
+            "Myocardium and coronary vessels",
+            "Epicardium and AV node"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Sympathetic neural stimulation of the myocardium and coronary vessels depends on the presence of adrenergic receptors, which specifically bind with neurotransmitters of the sympathetic nervous system. The 𝗉1 receptors are found mostly in the heart, specifically the conduction system (AV and SA nodes, Purkinje fibers) and the atrial and ventricular myocardium, whereas the 𝗉2 receptors are found in the heart and also on vascular smooth muscle. 𝗉3 receptors are also found in the myocardium and coronary vessels. This selection is the only option that accurately identifies the location of the receptors for neurotransmitters."
+        },
+        {
+          "id": 23,
+          "text": "What enables electrical impulses to travel in a continuous cell-to-cell fashion in myocardial cells?",
+          "options": [
+            "Sarcolemma sclerotic plaques",
+            "Trabeculae carneae",
+            "Intercalated disks",
+            "Bachmann bundles"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Only intercalated disks, thickened portions of the sarcolemma, enable electrical impulses to spread quickly in a continuous cell-to-cell (syncytial) fashion."
+        },
+        {
+          "id": 24,
+          "text": "Within a physiologic range, what does an increase in left ventricular end-diastolic volume (preload) result in?",
+          "options": [
+            "Increase in force of contraction",
+            "Increase in afterload",
+            "Decrease in refractory time",
+            "Decrease in repolarization"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "This concept is expressed in the Frank-Starling law; the cardiac muscle, like other muscles, increases its strength of contraction when it is stretched. This selection is the only option that accurately describes the result of an increase in preload."
+        },
+        {
+          "id": 25,
+          "text": "Pressure in the left ventricle must exceed pressure in which structure before the left ventricle can eject blood?",
+          "options": [
+            "Superior vena cava",
+            "Inferior vena cava",
+            "Aorta",
+            "Pulmonary veins"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Pressure in the ventricle must exceed aortic pressure before blood can be pumped out during systole. The aorta is the only structure in which pressure must be less than the amount of blood in the left ventricle for ejection to occur."
+        },
+        {
+          "id": 26,
+          "text": "Continuous increases in left ventricular filing pressures result in which disorder?",
+          "options": [
+            "Mitral regurgitation",
+            "Mitral stenosis",
+            "Pulmonary edema",
+            "Jugular vein distention"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Pressure changes are important because increased left ventricular filling pressures back up into the pulmonary circulation, where they force plasma out through vessel walls, causing fluid to accumulate in lung tissues (pulmonary edema). This selection is the only option that accurately identifies the disorder described in the question."
+        },
+        {
+          "id": 27,
+          "text": "When the volume of blood in the ventricle at the end of diastole increases, the force of the myocardial contraction during the next systole will also increase, which is an example of which law or theory about the heart?",
+          "options": [
+            "Laplace’s law",
+            "Cross-bridge theory",
+            "Poiseuille law",
+            "Frank-Starling law"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "This concept is expressed only in the Frank-Starling law; the cardiac muscle, like other muscles, increases its strength of contraction when it is stretched."
+        },
+        {
+          "id": 28,
+          "text": "The resting heart rate in a healthy person is primarily under the control of which nervous system?",
+          "options": [
+            "Sympathetic",
+            "Somatic",
+            "Parasympathetic",
+            "Spinal"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The resting heart rate in healthy individuals is primarily under the control of parasympathetic stimulation. This selection is the only option that accurately identifies the nervous system responsible for the healthy resting heart."
+        },
+        {
+          "id": 29,
+          "text": "The Bainbridge reflex is thought to be initiated by sensory neurons in which cardiac location?",
+          "options": [
+            "Atria",
+            "Sinoatrial (SA) node",
+            "Aorta",
+            "Ventricles"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The Bainbridge reflex causes changes in the heart rate after intravenous infusions of blood or other fluid. The changes in heart rate are thought to be caused by a reflex mediated by volume receptors found only in the atria that are innervated by the vagus nerve."
+        },
+        {
+          "id": 30,
+          "text": "After the baroreceptor reflex is stimulated, the resulting impulse is transmitted from the carotid artery by which sequence of events?",
+          "options": [
+            "Vagus nerve to the medulla to increase parasympathetic activity and to decrease sympathetic activity",
+            "Glossopharyngeal cranial nerve through the vagus nerve to the medulla to increase sympathetic activity and to decrease parasympathetic activity",
+            "Glossopharyngeal cranial nerve through the vagus nerve to the medulla to increase parasympathetic activity and to decrease sympathetic activity",
+            "Glossopharyngeal cranial nerve through the vagus nerve to the hypothalamus to increase parasympathetic activity and to decrease sympathetic activity"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Neural impulses are transmitted over the glossopharyngeal nerve (ninth cranial nerve) from the carotid artery and through the vagus nerve from the aorta to the cardiovascular control centers in the medulla. These centers initiate an increase in parasympathetic activity and a decrease in sympathetic activity, causing blood vessels to dilate and the heart rate to decrease. This selection is the only option that accurately describes the correct sequence of events asked for in the question."
+        },
+        {
+          "id": 31,
+          "text": "Reflex control of total cardiac output and total peripheral resistance is controlled by what mechanism?",
+          "options": [
+            "Parasympathetic stimulation of the heart, arterioles, and veins",
+            "Sympathetic stimulation of the heart, arterioles, and veins",
+            "Autonomic control of the heart only",
+            "Somatic control of the heart, arterioles, and veins"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Reflex control of total cardiac output and peripheral resistance includes (1) sympathetic stimulation of the heart, arterioles, and veins; and (2) parasympathetic stimulation of the heart only. Neither autonomic nor somatic controls are involved in this process."
+        },
+        {
+          "id": 32,
+          "text": "What is the most important negative inotropic agent?",
+          "options": [
+            "Norepinephrine",
+            "Acetylcholine",
+            "Epinephrine",
+            "Dopamine"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Chemicals affecting contractility are called inotropic agents. The most important negative inotropic agent is acetylcholine released from the vagus nerve. The most important positive inotropic agents produced by the body are norepinephrine released from the sympathetic nerves that supply the heart and epinephrine released by the adrenal cortex. Other positive inotropes include thyroid hormone and dopamine. Many medications have positive or negative inotropic properties that can have profound effects on cardiac function. This selection is the only option that accurately identifies the regulation that is involved in the described process."
+        },
+        {
+          "id": 33,
+          "text": "The right lymphatic duct drains into which structure?",
+          "options": [
+            "Right subclavian artery",
+            "Right subclavian vein",
+            "Right atrium",
+            "Superior vena cava"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The right lymphatic duct drains lymph only into the right subclavian vein."
+        },
+        {
+          "id": 34,
+          "text": "Where is the major cardiovascular center in the central nervous system?",
+          "options": [
+            "Frontal lobe",
+            "Brainstem",
+            "Thalamus",
+            "Hypothalamus"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The major cardiovascular control center is in the brainstem in the medulla with secondary areas in the hypothalamus, the cerebral cortex, the thalamus, and the complex networks of exciting or inhibiting interneurons (connecting neurons) throughout the brain. This selection is the only option that accurately identifies the cardiovascular control center."
+        },
+        {
+          "id": 35,
+          "text": "What is the major determinant of the resistance that blood encounters as it flows through the systemic circulation?",
+          "options": [
+            "Volume of blood in the systemic circulation",
+            "Muscle layer of the metarterioles",
+            "Muscle layer of the arterioles",
+            "Force of ventricular contraction"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Of the options available, only the thick, smooth muscle layer of the arterioles is a major determinant of the resistance blood encounters as it flows through the systemic circulation."
+        },
+        {
+          "id": 36,
+          "text": "Which function of the cardiovascular system is often affected by ischemia?",
+          "options": [
+            "Cardiac output (CO)",
+            "Heart rate (HR)",
+            "Stroke volume (SV)",
+            "Cardiac index (CI)"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Common causes of an abnormal heart rate include ischemia, electrolyte imbalance, and drug toxicity. The other options are related to vascular resistance changes."
+        },
+        {
+          "id": 37,
+          "text": "What physical sign is the result of turbulent blood flow through a vessel?",
+          "options": [
+            "Increased blood pressure during periods of stress",
+            "Bounding pulse felt on palpation",
+            "Cyanosis observed on excretion",
+            "Murmur heard on auscultation"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Where flow is obstructed, the vessel turns or blood flows over rough surfaces. The flow becomes turbulent with whorls or eddy currents that produce noise, causing a murmur to be heard on auscultation, such as occurs during blood pressure measurement with a sphygomanometer. This selection is the only option that accurately identifies the physical sign of turbulent vascular blood flow."
+        },
+        {
+          "id": 38,
+          "text": "What is the major effect of a calcium channel blocker such as verapamil on cardiac contractions?",
+          "options": [
+            "Increases the rate of cardiac contractions.",
+            "Decreases the strength of cardiac contractions.",
+            "Stabilizes the rhythm of cardiac contractions.",
+            "Stabilizes the vasodilation during cardiac contractions."
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The L-type, or long-lasting, channels are the predominant type of calcium channels and are the channels blocked by calcium channel–blocking drugs (verapamil, nifedipine, diltiazem). The major effect of these medications is to decrease the strength of cardiac contraction. This selection is the only option that accurately identifies the effect of a calcium channel blocker on the cardiac contractions."
+        },
+        {
+          "id": 39,
+          "text": "An early diastole peak caused by filling of the atrium from peripheral veins is identified by which intracardiac pressure?",
+          "options": [
+            "A wave",
+            "C wave",
+            "V wave",
+            "X descent"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The V wave is an early diastolic peak caused by the filling of the atrium from the peripheral veins. This event is not identified by any of the other options."
+        },
+        {
+          "id": 40,
+          "text": "Which intracardiac pressure is generated by the atrial contraction?",
+          "options": [
+            "A wave",
+            "Y descent",
+            "C wave",
+            "X descent"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Atrial pressure curves are made up of only the A wave, which is generated by atrial contraction."
+        },
+        {
+          "id": 41,
+          "text": "Which intracardiac pressure is produced because of the descent of the tricuspid valve ring and by the ejection of blood from both ventricles?",
+          "options": [
+            "V wave",
+            "Y descent",
+            "C wave",
+            "X descent"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The X descent follows an A wave and is produced because of the descent of the tricuspid valve ring and by the ejection of blood from both ventricles."
+        }
+      ],
+      "mismatched_content": []
+    },
+    "34": {
+      "chapter": 34,
+      "docx_question_count": 0,
+      "json_question_count": 22,
+      "matches": [],
+      "missing_from_json": [],
+      "extra_in_json": [
+        {
+          "id": 1,
+          "text": "Most cardiovascular developments occur between which weeks of gestation?",
+          "options": [
+            "Fourth and seventh weeks",
+            "Twelfth and fourteenth weeks",
+            "Eighth and tenth weeks",
+            "Fifteenth and seventeenth weeks"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Cardiogenesis begins at approximately 3 weeks’ gestation; however, most cardiovascular development occurs between 4 and 7 weeks’ gestation."
+        },
+        {
+          "id": 2,
+          "text": "The function of the foramen ovale in a fetus allows what to occur?",
+          "options": [
+            "Right-to-left blood shunting",
+            "Blood flow from the umbilical cord",
+            "Left-to-right blood shunting",
+            "Blood flow to the lungs"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The nonfused septum secundum and ostium secundum result in the formation of a flapped orifice known as the foramen ovale, which allows the right-to-left shunting necessary for fetal circulation. The foramen ovale is not involved in the blood flow described by the other options."
+        },
+        {
+          "id": 3,
+          "text": "At birth, which statement is true?",
+          "options": [
+            "Systemic resistance and pulmonary resistance fall.",
+            "Gas exchange shifts from the placenta to the lung.",
+            "Systemic resistance falls and pulmonary resistance rises.",
+            "Systemic resistance and pulmonary resistance rise."
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "From the available options, the only change that takes place in the circulation at birth is the shift of gas exchange from the placenta to the lungs."
+        },
+        {
+          "id": 4,
+          "text": "When does systemic vascular resistance in infants begin to increase?",
+          "options": [
+            "One month before birth",
+            "During the beginning stage of labor",
+            "One hour after birth",
+            "Once the placenta is removed from circulation"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The low-resistance placenta is removed from circulation, which causes an immediate increase in systemic vascular resistance to approximately twice of that before birth."
+        },
+        {
+          "id": 5,
+          "text": "Which event triggers congenital heart defects that cause acyanotic congestive heart failure?",
+          "options": [
+            "Right-to-left shunts",
+            "Obstructive lesions",
+            "Left-to-right shunts",
+            "Mixed lesions"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Congenital heart defects that cause acyanotic congestive heart failure usually involve left-to-right shunts (see Table 33-4). Acyanotic congestive heart failure does not involve any of the other options."
+        },
+        {
+          "id": 6,
+          "text": "Older children with an unrepaired cardiac septal defect experience cyanosis because of which factor?",
+          "options": [
+            "Right-to-left shunts",
+            "Obstructive lesions",
+            "Left-to-right shunts",
+            "Mixed lesions"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Older children who have an unrepaired septal defect with a left-to-right shunt may become cyanotic because of pulmonary vascular changes secondary to increased pulmonary blood flow. None of the other options accurately describe the process that results in cyanosis."
+        },
+        {
+          "id": 7,
+          "text": "Which congenital heart defects occur in trisomy 13, trisomy 18, and Down syndrome?",
+          "options": [
+            "Coarctation of the aorta (COA) and pulmonary stenosis (PS)",
+            "Tetralogy of Fallot and persistent truncus arteriosus",
+            "Atrial septal defect (ASD) and dextrocardia",
+            "Ventricular septal defect (VSD) and patent ductus arteriosus (PDA)"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Congenital heart defects that are related to dysfunction of trisomy 13, trisomy 18, and Down syndrome include VSD and PDA (see Table 33-2). The other defects are not associated with dysfunction of trisomy 13, trisomy 18, and Down syndrome."
+        },
+        {
+          "id": 8,
+          "text": "An infant has a continuous machine-type murmur best heard at the left upper sternal border throughout systole and diastole, as well as a bounding pulse and a thrill on palpation. These clinical findings are consistent with which congenital heart defect?",
+          "options": [
+            "Atrial septal defect (ASD)",
+            "Patent ductus arteriosus (PDA)",
+            "Ventricular septal defect (VSD)",
+            "Atrioventricular canal (AVC) defect"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "If pulmonary vascular resistance has fallen, then infants with PDA will characteristically have a continuous machine-type murmur best heard at the left upper sternal border throughout systole and diastole. If the PDA is significant, then the infant also will have bounding pulses, an active precordium, a thrill on palpation, and signs and symptoms of pulmonary overcirculation. The presentations of the other congenital heart defects are not consistent with the described the symptoms."
+        },
+        {
+          "id": 9,
+          "text": "An infant has a crescendo-decrescendo systolic ejection murmur located between the second and third intercostal spaces along the left sternal border. A wide fixed splitting of the second heart sound is also found. These clinical findings are consistent with which congenital heart defect?",
+          "options": [
+            "Atrial septal defect (ASD)",
+            "Patent ductus arteriosus (PDA)",
+            "Ventricular septal defect (VSD)",
+            "Atrioventricular canal (AVC) defect"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Because most children with ASD are asymptomatic, diagnosis is usually made during a routine physical examination by the auscultation of a crescendo-decrescendo systolic ejection murmur that reflects increased blood flow through the pulmonary valve. The location of the murmur is between the second and third intercostal spaces along the left sternal border. A wide fixed splitting of the second heart sound is also characteristic of ASD, reflecting volume overload to the right ventricle and causing prolonged ejection time and a delay of pulmonic valve closure. The presentations of other congenital heart defects are not consistent with the described symptoms."
+        },
+        {
+          "id": 10,
+          "text": "An infant has a loud, harsh, holosystolic murmur and systolic thrill that can be detected at the left lower sternal border that radiates to the neck. These clinical findings are consistent with which congenital heart defect?",
+          "options": [
+            "Atrial septal defect (ASD)",
+            "Patent ductus arteriosus (PDA)",
+            "Ventricular septal defect (VSD)",
+            "Atrioventricular canal (AVC) defect"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "On physical examination, a loud, harsh, holosystolic murmur and systolic thrill can be detected at the left lower sternal border. The intensity of the murmur reflects the pressure gradient across the VSD. An apical diastolic rumble may be present with a large left-to-right shunt."
+        },
+        {
+          "id": 11,
+          "text": "Where can coarctation of the aorta (COA) be located?",
+          "options": [
+            "Exclusively on the aortic arch",
+            "Proximal to the brachiocephalic artery",
+            "Between the origin of the aortic arch and the bifurcation of the aorta in the lower abdomen",
+            "Between the origin of the aortic arch and the origin of the first intercostal artery"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "COA can occur anywhere between the origin of the aortic arch and the bifurcation of the aorta in the lower abdomen. The other options do not accurately describe the location of a COA."
+        },
+        {
+          "id": 12,
+          "text": "Classic manifestations of a systolic ejection murmur heard at the left interscapular area, cool mottled skin on the lower extremities but hypertension noted in the upper extremities, and decreased or absent femoral pulse are indicative of an older child with which congenital defect?",
+          "options": [
+            "Tetralogy of Fallot",
+            "Ventricular septum defect (SD)",
+            "Aortic stenosis",
+            "Coarctation of the aorta (OA)"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Clinical manifestations of coarctation of the aorta include hypertension noted in the upper extremities with decreased or absent pulses in the lower extremities. Children may also have cool mottled skin and occasionally experience leg cramps during exercise. A systolic ejection murmur, heard best at the left interscapular area, is also considered a classic clinical manifestation of this disorder. The other options are not initially associated with these symptoms."
+        },
+        {
+          "id": 13,
+          "text": "What is the initial manifestation of aortic coarctation observed in a neonate?",
+          "options": [
+            "Congestive heart failure (CHF)",
+            "Pulmonary hypertension",
+            "Cor pulmonale",
+            "Cerebral hypertension"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Initially, the newborn usually exhibits symptoms of CHF. The other options are not initially associated with aortic coarctation."
+        },
+        {
+          "id": 14,
+          "text": "Which compensatory mechanism is spontaneously used by children diagnosed with tetralogy of Fallot to relieve hypoxic spells?",
+          "options": [
+            "Lying on their left side",
+            "Squatting",
+            "Performing the Valsalva maneuver",
+            "Hyperventilating"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Squatting is a spontaneous compensatory mechanism used by older children to alleviate hypoxic spells. Squatting and its variants increase systemic resistance while decreasing venous return to the heart from the inferior vena cava. The other options would not result in these changes."
+        },
+        {
+          "id": 15,
+          "text": "An infant diagnosed with a small patent ductus arteriosus (PDA) would likely exhibit which symptom?",
+          "options": [
+            "Intermittent murmur",
+            "Need for surgical repair",
+            "Lack of symptoms",
+            "Triad of congenital defects"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Infants with a small PDA usually remain asymptomatic; the other options are incorrect."
+        },
+        {
+          "id": 16,
+          "text": "What is the most common cause of chronic sustained hypertension observed only in a newborn?",
+          "options": [
+            "Renal parenchymal disease",
+            "Renal artery stenosis",
+            "Primary hypertension",
+            "Congenital renal malformation"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Congenital renal malformation is a cause of chronic sustained hypertension in a newborn. Although renal artery stenosis is observed in newborns, it is also observed in older children. Renal parenchymal disease and primary hypertension are commonly observed in older children diagnosed with chronic sustained hypertension."
+        },
+        {
+          "id": 17,
+          "text": "Which condition is consistent with the cardiac defect of transposition of the great vessels?",
+          "options": [
+            "The aorta arises from the right ventricle.",
+            "The pulmonary trunk arises from the right ventricle.",
+            "The right ventricle pumps blood to the lungs.",
+            "An intermittent murmur is present."
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Transposition of the great arteries refers to a condition in which the aorta arises from the right ventricle and the pulmonary artery arises from the left ventricle. A transposition of the great vessels is not associated with any of the other options."
+        },
+        {
+          "id": 18,
+          "text": "Which scenario describes total anomalous pulmonary venous return?",
+          "options": [
+            "The foramen ovale closes after birth.",
+            "Pulmonary venous return is to the right atrium.",
+            "Pulmonary venous return is to the leftatrium.",
+            "The left atrium receives oxygenated blood."
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Total anomalous pulmonary venous return occurs when the pulmonary veins abnormally connect to the right side of the heart either directly or through one or more systemic veins that drain into the right atrium. None of the other options accurately describe the presentation of a total anomalous pulmonary venous return."
+        },
+        {
+          "id": 19,
+          "text": "Which heart defect produces a systolic ejection murmur at the right upper sternal border that transmits to the neck and left lower sternal border?",
+          "options": [
+            "Coarctation of the aorta",
+            "Aortic stenosis",
+            "Pulmonic stenosis",
+            "Hypoplastic left heart syndrome"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Blood flow through the stenotic area of the aorta produces a systolic ejection murmur at the right upper sternal border that transmits to the neck and left lower sternal border. None of the other options produce the described assessment findings."
+        },
+        {
+          "id": 20,
+          "text": "Which heart defect produces a systolic ejection click at the upper left sternal border with a thrill palpated at the upper left sternal border?",
+          "options": [
+            "Coarctation of the aorta (COA)",
+            "Aortic stenosis",
+            "Pulmonary stenosis (PS)",
+            "Hypoplastic left heart syndrome"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "PS results in a systolic ejection murmur at the left upper sternal border, reflecting an obstruction to flow through the narrowed pulmonary valve. A variable systolic ejection click is present in some children, as well as valvular stenosis at the upper left sternal border. PS also produces a thrill that may be palpated at the upper left sternal border. None of the other options produce the described assessment findings."
+        },
+        {
+          "id": 21,
+          "text": "What is the suggested mean blood pressure for an 8- to 9-year-old child?",
+          "options": [
+            "104/55 mm Hg",
+            "112/62 mm Hg",
+            "106/58 mm Hg",
+            "121/70 mm Hg"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The suggested mean blood pressure for an 8- to 9- year-old child is 106/58 mm Hg. For a child of 6 to 7 years old, 104/55 mm Hg is appropriate; for a 12- to 13-year-old child, 112/62 mm Hg is appropriate, and for a 16- to 18-year-old young man, 121/70 mm Hg is appropriate."
+        },
+        {
+          "id": 22,
+          "text": "What congenital heart defects are associated with intrauterine exposure to rubella? (Select all that apply.)",
+          "options": [
+            "Pulmonary stenosis (PS)",
+            "Cardiomegaly",
+            "Patent ductus arteriosus (PDA)",
+            "Coarctation of the aorta (COA)"
+          ],
+          "correct": [
+            0,
+            2,
+            3
+          ],
+          "rationale": "PS, PDA, and COA are congenital heart defects associated with intrauterine exposure to rubella. Cardiomegaly and VSD are associated with maternal diabetes."
+        }
+      ],
+      "mismatched_content": []
+    },
+    "35": {
+      "chapter": 35,
+      "docx_question_count": 0,
+      "json_question_count": 39,
+      "matches": [],
+      "missing_from_json": [],
+      "extra_in_json": [
+        {
+          "id": 1,
+          "text": "What pulmonary defense mechanism propels a mucous blanket that entraps particles moving toward the oropharynx?",
+          "options": [
+            "Nasal turbinates",
+            "Cilia",
+            "Alveolar macrophages",
+            "Irritant receptors on the nares"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The submucosal glands of the bronchial lining produce mucus, contributing to the mucous blanket that covers the bronchial epithelium. The ciliated epithelial cells rhythmically beat this mucous blanket toward the trachea and pharynx, where it can be swallowed or expectorated by coughing. This selection is the only option that accurately identifies the pulmonary defense mechanism described."
+        },
+        {
+          "id": 2,
+          "text": "Which term is used to identify the movement of gas and air into and out of the lungs?",
+          "options": [
+            "Perfusion",
+            "Respiration",
+            "Ventilation",
+            "Diffusion"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Of the options available, ventilation is the only term used to identify the mechanical movement of gas or air into and out of the lungs."
+        },
+        {
+          "id": 3,
+          "text": "When an individual aspirates food particles, where would the nurse expect to hear decreased or absent breath sounds?",
+          "options": [
+            "Left lung",
+            "Trachea",
+            "Right lung",
+            "Carina"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The right mainstem bronchus extends from the trachea more vertically than the left main bronchus; therefore aspirated fluids or foreign particles tend to enter the right lung rather than the left or any of the other locations listed."
+        },
+        {
+          "id": 4,
+          "text": "Air passage among alveoli is collateral and evenly distributed because of the function of which structures?",
+          "options": [
+            "Type I alveolar cells",
+            "Acinus pores",
+            "Pores of Kohn",
+            "Alveolar pores"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Tiny passages called pores of Kohn permit some air to pass through the septa from alveolus to alveolus, promoting collateral ventilation and even distribution of air among the alveoli. This selection is the only option that accurately describes the function that allows air passage among alveoli."
+        },
+        {
+          "id": 5,
+          "text": "Where in the lung does gas exchange occur?",
+          "options": [
+            "Trachea",
+            "Alveolocapillary membrane",
+            "Segmental bronchi",
+            "Main bronchus"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Gas exchange occurs only across the alveolocapillary membrane."
+        },
+        {
+          "id": 6,
+          "text": "Surfactant produced by type II alveolar cells facilitates alveolar distention and ventilation by which mechanism?",
+          "options": [
+            "Decreasing thoracic compliance",
+            "Attracting water to the alveolar surface",
+            "Decreasing surface tension in the alveoli",
+            "Increasing surface tension in the alveoli"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Surfactant, a lipoprotein produced by type II alveolar cells, has a detergent-like effect that separates the liquid molecules, thereby decreasing alveolar surface tension. This selection is the only option that accurately describes the mechanism that allows surfactant to facilitate alveolar distention and ventilation."
+        },
+        {
+          "id": 7,
+          "text": "Which part of the brainstem provides basic automatic rhythm of respiration by sending efferent impulses to the diaphragm and intercostal muscles?",
+          "options": [
+            "Dorsal respiratory group (DRG)",
+            "Pneumotaxic center",
+            "Ventral respiratory group",
+            "Apneustic center"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The basic automatic rhythm of respiration is set by the DRG, a cluster of inspiratory nerve cells located in the medulla that sends efferent impulses to the diaphragm and inspiratory intercostal muscles. This selection is the only option that accurately identifies the appropriate brainstem location."
+        },
+        {
+          "id": 8,
+          "text": "Which structures secrete surfactant?",
+          "options": [
+            "Type I alveolar cells",
+            "Alveolar macrophages",
+            "Type II alveolar cells",
+            "Stretch receptors"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Two major types of epithelial cells appear in the alveolus. Type I alveolar cells provide structure, and type II alveolar cells secrete surfactant, a lipoprotein that coats the inner surface of the alveolus and facilitates its expansion during inspiration, lowers alveolar surface tension at end-expiration, and thereby prevents lung collapse. Neither alveolar macrophages nor stretch receptors secrete surfactant."
+        },
+        {
+          "id": 9,
+          "text": "Which structure is not associated with any lymphatic vessels?",
+          "options": [
+            "Trachea",
+            "Acinus",
+            "Bronchi",
+            "Terminal bronchioles"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "No lymphatic structures are located in the acinus. The other options are associated with lymphatic vessels."
+        },
+        {
+          "id": 10,
+          "text": "Which describes the pressure in the pleural space?",
+          "options": [
+            "Atmospheric",
+            "Above atmospheric",
+            "Below atmospheric",
+            "Variable"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Pressure in the pleural space is usually negative or subatmospheric (-4 to -10 mm Hg). This selection is the only option that accurately describes pleural space pressure."
+        },
+        {
+          "id": 11,
+          "text": "The adequacy of a person’s alveolar ventilation is assessed best by monitoring which mechanism?",
+          "options": [
+            "Ventilatory rate",
+            "Respiratory effort",
+            "Ventilatory pattern",
+            "Arterial blood gas"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Observation of the ventilatory rate, pattern, or effort cannot determine the adequacy of alveolar ventilation. If a health care professional needs to determine the adequacy of ventilation, then an arterial blood gas analysis must be performed to measure partial pressure of arterial carbon dioxide (PaCO2)."
+        },
+        {
+          "id": 12,
+          "text": "Which normal physiologic change occurs in the aging pulmonary system?",
+          "options": [
+            "Decreased flow resistance",
+            "Stiffening of the chest wall",
+            "Fewer alveoli",
+            "Improved elastic recoil"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Normal alterations include (1) loss of elastic recoil, (2) stiffening of the chest wall, (3) alterations in gas exchange, and (4) increases in flow resistance (see Figure 34-18). The number of alveoli is not affected by age."
+        },
+        {
+          "id": 13,
+          "text": "How is most of the oxygen in the blood transported?",
+          "options": [
+            "Dissolved in plasma",
+            "In the form of carbon dioxide (CO2)",
+            "Bound to hemoglobin",
+            "Bound to protein"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Oxygen is transported in the blood in two forms. A small amount dissolves in plasma, and the remainder binds to hemoglobin molecules. The other options are not involved in this process."
+        },
+        {
+          "id": 14,
+          "text": "Which substances cause airway epithelium to constrict?",
+          "options": [
+            "Epinephrine and acetylcholine",
+            "Bradykinin and thromboxane A",
+            "Histamine and prostaglandin",
+            "Leukotrienes and prostacyclin"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Constriction occurs if the irritant receptors in the airway epithelium are stimulated by irritants in inspired air, by endogenous substances (e.g., histamine, serotonin, prostaglandins), by many drugs, and by humoral substances. Of the options available, only histamine and prostaglandin cause constriction."
+        },
+        {
+          "id": 15,
+          "text": "If a patient develops acidosis, the nurse would expect the oxyhemoglobin dissociation curve to react in which manner?",
+          "options": [
+            "Shift to the right, causing more oxygen (O2) to be released to the cells",
+            "Shift to the left, allowing less O2 to be released to the cells",
+            "Show no change, allowing the O2 concentration to remain stable",
+            "Show dramatic fluctuation, allowing the O2 concentration to increase"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "A shift to the right depicts hemoglobin’s decreased affinity for O2 or an increase in the ease with which oxyhemoglobin dissociates and O2 moves into the cells. The oxyhemoglobin dissociation curve is shifted to the right by acidosis (low pH) and hypercapnia (increased partial pressure of arterial carbon dioxide [PaCO2]). This selection is the only option that accurately identifies what will happen to the oxyhemoglobin dissociation curve if acidosis occurs."
+        },
+        {
+          "id": 16,
+          "text": "How is most carbon dioxide (CO2) in the blood transported?",
+          "options": [
+            "Attached to oxygen",
+            "Combined with albumin",
+            "In the form of bicarbonate",
+            "Dissolved in the plasma"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Approximately 60% of the CO2 in venous blood and 90% of the CO2 in arterial blood are carried in the form of bicarbonate."
+        },
+        {
+          "id": 17,
+          "text": "The sternocleidomastoid and scalene muscles are referred to as which group?",
+          "options": [
+            "Diaphragmatic muscles",
+            "Intercostal muscles",
+            "Muscles of expiration",
+            "Muscles of inspiration"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The accessory muscles of inspiration are the sternocleidomastoid and scalene muscles. These muscles are not associated with the other options."
+        },
+        {
+          "id": 18,
+          "text": "An increase in surface tension caused by decreased surfactant production results in which alteration?",
+          "options": [
+            "Decrease in alveolar macrophage production",
+            "Increase in lung compliance",
+            "Decrease in alveoli collapse",
+            "Increase in alveoli fluid collection"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The decrease in surface tension caused by surfactant is also responsible for keeping the alveoli free of fluid. In the absence of surfactant, the surface tension tends to attract fluid into the alveoli. If surfactant production is disrupted or surfactant is not produced in adequate quantities, then the alveolar surface tension increases, causing alveolar collapse, decreased lung expansion, increased work of breathing, and severe gas-exchange abnormalities. The decrease in surface tension caused by surfactant is also responsible for keeping the alveoli free of fluid. The remaining options are not associated with decreased surfactant production."
+        },
+        {
+          "id": 19,
+          "text": "Decreased lung compliance means that the lungs are demonstrating which characteristic?",
+          "options": [
+            "Difficult deflation",
+            "Stiffness",
+            "Easy inflation",
+            "Inability to diffuse oxygen"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "A decrease in compliance indicates that the lungs or chest wall is abnormally stiff or difficult to inflate. This selection is the only option that accurately identifies the meaning of decreased compliance."
+        },
+        {
+          "id": 20,
+          "text": "The lung is innervated by the parasympathetic nervous system via which nerve?",
+          "options": [
+            "Vagus",
+            "Brachial",
+            "Phrenic",
+            "Pectoral"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Fibers of the parasympathetic division of the autonomic nervous system (ANS) travel only in the vagus nerve to the lung."
+        },
+        {
+          "id": 21,
+          "text": "What event is characteristic of the function in Zone 1 of the lung?",
+          "options": [
+            "Blood flow through the pulmonary capillary bed increases in regular increments.",
+            "Alveolar pressure is greater than venous pressure but not greater than arterial pressure.",
+            "The capillary bed collapses, and normal blood flow ceases.",
+            "Blood flows through Zone 1, but it is impeded to a certain extent by alveolar pressure."
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Alveolar pressure exceeds pulmonary arterial and venous pressures in Zone 1. The capillary bed collapses, and normal blood flow ceases. Zone II is the portion where alveolar pressure is greater than venous pressure but not greater than arterial pressure. Blood flows through zone II, but it is impeded to a certain extent by alveolar pressure. Zone II is normally above the level of the left atrium. In zone III, arterial and venous pressures are greater than alveolar pressure and blood flow is not affected by alveolar pressure. Zone III is in the base of the lung. Blood flow through the pulmonary capillary bed increases in regular increments from the apex to the base."
+        },
+        {
+          "id": 22,
+          "text": "Hypoventilation that results in the retention of carbon dioxide will stimulate which receptors in an attempt to maintain a normal homeostatic state?",
+          "options": [
+            "Irritant receptors",
+            "Peripheral chemoreceptors",
+            "Central chemoreceptors",
+            "Stretch receptors"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Central chemoreceptors indirectly monitor arterial blood by sensing changes in the pH of cerebrospinal fluid (CSF). The central chemoreceptors are sensitive to very small changes in the pH of CSF (equivalent to a 1 to 2 mm Hg change in partial pressure of carbon dioxide [PCO2]) and are able to maintain a normal partial pressure of arterial carbon dioxide (PaCO2) under many different conditions, including strenuous exercise. This selection is the only option that accurately identifies the receptors that are associated with the retention of carbon dioxide."
+        },
+        {
+          "id": 23,
+          "text": "What is the most important cause of pulmonary artery constriction?",
+          "options": [
+            "Low alveolar partial pressure of arterial oxygen (PaO2)",
+            "Hyperventilation",
+            "Respiratory alkalosis",
+            "Epinephrine"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The most important cause of pulmonary artery constriction is a low alveolar PaO2."
+        },
+        {
+          "id": 24,
+          "text": "Where does the tracheal bifurcation occur?",
+          "options": [
+            "Larynx",
+            "Carina",
+            "Bronchi",
+            "Nasopharynx"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The trachea, which is supported by U-shaped cartilage, connects the larynx to the bronchi, the conducting airways of the lungs. The trachea divides into the two main airways, or bronchi, at the carina (see Figure 34-1). The division occurs only at the carina."
+        },
+        {
+          "id": 25,
+          "text": "How low must the partial pressure of arterial oxygen (PaO2) drop before the peripheral chemoreceptors influence ventilation?",
+          "options": [
+            "Below 100 mm Hg",
+            "Below 70 mm Hg",
+            "Below 80 mm Hg",
+            "Below 60 mm Hg"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "The PaO2 must drop well below normal (to approximately 60 mm Hg) before the peripheral chemoreceptors have much influence on ventilation."
+        },
+        {
+          "id": 26,
+          "text": "Which receptors are located in the smooth muscles of airways?",
+          "options": [
+            "Central chemoreceptors",
+            "Peripheral chemoreceptors",
+            "Stretch receptors",
+            "J-receptors"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Of the options available, only the stretch receptors are located in the smooth muscles of airways."
+        },
+        {
+          "id": 27,
+          "text": "Which receptors are located near the respiratory center?",
+          "options": [
+            "Peripheral chemoreceptors",
+            "Central chemoreceptors",
+            "Stretch receptors",
+            "J-receptors"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Of the options available, only the central chemoreceptors are located near the respiratory center."
+        },
+        {
+          "id": 28,
+          "text": "Which receptors are located in the aortic bodies, aortic arch, and carotid bodies?",
+          "options": [
+            "Central chemoreceptors",
+            "J-receptors",
+            "Stretch receptors",
+            "Peripheral chemoreceptors"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Of the options available, only the peripheral chemoreceptors are located in the aortic bodies, aortic arch, and carotid bodies at the bifurcation of the carotids, near the baroreceptors."
+        },
+        {
+          "id": 29,
+          "text": "What is the purpose of the spirometry measurement?",
+          "options": [
+            "To evaluate the cause of hypoxia",
+            "To measure the volume and flow rate during forced expiration",
+            "To measures the gas diffusion rate at the alveolocapillary membrane",
+            "To determine pH and oxygen and carbon dioxide concentrations"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Spirometry measures volume and flow rate during forced expiration. The alveolar-arterial oxygen gradient is used to evaluate the cause of hypoxia. Diffusing capacity is a measure of the gas diffusion rate at the alveolocapillary membrane. Arterial blood gas analysis can be used to determine pH and oxygen and carbon dioxide concentrations."
+        },
+        {
+          "id": 30,
+          "text": "Regarding the respiratory process referred to as remodeling, which statements are true? (Select all that apply.)",
+          "options": [
+            "Remodeling involves the vascular walls.",
+            "Scarring and thickening occurs during this respiratory process.",
+            "Remodeling results in a permanent change.",
+            "Remodeling is a reversible process."
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "Remodeling is a process by which the vascular wall becomes scarred and thickened, thus resulting in permanent decreases in luminal diameter, increased resistance to blood flow, and permanent pulmonary artery hypertension."
+        },
+        {
+          "id": 31,
+          "text": "What are the effects of aging on the pulmonary system? (Select all that apply.)",
+          "options": [
+            "Decreased chest wall compliance",
+            "Decreased lung recoil",
+            "Reduced ventilatory reserve",
+            "Decreased partial pressure of arterial oxygen (PaO2)"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rationale": "Aging affects the mechanical aspects of ventilation by decreasing chest wall compliance and elastic recoil of the lungs. Changes in these elastic properties reduce ventilatory reserve. Aging causes the PaO2 to decrease but does not affect the partial pressure of arterial carbon dioxide (PaCO2) or respiratory rate."
+        },
+        {
+          "id": 32,
+          "text": "What is the normal respiratory rate for an adult at rest?",
+          "options": [
+            "8-10 breaths per minute",
+            "12-20 breaths per minute",
+            "25-30 breaths per minute",
+            "35-40 breaths per minute"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The normal respiratory rate for adults at rest is 12-20 breaths per minute. Rates below 12 indicate bradypnea, while rates above 20 indicate tachypnea."
+        },
+        {
+          "id": 33,
+          "text": "Which muscle is the primary muscle of inspiration?",
+          "options": [
+            "External intercostals",
+            "Diaphragm",
+            "Sternocleidomastoid",
+            "Internal intercostals"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The diaphragm is the primary muscle of inspiration. When it contracts, it moves downward, increasing the thoracic cavity volume and creating negative pressure that draws air into the lungs."
+        },
+        {
+          "id": 34,
+          "text": "What percentage of oxygen in arterial blood is dissolved in plasma?",
+          "options": [
+            "1.5%",
+            "15%",
+            "50%",
+            "98.5%"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Only about 1.5% of oxygen in arterial blood is dissolved in plasma. The remaining 98.5% is bound to hemoglobin in red blood cells."
+        },
+        {
+          "id": 35,
+          "text": "Which condition would cause a leftward shift in the oxyhemoglobin dissociation curve?",
+          "options": [
+            "Increased temperature",
+            "Decreased pH (acidosis)",
+            "Increased pH (alkalosis)",
+            "Increased 2,3-DPG"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "A leftward shift in the oxyhemoglobin dissociation curve indicates increased hemoglobin affinity for oxygen. This occurs with increased pH (alkalosis), decreased temperature, decreased 2,3-DPG, and decreased CO2."
+        },
+        {
+          "id": 36,
+          "text": "What is the primary function of the conducting zone of the respiratory system?",
+          "options": [
+            "Gas exchange",
+            "Air filtration and humidification",
+            "Oxygen production",
+            "Blood oxygenation"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The conducting zone (trachea, bronchi, bronchioles) functions to filter, warm, and humidify inspired air while conducting it to the respiratory zone. No gas exchange occurs in the conducting zone."
+        },
+        {
+          "id": 37,
+          "text": "Which factor does NOT affect pulmonary vascular resistance?",
+          "options": [
+            "Alveolar oxygen tension",
+            "pH of blood",
+            "Cardiac output",
+            "Lung volume"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Cardiac output does not directly affect pulmonary vascular resistance. Pulmonary vascular resistance is influenced by alveolar oxygen tension, blood pH, lung volume, and various vasoactive substances, but not by cardiac output itself."
+        },
+        {
+          "id": 38,
+          "text": "What is the anatomical dead space in a healthy adult?",
+          "options": [
+            "50 mL",
+            "150 mL",
+            "350 mL",
+            "500 mL"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The anatomical dead space in a healthy adult is approximately 150 mL. This represents the volume of the conducting airways where no gas exchange occurs."
+        },
+        {
+          "id": 39,
+          "text": "Which factors regulate the respiratory center in the medulla? (Select all that apply.)",
+          "options": [
+            "Arterial PCO2",
+            "Arterial PO2",
+            "pH of cerebrospinal fluid",
+            "Blood glucose levels"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "The respiratory center in the medulla is primarily regulated by arterial PCO2 (most important), arterial PO2 (when severely low), and pH of cerebrospinal fluid (reflects CO2 levels). Blood glucose levels do not directly regulate respiration."
+        }
+      ],
+      "mismatched_content": []
+    },
+    "37": {
+      "chapter": 37,
+      "docx_question_count": 0,
+      "json_question_count": 18,
+      "matches": [],
+      "missing_from_json": [],
+      "extra_in_json": [
+        {
+          "id": 1,
+          "text": "How does chest wall compliance in an infant differ from that of an adult?",
+          "options": [
+            "a. An adult's chest wall compliance is lower than an infant's.",
+            "b. An adult's chest wall compliance is higher than an infant's.",
+            "c. An adult's chest wall compliance is the same as an infant's.",
+            "d. An adult's chest wall compliance is dissimilar to that of an infant's."
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Chest wall compliance is higher in infants than it is in adults, particularly in premature infants."
+        },
+        {
+          "id": 2,
+          "text": "Why is nasal congestion a serious threat to young infants?",
+          "options": [
+            "a. Infants are obligatory nose breathers.",
+            "b. Their noses are small in diameter.",
+            "c. Infants become dehydrated when mouth breathing.",
+            "d. Their epiglottis is proportionally greater than the epiglottis of an adult's."
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Infants up to 2 to 3 months of age are obligatory nose breathers and are unable to breathe in through their mouths. Nasal congestion is therefore a serious threat to a young infant. This selection is the only option that accurately describes why nasal congestion is a serious threat to young infants."
+        },
+        {
+          "id": 3,
+          "text": "Which type of croup is most common?",
+          "options": [
+            "a. Bacterial",
+            "b. Fungal",
+            "c. Viral",
+            "d. Autoimmune"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "In 85% of children with croup, a virus is the cause, most commonly parainfluenza. However, other viruses such as influenza A or respiratory syncytial virus (RSV) also can cause croup."
+        },
+        {
+          "id": 4,
+          "text": "What is the chief predisposing factor for respiratory distress syndrome (RDS) of the newborn?",
+          "options": [
+            "a. Low birth weight",
+            "b. Alcohol consumption during pregnancy",
+            "c. Premature birth",
+            "d. Smoking during pregnancy"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "RDS of the newborn, also known as hyaline membrane disease (HMD), is a major cause of morbidity and mortality in premature newborns. None of the other options are considered the chief predisposing factors for RDS."
+        },
+        {
+          "id": 5,
+          "text": "What is the primary cause of respiratory distress syndrome (RDS) of the newborn?",
+          "options": [
+            "a. Immature immune system",
+            "b. Surfactant deficiency",
+            "c. Small alveoli",
+            "d. Anemia"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "RDS is primarily caused by surfactant deficiency and secondarily by a deficiency in alveolar surface area for gas exchange. None of the other options are related to the cause of RDS."
+        },
+        {
+          "id": 6,
+          "text": "Which option shows the correct sequence of events after atelectasis develops in respiratory distress syndrome of the newborn?",
+          "options": [
+            "a. Increased pulmonary vascular resistance, atelectasis, hypoperfusion",
+            "b. Hypoxic vasoconstriction, right-to-left shunt, hypoperfusion",
+            "c. Respiratory acidosis, hypoxemia, hypercapnia",
+            "d. Right-to-left shunt, hypoxic vasoconstriction, hypoperfusion"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Atelectasis results in a decrease in tidal volume, causing alveolar hypoventilation and hypercapnia. Hypoxia and hypercapnia cause pulmonary vasoconstriction, which increases intrapulmonary resistance and shunting. This results in hypoperfusion of the lung and a decrease in effective pulmonary blood flow. This selection is the only option that identifies the correct sequence of events."
+        },
+        {
+          "id": 7,
+          "text": "Which statement about the advances in the treatment of respiratory distress syndrome (RDS) of the newborn is incorrect?",
+          "options": [
+            "a. Administering glucocorticoids to women in preterm labor accelerates the maturation of the fetus's lungs.",
+            "b. Administering oxygen to mothers during preterm labor increases their arterial oxygen before the birth of the fetus.",
+            "c. Treatment includes the instillation of exogenous surfactant down an endotracheal tube of infants weighing less than 1000 g.",
+            "d. Using continuous positive airway pressure (CPAP) supports the infant's respiratory function."
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Administering oxygen to the mother is not a valid treatment of RDS. The other statements provide correct information regarding RDS."
+        },
+        {
+          "id": 8,
+          "text": "Bronchiolitis tends to occur during the first years of life and is most often caused by what type of infection?",
+          "options": [
+            "a. Respiratory syncytial virus (RSV)",
+            "b. Adenoviruses",
+            "c. Influenzavirus",
+            "d. Rhinovirus"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The most common associated pathogen is RSV, but bronchiolitis may also be associated with adenovirus, rhinovirus, influenza virus, parainfluenza virus (PIV), and Mycoplasma pneumoniae."
+        },
+        {
+          "id": 9,
+          "text": "Which immunoglobulin (Ig) is present in childhood asthma?",
+          "options": [
+            "a. IgM",
+            "b. IgE",
+            "c. IgG",
+            "d. IgA"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Included in the long list of asthma-associated genes are those that code for increased levels of immune and inflammatory mediators (e.g., interleukin [IL]–4, IgE, leukotrienes), nitric oxide, and transmembrane proteins in the endoplasmic reticulum. None of the other options are associated with childhood asthma."
+        },
+        {
+          "id": 10,
+          "text": "Which statement accurately describes childhood asthma?",
+          "options": [
+            "a. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+            "b. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
+            "c. A pulmonary disorder involving an abnormal expression of a protein, producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
+            "d. An obstructive airway disease characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Asthma is an obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation. This selection is the only option that accurately describes childhood asthma."
+        },
+        {
+          "id": 11,
+          "text": "Which criterion is used to confirm a diagnosis of asthma in an 8-year-old child?",
+          "options": [
+            "a. Parental history of asthma",
+            "b. Serum testing that confirms increased immunoglobulin E (IgE) and eosinophil levels",
+            "c. Reduced expiratory flow rates confirmed by spirometry testing",
+            "d. Improvement on a trial of asthma medication"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Confirmation of the diagnosis of asthma relies on pulmonary function testing using spirometry, which can be accomplished only after the child is 5 to 6 years of age. Reduced expiratory flow rates that are reversible in response to an inhaled bronchodilator would be characteristic abnormalities. For younger children, an empiric trial of asthma medications is commonly initiated. The remaining options are major historical and physical factors that contribute but do not confirm the diagnosis of asthma in children."
+        },
+        {
+          "id": 12,
+          "text": "Which statement best describes acute respiratory distress syndrome (ARDS)?",
+          "options": [
+            "a. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+            "b. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and the presence of bilateral infiltrates on chest x-ray imaging",
+            "c. A respiratory disorder involving an abnormal expression of a protein producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
+            "d. A pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "ARDS is a condition that can result from either a direct or indirect pulmonary insult. It is defined as respiratory failure of acute onset characterized by severe hypoxemia that is refractory to treatment with supplemental oxygen, bilateral infiltrates on chest x-ray imaging, and no evidence of heart failure, as well as decreased pulmonary compliance. This selection is the only option that accurately describes ARDS."
+        },
+        {
+          "id": 13,
+          "text": "Which statement best describes cystic fibrosis?",
+          "options": [
+            "a. Obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+            "b. Respiratory disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
+            "c. Pulmonary disorder involving an abnormal expression of a protein-producing viscous mucus that obstructs the airways, pancreas, sweat ducts, and vas deferens",
+            "d. Pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Cystic fibrosis is best described as a pulmonary disorder involving an abnormal expression of a protein-producing viscous mucus that obstructs the airways, pancreas, sweat ducts, and vas deferens. This selection is the only option that accurately describes cystic fibrosis."
+        },
+        {
+          "id": 14,
+          "text": "Cystic fibrosis is caused by which process?",
+          "options": [
+            "a. Autosomal recessive inheritance",
+            "b. Infection",
+            "c. Autosomal dominant inheritance",
+            "d. Malignancy"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Cystic fibrosis is an autosomal recessive inherited disorder that is associated with defective epithelial ion transport. None of the other options cause cystic fibrosis."
+        },
+        {
+          "id": 15,
+          "text": "Where in the respiratory tract do the majority of foreign objects aspirated by children finally lodge?",
+          "options": [
+            "a. Trachea",
+            "b. Bronchus",
+            "c. Left lung",
+            "d. Bronchioles"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Approximately 75% of aspirated foreign bodies lodge in a bronchus. The other options are not locations where children aspirate the majority of foreign objects."
+        },
+        {
+          "id": 16,
+          "text": "Which symptom is not a clinical manifestation of croup?",
+          "options": [
+            "a. Rhinorrhea",
+            "b. Sore throat",
+            "c. Low-grade fever",
+            "d. Barking cough"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Rhinorrhea (runny nose) is not typically a clinical manifestation of croup. The classic symptoms of croup include a barking cough, inspiratory stridor, sore throat, and low-grade fever. Croup primarily affects the larynx and upper trachea, causing the characteristic barking cough and stridor, but does not typically cause nasal discharge."
+        },
+        {
+          "id": 17,
+          "text": "Which respiratory conditions are more common in children than adults? (Select all that apply.)",
+          "options": [
+            "Bronchiolitis",
+            "Croup",
+            "Epiglottitis",
+            "Chronic obstructive pulmonary disease (COPD)"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "Bronchiolitis, croup, and epiglottitis are respiratory conditions that are more common in children due to their smaller airway size and immature immune systems. COPD is primarily a disease of adults, usually related to smoking or occupational exposures."
+        },
+        {
+          "id": 18,
+          "text": "Which factors contribute to respiratory distress in infants and children? (Select all that apply.)",
+          "options": [
+            "Smaller airway diameter",
+            "Higher metabolic rate and oxygen consumption",
+            "Less developed intercostal muscles",
+            "Larger lung capacity relative to body size"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "Infants and children are more susceptible to respiratory distress due to smaller airway diameter (making obstruction more likely), higher metabolic rate requiring more oxygen, and less developed intercostal muscles for breathing. Children actually have smaller, not larger, lung capacity relative to their body size compared to adults."
+        }
+      ],
+      "mismatched_content": []
+    },
+    "38": {
+      "chapter": 38,
+      "docx_question_count": 0,
+      "json_question_count": 30,
+      "matches": [],
+      "missing_from_json": [],
+      "extra_in_json": [
+        {
+          "id": 1,
+          "text": "What is the functional unit of the kidney called?",
+          "options": [
+            "Glomerulus",
+            "Collecting duct",
+            "Nephron",
+            "Pyramid"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The nephron is the functional unit of the kidney. Although the other options are also located in the kidney, they are not its functional units."
+        },
+        {
+          "id": 2,
+          "text": "Which cells have phagocytic properties similar to monocytes and contract like smooth muscles cells, thereby influencing the glomerular filtration rate?",
+          "options": [
+            "Principle cells",
+            "Mesangial cells",
+            "Podocin cells",
+            "Intercalated cells"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Mesangial cells and the mesangial matrix, secreted by mesangial cells, lie between and support the glomerular capillaries. Different mesangial cells contract like smooth muscle cells to regulate glomerular capillary blood flow. They also have phagocytic properties similar to monocytes. The other options are not capable of these functions."
+        },
+        {
+          "id": 3,
+          "text": "What part of the kidney controls renal blood flow, glomerular filtration, and renin secretion?",
+          "options": [
+            "Macula densa",
+            "Juxtaglomerular apparatus (JGA)",
+            "Visceral epithelium",
+            "Filtration slits"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Control of renal blood flow, glomerular filtration, and renin secretion occur at the JGA. Together, the juxtaglomerular cells and macula densa cells form the JGA. The control of renal blood flow, glomerular filtration, and renin secretion is not directed by any of the other options."
+        },
+        {
+          "id": 4,
+          "text": "Kidney stones in the upper part of the ureter would produce pain referred to which anatomical area?",
+          "options": [
+            "Vulva or penis",
+            "Thighs",
+            "Umbilicus",
+            "Lower abdomen"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Kidney stones in the upper part of the ureter would produce pain in the umbilicus. Sensory innervation for the upper part of the ureter arises from the tenth thoracic nerve roots with referred pain to the umbilicus. The other options would not experience such referred pain."
+        },
+        {
+          "id": 5,
+          "text": "Innervation of the bladder and internal urethral sphincter is supplied by which nerves?",
+          "options": [
+            "Peripheral nerves",
+            "Sympathetic nervous system",
+            "Parasympathetic fibers",
+            "Tenth thoracic nerve roots"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The innervation of the bladder and internal urethral sphincter is supplied by parasympathetic fibers of the autonomic nervous system. The process is not dependent on any of the other options."
+        },
+        {
+          "id": 6,
+          "text": "How much urine accumulates in the bladder before the mechanoreceptors sense bladder fullness?",
+          "options": [
+            "75 to 100 ml",
+            "250 to 300 ml",
+            "100 to 150 ml",
+            "350 to 400 ml"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "When the bladder accumulates 250 to 300 ml of urine, it contracts and the internal urethral sphincter relaxes through activation of the spinal reflex arc (known as the micturition reflex)."
+        },
+        {
+          "id": 7,
+          "text": "What is the trigone?",
+          "options": [
+            "A smooth muscle that comprises the orifice of the ureter",
+            "The inner mucosal lining of the kidneys",
+            "A smooth triangular area between the openings of the two ureters and the urethra",
+            "One of the three divisions of the loop of Henle"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The trigone is a smooth triangular area lying between the openings of the two ureters and the urethra. The other options do not accurately identify the trigone."
+        },
+        {
+          "id": 8,
+          "text": "The glomerular filtration rate is directly related to which factor?",
+          "options": [
+            "Perfusion pressure in the glomerular capillaries",
+            "Diffusion rate in the renal cortex",
+            "Diffusion rate in the renal medulla",
+            "Glomerular active transport"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The filtration of the plasma per unit of time is known as the glomerular filtration rate (GFR), which is directly related to only the perfusion pressure in the glomerular capillaries."
+        },
+        {
+          "id": 9,
+          "text": "On average, what percent of cardiac output do the kidneys receive?",
+          "options": [
+            "10% to 20%",
+            "20% to 25%",
+            "15% to 20%",
+            "30% to 35%"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "The kidneys are highly vascular organs and usually receive 1000 to 1200 ml of blood per minute, or approximately 20% to 25% of the cardiac output."
+        },
+        {
+          "id": 10,
+          "text": "What effects do exercise and body position have on renal blood flow?",
+          "options": [
+            "Exercise and body position activate renal parasympathetic neurons and cause mild vasoconstriction.",
+            "They activate renal sympathetic neurons and cause mild vasoconstriction.",
+            "Both activate renal parasympathetic neurons and cause mild vasodilation.",
+            "They activate renal sympathetic neurons and cause mild vasodilation."
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Exercise and change of body position activate renal sympathetic neurons and cause mild vasoconstriction. The other options do not have these effects on renal blood flow."
+        },
+        {
+          "id": 11,
+          "text": "When renin is released, it is capable of which action?",
+          "options": [
+            "Inactivation of autoregulation",
+            "Direct activation of angiotensin II",
+            "Direct release of antidiuretic hormone (ADH)",
+            "Formation of angiotensin I"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "When renin is released, it cleaves an -globulin (angiotensinogen produced by liver hepatocytes) in the plasma to form angiotensin I."
+        },
+        {
+          "id": 12,
+          "text": "What effect do natriuretic peptides have during heart failure when the heart dilates?",
+          "options": [
+            "Stimulates antidiuretic hormones.",
+            "Stimulates renin and aldosterone.",
+            "Inhibits antidiuretic hormones.",
+            "Inhibits renin and aldosterone."
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Natriuretic peptides inhibit renin and aldosterone during heart failure when the heart dilates. These make up a group of peptide hormones, including atrial natriuretic peptide (ANP), secreted from myocardial cells in the atria and brain natriuretic peptide (BNP) secreted from myocardial cells in the cardiac ventricles. When the heart dilates during volume expansion or heart failure, ANP and BNP inhibit sodium and water absorption by kidney tubules, inhibit the secretion of renin and aldosterone, vasodilate the afferent arterioles, and constrict the efferent arterioles. The result is increased urine formation, leading to decreased blood volume and blood pressure."
+        },
+        {
+          "id": 13,
+          "text": "What is the direct action of atrial natriuretic hormone?",
+          "options": [
+            "Sodium retention",
+            "Water retention",
+            "Sodium excretion",
+            "Water excretion"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "Atrial natriuretic peptide (ANP) and brain natriuretic peptide (BNP) inhibit the secretion of renin, inhibit angiotensin-induced secretion of aldosterone, vasodilate the afferent and constrict the efferent glomerular arterioles, and inhibit sodium and water absorption by kidney tubules. The other actions are not a result of the atrial natriuretic hormone."
+        },
+        {
+          "id": 14,
+          "text": "What term is used to identify the movement of fluids and solutes from the tubular lumen to the peritubular capillary plasma?",
+          "options": [
+            "Tubular secretion",
+            "Tubular reabsorption",
+            "Ultrafiltration",
+            "Tubular excretion"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Tubular reabsorption is the movement of fluids and solutes from the tubular lumen to the peritubular capillary plasma. This selection is the only option that correctly identifies the process."
+        },
+        {
+          "id": 15,
+          "text": "How high does the plasma glucose have to be before the threshold for glucose is achieved?",
+          "options": [
+            "126 mg/dl",
+            "180 mg/dl",
+            "150 mg/dl",
+            "200 mg/dl"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "When the plasma glucose reaches 180 mg/dl, as occurs in the individual with uncontrolled diabetes mellitus, the threshold for glucose is achieved."
+        },
+        {
+          "id": 16,
+          "text": "Which hormone is required for water to be reabsorbed in the distal tubule and collecting duct?",
+          "options": [
+            "Antidiuretic hormone",
+            "Cortisol",
+            "Aldosterone",
+            "Adrenocorticotropin hormone"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Antidiuretic hormone is required for water to be reabsorbed in the distal tubule and collecting duct. The later, straight segment of the distal tubule and the collecting duct are permeable to water as controlled by antidiuretic hormone. The other options are not involved in this process."
+        },
+        {
+          "id": 17,
+          "text": "Which glycoprotein protects against urolithiasis and is a ligand for lymphokines?",
+          "options": [
+            "Uromodulin",
+            "Urodilatin",
+            "Nephrin",
+            "Cystatin"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "Tamm-Horsfall glycoprotein, also known as uromodulin, is the most abundant urinary protein, protects against bacterial adhesion and urolithiasis, and is a ligand for lymphokines. This statement is not true of the other options."
+        },
+        {
+          "id": 18,
+          "text": "What is the end-product of protein metabolism that is excreted in urine?",
+          "options": [
+            "Glucose",
+            "Bile",
+            "Ketones",
+            "Urea"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Of the options available, only urea is an end-product of protein metabolism and is the major constituent of urine along with water."
+        },
+        {
+          "id": 19,
+          "text": "What is the action of urodilatin?",
+          "options": [
+            "Urodilatin causes vasoconstriction of afferent arterioles.",
+            "It causes vasodilation of the efferent arterioles.",
+            "Urodilatin inhibits antidiuretic hormone secretion.",
+            "It inhibits salt and water reabsorption."
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Urodilatin (a natriuretic peptide) inhibits sodium and water reabsorption from the medullary part of collecting duct, thereby producing diuresis. It is not involved in the actions described by the other options."
+        },
+        {
+          "id": 20,
+          "text": "The concentration of the final urine is determined by antidiuretic hormone (ADH), which is secreted by which gland?",
+          "options": [
+            "Posterior pituitary",
+            "Parathyroid",
+            "Thyroid",
+            "Anterior pituitary"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "ADH, which is secreted from the posterior pituitary gland, controls the concentration of the final urine. ADH is not secreted by any of the other options."
+        },
+        {
+          "id": 21,
+          "text": "Which statement is true regarding urodilatin?",
+          "options": [
+            "Urodilatin inhibits sodium chloride and water reabsorption in the medullary part of the collecting duct.",
+            "It inhibits antidiuretic hormone (ADH) to prevent water reabsorption in the medullary part of the collecting duct.",
+            "Urodilatin is stimulated by a rise in blood pressure and an increase in extracellular volume.",
+            "It is stimulated by a fall in blood pressure and a decrease in extracellular volume."
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "When the circulating volume and NinUcRreSaINseGdTbBl.oCoOdMpressure are increased, the distal tubule and collecting duct produces urodilatin (a natriuretic peptide). Urodilatin inhibits sodium and water reabsorption from the medullary part of collecting duct, thereby producing diuresis."
+        },
+        {
+          "id": 22,
+          "text": "What substance stimulates renal hydroxylation in the process of producing vitamin D?",
+          "options": [
+            "Erythropoietin",
+            "Calcitonin",
+            "Thyroid hormone",
+            "Parathyroid hormone"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Parathyroid hormone stimulates renal hydroxylation in the process of producing vitamin D. The first step occurs in the liver with hydroxylation at the 25th carbon (calcifediol); the second step in hydroxylation occurs at the first carbon position in the kidneys. The other options are not involved in this process."
+        },
+        {
+          "id": 23,
+          "text": "Which hormone is synthesized and secreted by the kidneys?",
+          "options": [
+            "Antidiuretic hormone",
+            "Erythropoietin",
+            "Aldosterone",
+            "Angiotensinogen"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Erythropoietin is produced by the fetal liver and in the adult kidney and is essential for normal erythropoiesis. This statement is not true of the other options."
+        },
+        {
+          "id": 24,
+          "text": "What provides the best estimate of the functioning of renal tissue?",
+          "options": [
+            "Glomerular filtration rate",
+            "Hourly urine output",
+            "Serum blood urea nitrogen and creatinine",
+            "The specific gravity of the solute concentration of the urine"
+          ],
+          "correct": [
+            0
+          ],
+          "rationale": "The glomerular filtration rate provides the best estimate of the level of functioning of renal tissue. The other options are not used to assess renal tissue function."
+        },
+        {
+          "id": 25,
+          "text": "Which renal change is found in older adults?",
+          "options": [
+            "Sharp decline in glomerular filtration rate",
+            "Sharp decline in renal blood flow",
+            "Decrease in the number of nephrons",
+            "Decrease in urine output"
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "With aging, the number of nephrons decreases. The other options are not necessarily related to aging."
+        },
+        {
+          "id": 26,
+          "text": "Compared with a younger individual, how is the specific gravity of urine in older adults affected?",
+          "options": [
+            "Specific gravity of urine in older adults is increased.",
+            "Specific gravity of urine in older adults is considered high normal.",
+            "Specific gravity of urine in older adults is considered low normal.",
+            "Specific gravity of urine in older adults is decreased."
+          ],
+          "correct": [
+            2
+          ],
+          "rationale": "The specific gravity of the urine in older individuals tends to be on the low side of normal."
+        },
+        {
+          "id": 27,
+          "text": "What process allows the kidney to respond to an increase in workload?",
+          "options": [
+            "Glomerular filtration",
+            "Secretion of 1,25-dihydroxyvitamin D3",
+            "Increased heart rate",
+            "Compensatory hypertrophy"
+          ],
+          "correct": [
+            3
+          ],
+          "rationale": "Compensatory hypertrophy allows the kidney to respond to an increase in workload throughout life. The remaining options are not relevant to accommodating an increased workload."
+        },
+        {
+          "id": 28,
+          "text": "Which process makes it possible for ureters to be transplanted successfully?",
+          "options": [
+            "Compensatory hypertrophy",
+            "Peristalsis",
+            "Erythropoietin secretion",
+            "Collateral circulation"
+          ],
+          "correct": [
+            1
+          ],
+          "rationale": "Peristalsis is the process which makes it possible for ureters to be transplanted successfully. This process is maintained even when the ureter is denervated. The remaining options are not relevant to transplant success."
+        },
+        {
+          "id": 29,
+          "text": "Which functions are performed by the kidneys? (Select all that apply.)",
+          "options": [
+            "Regulation of electrolyte balance",
+            "Production of erythropoietin",
+            "Activation of vitamin D",
+            "Production of insulin"
+          ],
+          "correct": [
+            0,
+            1,
+            2
+          ],
+          "rationale": "The kidneys perform multiple functions including regulation of electrolyte balance, production of erythropoietin for red blood cell formation, and activation of vitamin D for calcium homeostasis. Insulin is produced by the pancreas, not the kidneys."
+        },
+        {
+          "id": 30,
+          "text": "Which factors can cause a decrease in glomerular filtration rate (GFR)? (Select all that apply.)",
+          "options": [
+            "Decreased renal blood flow",
+            "Increased oncotic pressure in glomerular capillaries",
+            "Increased hydrostatic pressure in Bowman's capsule",
+            "Increased sympathetic nervous system activity"
+          ],
+          "correct": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "rationale": "All of these factors can decrease GFR: decreased renal blood flow reduces filtration pressure; increased oncotic pressure opposes filtration; increased pressure in Bowman's capsule opposes filtration; and increased sympathetic activity causes vasoconstriction, reducing renal blood flow."
+        }
+      ],
+      "mismatched_content": []
+    }
+  }
+}
