@@ -2243,5 +2243,35 @@
         ]
       }
     ]
+  },
+  "week3_slides": {
+    "title": "Week 3: Clinical Reasoning - Pulmonary Pathologies",
+    "slides": [
+      {
+        "slide_number": 1,
+        "content": [
+          "Week 3: Clinical Reasoning Webinar: Pulmonary Pathologies",
+          "NR507-Advanced Pathophysiology",
+          "Source: Week 3 Webinar_Pulmonary Pathologiesslides.pptx"
+        ]
+      },
+      {
+        "slide_number": 2,
+        "content": [
+          "Key Topics Covered:",
+          "Mechanics of breathing",
+          "Pathophysiology of obstructive and restrictive disorders",
+          "Pulmonary function tests that represent an obstructive or restrictive disorder",
+          "Pathophysiology, signs and symptoms and treatment of chronic bronchitis",
+          "Pathophysiology, signs and symptoms and treatment of emphysema",
+          "Differentiate between the types of emphysema",
+          "Pathophysiology, signs and symptoms and treatment of asthma",
+          "Pharmacological management of an asthma attack",
+          "Client education for the asthma patient",
+          "Pathophysiology of interstitial lung disease (ILD)",
+          "Physical exam findings for ILD"
+        ]
+      }
+    ]
   }
 }
