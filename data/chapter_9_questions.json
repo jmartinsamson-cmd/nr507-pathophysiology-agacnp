@@ -505,16 +505,19 @@
   },
   {
     "id": 37,
-    "text": "Exposure to which of the following could result in a type IV hypersensitivity reaction?",
+    "text": "Exposure to which of the following could result in a type IV hypersensitivity reaction? (Select all that apply.)",
     "options": [
-      "(Select all that apply.)",
       "Poison ivy",
       "Nickel",
-      "Neomycin e. Detergents",
+      "Neomycin",
+      "Detergents",
       "Dairy products"
     ],
     "correct": [
-      0
+      0,
+      1,
+      2,
+      3
     ],
     "rationale": "Allergens that primarily elicit type IV allergic hypersensitivities include plant resins (e.g., poison ivy, poison oak); metals (e.g., nickel, chromium); acetylates and chemicals in rubber, cosmetics, detergents; and topical antibiotics (e.g., neomycin)."
   }

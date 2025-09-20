@@ -591,6 +591,9 @@ class ExamApp {
         question.options.forEach((option, index) => {
             const optionDiv = document.createElement('div');
             optionDiv.className = 'option';
+            // Clear any inline styles from previous questions
+            optionDiv.style.backgroundColor = '';
+            optionDiv.style.border = '';
 
             const input = document.createElement('input');
             input.type = inputType;
@@ -654,15 +657,35 @@ class ExamApp {
         const options = this.elements.questionOptions.querySelectorAll('.option');
         options.forEach((option, index) => {
             option.classList.remove('correct', 'incorrect');
+            // Clear any inline styles
+            option.style.backgroundColor = '';
+            option.style.border = '';
 
-            // Show correct answers in green
-            if (correctAnswers.includes(index)) {
-                option.classList.add('correct');
+            // Only show feedback if user has actually made selections
+            if (userAnswer.length === 0) {
+                return; // No feedback if no selections made
             }
 
-            // Show incorrect user selections in red
-            if (userAnswer.includes(index) && !correctAnswers.includes(index)) {
-                option.classList.add('incorrect');
+            // For multiple select questions, only show feedback when user has made selections
+            if (question.type === 'multiple_select') {
+                // Show correct answers in green only if user selected them
+                if (correctAnswers.includes(index) && userAnswer.includes(index)) {
+                    option.classList.add('correct');
+                }
+                // Show incorrect user selections in red
+                if (userAnswer.includes(index) && !correctAnswers.includes(index)) {
+                    option.classList.add('incorrect');
+                }
+                // Don't show missed correct answers for multi-select questions
+                // This prevents spoiling the answer
+            } else {
+                // For single select questions, show all correct/incorrect feedback immediately
+                if (correctAnswers.includes(index)) {
+                    option.classList.add('correct');
+                }
+                if (userAnswer.includes(index) && !correctAnswers.includes(index)) {
+                    option.classList.add('incorrect');
+                }
             }
         });
     }
