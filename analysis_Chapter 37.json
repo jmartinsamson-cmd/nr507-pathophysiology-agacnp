@@ -1,0 +1,368 @@
+{
+  "docx_questions": [
+    {
+      "id": 1,
+      "text": "How does chest wall compliance in an infant differ from that of an adult?",
+      "options": [
+        "\ud835\udefc. An adult\u2019s chest wall compliance is lower than an infant\u2019s. \ud835\uddc9. An adult\u2019s chest wall compliance is higher than an infant\u2019s.",
+        "n adult\u2019s chest wall compliance is the same as an infant\u2019s. \ud835\udeff. An adult\u2019s chest wall compliance is dissimilar to that of an infant\u2019s."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 2,
+      "text": "Why is nasal congestion a serious threat to young infants?",
+      "options": [
+        "\ud835\udefc. Infants are obligatory nose breathers.",
+        "\ud835\uddc9. Their noses are small in diameter.",
+        "Infants become dehydrated when mouth breathing.",
+        "\ud835\udeff. Their epiglottis is proportionally greater than the epiglottis of an adult\u2019s."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 3,
+      "text": "The risk for respiratory distress syndrome (RDS) decreases for premature infants when they are born between how many weeks of gestation?",
+      "options": [
+        "\ud835\udefc. 16 and 20",
+        "24 and 30 \ud835\uddc9. 20 and 24",
+        "30 and 36"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 4,
+      "text": "Which type of croup is most common?",
+      "options": [
+        "\ud835\udefc. Bacterial",
+        "Fungal",
+        "\ud835\uddc9. Viral",
+        "Autoimmune"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 5,
+      "text": "What is the chief predisposing factor for respiratory distress syndrome (RDS) of the newborn?",
+      "options": [
+        "\ud835\udefc. Low birth weight",
+        "\ud835\uddc9. Alcohol consumption during pregnancy c. Premature birth",
+        "\ud835\udeff. Smoking during pregnancy"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 6,
+      "text": "What is the primary cause of respiratory distress syndrome (RDS) of the newborn?",
+      "options": [
+        "\ud835\udefc. Immature immune system",
+        "Surfactant deficiency",
+        "\ud835\uddc9. Small alveoli",
+        "Anemia"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 7,
+      "text": "Which option shows the correct sequence of events after atelectasis develops in respiratory distress syndrome of the newborn?",
+      "options": [
+        "\ud835\udefc. Increased pulmonary vascular resistance, atelectasis, hypoperfusion \ud835\uddc9. Hypoxic vasoconstriction, right-to-left shunt hypoperfusion c. Respiratory acidosis, hypoxemia, hypercapnia",
+        "\ud835\udeff. Right-to-left shunt, hypoxic vasoconstriction, hypoperfusion"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 8,
+      "text": "Which statement about the advances in the treatment of respiratory distress syndrome (RDS) of the newborn is incorrect?",
+      "options": [
+        "\ud835\udefc. Administering glucocorticoids to women in preterm labor accelerates the maturation of the fetus\u2019s lungs.",
+        "\ud835\uddc9. Administering oxygen to mothers during preterm labor increases their arterial oxygen before the birth of the fetus.",
+        "Treatment includes the instillation of exogenous surfactant down an endotracheal tube of infants weighing less than 1000 g.",
+        "\ud835\udeff. Using continuous positive airway pressure (CPAP) supports the infant\u2019s respiratory function."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 9,
+      "text": "Bronchiolitis tends to occur during the first years of life and is most often caused by what type of infection?",
+      "options": [
+        "\ud835\udefc. Respiratory syncytial virus (RSV)",
+        "Adenoviruses",
+        "\ud835\uddc9. Influenzavirus",
+        "Rhinovirus"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 10,
+      "text": "Which immunoglobulin (Ig) is present in childhood asthma?",
+      "options": [
+        "\ud835\udefc. IgM",
+        "IgE",
+        "\ud835\uddc9. IgG",
+        "IgA"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 11,
+      "text": "Which T-lymphocyte phenotype is the key determinant of childhood asthma?",
+      "options": [
+        "\ud835\udefc. Cluster of differentiation (CD) 4 T-helper Th1 lymphocytes \ud835\uddc9. CD4 T-helper Th2 lymphocytes c. CD8 cytotoxic T lymphocytes \ud835\udeff. Memory T lymphocytes"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 12,
+      "text": "Which cytokines activated in childhood asthma produce an allergic response?",
+      "options": [
+        "\ud835\udefc. Interleukin (IL)\u20131, IL-2, and interferon-alpha (IFN-\ud835\udefc) \ud835\uddc9. IL-8, IL-12, and tumor necrosis factor-alpha (TNF-\ud835\udefc) c. IL-4, IL-10, and colony-stimulating factor (CSF) \ud835\udeff. IL-4, IL-5, and IL-13"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 13,
+      "text": "Which statement accurately describes childhood asthma?",
+      "options": [
+        "\ud835\udefc. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+        "\ud835\uddc9. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
+        "pulmonary disorder involvinNgURanSIaNbGnToBrm.CaOlMexpression of a protein, producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
+        "\ud835\udeff. An obstructive airway disease characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 14,
+      "text": "Which criterion is used to confirm a diagnosis of asthma in an 8-year-old child?",
+      "options": [
+        "\ud835\udefc. Parental history of asthma",
+        "\ud835\uddc9. Serum testing that confirms increased immunoglobulin E (IgE) and eosinophil levels",
+        "Reduced expiratory flow rates confirmed by spirometry testing \ud835\udeff. Improvement on a trial of asthma medication"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 15,
+      "text": "Which statement best describes acute respiratory distress syndrome (ARDS)?",
+      "options": [
+        "\ud835\udefc. An obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+        "\ud835\uddc9. A pulmonary disease characterized by severe hypoxemia, decreased pulmonary compliance, and the presence of bilateral infiltrates on chest x-ray imaging",
+        "respiratory disorder involving an abnormal expression of a protein producing viscous mucus that lines the airways, pancreas, sweat ducts, and vas deferens",
+        "\ud835\udeff. A pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 16,
+      "text": "When considering the signs and symptoms of acute respiratory distress syndrome (ARDS), the absence of which condition is considered characteristic?",
+      "options": [
+        "\ud835\udefc. Progressive respiratory distress c. Decreased pulmonary compliance \ud835\uddc9. Bilateral infiltrates d. Heart failure"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 17,
+      "text": "Which statement best describes cystic fibrosis?",
+      "options": [
+        "\ud835\udefc. Obstructive airway disease characterized by reversible airflow obstruction, bronchial hyperreactivity, and inflammation",
+        "\ud835\uddc9. Respiratory disease characterized by severe hypoxemia, decreased pulmonary compliance, and diffuse densities on chest x-ray imaging",
+        "Pulmonary disorder involving an abnormal expression of a protein-producing viscous mucus that obstructs the airways, pancreas, sweat ducts, and vas deferens",
+        "\ud835\udeff. Pulmonary disorder characterized by atelectasis and increased pulmonary resistance as a result of a surfactant deficiency"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 18,
+      "text": "Cystic fibrosis is caused by which process?",
+      "options": [
+        "\ud835\udefc. Autosomal recessive inheritance",
+        "Infection",
+        "\ud835\uddc9. Autosomal dominant inheritance",
+        "Malignancy"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 19,
+      "text": "Between which months of age does sudden infant death syndrome (SIDS) most often occur?",
+      "options": [
+        "\ud835\udefc. 0 and 1",
+        "5 and 6 \ud835\uddc9. 2 and 4",
+        "6 and 7"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 20,
+      "text": "Where in the respiratory tract do the majority of foreign objects aspirated by children finally lodge?",
+      "options": [
+        "\ud835\udefc. Trachea",
+        "Bronchus",
+        "\ud835\uddc9. Left lung",
+        "Bronchioles"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 21,
+      "text": "What is the most common predisposing factor to obstructive sleep apnea in children?",
+      "options": [
+        "\ud835\udefc. Chronic respiratory infections c. Obligatory mouth breathing \ud835\uddc9. Adenotonsillar hypertrophy d. Paradoxic breathing"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    }
+  ],
+  "comparison_results": {
+    "total_docx": 21,
+    "total_json": 18,
+    "matches": 15,
+    "differences": [
+      {
+        "question_id": 1,
+        "question_text": "How does chest wall compliance in an infant differ from that of an adult?...",
+        "differences": [
+          "Options count: DOCX=2, JSON=4"
+        ]
+      },
+      {
+        "question_id": 4,
+        "question_text": "Which type of croup is most common?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 5,
+        "question_text": "What is the chief predisposing factor for respiratory distress syndrome (RDS) of the newborn?...",
+        "differences": [
+          "Options count: DOCX=3, JSON=4"
+        ]
+      },
+      {
+        "question_id": 6,
+        "question_text": "What is the primary cause of respiratory distress syndrome (RDS) of the newborn?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 7,
+        "question_text": "Which option shows the correct sequence of events after atelectasis develops in respiratory distress...",
+        "differences": [
+          "Options count: DOCX=2, JSON=4"
+        ]
+      },
+      {
+        "question_id": 10,
+        "question_text": "Which immunoglobulin (Ig) is present in childhood asthma?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 14,
+        "question_text": "Which criterion is used to confirm a diagnosis of asthma in an 8-year-old child?...",
+        "differences": [
+          "Options count: DOCX=3, JSON=4"
+        ]
+      },
+      {
+        "question_id": 20,
+        "question_text": "Where in the respiratory tract do the majority of foreign objects aspirated by children finally lodg...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      }
+    ],
+    "missing_in_json": [
+      {
+        "id": 3,
+        "text": "The risk for respiratory distress syndrome (RDS) decreases for premature infants when they are born ..."
+      },
+      {
+        "id": 11,
+        "text": "Which T-lymphocyte phenotype is the key determinant of childhood asthma?..."
+      },
+      {
+        "id": 12,
+        "text": "Which cytokines activated in childhood asthma produce an allergic response?..."
+      },
+      {
+        "id": 16,
+        "text": "When considering the signs and symptoms of acute respiratory distress syndrome (ARDS), the absence o..."
+      },
+      {
+        "id": 19,
+        "text": "Between which months of age does sudden infant death syndrome (SIDS) most often occur?..."
+      },
+      {
+        "id": 21,
+        "text": "What is the most common predisposing factor to obstructive sleep apnea in children?..."
+      }
+    ],
+    "extra_in_json": []
+  }
+}

@@ -1,0 +1,487 @@
+{
+  "docx_questions": [
+    {
+      "id": 1,
+      "text": "What is the functional unit of the kidney called?",
+      "options": [
+        "Glomerulus",
+        "Collecting duct",
+        "Nephron",
+        "Pyramid"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 2,
+      "text": "Which cells have phagocytic properties similar to monocytes and contract like smooth muscles cells, thereby influencingNtUheRSgIlNoGmTeBru.ClaOrMfiltration rate?",
+      "options": [
+        "Principle cells",
+        "Mesangial cells",
+        "Podocin cells",
+        "Intercalated cells"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 3,
+      "text": "What part of the kidney controls renal blood flow, glomerular filtration, and renin secretion?",
+      "options": [
+        "Macula densa",
+        "Juxtaglomerular apparatus (JGA)",
+        "Visceral epithelium",
+        "Filtration slits"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 4,
+      "text": "Kidney stones in the upper part of the ureter would produce pain referred to which anatomical area?",
+      "options": [
+        "Vulva or penis",
+        "Thighs",
+        "Umbilicus",
+        "Lower abdomen"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 5,
+      "text": "Innervation of the bladder and internal urethral sphincter is supplied by which nerves?",
+      "options": [
+        "Peripheral nerves",
+        "Sympathetic nervous system",
+        "Parasympathetic fibers",
+        "Tenth thoracic nerve roots"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 6,
+      "text": "How much urine accumulates in the bladder before the mechanoreceptors sense bladder fullness?",
+      "options": [
+        "75 to 100 ml",
+        "250 to 300 ml",
+        "100 to 150 ml",
+        "350 to 400 ml"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 7,
+      "text": "What is the trigone?",
+      "options": [
+        "smooth muscle that comprises the orifice of the ureter",
+        "The inner mucosal lining of the kidneys",
+        "smooth triangular area between the openings of the two ureters and the urethra",
+        "One of the three divisions of the loop of Henle"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 8,
+      "text": "The glomerular filtration rate is directly related to which factor?",
+      "options": [
+        "Perfusion pressure in the glomerular capillaries",
+        "iffusion rate in the renal cortex",
+        "iffusion rate in the renal medulla",
+        "Glomerular active transport"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 9,
+      "text": "On average, what percent of cardiac output do the kidneys receive?",
+      "options": [
+        "10% to 20%",
+        "20% to 25%",
+        "15% to 20%",
+        "30% to 35%"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 10,
+      "text": "What effects do exercise and body position have on renal blood flow?",
+      "options": [
+        "Exercise and body position activate renal parasympathetic neurons and cause mild vasoconstriction.",
+        "They activate renal sympathetic neurons and cause mild vasoconstriction.",
+        "oth activate renal parasympathetic neurons and cause mild vasodilation.",
+        "They activate renal sympathetic neurons and cause mild vasodilation."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 11,
+      "text": "When renin is released, it is capable of which action?",
+      "options": [
+        "Inactivation of autoregulation",
+        "irect activation of angiotensin II",
+        "irect release of antidiuretic hormone (ADH)",
+        "Formation of angiotensin I"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 12,
+      "text": "What effect do natriuretic peptides have during heart failure when the heart dilates?",
+      "options": [
+        "Stimulates antidiuretic hormones.",
+        "Stimulates renin and aldosterone.",
+        "Inhibits antidiuretic hormones.",
+        "Inhibits renin and aldosterone."
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 13,
+      "text": "What is the direct action of atrial natriuretic hormone?",
+      "options": [
+        "Sodium retention",
+        "Water retention",
+        "Sodium excretion",
+        "Water excretion"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 14,
+      "text": "What term is used to identify the movement of fluids and solutes from the tubular lumen to the peritubular capillary plasma?",
+      "options": [
+        "Tubular secretion",
+        "Tubular reabsorption",
+        "Ultrafiltration",
+        "Tubular excretion"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 15,
+      "text": "How high does the plasma glucose have to be before the threshold for glucose is achieved?",
+      "options": [
+        "126 mg/dl",
+        "180 mg/dl",
+        "150 mg/dl",
+        "200 mg/dl"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 16,
+      "text": "Which hormone is required for water to be reabsorbed in the distal tubule and collecting duct?",
+      "options": [
+        "ntidiuretic hormone",
+        "Cortisol",
+        "ldosterone",
+        "Adrenocorticotropin hormone"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 17,
+      "text": "Which glycoprotein protects against urolithiasis and is a ligand for lymphokines?",
+      "options": [
+        "Uromodulin",
+        "Urodilatin",
+        "Nephrin",
+        "Cystatin"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 18,
+      "text": "What is the end-product of protein metabolism that is excreted in urine?",
+      "options": [
+        "Glucose",
+        "Bile",
+        "Ketones",
+        "Urea"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 19,
+      "text": "What is the action of urodilatin?",
+      "options": [
+        "Urodilatin causes vasoconstriction of afferent arterioles.",
+        "It causes vasodilation of the efferent arterioles.",
+        "Urodilatin inhibits antidiuretic hormone secretion.",
+        "It inhibits salt and water reabsorption."
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 20,
+      "text": "The concentration of the final urine is determined by antidiuretic hormone (ADH), which is secreted by which gland?",
+      "options": [
+        "Posterior pituitary",
+        "Parathyroid",
+        "Thyroid",
+        "Anterior pituitary"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 21,
+      "text": "Which statement is true regarding urodilatin?",
+      "options": [
+        "Urodilatin inhibits sodium chloride and water reabsorption in the medullary part of the collecting duct.",
+        "It inhibits antidiuretic hormone (ADH) to prevent water reabsorption in the medullary part of the collecting duct.",
+        "Urodilatin is stimulated by a rise in blood pressure and an increase in extracellular volume.",
+        "It is stimulated by a fall in blood pressure and a decrease in extracellular volume."
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 22,
+      "text": "What substance stimulates renal hydroxylation in the process of producing vitamin D?",
+      "options": [
+        "Erythropoietin",
+        "Calcitonin",
+        "Thyroid hormone",
+        "Parathyroid hormone"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 23,
+      "text": "Which hormone is synthesized and secreted by the kidneys?",
+      "options": [
+        "ntidiuretic hormone",
+        "Erythropoietin",
+        "ldosterone",
+        "Angiotensinogen"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 24,
+      "text": "What provides the best estimate of the functioning of renal tissue?",
+      "options": [
+        "Glomerular filtration rate",
+        "Hourly urine output",
+        "Serum blood urea nitrogen and creatinine",
+        "The specific gravity of the solute concentration of the urine"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 25,
+      "text": "Which renal change is found in older adults?",
+      "options": [
+        "Sharp decline in glomerular filtration rate",
+        "Sharp decline in renal blood flow",
+        "ecrease in the number of nephrons",
+        "ecrease in urine output"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 26,
+      "text": "Compared with a younger individual, how is the specific gravity of urine in older adults affected?",
+      "options": [
+        "Specific gravity of urine in older adults is increased.",
+        "Specific gravity of urine in older adults is considered high normal.",
+        "Specific gravity of urine in older adults is considered low normal.",
+        "Specific gravity of urine in older adults is decreased."
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 27,
+      "text": "What process allows the kidney to respond to an increase in workload?",
+      "options": [
+        "Glomerular filtration",
+        "Secretion of 1,25-dihydroxyvitamin D3",
+        "Increased heart rate",
+        "ompensatory hypertrophy"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 28,
+      "text": "Which process makes it possible for ureters to be transplanted successfully?",
+      "options": [
+        "ompensatory hypertrophy",
+        "Peristalsis",
+        "Erythropoietin secretion",
+        "Collateral circulation"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    }
+  ],
+  "comparison_results": {
+    "total_docx": 28,
+    "total_json": 30,
+    "matches": 27,
+    "differences": [
+      {
+        "question_id": 1,
+        "question_text": "What is the functional unit of the kidney called?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 3,
+        "question_text": "What part of the kidney controls renal blood flow, glomerular filtration, and renin secretion?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 4,
+        "question_text": "Kidney stones in the upper part of the ureter would produce pain referred to which anatomical area?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 5,
+        "question_text": "Innervation of the bladder and internal urethral sphincter is supplied by which nerves?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 6,
+        "question_text": "How much urine accumulates in the bladder before the mechanoreceptors sense bladder fullness?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 9,
+        "question_text": "On average, what percent of cardiac output do the kidneys receive?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 13,
+        "question_text": "What is the direct action of atrial natriuretic hormone?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 14,
+        "question_text": "What term is used to identify the movement of fluids and solutes from the tubular lumen to the perit...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 15,
+        "question_text": "How high does the plasma glucose have to be before the threshold for glucose is achieved?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 23,
+        "question_text": "Which hormone is synthesized and secreted by the kidneys?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 28,
+        "question_text": "Which process makes it possible for ureters to be transplanted successfully?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      }
+    ],
+    "missing_in_json": [
+      {
+        "id": 2,
+        "text": "Which cells have phagocytic properties similar to monocytes and contract like smooth muscles cells, ..."
+      }
+    ],
+    "extra_in_json": []
+  }
+}

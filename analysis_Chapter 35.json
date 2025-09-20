@@ -1,0 +1,552 @@
+{
+  "docx_questions": [
+    {
+      "id": 1,
+      "text": "What pulmonary defense mechanism propels a mucous blanket that entraps particles moving toward the oropharynx?",
+      "options": [
+        "Nasal turbinates",
+        "Cilia",
+        "lveolar macrophages",
+        "Irritant receptors on the nares"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 2,
+      "text": "Which term is used to identify the movement of gas and air into and out of the lungs?",
+      "options": [
+        "Perfusion",
+        "Respiration",
+        "Ventilation",
+        "Diffusion"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 3,
+      "text": "When an individual aspirates food particles, where would the nurse expect to hear decreased or absent breath sounds?",
+      "options": [
+        "Left lung",
+        "Trachea",
+        "Right lung",
+        "Carina"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 4,
+      "text": "Air passage among alveoli is collateral and evenly distributed because of the function of which structures?",
+      "options": [
+        "Type I alveolar cells",
+        "Acinus pores",
+        "Pores of Kohn",
+        "Alveolar pores"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 5,
+      "text": "Where in the lung does gas exchange occur?",
+      "options": [
+        "Trachea",
+        "Alveolocapillary membrane",
+        "Segmental bronchi",
+        "Main bronchus"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 6,
+      "text": "Surfactant produced by type II alveolar cells facilitates alveolar distention and ventilation by which mechanism?",
+      "options": [
+        "ecreasing thoracic compliance",
+        "ttracting water to the alveolar surface",
+        "ecreasing surface tension in the alveoli",
+        "Increasing surface tension in the alveoli"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 7,
+      "text": "Which part of the brainstem provides basic automatic rhythm of respiration by sending efferent impulses to the diaphragm and intercostal muscles?",
+      "options": [
+        "orsal respiratory group (DRG)",
+        "Pneumotaxic center",
+        "Ventral respiratory group",
+        "Apneustic center"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 8,
+      "text": "Which structures secrete surfactant?",
+      "options": [
+        "Type I alveolar cells",
+        "Alveolar macrophages",
+        "Type II alveolar cells",
+        "Stretch receptors"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 9,
+      "text": "Which structure is not associated with any lymphatic vessels?",
+      "options": [
+        "Trachea",
+        "Acinus",
+        "ronchi",
+        "Terminal bronchioles"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 10,
+      "text": "Which describes the pressure in the pleural space?",
+      "options": [
+        "tmospheric",
+        "Above atmospheric",
+        "elow atmospheric",
+        "Variable"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 11,
+      "text": "The adequacy of a person\u2019s alveolar ventilation is assessed best by monitoring which mechanism?",
+      "options": [
+        "Ventilatory rate",
+        "Respiratory effort",
+        "Ventilatory pattern",
+        "Arterial blood gas"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 12,
+      "text": "Which normal physiologic change occurs in the aging pulmonary system?",
+      "options": [
+        "ecreased flow resistance",
+        "Stiffening of the chest wall",
+        "Fewer alveoli",
+        "Improved elastic recoil"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 13,
+      "text": "How is most of the oxygen in the blood transported?",
+      "options": [
+        "issolved in plasma",
+        "In the form of carbon dioxide (CO2)",
+        "ound to hemoglobin",
+        "Bound to protein"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 14,
+      "text": "Which substances cause airway epithelium to constrict?",
+      "options": [
+        "Epinephrine and acetylcholine",
+        "Bradykinin and thromboxane A",
+        "Histamine and prostaglandin",
+        "Leukotrienes and prostacyclin"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 15,
+      "text": "If a patient develops acidosis, the nurse would expect the oxyhemoglobin dissociation curve to react in which manner?",
+      "options": [
+        "Shift to the right, causing more oxygen (O2) to be released to the cells",
+        "Shift to the left, allowing less O2 to be released to the cells",
+        "Show no change, allowing the O2 concentration to remain stable",
+        "Show dramatic fluctuation, allowing the O2 concentration to increase"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 16,
+      "text": "How is most carbon dioxide (CO2) in the blood transported?",
+      "options": [
+        "ttached to oxygen",
+        "Combined with albumin",
+        "In the form of bicarbonate",
+        "Dissolved in the plasma"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 17,
+      "text": "The sternocleidomastoid and scalene muscles are referred to as which group?",
+      "options": [
+        "iaphragmatic muscles",
+        "Intercostal muscles",
+        "Muscles of expiration",
+        "Muscles of inspiration"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 18,
+      "text": "An increase in surface tension caused by decreased surfactant production results in which alteration?",
+      "options": [
+        "ecrease in alveolar macrophage production",
+        "Increase in lung compliance",
+        "ecrease in alveoli collapse",
+        "Increase in alveoli fluid collection"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 19,
+      "text": "Decreased lung compliance means that the lungs are demonstrating which characteristic?",
+      "options": [
+        "ifficult deflation",
+        "Stiffness",
+        "Easy inflation",
+        "Inability to diffuse oxygen"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 20,
+      "text": "The lung is innervated by the parasympathetic nervous system via which nerve?",
+      "options": [
+        "Vagus",
+        "Brachial",
+        "Phrenic",
+        "Pectoral"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 21,
+      "text": "What event is characteristic of the function in Zone 1 of the lung?",
+      "options": [
+        "lood flow through the pulmonary capillary bed increases in regular increments.",
+        "lveolar pressure is greater than venous pressure but not greater than arterial pressure.",
+        "The capillary bed collapses, and normal blood flow ceases.",
+        "lood flows through Zone 1, but it is impeded to a certain extent by alveolar pressure."
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 22,
+      "text": "Hypoventilation that results in the retention of carbon dioxide will stimulate which receptors in an attempt to maintain a normal homeostatic state?",
+      "options": [
+        "Irritant receptors",
+        "Peripheral chemoreceptors",
+        "entral chemoreceptors",
+        "Stretch receptors"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 23,
+      "text": "What is the most important cause of pulmonary artery constriction?",
+      "options": [
+        "Low alveolar partial pressure of arterial oxygen (PaO2)",
+        "Hyperventilation",
+        "Respiratory alkalosis",
+        "Epinephrine"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 24,
+      "text": "Where does the tracheal bifurcation occur?",
+      "options": [
+        "Larynx",
+        "Carina",
+        "ronchi",
+        "Nasopharynx"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 25,
+      "text": "How low must the partial pressure of arterial oxygen (PaO2) drop before the peripheral chemoreceptors influence ventilation?",
+      "options": [
+        "elow 100 mm Hg",
+        "Below 70 mm Hg",
+        "elow 80 mm Hg",
+        "Below 60 mm Hg"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 26,
+      "text": "Which receptors are located in the smooth muscles of airways?",
+      "options": [
+        "entral chemoreceptors",
+        "Peripheral chemoreceptors",
+        "Stretch receptors",
+        "J-receptors"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 27,
+      "text": "Which receptors are located near the respiratory center?",
+      "options": [
+        "Peripheral chemoreceptors",
+        "Central chemoreceptors",
+        "Stretch receptors",
+        "J-receptors"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 28,
+      "text": "Which receptors are located in the aortic bodies, aortic arch, and carotid bodies?",
+      "options": [
+        "entral chemoreceptors",
+        "J-receptors",
+        "Stretch receptors",
+        "Peripheral chemoreceptors"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 29,
+      "text": "What is the purpose of the spirometry measurement?",
+      "options": [
+        "To evaluate the cause of hypoxia",
+        "To measure the volume and flow rate during forced expiration",
+        "To measures the gas diffusion rate at the alveolocapillary membrane",
+        "To determine pH and oxygen and carbon dioxide concentrations"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    }
+  ],
+  "comparison_results": {
+    "total_docx": 29,
+    "total_json": 39,
+    "matches": 29,
+    "differences": [
+      {
+        "question_id": 1,
+        "question_text": "What pulmonary defense mechanism propels a mucous blanket that entraps particles moving toward the o...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 2,
+        "question_text": "Which term is used to identify the movement of gas and air into and out of the lungs?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 3,
+        "question_text": "When an individual aspirates food particles, where would the nurse expect to hear decreased or absen...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 4,
+        "question_text": "Air passage among alveoli is collateral and evenly distributed because of the function of which stru...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 5,
+        "question_text": "Where in the lung does gas exchange occur?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 8,
+        "question_text": "Which structures secrete surfactant?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 9,
+        "question_text": "Which structure is not associated with any lymphatic vessels?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 10,
+        "question_text": "Which describes the pressure in the pleural space?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 12,
+        "question_text": "Which normal physiologic change occurs in the aging pulmonary system?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 13,
+        "question_text": "How is most of the oxygen in the blood transported?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 14,
+        "question_text": "Which substances cause airway epithelium to constrict?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 16,
+        "question_text": "How is most carbon dioxide (CO2) in the blood transported?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 17,
+        "question_text": "The sternocleidomastoid and scalene muscles are referred to as which group?...",
+        "differences": [
+          "Correct answer: DOCX=[0], JSON=[3]"
+        ]
+      },
+      {
+        "question_id": 19,
+        "question_text": "Decreased lung compliance means that the lungs are demonstrating which characteristic?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 22,
+        "question_text": "Hypoventilation that results in the retention of carbon dioxide will stimulate which receptors in an...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 24,
+        "question_text": "Where does the tracheal bifurcation occur?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 25,
+        "question_text": "How low must the partial pressure of arterial oxygen (PaO2) drop before the peripheral chemoreceptor...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[3]"
+        ]
+      },
+      {
+        "question_id": 26,
+        "question_text": "Which receptors are located in the smooth muscles of airways?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 27,
+        "question_text": "Which receptors are located near the respiratory center?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      }
+    ],
+    "missing_in_json": [],
+    "extra_in_json": []
+  }
+}

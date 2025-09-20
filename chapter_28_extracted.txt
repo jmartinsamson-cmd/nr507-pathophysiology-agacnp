@@ -1,0 +1,711 @@
+Chapter 28: Structure and Function of the Hematologic System 
+
+
+
+ 
+
+MULTIPLE CHOICE 
+
+ 
+
+What is the most abundant class of plasma protein? 
+
+Globulin 	c. Clotting factors 
+
+Albumin 	d. Complement proteins 
+
+ANS: B 
+
+Albumin (approximately 60% of total plasma protein at a concentration of about 4 g/dl) is the most abundant plasma protein. 
+
+ 
+
+			PTS:   1 	REF: Page 946 
+
+ 
+
+What is the effect of low plasma albumin? 
+
+Clotting factors decrease, thus increasing the chance of prolonged bleeding. 
+
+Fewer immunoglobulins are synthesized, thus impairing the immune function. 
+
+Less iron is stored, thus increasing the incidence of iron deficiency anemia. 
+
+Osmotic pressure decreases, thus water moves from the capillaries to the interstitium. 
+
+ANS: D 
+
+In the case of decreased production (e.g., cirrhosis, other diffuse liver diseases, protein malnutrition) or excessive loss of albumin (e.g., certain kidney diseases, extensive burns), the reduced oncotic pressure leads to excessive movement of fluid and solutes into the tissues and decreased blood volume. The other options are not accurate descriptions of the effect of low plasma albumin. 
+
+			PTS:   1 	REF: Page 946 
+
+ 
+
+What is the life span of an erythrocyte (in days)? 
+
+20 to 30 	c. 100 to 120 
+
+60 to 90 	d.   200 to 240 
+
+ANS: C 
+
+Because it cannot undergo mitotic division, the erythrocyte has a limited life span of approximately 120 days. 
+
+ 
+
+			PTS:   1 	REF: Pages 947-948 
+
+ 
+
+Which statement concerning erythrocytes is true? 
+
+Erythrocytes contain a nucleus, mitochondria, and ribosomes. 
+
+Erythrocytes synthesize proteins. 
+
+Erythrocytes have the ability to change shape to squeeze through microcirculation. 
+
+Erythrocyte colony-stimulating factor (E-CSF) stimulates erythrocytes. 
+
+ANS: C 
+
+Reversible deformity enables the erythrocyte to assume a more compact torpedo-like shape, squeeze through the microcirculation, and return to normal. The other options are not accurate statements about erythrocytes. 
+
+			PTS:   1 	REF: Page 948 
+
+ 
+
+Granulocytes that contain granules of vasoactive amines, such as histamine, are called: 
+
+Neutrophils 	c. Monocytes 
+
+Eosinophils 	d. Basophils 
+
+ANS: D 
+
+Basophils contain cytoplasmic granules that hold an abundant mixture of biochemical mediators, including histamine, chemotactic factors, proteolytic enzymes, and an anticoagulant (heparin) (see Figure 27-3, C). This is not an accurate description of any of the other options. 
+
+ 
+
+			PTS:   1 	REF: Page 949 
+
+ 
+
+Which of the following are formed elements of the blood that are not cells but are disk-shaped cytoplasmic fragments essential for blood clotting? 
+
+Monocytes 	c. Macrophages 
+
+Platelets 	d. Erythrocytes 
+
+ANS: B 
+
+Platelets (thrombocytes) are not true cells but are disk-shaped cytoplasmic fragments that are essential for blood coagulation and control of bleeding. This description is not accurate for any of the other options. 
+
+ 
+
+			PTS:   1 	REF: Pages 950-951 
+
+ 
+
+Blood cells that differentiate into macrophages are known as: 
+
+Monocytes 	                c..Eosinophils 
+
+Neutrophils 	d. Basophils 
+
+ANS: A 
+
+Only monocytes migrate into a variety of tissues and fully mature into tissue macrophages and myeloid dendritic cells (see Table 27-3). 
+
+ 
+
+			PTS:   1 	REF: Page 950 
+
+ 
+
+Without prior exposure to an antigen, which cells are able to destroy some types of tumor cells and some virus-infected cells? 
+
+Lymphocytes 	c. Megakaryocytes 
+
+Plasma cells 	d. Natural killer (NK) cells 
+
+ANS: D 
+
+NK cells, which resemble large granular lymphocytes, kill some types of tumor cells (in vitro) and some virus-infected cells without being induced by previous exposure to these antigens. This capability is not true of the other options. 
+
+ 
+
+			PTS:   1 	REF: Page 950 
+
+ 
+
+What is the life span of platelets (in days)? 
+
+10 	c. 90 
+
+30 	d.   120 
+
+ANS: A 
+
+A platelet circulates for approximately 10 days and ages. Macrophages of the mononuclear phagocyte system, mostly in the spleen, remove platelets. 
+
+ 
+
+			PTS:   1 	REF: Page 951 
+
+ 
+
+Fetal hematopoiesis occurs in which structure? 
+
+Gut 	c. Bone marrow 
+
+Spleen 	d. Thymus 
+
+ANS: B 
+
+The spleen is the largest of the secondary lymphoid organs and the site of fetal hematopoiesis. 
+
+ 
+
+			PTS:   1 	REF: Page 951 
+
+ 
+
+What is the consequence of a splenectomy? 
+
+The level of iron in circulation increases. 
+
+Antibody production increases to improve immune function. 
+
+The number of defective cells in circulation increases. 
+
+The number of clotting factors increases. 
+
+ANS: C 
+
+Splenic absence from any cause (e.g., atrophy, traumatic injury, removal because of disease) has several secondary effects on the body, among them an increase in morphologically defective blood cells in the circulation, confirming the spleen’s role in removing old or damaged cells. This description of the consequence of a splenectomy is not accurate for the other options. 
+
+			PTS:   1 	REF: Pages 951-952 
+
+ 
+
+During an infection, why do lymph nodes enlarge and become tender? 
+
+B lymphocytes proliferate. 
+
+The nodes are inflamed. 
+
+The nodes fill with purulent exudate. 
+
+The nodes are not properly functioning. 
+
+ANS: A 
+
+The B lymphocyte proliferation in response to significant antigen (e.g., during infection) may result in lymph node enlargement and tenderness (reactive lymph node). This description is not accurate for the other options. 
+
+ 
+
+			PTS:   1 	REF: Page 954 
+
+ 
+
+Which blood cells are the chief phagocytes involved in the early inflammation process? 
+
+Neutrophils 	c. Eosinophils 
+
+Monocytes 	d. Erythrocytes 
+
+ANS: A 
+
+Neutrophils are the chief phagocytes of early inflammation. 
+
+ 
+
+			PTS:   1 	REF: Page 949 
+
+Which blood cells are biconcave in shape and have the capacity to be reversibly deformed? 
+
+Neutrophils 	c. Eosinophils 
+
+Monocytes 	d. Erythrocytes 
+
+ANS: D 
+
+The erythrocyte’s size and shape are ideally suited to its function as a gas carrier. A red blood cell (RBC) is a small disk with two unique properties: (1) a biconcave shape and (2) the capacity to be reversibly deformed. These are characteristics not observed in any of the other options. 
+
+ 
+
+			PTS:   1 	REF: Page 948 
+
+ 
+
+Which hemoglobin is made from oxidized ferric iron (Fe3+) and lacks the ability to bind oxygen? 
+
+Deoxyhemoglobin 	c. Methemoglobin 
+
+Oxyhemoglobin 	d. Glycosylated hemoglobin 
+
+ANS: C 
+
+Without reactivation by methemoglobin reductase, the Fe3+-containing hemoglobin (methemoglobin) cannot bind oxygen. This capability is not true of the other types of hemoglobin mentioned. 
+
+ 
+
+			PTS:   1 	REF: Page 961 
+
+ 
+
+The absence of parietal cells would prevent the absorption of an essential nutrient necessary to prevent which type of anemia? 
+
+Iron deficiency 	c.Folic acid deficiency anemia 
+
+Pernicious anemia 	d. Aplastic anemia 
+
+ANS: B 
+
+Dietary vitamin B12 is a large molecule that requires a protein secreted by parietal cells into the stomach (intrinsic factor [IF]) to transport across the ileum. Defects in IF production lead to decreased B12 absorption and pernicious anemia. The other options are not the result of this process. 
+
+			PTS:   1 	REF: Page 962 
+
+ 
+
+Which nutrients are necessary for the synthesis of DNA and the maturation of erythrocytes? 
+
+Protein and niacin 	c. Cobalamin (vitamin B12) and folate 
+
+Iron and vitamin B6 (pyridoxine) 	d. Pantothenic acid and vitamin C 
+
+ANS: C 
+
+Cobalamin and folate are necessary for the synthesis of DNA and for the maturation of erythrocytes. The remaining options are not necessary for these processes to occur. 
+
+ 
+
+			PTS:   1 	REF: Page 962 | Table 27-6 
+
+ 
+
+Which nutrients are necessary for hemoglobin synthesis? 
+
+Protein and niacin 	c. Cobalamin (vitamin B12) and folate 
+
+Iron and vitamin B6 (pyridoxine) 	d. Pantothenic acid and vitamin C 
+
+ANS: B 
+
+Iron and B6 (pyridoxine) are necessary for hemoglobin synthesis (see Table 27-6). The remaining options are not necessary for hemoglobin synthesis. 
+
+			PTS:   1 	REF: Page 962 | Table 27-6 
+
+ 
+
+Recycling of iron from erythrocytes is made possible by which of the following? 
+
+Transferrin 	c. Apoferritin 
+
+Hemosiderin 	d. Erythropoietin 
+
+ANS: A 
+
+Transferrin is recycled (transferrin cycle) in the following manner: (1) the transferrin-iron complex binds to a transferring receptor on the erythroblast’s plasma membrane; (2) the complex moves into the cell by receptor-mediated endocytosis; (3) iron is released (dissociated) from transferrin; and (4) the dissociated transferrin is returned to the bloodstream for reuse. The other options do not present an accurate description of the recycling of erythrocytic iron. 
+
+ 
+
+			PTS:   1 	REF: Pages 963-964 
+
+ 
+
+By which structure are mature erythrocytes removed from the bloodstream? 
+
+Liver 	c. Thymus 
+
+Lymph nodes 	d. Spleen 
+
+ANS: D 
+
+After approximately 100 to 120 days in the circulation, old erythrocytes are removed by tissue macrophages, primarily in the spleen. 
+
+			PTS:   1 	REF: Page 962 
+
+ 
+
+Which substance is used to correct the chronic anemia associated with chronic renal failure? 
+
+Iron 	c. Cobalamin (vitamin B12) 
+
+Erythropoietin 	d. Folate 
+
+ANS: B 
+
+One of the most significant advances in the study of hematopoietic growth factors has been the development of erythropoietin for individuals with chronic renal failure. The other options are not associated with the treatment of chronic anemia. 
+
+ 
+
+			PTS:   1 	REF: Pages 960-961 
+
+ 
+
+What is the role of thromboxane A (TXA2) in the secretion stage of hemostasis? 
+
+Stimulates the synthesis of serotonin. 
+
+Promotes vasodilation. 
+
+Stimulates platelet aggregation. 
+
+Promotes formation of cyclooxygenase. 
+
+ANS: C 
+
+Platelet aggregation is primarily stimulated by TXA2 and adenosine diphosphate (ADP), which induce functional fibrinogen receptors on the platelet. The other options do not present an accurate description of the role of thromboxane A. 
+
+			PTS:   1 	REF: Page 969 
+
+ 
+
+Which of the following is the role of nitric oxide (NO) in hemostasis? 
+
+Stimulates the release of fibrinogen to maintain the platelet plug. 
+
+Stimulates the release of clotting factors V and VII. 
+
+Causes vasoconstriction and stimulates platelet aggregation. 
+
+Controls platelet activation through cyclic adenosine monophosphate (cAMP)–mediated signaling. 
+
+ANS: D 
+
+Endothelial cell NO synthase produces NO, which controls platelet activation through cAMP-mediated signaling. The other options do not present an accurate description of the role of NO in hemostasis. 
+
+ 
+
+			PTS:   1 	REF: Page 966 | Figure 27-18 
+
+ 
+
+The drug heparin acts in hemostasis by which processes? 
+
+Inhibiting thrombin and antithrombin III (AT-III) 
+
+Preventing the conversion of prothrombin to thrombin 
+
+Shortening the fibrin strands to retract the blood clot 
+
+Degrading the fibrin within blood clots 
+
+ANS: A 
+
+Clinically administered heparin or heparin sulfate (on the surface of endothelial cells) binds to AT-III and induces a conformational change that greatly enhances its activity. Under normal conditions, the presence of endothelial cell heparin sulfate and available AT-III in the circulation cooperateNUtoRpSrIoNtGeTctBt.hCeOvMessels from the effects of spontaneously activated thrombin. The other options do not accurately describe the role heparin plays in hemostasis. 
+
+ 
+
+			PTS:   1 	REF: Page 970 
+
+ 
+
+What is plasmin’s role in the clotting process? 
+
+Stimulates platelet aggregation. 
+
+Inhibits platelet adhesion and aggregation. 
+
+Prevents the conversion of prothrombin to degrade the fibrin within blood clots. 
+
+Degrades the fibrin within blood clots. 
+
+ANS: D 
+
+Plasmin (also called fibrinase or fibrinolysin) is a serine protease that degrades fibrin polymers in clots. It is not capable of the functions described in the remaining options. 
+
+ 
+
+			PTS:   1 	REF: Pages 971-972 
+
+ 
+
+What does polycythemia at birth indicate? 
+
+Hypoxia in utero 	c. Congenitally absent spleen 
+
+Dysfunctional bone marrow 	d. Dehydration in utero 
+
+ANS: A 
+
+The hypoxic intrauterine environment stimulates erythropoietin production in the fetus and accelerates fetal erythropoiesis, producing polycythemia (excessive proliferation of erythrocyte precursors) of the newborn. The other options are not related to polycythemia. 
+
+ 
+
+			PTS:   1 	REF: Page 975 
+
+ 
+
+Where are Kupffer cells located? 
+
+Kidneys 	c. Pancreas 
+
+Liver 	d. Spleen 
+
+ANS: B 
+
+The liver macrophages are the only location for Kupffer cells. 
+
+ 
+
+			PTS:   1 	REF: Page 950 | Page 962 | Table 27-3 
+
+ 
+
+Where are Langerhans cells found? 
+
+Skin 	c. Kidney 
+
+Intestinal lining 	d. Thyroid 
+
+ANS: A 
+
+Of the available options, only the skin is the location for Langerhans cells. 
+
+ 
+
+			PTS:   1 	REF: Page 950 | Table 27-3 
+
+ 
+
+What is the role of collagen in the clotting process? 
+
+Initiates the clotting cascade. 	c. Stimulates fibrin. 
+
+Activates platelets. 	d. Deactivates fibrinogen. 
+
+			ANS: B 	 
+
+In the clotting process, collagen provides a particularly strong stimulus to activate platelets. Collagen does not bring about any of the other options. 
+
+ 
+
+			PTS:   1 	REF: Page 969 
+
+ 
+
+Which form of iron (Fe) can be used in the formation of normal hemoglobin? 
+
+Fe+ 	c. Fe3+ 
+
+Fe2+ 	d.   Fe4+ 
+
+ANS: B 
+
+It is crucial that the iron be correctly charged; only reduced ferrous iron (Fe2+) can bind oxygen in the lungs and release it in the tissues. 
+
+ 
+
+			PTS:   1 	REF: Page 961 
+
+ 
+
+Where are alveolar macrophages found? 
+
+Skin 	c. Gastrointestinal tract 
+
+Breasts 	d. Lungs 
+
+ANS: D 
+
+The lung is the only location for alveolar macrophages. 
+
+ 
+
+			PTS:   1 	REF: Page 950 | Table 27-3 
+
+What changes to the hematologic system is related to age? 
+
+Platelet adhesiveness decreases. 
+
+Lymphocyte function decreases. 
+
+Cellular immunity increases. 
+
+Erythrocyte reproduction accelerates. 
+
+ANS: B 
+
+Blood composition changes little with age. A delay in erythrocyte replenishment may occur after bleeding, presumably because of iron deficiency. Lymphocyte function appears to decrease with age. Particularly affected is a decrease in cellular immunity. Platelet adhesiveness probably increases with age. 
+
+ 
+
+			PTS:   1 	REF: Page 975 
+
+ 
+
+What is the function of erythrocytes? 
+
+Tissue oxygenation 	c. Infection control 
+
+Hemostasis 	d. Allergy response 
+
+ANS: A 
+
+Erythrocytes are solely responsible for tissue oxygenation. 
+
+ 
+
+			PTS:   1 	REF: Pages 947-948 
+
+ 
+
+MULTIPLE RESPONSE 
+
+ 
+
+Which characteristics allow erythrocytes to function as gas carriers? (Select all that apply.) a. Permanent shape 
+
+Compactness 	 
+
+Reversible deformability 
+
+Presence of hyperactive mitochondria 
+
+Biconcavity 
+
+ANS: C, E 
+
+A red blood cell (RBC) is a small disk with two unique properties: (1) a biconcave shape and (2) the capacity to be reversibly deformed. The other options are not relevant to the function of gas transport. 
+
+ 
+
+			PTS:   1 	REF: Page 948 
+
+ 
+
+Which statements about plasma proteins are correct? (Select all that apply.) a. Provide clotting factors. 
+
+Transport triglycerides. 
+
+Synthesize complement proteins. 
+
+Create hydrostatic pressure. 
+
+Transport cholesterol. 
+
+ANS: A, B, C, E 
+
+Plasma proteins do not create hydrostatic pressure. The other options are all accurate statements regarding plasma proteins. 
+
+ 
+
+			PTS:   1 	REF: Pages 945-947 
+
+What are the primary anticoagulant mechanisms? (Select all that apply.) a. Antithrombin III 
+
+Tissue factor pathway inhibitor 
+
+Hematopoiesis 
+
+Protein C 
+
+Phagocytosis 
+
+ANS: A, B, D 
+
+The major regulatory factors that control hemostasis reside where the greatest probability of clotting would occur—on the endothelial cell surface. The primary anticoagulant mechanisms include thrombin inhibitors (e.g., antithrombin III), tissue factor inhibitors (e.g., tissue factor pathway inhibitor), and mechanisms for degrading activated clotting factors (e.g., protein C). Hematopoiesis and phagocytosis are processes that are not related to anticoagulation. 
+
+ 
+
+			PTS:   1 	REF: Page 970 
+
+ 
+
+Which statements are true regarding the role of the endothelium in clot formation? 
+
+(Select all that apply.) 
+
+The surface of the endothelium produces plasma protease inhibitors. 
+
+Plasma protease inhibitors assist in preventing clot formation. 
+
+Thrombomodulin is a protein that is converted on the surface of endothelial cells. 
+
+Protein A binds to thrombomodulin. 
+
+Activated protein C enhances the adhesion ability of neutrophils. 
+
+ANS: A, B, C 
+
+The surface of the endothelium produces plasma protease inhibitors to resist clot formation. Thrombomodulin is a mNUemRSbIrNaGneTBth.CroOmMbin-binding protein matter and is converted to activated protein C (see Figure 27-18) on the surface of endothelial cells. Protein C in the circulation binds to thrombomodulin. Activated protein C inhibits the adhesion of neutrophils to the endothelium. 
+
+ 
+
+			PTS:   1 	REF: Pages 970-971 
+
+ 
+
+Which statements characterize albumin? (Select all that apply.) 
+
+Retains sodium to maintain water balance. 
+
+Provides colloid osmotic pressure. 
+
+Is synthesized in the liver. 
+
+Is a carrier for drugs that have low water solubility. 
+
+Is a small molecule 
+
+ANS: B, C, D 
+
+Albumin is a plasma protein produced by the liver. It serves as a carrier molecule for the normal components of blood, as well as for drugs that have low solubility in water (e.g., free fatty acids, lipid-soluble hormones, thyroid hormones, bile salts). Albumin molecules are large and do not diffuse freely through the vascular endothelium, thus they maintain the critical colloidal osmotic pressure (or oncotic pressure) that regulates the passage of water and solutes into the surrounding tissues (see Chapters 1 and 3). 
+
+ 
+
+			PTS:   1 	REF: Page 946 
+
+MATCHING 
+
+ 
+
+Match the descriptions with the corresponding terms. 
+
+Clotting 
+
+Red blood cell development 
+
+Red blood cell destruction 
+
+Platelet formation 
+
+Blood cell production 
+
+Endomitosis 
+
+Hemostasis 
+
+Hematopoiesis 
+
+Erythropoiesis 
+
+Phagocytosis 
+
+ 
+
+ANS: D 	PTS:   1 	REF: Page 965 
+
+MSC: During thrombopoiesis, the megakaryocyte progenitor is programmed to undergo an endomitotic cell cycle called endomitosis, during which DNA replication of platelets occurs. 
+
+ANS: A 	PTS:   1 	REF: Page 965 
+
+MSC: Hemostasis is defined as arrest of bleeding. 
+
+ANS: E 	PTS:   1 	REF: Page 954 
+
+MSC: Blood cell production (hematopoiesis) is ongoing, occurring in the liver and spleen of the fetus and only in bone marrow (medullary hematopoiesis) after birth. 
+
+ANS: B 	PTS:   1 	REF: Page 959 
+
+MSC: It was not until the 1850s that the bone marrow was identified as the site of erythropoiesis, or the development of red blood cells. 
+
+ANS: C 	PTS:   1 	REF: Page 950 
+
+ 
+
+MSC: Monocytes and macrophages ar e a c t iv e p h a g oc ytes that participate in the immune and inflammatory responses. They also ingest dead or defective host cells, particularly blood cells.

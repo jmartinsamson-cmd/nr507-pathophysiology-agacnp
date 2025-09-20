@@ -1,0 +1,358 @@
+{
+  "docx_questions": [
+    {
+      "id": 1,
+      "text": "Most cardiovascular developments occur between which weeks of gestation?",
+      "options": [
+        "Fourth and seventh weeks",
+        "Twelfth and fourteenth weeks",
+        "Eighth and tenth weeks",
+        "Fifteenth and seventeenth weeks"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 2,
+      "text": "The function of the foramen ovale in a fetus allows what to occur?",
+      "options": [
+        "Right-to-left blood shunting",
+        "Blood flow from the umbilical cord",
+        "Left-to-right blood shunting",
+        "Blood flow to the lungs"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 3,
+      "text": "At birth, which statement is true?",
+      "options": [
+        "Systemic resistance and pulmonary resistance fall.",
+        "Gas exchange shifts from the placenta to the lung.",
+        "Systemic resistance falls and pulmonary resistance rises.",
+        "Systemic resistance and pulmonary resistance rise."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 4,
+      "text": "When does systemic vascular resistance in infants begin to increase?",
+      "options": [
+        "One month before birth",
+        "uring the beginning stage of labor",
+        "One hour after birth",
+        "Once the placenta is removed from circulation"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 5,
+      "text": "Which event triggers congenital heart defects that cause acyanotic congestive heart failure?",
+      "options": [
+        "Right-to-left shunts",
+        "Obstructive lesions",
+        "Left-to-right shunts",
+        "Mixed lesions"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 6,
+      "text": "Older children with an unrepaired cardiac septal defect experience cyanosis because of which factor?",
+      "options": [
+        "Right-to-left shunts",
+        "Obstructive lesions",
+        "Left-to-right shunts",
+        "Mixed lesions"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 7,
+      "text": "Which congenital heart defects occur in trisomy 13, trisomy 18, and Down syndrome?",
+      "options": [
+        "oarctation of the aorta (COA) and pulmonary stenosis (PS)",
+        "Tetralogy of Fallot and persistent truncus arteriosus",
+        "trial septal defect (ASD) andNdUeRxStrINocGaTrBd.iCaOM",
+        "Ventricular septal defect (VSD) and patent ductus arteriosus (PDA)"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 8,
+      "text": "An infant has a continuous machine-type murmur best heard at the left upper sternal border throughout systole and diastole, as well as a bounding pulse and a thrill on palpation. These clinical findings are consistent with which congenital heart defect?",
+      "options": [
+        "trial septal defect (ASD)",
+        "Patent ductus arteriosus (PDA)",
+        "Ventricular septal defect (VSD)",
+        "Atrioventricular canal (AVC) defect"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 9,
+      "text": "An infant has a crescendo-decrescendo systolic ejection murmur located between the second and third intercostal spaces along the left sternal border. A wide fixed splitting of the second heart sound is also found. These clinical findings are consistent with which congenital heart defect?",
+      "options": [
+        "trial septal defect (ASD)",
+        "Patent ductus arteriosus (PDA)",
+        "Ventricular septal defect (VSD)",
+        "Atrioventricular canal (AVC) defect"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 10,
+      "text": "An infant has a loud, harsh, holosystolic murmur and systolic thrill that can be detected at the left lower sternal border that radiates to the neck. These clinical findings are consistent with which congenital heart defect?",
+      "options": [
+        "trial septal defect (ASD)",
+        "Patent ductus arteriosus (PDA)",
+        "Ventricular septal defect (VSD)",
+        "Atrioventricular canal (AVC) defect"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 11,
+      "text": "Where can coarctation of the aorta (COA) be located?",
+      "options": [
+        "Exclusively on the aortic arch",
+        "Proximal to the brachiocephalic artery",
+        "etween the origin of the aortic arch and the bifurcation of the aorta in the lower abdomen",
+        "etween the origin of the aortic arch and the origin of the first intercostal artery"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 12,
+      "text": "Classic manifestations of a systolic ejection murmur heard at the left interscapular area, cool mottled skin on the lower extremities but hypertension noted in the upper extremities, and decreased or absent femoral pulse are indicative of an older child with which congenital defect?",
+      "options": [
+        "Tetralogy of Fallot",
+        "Ventricular septum defect (SD)",
+        "ortic stenosis",
+        "Coarctation of the aorta (OA)"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 13,
+      "text": "What is the initial manifestation of aortic coarctation observed in a neonate?",
+      "options": [
+        "ongestive heart failure (CHF)",
+        "Pulmonary hypertension",
+        "or pulmonale",
+        "Cerebral hypertension"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 14,
+      "text": "Which compensatory mechanism NisUsRpSoInNtGanTeBo.CuOslMy used by children diagnosed with tetralogy of Fallot to relieve hypoxic spells?",
+      "options": [
+        "Lying on their left side",
+        "Squatting",
+        "Performing the Valsalva maneuver",
+        "Hyperventilating"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 15,
+      "text": "An infant diagnosed with a small patent ductus arteriosus (PDA) would likely exhibit which symptom?",
+      "options": [
+        "Intermittent murmur",
+        "Need for surgical repair",
+        "Lack of symptoms",
+        "Triad of congenital defects"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 16,
+      "text": "What is the most common cause of chronic sustained hypertension observed only in a newborn?",
+      "options": [
+        "Renal parenchymal disease",
+        "Renal artery stenosis",
+        "Primary hypertension",
+        "Congenital renal malformation"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 17,
+      "text": "Which condition is consistent with the cardiac defect of transposition of the great vessels?",
+      "options": [
+        "The aorta arises from the right ventricle.",
+        "The pulmonary trunk arises from the right ventricle.",
+        "The right ventricle pumps blood to the lungs.",
+        "n intermittent murmur is present."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 18,
+      "text": "Which scenario describes total anomalous pulmonary venous return?",
+      "options": [
+        "The foramen ovale closes after birth.",
+        "Pulmonary venous return is to the right atrium.",
+        "Pulmonary venous return is to the leftatrium.",
+        "The left atrium receives oxygenated blood."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 19,
+      "text": "Which heart defect produces a systolic ejection murmur at the right upper sternal border that transmits to the neck and left lower sternal border?",
+      "options": [
+        "oarctation of the aorta",
+        "Aortic stenosis",
+        "Pulmonic stenosis",
+        "Hypoplastic left heart syndrome"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 20,
+      "text": "Which heart defect produces a systolic ejection click at the upper left sternal border with a thrill palpated at the upper left sternal border?",
+      "options": [
+        "oarctation of the aorta (COA)",
+        "Aortic stenosis",
+        "Pulmonary stenosis (PS)",
+        "Hypoplastic left heart syndrome"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 21,
+      "text": "What is the suggested mean bloodNpUrResSsINurGeTfBo.rCaOnM8- to 9-year-old child?",
+      "options": [
+        "104/55 mm Hg",
+        "112/62 mm Hg",
+        "106/58 mm Hg",
+        "121/70 mm Hg"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    }
+  ],
+  "comparison_results": {
+    "total_docx": 21,
+    "total_json": 22,
+    "matches": 19,
+    "differences": [
+      {
+        "question_id": 5,
+        "question_text": "Which event triggers congenital heart defects that cause acyanotic congestive heart failure?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 8,
+        "question_text": "An infant has a continuous machine-type murmur best heard at the left upper sternal border throughou...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 10,
+        "question_text": "An infant has a loud, harsh, holosystolic murmur and systolic thrill that can be detected at the lef...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 15,
+        "question_text": "An infant diagnosed with a small patent ductus arteriosus (PDA) would likely exhibit which symptom?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 19,
+        "question_text": "Which heart defect produces a systolic ejection murmur at the right upper sternal border that transm...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 20,
+        "question_text": "Which heart defect produces a systolic ejection click at the upper left sternal border with a thrill...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      }
+    ],
+    "missing_in_json": [
+      {
+        "id": 14,
+        "text": "Which compensatory mechanism NisUsRpSoInNtGanTeBo.CuOslMy used by children diagnosed with tetralogy ..."
+      },
+      {
+        "id": 21,
+        "text": "What is the suggested mean bloodNpUrResSsINurGeTfBo.rCaOnM8- to 9-year-old child?..."
+      }
+    ],
+    "extra_in_json": []
+  }
+}

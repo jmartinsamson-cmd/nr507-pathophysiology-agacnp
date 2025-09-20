@@ -1,0 +1,690 @@
+{
+  "docx_questions": [
+    {
+      "id": 1,
+      "text": "Which statement does not accurately describe the pericardium?",
+      "options": [
+        "The pericardium is a double-walled membranous sac that encloses the heart.",
+        "It is made up of connective tissue and a surface layer of squamous cells.",
+        "The pericardium protects the heart against infection and inflammation from the lungs and pleural space.",
+        "It contains pain and mechanoreceptors that can elicit reflex changes in blood pressure and heart rate."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 2,
+      "text": "Which cardiac chamber has the thinnest wall and why?",
+      "options": [
+        "The right and left atria; they are low-pressure chambers that serve as storage units and conduits for blood.",
+        "The right and left atria; they are not directly involved in the preload, contractility, or afterload of the heart.",
+        "The left ventricle; the mean pressure of blood coming into this ventricle is from the lung, which has a low pressure.",
+        "The right ventricle; it pumps bNloUoRdSIiNntGoTtBh.eCOpuMlmonary capillaries, which have a lower pressure compared with the systemic circulation."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 3,
+      "text": "Which chamber of the heart endures the highest pressures?",
+      "options": [
+        "Right atrium",
+        "Left ventricle",
+        "Left atrium",
+        "Right ventricle"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 4,
+      "text": "What is the process that ensures mitral and tricuspid valve closure after the ventricles are filled with blood?",
+      "options": [
+        "hordae tendineae relax, which allows the valves to close.",
+        "Increased pressure in the ventricles pushes the valves to close.",
+        "Trabeculae carneae contract, which pulls the valves closed.",
+        "Reduced pressure in the atria creates a negative pressure that pulls the valves closed."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 5,
+      "text": "Regarding the heart\u2019s valves, what is a function of the papillary muscles?",
+      "options": [
+        "The papillary muscles close the semilunar valve.",
+        "These muscles prevent backward expulsion of the atrioventricular valve.",
+        "They close the atrioventricular valve.",
+        "The papillary muscles open the semilunar valve."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 6,
+      "text": "During the cardiac cycle, why do the aortic and pulmonic valves close after the ventricles relax?",
+      "options": [
+        "Papillary muscles relax, which allows the valves to close.",
+        "hordae tendineae contract, which pulls the valves closed.",
+        "Reduced pressure in the ventricles creates a negative pressure, which pulls the valves closed.",
+        "lood fills the cusps of the valves and causes the edges to merge, closing the valves."
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 7,
+      "text": "Oxygenated blood flows through which vessel?",
+      "options": [
+        "Superior vena cava",
+        "Pulmonary artery",
+        "Pulmonary veins",
+        "Coronary veins"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 8,
+      "text": "Occlusion of the left anterior descending artery during a myocardial infarction would interrupt blood supply to which structures?",
+      "options": [
+        "Left and right ventricles and much of the interventricular septum",
+        "Left atrium and the lateral wall of the left ventricle",
+        "Upper right ventricle, right marginal branch, and right ventricle to the apex",
+        "Posterior interventricular sulcus and the smaller branches of both ventricles"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 9,
+      "text": "Occlusion of the circumflex arteryNdUuRrSinINgGaTmB.yCoOcMardial infarction would interrupt blood supply to which area?",
+      "options": [
+        "Left and right ventricles and much of the interventricular septum",
+        "Posterior interventricular sulcus and the smaller branches of both ventricles",
+        "Upper right ventricle, right marginal branch, and right ventricle to the apex",
+        "Left atrium and the lateral wall of the left ventricle"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 10,
+      "text": "The coronary sinus empties into which cardiac structure?",
+      "options": [
+        "Right atrium",
+        "Superior vena cava",
+        "Left atrium",
+        "Aorta"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 11,
+      "text": "What is the ratio of coronary capillaries to cardiac muscle cells?",
+      "options": [
+        "1:1 (one capillary per one muscle cell)",
+        "1:2 (one capillary per two muscle cells)",
+        "1:4 (one capillary per four muscle cells)",
+        "1:10 (one capillary per ten muscle cells)"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 12,
+      "text": "During the cardiac cycle, which structure directly delivers action potential to the ventricular myocardium?",
+      "options": [
+        "Sinoatrial (SA) node",
+        "Purkinje fibers",
+        "trioventricular (AV) node",
+        "Bundle branches"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 13,
+      "text": "What causes depolarization of a cardiac muscle cell to occur?",
+      "options": [
+        "ecrease in the permeability of the cell membrane to potassium",
+        "Rapid movement of sodium into the cell",
+        "ecrease in the movement of sodium out of the cell",
+        "Rapid movement of calcium out of the cell"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 14,
+      "text": "Which event occurs during phase 1 of the normal myocardial cell depolarization and repolarization?",
+      "options": [
+        "Repolarization when potassium moves out of the cells",
+        "Repolarization when sodium rapidly enters into the cells",
+        "Early repolarization when sodium slowly enters the cells",
+        "Early repolarization when calcium slowly enters the cells"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 15,
+      "text": "Which phase of the normal myocardial cell depolarization and repolarization correlates with diastole?",
+      "options": [
+        "Phase 1",
+        "Phase 3",
+        "Phase 2",
+        "Phase 4"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 16,
+      "text": "In the normal electrocardiogram, what does the PR interval represent?",
+      "options": [
+        "trial depolarization",
+        "Ventricular depolarization",
+        "trial activation to onset of ventricular activity",
+        "Electrical systole of the ventricles"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 17,
+      "text": "What period follows depolarization of the myocardium and represents a period during which no new cardiac potential can be propagated?",
+      "options": [
+        "Refractory",
+        "Threshold",
+        "Hyperpolarization",
+        "Sinoatrial (SA)"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 18,
+      "text": "Which complex (wave) represents the sum of all ventricular muscle cell depolarizations?",
+      "options": [
+        "PRS",
+        "QT interval",
+        "QRS",
+        "P"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 19,
+      "text": "What can shorten the conduction time of action potential through the atrioventricular (AV) node?",
+      "options": [
+        "Parasympathetic nervous system",
+        "Vagal stimulation",
+        "atecholamines",
+        "Sinoatrial node (SA)"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 20,
+      "text": "If the sinoatrial (SA) node fails, then at what rate (depolarizations per minute) can the atrioventricular (AV) node depolarize?",
+      "options": [
+        "60 to 70",
+        "30 to 40",
+        "40 to 60",
+        "10 to 20"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 21,
+      "text": "What is the effect of epinephrine on \ud835\uddc93 receptors on the heart?",
+      "options": [
+        "ecreases coronary blood flow.",
+        "Supplements the effects of both \ud835\uddc91 and \ud835\uddc92 receptors.",
+        "Increases the strength of myocardial contraction.",
+        "Prevents overstimulation of the heart by the sympathetic nervous system."
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 22,
+      "text": "Where in the heart are the receptors for neurotransmitters located?",
+      "options": [
+        "Semilunar and atrioventricular (AV) valves",
+        "Endocardium and sinoatrial (SA) node",
+        "Myocardium and coronary vessels",
+        "Epicardium and AV node"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 23,
+      "text": "What enables electrical impulses to travel in a continuous cell-to-cell fashion in myocardial cells?",
+      "options": [
+        "Sarcolemma sclerotic plaques",
+        "Trabeculae carneae",
+        "Intercalated disks",
+        "Bachmann bundles"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 24,
+      "text": "Within a physiologic range, what does an increase in left ventricular end-diastolic volume (preload) result in?",
+      "options": [
+        "Increase in force of contraction",
+        "Increase in afterload",
+        "ecrease in refractory time",
+        "Decrease in repolarization"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 25,
+      "text": "Pressure in the left ventricle must exceed pressure in which structure before the left ventricle can eject blood?",
+      "options": [
+        "Superior vena cava",
+        "Inferior vena cava",
+        "orta",
+        "Pulmonary veins"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 26,
+      "text": "Continuous increases in left ventricular filing pressures result in which disorder?",
+      "options": [
+        "Mitral regurgitation",
+        "Pulmonary edema",
+        "Mitral stenosis",
+        "Jugular vein distention"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 27,
+      "text": "When the volume of blood in the ventricle at the end of diastole increases, the force of the myocardial contraction during the next systole will also increase, which is an example of which law or theory about the heart?",
+      "options": [
+        "Laplace\u2019s law",
+        "Cross-bridge theory",
+        "Poiseuille law",
+        "Frank-Starling law"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 28,
+      "text": "The resting heart rate in a healthy person is primarily under the control of which nervous system?",
+      "options": [
+        "Sympathetic",
+        "Somatic",
+        "Parasympathetic",
+        "Spinal"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 29,
+      "text": "The Bainbridge reflex is thought to be initiated by sensory neurons in which cardiac location?",
+      "options": [
+        "tria",
+        "Sinoatrial (SA) node",
+        "orta",
+        "Ventricles"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 30,
+      "text": "After the baroreceptor reflex is stimulated, the resulting impulse is transmitted from the carotid artery by which sequence of events?",
+      "options": [
+        "Vagus nerve to the medulla to increase parasympathetic activity and to decrease sympathetic activity",
+        "Glossopharyngeal cranial nerve through the vagus nerve to the medulla to increase sympathetic activity and to deNcrUeRasSeINpGaTraBs.yCmOMpathetic activity",
+        "Glossopharyngeal cranial nerve through the vagus nerve to the medulla to increase parasympathetic activity and to decrease sympathetic activity",
+        "Glossopharyngeal cranial nerve through the vagus nerve to the hypothalamus to increase parasympathetic activity and to decrease sympathetic activity"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 31,
+      "text": "Reflex control of total cardiac output and total peripheral resistance is controlled by what mechanism?",
+      "options": [
+        "Parasympathetic stimulation of the heart, arterioles, and veins",
+        "Sympathetic stimulation of the heart, arterioles, and veins",
+        "utonomic control of the heart only",
+        "Somatic control of the heart, arterioles, and veins"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 32,
+      "text": "What is the most important negative inotropic agent?",
+      "options": [
+        "Norepinephrine",
+        "Acetylcholine",
+        "Epinephrine",
+        "Dopamine"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 33,
+      "text": "The right lymphatic duct drains into which structure?",
+      "options": [
+        "Right subclavian artery",
+        "Right subclavian vein",
+        "Right atrium",
+        "Superior vena cava"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 34,
+      "text": "Where is the major cardiovascular center in the central nervous system?",
+      "options": [
+        "Frontal lobe",
+        "Brainstem",
+        "Thalamus",
+        "Hypothalamus"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 35,
+      "text": "What is the major determinant of the resistance that blood encounters as it flows through the systemic circulation?",
+      "options": [
+        "Volume of blood in the systemic circulation",
+        "Muscle layer of the metarterioles",
+        "Muscle layer of the arterioles",
+        "Force of ventricular contraction"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 36,
+      "text": "Which function of the cardiovascular system is often affected by ischemia?",
+      "options": [
+        "ardiac output (CO)",
+        "Heart rate (HR)",
+        "Stroke volume (SV)",
+        "Cardiac index (CI)"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 37,
+      "text": "What physical sign is the result of turbulent blood flow through a vessel?",
+      "options": [
+        "Increased blood pressure durinNgUpReSrIiNoGdsTBo.fCsOtrMess",
+        "ounding pulse felt on palpation",
+        "yanosis observed on excretion",
+        "Murmur heard on auscultation"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 38,
+      "text": "What is the major effect of a calcium channel blocker such as verapamil on cardiac contractions?",
+      "options": [
+        "Increases the rate of cardiac contractions.",
+        "ecreases the strength of cardiac contractions.",
+        "Stabilizes the rhythm of cardiac contractions.",
+        "Stabilizes the vasodilation during cardiac contractions."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 39,
+      "text": "An early diastole peak caused by filling of the atrium from peripheral veins is identified by which intracardiac pressure?",
+      "options": [
+        "wave",
+        "C wave",
+        "V wave",
+        "X descent"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 40,
+      "text": "Which intracardiac pressure is generated by the atrial contraction?",
+      "options": [
+        "wave",
+        "Y descent",
+        "wave",
+        "X descent"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 41,
+      "text": "Which intracardiac pressure is produced because of the descent of the tricuspid valve ring and by the ejection of blood from both ventricles?",
+      "options": [
+        "V wave",
+        "Y descent",
+        "wave",
+        "X descent"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    }
+  ],
+  "comparison_results": {
+    "total_docx": 41,
+    "total_json": 41,
+    "matches": 40,
+    "differences": [
+      {
+        "question_id": 3,
+        "question_text": "Which chamber of the heart endures the highest pressures?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 7,
+        "question_text": "Oxygenated blood flows through which vessel?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 12,
+        "question_text": "During the cardiac cycle, which structure directly delivers action potential to the ventricular myoc...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 18,
+        "question_text": "Which complex (wave) represents the sum of all ventricular muscle cell depolarizations?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 19,
+        "question_text": "What can shorten the conduction time of action potential through the atrioventricular (AV) node?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 20,
+        "question_text": "If the sinoatrial (SA) node fails, then at what rate (depolarizations per minute) can the atrioventr...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 23,
+        "question_text": "What enables electrical impulses to travel in a continuous cell-to-cell fashion in myocardial cells?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 25,
+        "question_text": "Pressure in the left ventricle must exceed pressure in which structure before the left ventricle can...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 28,
+        "question_text": "The resting heart rate in a healthy person is primarily under the control of which nervous system?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 32,
+        "question_text": "What is the most important negative inotropic agent?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 33,
+        "question_text": "The right lymphatic duct drains into which structure?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 34,
+        "question_text": "Where is the major cardiovascular center in the central nervous system?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 36,
+        "question_text": "Which function of the cardiovascular system is often affected by ischemia?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 39,
+        "question_text": "An early diastole peak caused by filling of the atrium from peripheral veins is identified by which ...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[2]"
+        ]
+      }
+    ],
+    "missing_in_json": [
+      {
+        "id": 9,
+        "text": "Occlusion of the circumflex arteryNdUuRrSinINgGaTmB.yCoOcMardial infarction would interrupt blood su..."
+      }
+    ],
+    "extra_in_json": []
+  }
+}

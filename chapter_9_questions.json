@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "text": "Hypersensitivity is best defined as a(an):",
+    "options": [
+      "Disturbance in the immunologic tolerance of self-antigens",
+      "Immunologic reaction of one person to the tissue of another person",
+      "Altered immunologic response to an antigen that results in disease",
+      "Undetectable immune response in the presence of antigens"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Hypersensitivity is an altered immunologic response to an antigen that results in disease or damage to the host. The other options are not accurate definitions of hypersensitivity."
+  },
+  {
+    "id": 2,
+    "text": "A hypersensitivity reaction that produces an allergic response is called:",
+    "options": [
+      "Hemolytic shock",
+      "Necrotizing vasculitis",
+      "Anaphylaxis",
+      "Systemic erythematosus"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Examples of systemic anaphylaxis are allergic reactions to beestings, peanuts, and fish. The other options are not accurate examples of hypersensitivity."
+  },
+  {
+    "id": 3,
+    "text": "Blood transfusion reactions are an example of:",
+    "options": [
+      "a.Autoimmunity",
+      "c. Homoimmunity",
+      "b. Alloimmunity",
+      "d. Hypersensitivity"
+    ],
+    "correct": [
+      1
+    ],
+    "rationale": "Only alloimmunity (also termed isoimmunity) occurs when the immune system of one individual produces an immunologic reaction against tissues of another individual."
+  },
+  {
+    "id": 4,
+    "text": "When mismatched blood is administered causing an ABO incompatibility, the erythrocytes are destroyed by:",
+    "options": [
+      "Complement-mediated cell lysis",
+      "Phagocytosis in the spleen",
+      "Phagocytosis by macrophages",
+      "Natural killer cells"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Erythrocytes are destroyed by complement-mediated lysis in individuals with autoimmune hemolytic anemia or as a result ofNaUnRaSlIlNoiGmTmB.uCnOeMreaction to ABO- mismatched transfused blood cells. The other options are not involved in an ABO incompatibility reaction."
+  },
+  {
+    "id": 5,
+    "text": "When antibodies are formed against red blood cell antigens of the Rh system, the blood cells are destroyed by:",
+    "options": [
+      "Complement-mediated cell lysis",
+      "Phagocytosis by macrophages",
+      "Phagocytosis in the spleen",
+      "Neutrophil granules and toxic oxygen products"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Antibodies against platelet-specific antigens or against red blood cell antigens of the Rh system coat those cells at low density, resulting in their preferential removal by phagocytosis in the spleen, rather than by complement-mediated lysis. The other options do not cause this reaction."
+  },
+  {
+    "id": 6,
+    "text": "When soluble antigens from infectious agents enter circulation, tissue damage is a result of:",
+    "options": [
+      "Complement-mediated cell lysis",
+      "Phagocytosis by macrophages",
+      "Phagocytosis in the spleen",
+      "Neutrophil granules and toxic oxygen products"
+    ],
+    "correct": [
+      3
+    ],
+    "rationale": "Of the options available, only the components of neutrophil granules damage the tissue."
+  },
+  {
+    "id": 7,
+    "text": "In a type III hypersensitivity reaction, the harmful effects after the immune complexes that are deposited in tissues are a result of:",
+    "options": [
+      "Cytotoxic T cells",
+      "Complement activation",
+      "Natural killer cells",
+      "Degranulation of mast cells"
+    ],
+    "correct": [
+      2
+    ],
+    "rationale": "Complement activation, particularly through the generation of chemotactic factors for neutrophils, causes the harmful effects of immune complex deposition. The neutrophils bind to antibody and C3b containeNdUiRnStIhNeGcToBm.CpOleMxes and attempt to ingest the immune complexes. Type III hypersensitivity reactions as described are not the result of any of the other options."
+  },
+  {
+    "id": 8,
+    "text": "Raynaud phenomenon is classified as a type III hypersensitivity reaction and is due to:",
+    "options": [
+      "Immune complexes that are deposited in capillary beds, blocking circulation",
+      "Mast cells that are bound to specific endothelial receptors, causing them to degranulate and creating a localized inflammatory reaction that occludes capillary circulation",
+      "Cytotoxic T cells that attack and destroy the capillaries so that they are unable to perfuse local tissues",
+      "Antibodies that detect the capillaries as foreign protein and destroy them using lysosomal enzymes and toxic oxygen species"
+    ],
+    "correct": [
+      0
+    ],
+    "rationale": "Raynaud phenomenon is a condition caused by the temperature-dependent deposition of immune complexes in the capillary beds of the peripheral circulation. None of the other options are involved in causing this condition."
+  }
+]

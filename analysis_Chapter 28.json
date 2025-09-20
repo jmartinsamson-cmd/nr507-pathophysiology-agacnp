@@ -1,0 +1,451 @@
+{
+  "docx_questions": [
+    {
+      "id": 1,
+      "text": "What is the most abundant class of plasma protein?",
+      "options": [
+        "Globulin",
+        "Clotting factors",
+        "lbumin",
+        "Complement proteins"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 2,
+      "text": "What is the effect of low plasma albumin?",
+      "options": [
+        "lotting factors decrease, thus increasing the chance of prolonged bleeding.",
+        "Fewer immunoglobulins are synthesized, thus impairing the immune function.",
+        "Less iron is stored, thus increasing the incidence of iron deficiency anemia.",
+        "Osmotic pressure decreases, thus water moves from the capillaries to the interstitium."
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 3,
+      "text": "What is the life span of an erythrocyte (in days)?",
+      "options": [
+        "20 to 30",
+        "100 to 120",
+        "60 to 90",
+        "200 to 240"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 4,
+      "text": "Which statement concerning erythrocytes is true?",
+      "options": [
+        "Erythrocytes contain a nucleus, mitochondria, and ribosomes.",
+        "Erythrocytes synthesize proteins.",
+        "Erythrocytes have the ability to change shape to squeeze through microcirculation.",
+        "Erythrocyte colony-stimulating factor (E-CSF) stimulates erythrocytes."
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 5,
+      "text": "Which of the following are formed elements of the blood that are not cells but are disk-shaped cytoplasmic fragments essential for blood clotting?",
+      "options": [
+        "Monocytes",
+        "Macrophages",
+        "Platelets",
+        "Erythrocytes"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 6,
+      "text": "Without prior exposure to an antigen, which cells are able to destroy some types of tumor cells and some virus-infected cells?",
+      "options": [
+        "Lymphocytes",
+        "Megakaryocytes",
+        "Plasma cells",
+        "Natural killer (NK) cells"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 7,
+      "text": "What is the life span of platelets (in days)?",
+      "options": [
+        "10",
+        "90",
+        "30",
+        "120"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 8,
+      "text": "Fetal hematopoiesis occurs in which structure?",
+      "options": [
+        "Gut",
+        "Bone marrow",
+        "Spleen",
+        "Thymus"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 9,
+      "text": "What is the consequence of a splenectomy?",
+      "options": [
+        "The level of iron in circulation increases.",
+        "ntibody production increases to improve immune function.",
+        "The number of defective cells in circulation increases.",
+        "The number of clotting factors increases."
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 10,
+      "text": "During an infection, why do lymph nodes enlarge and become tender?",
+      "options": [
+        "lymphocytes proliferate.",
+        "The nodes are inflamed.",
+        "The nodes fill with purulent exudate.",
+        "The nodes are not properly functioning."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 11,
+      "text": "Which blood cells are the chief phagocytes involved in the early inflammation process?",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Monocytes",
+        "Erythrocytes"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 12,
+      "text": "Which blood cells are biconcave in shape and have the capacity to be reversibly deformed?",
+      "options": [
+        "Neutrophils",
+        "Eosinophils",
+        "Monocytes",
+        "Erythrocytes"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 13,
+      "text": "Which hemoglobin is made from oxidized ferric iron (Fe3+) and lacks the ability to bind oxygen?",
+      "options": [
+        "eoxyhemoglobin",
+        "Methemoglobin",
+        "Oxyhemoglobin",
+        "Glycosylated hemoglobin"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 14,
+      "text": "The absence of parietal cells would prevent the absorption of an essential nutrient necessary to prevent which type of anemia?",
+      "options": [
+        "Iron deficiency",
+        "Folic acid deficiency anemia",
+        "Pernicious anemia",
+        "Aplastic anemia"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 15,
+      "text": "Which nutrients are necessary for the synthesis of DNA and the maturation of erythrocytes?",
+      "options": [
+        "Protein and niacin",
+        "Cobalamin (vitamin B12) and folate",
+        "Iron and vitamin B6 (pyridoxine)",
+        "Pantothenic acid and vitamin C"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 16,
+      "text": "Which nutrients are necessary for hemoglobin synthesis?",
+      "options": [
+        "Protein and niacin",
+        "Cobalamin (vitamin B12) and folate",
+        "Iron and vitamin B6 (pyridoxine)",
+        "Pantothenic acid and vitamin C"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 17,
+      "text": "Recycling of iron from erythrocytes is made possible by which of the following?",
+      "options": [
+        "Transferrin",
+        "Apoferritin",
+        "Hemosiderin",
+        "Erythropoietin"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 18,
+      "text": "By which structure are mature erythrocytes removed from the bloodstream?",
+      "options": [
+        "Liver",
+        "Thymus",
+        "Lymph nodes",
+        "Spleen"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 19,
+      "text": "Which substance is used to correct the chronic anemia associated with chronic renal failure?",
+      "options": [
+        "Iron",
+        "Cobalamin (vitamin B12)",
+        "Erythropoietin",
+        "Folate"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 20,
+      "text": "What is the role of thromboxane A (TXA2) in the secretion stage of hemostasis?",
+      "options": [
+        "Stimulates the synthesis of serotonin.",
+        "Promotes vasodilation.",
+        "Stimulates platelet aggregation.",
+        "Promotes formation of cyclooxygenase."
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 21,
+      "text": "Which of the following is the role of nitric oxide (NO) in hemostasis?",
+      "options": [
+        "Stimulates the release of fibrinogen to maintain the platelet plug.",
+        "Stimulates the release of clotting factors V and VII.",
+        "auses vasoconstriction and stimulates platelet aggregation.",
+        "ontrols platelet activation through cyclic adenosine monophosphate (cAMP)\u2013mediated signaling."
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 22,
+      "text": "The drug heparin acts in hemostasis by which processes?",
+      "options": [
+        "Inhibiting thrombin and antithrombin III (AT-III)",
+        "Preventing the conversion of prothrombin to thrombin",
+        "Shortening the fibrin strands to retract the blood clot",
+        "egrading the fibrin within blood clots"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 23,
+      "text": "What is plasmin\u2019s role in the clotting process?",
+      "options": [
+        "Stimulates platelet aggregation.",
+        "Inhibits platelet adhesion and aggregation.",
+        "Prevents the conversion of prothrombin to degrade the fibrin within blood clots.",
+        "egrades the fibrin within blood clots."
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 24,
+      "text": "What does polycythemia at birth indicate?",
+      "options": [
+        "Hypoxia in utero",
+        "Congenitally absent spleen",
+        "ysfunctional bone marrow",
+        "Dehydration in utero"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 25,
+      "text": "Where are Kupffer cells located?",
+      "options": [
+        "Kidneys",
+        "Pancreas",
+        "Liver",
+        "Spleen"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 26,
+      "text": "Where are Langerhans cells found?",
+      "options": [
+        "Skin",
+        "Kidney",
+        "Intestinal lining",
+        "Thyroid"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 27,
+      "text": "What is the role of collagen in the clotting process?",
+      "options": [
+        "Initiates the clotting cascade.",
+        "Stimulates fibrin.",
+        "ctivates platelets.",
+        "Deactivates fibrinogen."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 28,
+      "text": "Which form of iron (Fe) can be used in the formation of normal hemoglobin?",
+      "options": [
+        "Fe+",
+        "Fe3+",
+        "Fe2+",
+        "Fe4+"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 29,
+      "text": "Where are alveolar macrophages found?",
+      "options": [
+        "Skin",
+        "Gastrointestinal tract",
+        "reasts",
+        "Lungs"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 30,
+      "text": "What changes to the hematologic system is related to age?",
+      "options": [
+        "Platelet adhesiveness decreases.",
+        "Lymphocyte function decreases.",
+        "ellular immunity increases.",
+        "Erythrocyte reproduction accelerates."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 31,
+      "text": "What is the function of erythrocytes?",
+      "options": [
+        "Tissue oxygenation",
+        "Infection control",
+        "Hemostasis",
+        "Allergy response"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    }
+  ],
+  "comparison_results": {
+    "total_docx": 31,
+    "total_json": 38,
+    "matches": 30,
+    "differences": [],
+    "missing_in_json": [
+      {
+        "id": 23,
+        "text": "What is plasmin\u2019s role in the clotting process?..."
+      }
+    ],
+    "extra_in_json": []
+  }
+}

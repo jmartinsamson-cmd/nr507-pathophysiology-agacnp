@@ -1,0 +1,285 @@
+{
+  "docx_questions": [
+    {
+      "id": 1,
+      "text": "What change is observed in leukocytes during an allergic disorder (type I hypersensitivity) often caused by asthma, hay fever, and drug reactions?",
+      "options": [
+        "Neutrophilia",
+        "Eosinophilia",
+        "asophilia",
+        "Monocytosis"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 2,
+      "text": "In infectious mononucleosis (IM), what does the Monospot test detect?",
+      "options": [
+        "Immunoglobulin E (IgE)",
+        "Immunoglobulin G (IgG)",
+        "Immunoglobulin M (IgM)",
+        "Immunoglobulin A (IgA)"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 3,
+      "text": "Which description is consistent with acute lymphocytic leukemia (ALL)?",
+      "options": [
+        "LL is a progressive neoplasm defined by the presence of greater than 30% lymphoblasts in the bone marrow or blood.",
+        "Leukocytosis and a predominance of blast cells characterize the bone marrow and peripheral blood. As the immature blasts increase, they replace normal myelocytic cells, megakaryocytes, and erythrocytes.",
+        "cells fail to mature into plasma cells that synthesize immunoglobulins.",
+        "The translocation of genetic material from genes 9 and 22 create an abnormal, fused gene identified as BCR-ABL."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 4,
+      "text": "Which description is consistent with chronic myelogenous leukemia (CML)?",
+      "options": [
+        "efects exist in the ras oncogene, TP53 tumor-suppressor gene, and INK4A, the gene encoding a cell-cycle regulatory protein.",
+        "Leukocytosis and a predominance of blast cells characterize the bone marrow and",
+        "peripheral blood. As the immature blasts increase, they replace normal myelocytic cells, megakaryocytes, and erythrocytes.",
+        "cells fail to mature into plasma cells that synthesize immunoglobulins."
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 5,
+      "text": "Which description is consistent with chronic lymphocytic leukemia (CLL)?",
+      "options": [
+        "efects exist in the ras oncogene, TP53 tumor-suppressor gene, and INK4A, the gene encoding a cell-cycle regulatory protein.",
+        "Leukocytosis and a predominance of blast cells characterize the bone marrow and peripheral blood. As the immature blasts increase, they replace normal myelocytic cells, megakaryocytes, and erythrocytes.",
+        "cells fail to mature into plasma cells that synthesize immunoglobulins.",
+        "The translocation of genetic material from genes 9 and 22 creates an abnormal, fused protein identified as BCR-ABL."
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 6,
+      "text": "Which electrolyte imbalance accompanies multiple myeloma (MM)?",
+      "options": [
+        "Hyperkalemia",
+        "Hyperphosphatemia",
+        "Hypercalcemia",
+        "Hypernatremia"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 7,
+      "text": "Reed-Sternberg (RS) cells represent malignant transformation and proliferation of which of the following?",
+      "options": [
+        "Interleukin (IL)\u20131, IL-2, IL-5, and IL-6",
+        "Tumor necrosis factor\u2013beta",
+        "cells",
+        "T cells"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 8,
+      "text": "Local signs and symptoms of Hodgkin disease\u2013related lymphadenopathy are a result of which of the following?",
+      "options": [
+        "Pressure and ischemia",
+        "Inflammation and ischemia",
+        "Pressure and obstruction",
+        "Inflammation and pressure"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 9,
+      "text": "Which virus is associated with Burkitt lymphoma in African children?",
+      "options": [
+        "ytomegalovirus",
+        "Human papillomavirus",
+        "denovirus",
+        "Epstein-Barr virus"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 10,
+      "text": "Which term is used to describe a red-purple discoloration caused by diffuse hemorrhage into the skin tissue?",
+      "options": [
+        "Petechiae",
+        "Ecchymosis",
+        "Hematoma",
+        "Purpura"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 11,
+      "text": "Which statement best describes heparin-induced thrombocytopenia (HIT)?",
+      "options": [
+        "Immunoglobulin G immune\u2013mediated adverse drug reaction that reduces circulating platelets",
+        "Hematologic reaction to heparin in which the bone marrow is unable to produce sufficient platelets to meet the body\u2019s needs",
+        "Immunoglobulin E\u2013mediated allergic drug reaction that reduces circulating platelets",
+        "ell-mediated drug reaction in which macrophages process the heparin and platelet complexes that are then destroyed by activated cytotoxic T cells."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 12,
+      "text": "What is the most common cause of vitamin K deficiency?",
+      "options": [
+        "dministration of warfarin (Coumadin)",
+        "Total parenteral nutrition with antibiotic therapy",
+        "n immunoglobulin G\u2013mediaNteUdRaSuINtoGimTBm.CuOneMdisorder d. Liver failure"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 13,
+      "text": "Which disorder is described as an unregulated release of thrombin with subsequent fibrin formation and accelerated fibrinolysis?",
+      "options": [
+        "isseminated intravascular coagulation (DIC)",
+        "Immune thrombocytopenic purpura (ITP)",
+        "Heparin-induced thrombocytopenia (HIT)",
+        "Essential thrombocythemia (ET)"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 14,
+      "text": "In disseminated intravascular coagulation (DIC), what activates the coagulation cascade?",
+      "options": [
+        "ytokines, such as platelet-activating factor (PAF), and tumor necrosis factor- alpha (TNF-\ud835\udefc)",
+        "Thromboxane A, causing platelets to aggregate and consume clotting factors",
+        "Tissue factor (TF) located in the endothelial layer of blood vessels and subcutaneous tissue",
+        "Endotoxins from gram-negative and gram-positive bacteria circulating in the bloodstream"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 15,
+      "text": "Which proinflammatory cytokines are responsible for the development and maintenance of disseminated intravascular coagulation (DIC)?",
+      "options": [
+        "Granulocyte colony-stimulating factor (G-CSF); interleukin (IL)\u20132, IL-4, and",
+        "IL-10; and tumor necrosis factor-gamma (IFN-",
+        ")",
+        ")"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 16,
+      "text": "In disseminated intravascular coagulation (DIC), what are the indications of microvascular thrombosis?",
+      "options": [
+        "Reduced amplitude in peripheral pulses",
+        "Symmetric cyanosis of fingers and toes",
+        "Numbness and tingling in fingers and toes",
+        "ilateral pallor and edema of fingers and toes"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 17,
+      "text": "Which of the following is characterized by what is referred to as pathognomonic pentad of symptoms?",
+      "options": [
+        "cute idiopathic thrombotic thrombocytopenic purpura",
+        "Essential (primary) thrombocythemia (ET)",
+        "Immune thrombocytopenic purpura (ITP)",
+        "Thrombotic thrombocytopenic purpura (TTP)"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 18,
+      "text": "Which statement relates to immune thrombocytopenic purpura (ITP)?",
+      "options": [
+        "ITP is formed in conditions of low flow and is made up of mostly red cells with larger amounts of fibrin and few platelets.",
+        "n alteration of multipotent stem cells, resulting in an excess production of platelets, causes ITP.",
+        "Mononuclear phagocytes in the spleen remove antibody-coated platelets from circulation.",
+        "rterial clots are made up of mostly platelet aggregates held together by fibrin strands."
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 19,
+      "text": "Hodgkin disease is characterized by the presence of which of the following?",
+      "options": [
+        "Philadelphia chromosome",
+        ".Microvascular thrombi",
+        "Virchow triad",
+        "Reed-Sternberg (RS) cells"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    }
+  ],
+  "comparison_results": {
+    "total_docx": 19,
+    "total_json": 30,
+    "matches": 19,
+    "differences": [
+      {
+        "question_id": 12,
+        "question_text": "What is the most common cause of vitamin K deficiency?...",
+        "differences": [
+          "Options count: DOCX=3, JSON=4"
+        ]
+      }
+    ],
+    "missing_in_json": [],
+    "extra_in_json": []
+  }
+}

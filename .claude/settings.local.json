@@ -18,7 +18,10 @@
       "Bash(node:*)",
       "Bash(for file in \"C:\\Users\\jsamb\\OneDrive\\Desktop\\Exampee\\data\"/*_questions.json)",
       "Bash(done)",
-      "Bash(run_server.bat)"
+      "Bash(run_server.bat)",
+      "mcp__ide__executeCode",
+      "Bash(for chapter in 30 32 34 35 37 38)",
+      "Bash(do echo \"=== Chapter $chapter ===\")"
     ],
     "deny": [],
     "ask": []

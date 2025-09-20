@@ -1,0 +1,554 @@
+{
+  "docx_questions": [
+    {
+      "id": 1,
+      "text": "What term is used to describe the capacity of some erythrocytes to vary in size, especially in relationship to some anemias?",
+      "options": [
+        "Poikilocytosis",
+        "Anisocytosis",
+        "Isocytosis",
+        "Microcytosis"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 2,
+      "text": "What is the fundamental physiologic manifestation of anemia?",
+      "options": [
+        "Hypotension",
+        "Hypoxia",
+        "Hyperesthesia",
+        "Ischemia"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 3,
+      "text": "The paresthesia that occurs in vitNamURinSIBN1G2TdBe.fCiOciMency anemia is a result of which of the following?",
+      "options": [
+        "Reduction in acetylcholine receptors in the postsynaptic nerves",
+        "Myelin degeneration in the spinal cord",
+        "estruction of myelin in peripheral nerves",
+        "ltered function of neurons in the parietal lobe"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 4,
+      "text": "Which of the following describes how the body compensates for anemia?",
+      "options": [
+        "Increasing rate and depth of breathing",
+        "ecreasing capillary vasoconstriction",
+        "Hemoglobin holding more firmly onto oxygen",
+        "Kidneys releasing more erythropoietin"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 5,
+      "text": "Which of the following is classified as a megaloblastic anemia?",
+      "options": [
+        "Iron deficiency",
+        "Sideroblastic",
+        "Pernicious",
+        "Hemolytic"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 6,
+      "text": "Deficiencies in folate and vitamin B12 alter the synthesis of which of the following?",
+      "options": [
+        "RNA",
+        "DNA",
+        "ell membrane",
+        "Mitochondria"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 7,
+      "text": "The underlying disorder of whichNaUneRmSIiNaGisTBa.CreOsMult of the defective secretion of the intrinsic factor, which is essential for the absorption of vitamin B12?",
+      "options": [
+        "Microcytic",
+        "Hypochromic",
+        "Pernicious",
+        "Hemolytic"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 8,
+      "text": "After a person has a subtotal gastrectomy for chronic gastritis, which type of anemia will result?",
+      "options": [
+        "Iron deficiency",
+        "Folic acid",
+        "plastic",
+        "Pernicious"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 9,
+      "text": "What causes the atrophy of gastric mucosal cells that result in pernicious anemia?",
+      "options": [
+        "Erythrocyte destruction",
+        "Vitamin B12 malabsorption",
+        "Folic acid malabsorption",
+        "Poor nutritional intake"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 10,
+      "text": "Which statement best describes a Schilling test?",
+      "options": [
+        "dministration of radioactive cobalamin and the measurement of its excretion in the urine to test for vitamin B12 deficiency",
+        "Measurement of antigen-antibody immune complexes in the blood to test for hemolytic anemia",
+        "Measurement of serum ferritin and total iron-binding capacity in the blood to test for iron deficiency anemia",
+        "dministration of folate and measurement in 2 hours of its level in a blood sample to test for folic acid deficiency anemia."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 11,
+      "text": "What is the treatment of choice for pernicious anemia (PA)?",
+      "options": [
+        "yanocobalamin by oral intak e",
+        "Vitamin B12 by injection",
+        "Ferrous fumarate by Z-track injection",
+        "Folate by oral intake"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 12,
+      "text": "Which condition resulting from untreated pernicious anemia (PA) is fatal?",
+      "options": [
+        "rain hypoxia",
+        "Heart failure",
+        "Liver hypoxia",
+        "Renal failure"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 13,
+      "text": "How is the effectiveness of vitamin B12 therapy measured?",
+      "options": [
+        "Reticulocyte count",
+        "Hemoglobin",
+        "Serum transferring",
+        "Serum vitamin B12"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 14,
+      "text": "Which statement about folic acid is false?",
+      "options": [
+        "Folic acid absorption is dependent on the enzyme folacin.",
+        "Folic acid is stored in the liver.",
+        "Folic acid is essential for RNA and DNA synthesis within erythrocytes.",
+        "Folic acid is absorbed in the upper small intestine."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 15,
+      "text": "Which anemia produces small, pale erythrocytes?",
+      "options": [
+        "Folic acid",
+        "Iron deficiency",
+        "Hemolytic",
+        "Pernicious"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 16,
+      "text": "Which type of anemia is characterized by fatigue, weakness, and dyspnea, as well as conjunctiva of the eyes and brittle, concave nails?",
+      "options": [
+        "Pernicious",
+        "Aplastic",
+        "Iron deficiency",
+        "Hemolytic"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 17,
+      "text": "What is the most common cause of iron deficiency anemia (IDA)?",
+      "options": [
+        "ecreased dietary intake",
+        "Vitamin deficiency",
+        "hronic blood loss",
+        "Autoimmune disease"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 18,
+      "text": "Continued therapy of pernicious anemia (PA) generally lasts how long?",
+      "options": [
+        "6 to 8 weeks",
+        "Until the iron level is normal",
+        "8 to 12 months",
+        "The rest of one\u2019s life"
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 19,
+      "text": "Sideroblastic anemia can occasionally result from an autosomal recessive transmission inherited from which relative?",
+      "options": [
+        "Mother",
+        "Grandfather",
+        "Father",
+        "Grandmother"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 20,
+      "text": "Clinical manifestations of mild-to-moderate splenomegaly and hepatomegaly, bronze-colored skin, and cardiac dysrhythmias are indicative of which anemia?",
+      "options": [
+        "Iron deficiency",
+        ".Sideroblastic",
+        "Pernicious",
+        "Aplastic"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 21,
+      "text": "Considering sideroblastic anemia, what would be the expected effect on the plasma iron levels?",
+      "options": [
+        "Plasma iron levels would be high.",
+        "Levels would be low.",
+        "Levels would be normal.",
+        "Levels would be only minimally affected."
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 22,
+      "text": "In aplastic anemia (AA), pancytopenia develops as a result of which of the following?",
+      "options": [
+        "Suppression of erythropoietin to produce adequate amounts of erythrocytes",
+        "Suppression of the bone marrow to produce adequate amounts of erythrocytes, leukocytes, and thrombocytes",
+        "Lack of DNA to form sufficient quantities of erythrocytes, leukocytes, and thrombocytes",
+        "Lack of stem cells to form sufficient quantities of leukocytes"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 23,
+      "text": "What is the most common pathophysiologic process that triggers aplastic anemia (AA)?",
+      "options": [
+        "utoimmune disease against hematopoiesis by activated cytotoxic T (Tc) cells",
+        "Malignancy of the bone marrow in which unregulated proliferation of erythrocytes crowd out other blood cells",
+        "utoimmune disease against hematopoiesis by activated immunoglobulins",
+        "Inherited genetic disorder with recessive X-linked transmission"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 24,
+      "text": "An allogenic bone marrow transplantation remains the preferred method for treating which anemia?",
+      "options": [
+        "Polycythemia vera",
+        "Sideroblastic",
+        "plastic",
+        "Anemia of chronic disease (ACD)"
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 25,
+      "text": "Which statement is true regarding warm autoimmune hemolytic anemia?",
+      "options": [
+        "Warm autoimmune hemolytic anemia occurs primarily in men.",
+        "It is self-limiting and rarely produces hemolysis.",
+        "Erythrocytes are bound to macrophages and sequestered in the spleen.",
+        "Immunoglobulin M coats erythrocytes and binds them to receptors on monocytes."
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 26,
+      "text": "When considering hemolytic anemia, which statement is true regarding the occurrence of jaundice?",
+      "options": [
+        "Erythrocytes are destroyed in the spleen.",
+        "Heme destruction exceeds the liver\u2019s ability to conjugate and excrete bilirubin.",
+        "The patient has elevations in aspartate transaminase (AST) and alanine transaminase (ALT).",
+        "The erythrocytes are coated with an immunoglobulin."
+      ],
+      "correct": [
+        1
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 27,
+      "text": "Erythrocyte life span of less than 120 days, ineffective bone marrow response to erythropoietin, and altered iron metabolism describe the pathophysiologic characteristics of which type of anemia?",
+      "options": [
+        "plastic",
+        "Anemia of chronic disease",
+        "Sideroblastic",
+        "Iron deficiency"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 28,
+      "text": "What is the primary cause of the symptoms of polycythemia vera?",
+      "options": [
+        "ecreased erythrocyte count",
+        "Increased blood viscosity",
+        "estruction of erythrocytes",
+        "Neurologic involvement"
+      ],
+      "correct": [
+        2
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 29,
+      "text": "Treatment for polycythemia vera involves which of the following?",
+      "options": [
+        "Therapeutic phlebotomy and radioactive phosphorus",
+        "Restoration of blood volume by plasma expanders",
+        "dministration of cyanocobalamin",
+        "lood transfusions"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 30,
+      "text": "Considering iron replacement therapy prescribed for iron deficiency anemia, who is likely to require long-term daily maintenance dosage?",
+      "options": [
+        "woman who has not yet experienced menopause",
+        "teenager who is involved in strenuous athletics",
+        "middle-aged man who smokes two packs of cigarettes a day",
+        "n older person demonstrating signs of dementia"
+      ],
+      "correct": [
+        0
+      ],
+      "rationale": "No rationale provided"
+    },
+    {
+      "id": 31,
+      "text": "Which statement is true regarding the physical manifestations of vitamin B12 deficiency anemia?",
+      "options": [
+        "Vitamin B12 deficiency anemia seldom results in neurologic symptoms.",
+        "The chances of a cure are good with appropriate treatment.",
+        "The condition is reversible in 75% of the cases.",
+        "Symptoms are a result of demyelination."
+      ],
+      "correct": [
+        3
+      ],
+      "rationale": "No rationale provided"
+    }
+  ],
+  "comparison_results": {
+    "total_docx": 31,
+    "total_json": 38,
+    "matches": 29,
+    "differences": [
+      {
+        "question_id": 1,
+        "question_text": "What term is used to describe the capacity of some erythrocytes to vary in size, especially in relat...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 2,
+        "question_text": "What is the fundamental physiologic manifestation of anemia?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 5,
+        "question_text": "Which of the following is classified as a megaloblastic anemia?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[3]"
+        ]
+      },
+      {
+        "question_id": 6,
+        "question_text": "Deficiencies in folate and vitamin B12 alter the synthesis of which of the following?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 8,
+        "question_text": "After a person has a subtotal gastrectomy for chronic gastritis, which type of anemia will result?...",
+        "differences": [
+          "Correct answer: DOCX=[3], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 12,
+        "question_text": "Which condition resulting from untreated pernicious anemia (PA) is fatal?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 15,
+        "question_text": "Which anemia produces small, pale erythrocytes?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 16,
+        "question_text": "Which type of anemia is characterized by fatigue, weakness, and dyspnea, as well as conjunctiva of t...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[0]"
+        ]
+      },
+      {
+        "question_id": 17,
+        "question_text": "What is the most common cause of iron deficiency anemia (IDA)?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[0]"
+        ]
+      },
+      {
+        "question_id": 18,
+        "question_text": "Continued therapy of pernicious anemia (PA) generally lasts how long?...",
+        "differences": [
+          "Correct answer: DOCX=[3], JSON=[2]"
+        ]
+      },
+      {
+        "question_id": 20,
+        "question_text": "Clinical manifestations of mild-to-moderate splenomegaly and hepatomegaly, bronze-colored skin, and ...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 24,
+        "question_text": "An allogenic bone marrow transplantation remains the preferred method for treating which anemia?...",
+        "differences": [
+          "Correct answer: DOCX=[1], JSON=[0]"
+        ]
+      },
+      {
+        "question_id": 27,
+        "question_text": "Erythrocyte life span of less than 120 days, ineffective bone marrow response to erythropoietin, and...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      },
+      {
+        "question_id": 28,
+        "question_text": "What is the primary cause of the symptoms of polycythemia vera?...",
+        "differences": [
+          "Correct answer: DOCX=[2], JSON=[1]"
+        ]
+      }
+    ],
+    "missing_in_json": [
+      {
+        "id": 3,
+        "text": "The paresthesia that occurs in vitNamURinSIBN1G2TdBe.fCiOciMency anemia is a result of which of the ..."
+      },
+      {
+        "id": 7,
+        "text": "The underlying disorder of whichNaUneRmSIiNaGisTBa.CreOsMult of the defective secretion of the intri..."
+      }
+    ],
+    "extra_in_json": []
+  }
+}
